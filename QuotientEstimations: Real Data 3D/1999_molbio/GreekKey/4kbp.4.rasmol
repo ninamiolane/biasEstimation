@@ -1,0 +1,112 @@
+#!rasmol -script
+# File: 4kbp.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "4kbp"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ALA26C
+color atoms [0,255,255]
+select PRO27C
+color atoms [0,255,255]
+select GLN28C
+color atoms [0,255,255]
+select HIS31C
+color atoms [0,255,255]
+select ILE32C
+color atoms [0,255,255]
+select THR33C
+color atoms [0,255,255]
+select ILE43C
+color atoms [0,255,255]
+select ILE44C
+color atoms [0,255,255]
+select SER45C
+color atoms [0,255,255]
+select TRP46C
+color atoms [0,255,255]
+select VAL47C
+color atoms [0,255,255]
+select VAL57C
+color atoms [0,255,255]
+select ARG58C
+color atoms [0,255,255]
+select TYR59C
+color atoms [0,255,255]
+select TRP60C
+color atoms [0,255,255]
+select LYS67C
+color atoms [0,255,255]
+select ARG68C
+color atoms [0,255,255]
+select ILE69C
+color atoms [0,255,255]
+select ALA70C
+color atoms [0,255,255]
+select HIS89C
+color atoms [0,255,255]
+select THR90C
+color atoms [0,255,255]
+select THR91C
+color atoms [0,255,255]
+select ILE92C
+color atoms [0,255,255]
+select LYS96C
+color atoms [0,255,255]
+select TYR97C
+color atoms [0,255,255]
+select ASN98C
+color atoms [0,255,255]
+select THR99C
+color atoms [0,255,255]
+select LYS100C
+color atoms [0,255,255]
+select TYR101C
+color atoms [0,255,255]
+select TYR102C
+color atoms [0,255,255]
+select TYR103C
+color atoms [0,255,255]
+select GLU104C
+color atoms [0,255,255]
+select VAL105C
+color atoms [0,255,255]
+select THR111C
+color atoms [0,255,255]
+select ARG112C
+color atoms [0,255,255]
+select SER115C
+color atoms [0,255,255]
+select PHE116C
+color atoms [0,255,255]
+select ILE117C
+color atoms [0,255,255]
+select THR118C
+color atoms [0,255,255]
+select all

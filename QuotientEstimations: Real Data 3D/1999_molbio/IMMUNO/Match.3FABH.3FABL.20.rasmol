@@ -1,0 +1,138 @@
+#!rasmol -script
+# File: Match.3FABH.3FABL.20.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.3FABH.3FABL.20"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select VAL2H
+color atoms [255,165,0]
+select PHE61L
+color atoms [0,255,255]
+select GLN3H
+color atoms [255,165,0]
+select SER62L
+color atoms [0,255,255]
+select LEU4H
+color atoms [255,165,0]
+select VAL63L
+color atoms [0,255,255]
+select GLU5H
+color atoms [255,165,0]
+select SER64L
+color atoms [0,255,255]
+select GLN6H
+color atoms [255,165,0]
+select LYS65L
+color atoms [0,255,255]
+select SER7H
+color atoms [255,165,0]
+select SER66L
+color atoms [0,255,255]
+select THR21H
+color atoms [255,165,0]
+select SER69L
+color atoms [0,255,255]
+select CYS22H
+color atoms [255,165,0]
+select ALA70L
+color atoms [0,255,255]
+select THR23H
+color atoms [255,165,0]
+select THR71L
+color atoms [0,255,255]
+select VAL24H
+color atoms [255,165,0]
+select LEU72L
+color atoms [0,255,255]
+select SER25H
+color atoms [255,165,0]
+select ALA73L
+color atoms [0,255,255]
+select TYR32H
+color atoms [255,165,0]
+select TYR85L
+color atoms [0,255,255]
+select TYR33H
+color atoms [255,165,0]
+select TYR86L
+color atoms [0,255,255]
+select SER34H
+color atoms [255,165,0]
+select CYS87L
+color atoms [0,255,255]
+select THR35H
+color atoms [255,165,0]
+select GLN88L
+color atoms [0,255,255]
+select TRP36H
+color atoms [255,165,0]
+select SER89L
+color atoms [0,255,255]
+select TYR50H
+color atoms [255,165,0]
+select PHE99L
+color atoms [0,255,255]
+select PHE52H
+color atoms [255,165,0]
+select GLY101L
+color atoms [0,255,255]
+select GLN77H
+color atoms [255,165,0]
+select SER21L
+color atoms [0,255,255]
+select PHE78H
+color atoms [255,165,0]
+select CYS22L
+color atoms [0,255,255]
+select SER79H
+color atoms [255,165,0]
+select THR23L
+color atoms [0,255,255]
+select LEU80H
+color atoms [255,165,0]
+select GLY24L
+color atoms [0,255,255]
+select TYR94H
+color atoms [255,165,0]
+select HIS31L
+color atoms [0,255,255]
+select CYS95H
+color atoms [255,165,0]
+select VAL32L
+color atoms [0,255,255]
+select ALA96H
+color atoms [255,165,0]
+select LYS33L
+color atoms [0,255,255]
+select ARG97H
+color atoms [255,165,0]
+select TRP34L
+color atoms [0,255,255]
+select all

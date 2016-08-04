@@ -1,0 +1,181 @@
+HEADER    DNA BINDING REGULATORY PROTEIN          04-DEC-87   1LRP      1LRP   3
+COMPND    LAMBDA REPRESSOR (N-TERMINAL DOMAIN)                          1LRP   4
+SOURCE    (LAMBDA)                                                      1LRP   5
+AUTHOR    C.PABO,M.LEWIS                                                1LRP   6
+REVDAT   1   09-JAN-89 1LRP    0                                        1LRP   7
+REMARK   1                                                              1LRP   8
+REMARK   1 REFERENCE 1                                                  1LRP   9
+REMARK   1  AUTH   D.H.OHLENDORF,W.F.ANDERSON,M.LEWIS,C.O.PABO,         1LRP  10
+REMARK   1  AUTH 2 B.W.MATTHEWS                                         1LRP  11
+REMARK   1  TITL   COMPARISON OF THE STRUCTURES OF CRO AND LAMBDA       1LRP  12
+REMARK   1  TITL 2 REPRESSOR PROTEINS FROM BACTERIOPHAGE LAMBDA         1LRP  13
+REMARK   1  REF    J.MOL.BIOL.                   V. 169   757 1983      1LRP  14
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1LRP  15
+REMARK   1 REFERENCE 2                                                  1LRP  16
+REMARK   1  AUTH   M.LEWIS,A.JEFFREY,J.WANG,R.LADNER,M.PTASHNE,         1LRP  17
+REMARK   1  AUTH 2 C.O.PABO                                             1LRP  18
+REMARK   1  TITL   STRUCTURE OF THE OPERATOR-BINDING DOMAIN OF          1LRP  19
+REMARK   1  TITL 2 BACTERIOPHAGE LAMBDA REPRESSOR. IMPLICATIONS FOR     1LRP  20
+REMARK   1  TITL 3 /DNA$ RECOGNITION AND GENE REGULATION                1LRP  21
+REMARK   1  REF    COLD SPRING HARBOR SYMP.      V.  47   435 1983      1LRP  22
+REMARK   1  REFN   ASTM CSHSAZ  US ISSN 0091-7451                  421  1LRP  23
+REMARK   1 REFERENCE 3                                                  1LRP  24
+REMARK   1  AUTH   R.T.SAUER,R.R.YOCUM,R.F.DOOLITTLE,M.LEWIS,C.O.PABO   1LRP  25
+REMARK   1  TITL   HOMOLOGY AMONG /DNA$-BINDING PROTEINS SUGGESTS USE   1LRP  26
+REMARK   1  TITL 2 OF A CONSERVED SUPER-SECONDARY STRUCTURE             1LRP  27
+REMARK   1  REF    NATURE                        V. 298   447 1982      1LRP  28
+REMARK   1  REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  1LRP  29
+REMARK   1 REFERENCE 4                                                  1LRP  30
+REMARK   1  AUTH   C.O.PABO,M.LEWIS                                     1LRP  31
+REMARK   1  TITL   THE OPERATOR-BINDING DOMAIN OF LAMBDA REPRESSOR.     1LRP  32
+REMARK   1  TITL 2 STRUCTURE AND /DNA$ RECOGNITION                      1LRP  33
+REMARK   1  REF    NATURE                        V. 298   443 1982      1LRP  34
+REMARK   1  REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  1LRP  35
+REMARK   1 REFERENCE 5                                                  1LRP  36
+REMARK   1  AUTH   C.O.PABO,W.KROVATIN,A.JEFFREY,R.T.SAUER              1LRP  37
+REMARK   1  TITL   THE N-TERMINAL ARMS OF LAMBDA REPRESSOR WRAP         1LRP  38
+REMARK   1  TITL 2 AROUND THE OPERATOR /DNA$                            1LRP  39
+REMARK   1  REF    NATURE                        V. 298   441 1982      1LRP  40
+REMARK   1  REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  1LRP  41
+REMARK   2                                                              1LRP  42
+REMARK   2 RESOLUTION. 3.20 ANGSTROMS.                                  1LRP  43
+REMARK   3                                                              1LRP  44
+REMARK   3 REFINEMENT. NONE.                                            1LRP  45
+REMARK   4                                                              1LRP  46
+REMARK   4 THE CRYSTALLOGRAPHIC ASYMMETRIC UNIT OF THIS MOLECULE        1LRP  47
+REMARK   4 CONSISTS OF A TRIMER RELATED BY A NONCRYSTALLOGRAPHIC        1LRP  48
+REMARK   4 SYMMETRY AXIS.  THE ORTHOGONAL AXES USED IN THIS ENTRY WERE  1LRP  49
+REMARK   4 CHOSEN TO SIMPLIFY THREE-FOLD AVERAGING AROUND THIS LOCAL    1LRP  50
+REMARK   4 SYMMETRY AXIS.  THE TRANSFORMATION PRESENTED ON THE          1LRP  51
+REMARK   4 *MTRIX 1* RECORDS BELOW WILL YIELD COORDINATES FOR THE       1LRP  52
+REMARK   4 SECOND MONOMER IN THE ASYMMETRIC UNIT WHEN APPLIED TO THE    1LRP  53
+REMARK   4 COORDINATES IN THIS ENTRY.  THE TRANSFORMATION PRESENTED ON  1LRP  54
+REMARK   4 THE *MTRIX 2* RECORDS BELOW WILL YIELD COORDINATES FOR THE   1LRP  55
+REMARK   4 THIRD MONOMER IN THE ASYMMETRIC UNIT WHEN APPLIED TO THE     1LRP  56
+REMARK   4 COORDINATES IN THIS ENTRY.                                   1LRP  57
+REMARK   5                                                              1LRP  58
+REMARK   5 THE REPRESSOR MOLECULE CONSISTS OF A DIMER, AND COORDINATES  1LRP  59
+REMARK   5 FOR THE SYMMETRY RELATED CHAIN CAN BE GENERATED FROM THE     1LRP  60
+REMARK   5 CHAIN PRESENTED IN THIS ENTRY BY                             1LRP  61
+REMARK   5       1.0       0.0       0.0            0.0                 1LRP  62
+REMARK   5       0.0      -1.0       0.0            0.0                 1LRP  63
+REMARK   5       0.0       0.0      -1.0            0.0                 1LRP  64
+SEQRES   1     92  SER THR LYS LYS LYS PRO LEU THR GLN GLU GLN LEU GLU  1LRP  65
+SEQRES   2     92  ASP ALA ARG ARG LEU LYS ALA ILE TYR GLU LYS LYS LYS  1LRP  66
+SEQRES   3     92  ASN GLU LEU GLY LEU SER GLN GLU SER VAL ALA ASP LYS  1LRP  67
+SEQRES   4     92  MET GLY MET GLY GLN SER GLY VAL GLY ALA LEU PHE ASN  1LRP  68
+SEQRES   5     92  GLY ILE ASN ALA LEU ASN ALA TYR ASN ALA ALA LEU LEU  1LRP  69
+SEQRES   6     92  ALA LYS ILE LEU LYS VAL SER VAL GLU GLU PHE SER PRO  1LRP  70
+SEQRES   7     92  SER ILE ALA ARG GLU ILE TYR GLU MET TYR GLU ALA VAL  1LRP  71
+SEQRES   8     92  SER                                                  1LRP  72
+HELIX    1  H1 GLN      9  GLU     23  1                                1LRP  73
+HELIX    2  H2 GLN     33  LYS     39  1                                1LRP  74
+HELIX    3  H3 GLN     44  ASN     52  1                                1LRP  75
+HELIX    4  H4 ASN     61  LEU     69  1                                1LRP  76
+HELIX    5  H5 SER     79  SER     92  1                                1LRP  77
+CRYST1   65.000   65.000  149.600  90.00  90.00 120.00 P 32 2 1     18  1LRP  78
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1LRP  79
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1LRP  80
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1LRP  81
+SCALE1     -0.015383 -0.008240  0.003330       -0.71011                 1LRP  82
+SCALE2     -0.015384  0.008228 -0.003331       -0.71005                 1LRP  83
+SCALE3      0.000001 -0.002506 -0.006196       -0.00002                 1LRP  84
+MTRIX1   1 -0.496275 -0.830170  0.254270       13.15542                 1LRP  85
+MTRIX2   1  0.774128 -0.290628  0.562424       28.28864                 1LRP  86
+MTRIX3   1 -0.392908  0.475870  0.786930      -10.70246                 1LRP  87
+MTRIX1   2 -0.496343  0.774198 -0.392954      -19.57638                 1LRP  88
+MTRIX2   2 -0.830070 -0.290663  0.475974       24.23215                 1LRP  89
+MTRIX3   2  0.254303  0.562164  0.786930      -10.82593                 1LRP  90
+ATOM     24  CA  LYS     4      16.027  10.485   1.752  1.00  0.00      1LRP  91
+ATOM     33  CA  LYS     5      13.393  12.475  -0.117  1.00  0.00      1LRP  92
+ATOM     42  CA  PRO     6      11.390  14.223   2.589  1.00  0.00      1LRP  93
+ATOM     49  CA  LEU     7       7.865  13.957   3.983  1.00  0.00      1LRP  94
+ATOM     57  CA  THR     8       5.111  16.156   2.576  1.00  0.00      1LRP  95
+ATOM     64  CA  GLN     9       3.046  18.761   4.417  1.00  0.00      1LRP  96
+ATOM     73  CA  GLU    10       0.002  16.536   4.885  1.00  0.00      1LRP  97
+ATOM     82  CA  GLN    11       1.429  13.137   5.789  1.00  0.00      1LRP  98
+ATOM     91  CA  LEU    12       3.303  15.028   8.498  1.00  0.00      1LRP  99
+ATOM     99  CA  GLU    13      -0.014  16.680   9.379  1.00  0.00      1LRP 100
+ATOM    108  CA  ASP    14      -1.779  13.315   9.388  1.00  0.00      1LRP 101
+ATOM    116  CA  ALA    15       0.976  11.899  11.586  1.00  0.00      1LRP 102
+ATOM    121  CA  ARG    16       1.032  14.773  14.071  1.00  0.00      1LRP 103
+ATOM    132  CA  ARG    17      -2.636  13.852  14.441  1.00  0.00      1LRP 104
+ATOM    143  CA  LEU    18      -2.153  10.262  15.548  1.00  0.00      1LRP 105
+ATOM    151  CA  LYS    19       0.085  11.272  18.449  1.00  0.00      1LRP 106
+ATOM    160  CA  ALA    20      -2.827  13.431  19.337  1.00  0.00      1LRP 107
+ATOM    165  CA  ILE    21      -5.391  10.708  18.671  1.00  0.00      1LRP 108
+ATOM    173  CA  TYR    22      -2.975   8.409  20.492  1.00  0.00      1LRP 109
+ATOM    185  CA  GLU    23      -3.542  10.687  23.479  1.00  0.00      1LRP 110
+ATOM    194  CA  LYS    24      -7.247  11.490  23.343  1.00  0.00      1LRP 111
+ATOM    203  CA  LYS    25      -6.671   7.736  23.240  1.00  0.00      1LRP 112
+ATOM    212  CA  LYS    26      -4.175   5.323  24.786  1.00  0.00      1LRP 113
+ATOM    221  CA  ASN    27      -5.621   4.841  28.260  1.00  0.00      1LRP 114
+ATOM    229  CA  GLU    28      -9.356   4.381  27.794  1.00  0.00      1LRP 115
+ATOM    238  CA  LEU    29      -8.272   1.718  25.320  1.00  0.00      1LRP 116
+ATOM    246  CA  GLY    30      -4.749   0.689  26.307  1.00  0.00      1LRP 117
+ATOM    250  CA  LEU    31      -2.149   1.049  23.562  1.00  0.00      1LRP 118
+ATOM    258  CA  SER    32       1.204   2.768  23.992  1.00  0.00      1LRP 119
+ATOM    264  CA  GLN    33       3.683   1.733  21.312  1.00  0.00      1LRP 120
+ATOM    273  CA  GLU    34       4.108  -1.693  22.477  1.00  0.00      1LRP 121
+ATOM    282  CA  SER    35       0.518  -2.933  22.614  1.00  0.00      1LRP 122
+ATOM    288  CA  VAL    36       0.088  -1.759  19.025  1.00  0.00      1LRP 123
+ATOM    295  CA  ALA    37       3.173  -3.552  17.718  1.00  0.00      1LRP 124
+ATOM    300  CA  ASP    38       2.243  -7.028  18.942  1.00  0.00      1LRP 125
+ATOM    308  CA  LYS    39      -0.567  -5.133  17.397  1.00  0.00      1LRP 126
+ATOM    317  CA  MET    40       0.812  -4.382  13.982  1.00  0.00      1LRP 127
+ATOM    325  CA  GLY    41       3.259  -7.218  14.401  1.00  0.00      1LRP 128
+ATOM    329  CA  MET    42       6.239  -5.080  13.428  1.00  0.00      1LRP 129
+ATOM    337  CA  GLY    43       8.401  -3.179  15.907  1.00  0.00      1LRP 130
+ATOM    341  CA  GLN    44       9.317  -0.963  18.789  1.00  0.00      1LRP 131
+ATOM    350  CA  SER    45      10.877   1.199  16.091  1.00  0.00      1LRP 132
+ATOM    356  CA  GLY    46       8.330   1.421  13.289  1.00  0.00      1LRP 133
+ATOM    360  CA  VAL    47       5.170   2.751  14.958  1.00  0.00      1LRP 134
+ATOM    367  CA  GLY    48       6.841   5.596  16.844  1.00  0.00      1LRP 135
+ATOM    371  CA  ALA    49       8.174   7.039  13.590  1.00  0.00      1LRP 136
+ATOM    376  CA  LEU    50       4.737   6.830  11.984  1.00  0.00      1LRP 137
+ATOM    384  CA  PHE    51       3.351   8.720  14.974  1.00  0.00      1LRP 138
+ATOM    395  CA  ASN    52       6.457  10.889  15.241  1.00  0.00      1LRP 139
+ATOM    403  CA  GLY    53       6.687  11.547  11.512  1.00  0.00      1LRP 140
+ATOM    407  CA  ILE    54       9.961  10.212  10.123  1.00  0.00      1LRP 141
+ATOM    415  CA  ASN    55       8.165   7.450   8.233  1.00  0.00      1LRP 142
+ATOM    423  CA  ALA    56       5.111   7.690   5.985  1.00  0.00      1LRP 143
+ATOM    428  CA  LEU    57       1.680   6.740   7.310  1.00  0.00      1LRP 144
+ATOM    436  CA  ASN    58       1.517   4.953   3.987  1.00  0.00      1LRP 145
+ATOM    444  CA  ALA    59      -1.650   3.020   3.199  1.00  0.00      1LRP 146
+ATOM    449  CA  TYR    60      -2.083  -0.587   4.178  1.00  0.00      1LRP 147
+ATOM    461  CA  ASN    61      -1.575   0.996   7.567  1.00  0.00      1LRP 148
+ATOM    469  CA  ALA    62      -3.962   3.863   8.109  1.00  0.00      1LRP 149
+ATOM    474  CA  ALA    63      -6.518   0.802   8.516  1.00  0.00      1LRP 150
+ATOM    479  CA  LEU    64      -4.503  -1.147  11.075  1.00  0.00      1LRP 151
+ATOM    487  CA  LEU    65      -4.597   2.141  13.190  1.00  0.00      1LRP 152
+ATOM    495  CA  ALA    66      -8.130   3.474  12.785  1.00  0.00      1LRP 153
+ATOM    500  CA  LYS    67      -9.328  -0.047  13.534  1.00  0.00      1LRP 154
+ATOM    509  CA  ILE    68      -6.798  -0.395  16.340  1.00  0.00      1LRP 155
+ATOM    517  CA  LEU    69      -7.184   2.937  18.051  1.00  0.00      1LRP 156
+ATOM    525  CA  LYS    70     -10.824   2.932  16.986  1.00  0.00      1LRP 157
+ATOM    534  CA  VAL    71     -11.079   5.686  14.400  1.00  0.00      1LRP 158
+ATOM    541  CA  SER    72     -11.674   6.876  10.862  1.00  0.00      1LRP 159
+ATOM    547  CA  VAL    73      -8.736   6.706   8.468  1.00  0.00      1LRP 160
+ATOM    554  CA  GLU    74     -10.429  10.003   7.630  1.00  0.00      1LRP 161
+ATOM    563  CA  GLU    75      -9.676  11.713  10.938  1.00  0.00      1LRP 162
+ATOM    572  CA  PHE    76      -5.954  12.117  10.303  1.00  0.00      1LRP 163
+ATOM    583  CA  SER    77      -5.462  11.370   6.322  1.00  0.00      1LRP 164
+ATOM    589  CA  PRO    78      -7.608  12.574   3.436  1.00  0.00      1LRP 165
+ATOM    596  CA  SER    79      -5.096  10.928   1.119  1.00  0.00      1LRP 166
+ATOM    602  CA  ILE    80      -4.068   7.606   2.643  1.00  0.00      1LRP 167
+ATOM    610  CA  ALA    81      -8.507   7.539   3.241  1.00  0.00      1LRP 168
+ATOM    615  CA  ARG    82      -9.479   8.516  -0.287  1.00  0.00      1LRP 169
+ATOM    626  CA  GLU    83      -7.078   6.046  -1.894  1.00  0.00      1LRP 170
+ATOM    635  CA  ILE    84      -8.775   3.154  -0.106  1.00  0.00      1LRP 171
+ATOM    643  CA  TYR    85     -12.184   4.366  -1.271  1.00  0.00      1LRP 172
+ATOM    655  CA  GLU    86     -10.924   4.633  -4.847  1.00  0.00      1LRP 173
+ATOM    664  CA  MET    87      -9.509   1.110  -4.666  1.00  0.00      1LRP 174
+ATOM    672  CA  TYR    88     -12.813  -0.205  -3.326  1.00  0.00      1LRP 175
+ATOM    684  CA  GLU    89     -14.701   1.534  -6.129  1.00  0.00      1LRP 176
+ATOM    693  CA  ALA    90     -12.341   0.048  -8.711  1.00  0.00      1LRP 177
+ATOM    698  CA  VAL    91     -12.813  -3.417  -7.223  1.00  0.00      1LRP 178
+ATOM    705  CA  SER    92     -16.589  -2.998  -7.313  1.00  0.00      1LRP 179
+TER     711      SER    92                                              1LRP 180
+MASTER       57    0    0    5    0    0    0   12   89    1    0    8  1LRP 181
+END                                                                     1LRP 182
+.

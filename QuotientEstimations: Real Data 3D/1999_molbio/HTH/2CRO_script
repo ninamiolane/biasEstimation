@@ -1,0 +1,15 @@
+backbone 0.2
+background white
+connect true
+spacefill 0.2
+
+select 15-36
+color orange
+connect false 
+spacefill 0
+
+
+set ambient 60
+set specular on
+set shadow on 
+

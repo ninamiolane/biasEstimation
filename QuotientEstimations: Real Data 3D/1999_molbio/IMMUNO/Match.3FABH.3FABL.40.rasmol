@@ -1,0 +1,102 @@
+#!rasmol -script
+# File: Match.3FABH.3FABL.40.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.3FABH.3FABL.40"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select LEU142H
+color atoms [255,165,0]
+select HIS31L
+color atoms [0,255,255]
+select GLY143H
+color atoms [255,165,0]
+select VAL32L
+color atoms [0,255,255]
+select CYS144H
+color atoms [255,165,0]
+select LYS33L
+color atoms [0,255,255]
+select LEU145H
+color atoms [255,165,0]
+select TRP34L
+color atoms [0,255,255]
+select VAL146H
+color atoms [255,165,0]
+select TYR35L
+color atoms [0,255,255]
+select HIS168H
+color atoms [255,165,0]
+select VAL98L
+color atoms [0,255,255]
+select THR169H
+color atoms [255,165,0]
+select PHE99L
+color atoms [0,255,255]
+select PHE170H
+color atoms [255,165,0]
+select GLY100L
+color atoms [0,255,255]
+select VAL173H
+color atoms [255,165,0]
+select THR103L
+color atoms [0,255,255]
+select LEU174H
+color atoms [255,165,0]
+select LYS104L
+color atoms [0,255,255]
+select GLN175H
+color atoms [255,165,0]
+select LEU105L
+color atoms [0,255,255]
+select TYR180H
+color atoms [255,165,0]
+select ASP84L
+color atoms [0,255,255]
+select SER181H
+color atoms [255,165,0]
+select TYR85L
+color atoms [0,255,255]
+select LEU182H
+color atoms [255,165,0]
+select TYR86L
+color atoms [0,255,255]
+select SER183H
+color atoms [255,165,0]
+select CYS87L
+color atoms [0,255,255]
+select SER184H
+color atoms [255,165,0]
+select GLN88L
+color atoms [0,255,255]
+select VAL185H
+color atoms [255,165,0]
+select SER89L
+color atoms [0,255,255]
+select all

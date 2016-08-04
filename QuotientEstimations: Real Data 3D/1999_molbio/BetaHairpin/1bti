@@ -1,0 +1,647 @@
+<META name="description" content="send-pdb 1.1.3 by Prilusky, 1996,1997,1998">
+<BODY BGCOLOR="#FFFFFF"><pre><HTML><TITLE>PDB Full entry for 1BTI</TITLE><base href="http://pdb.ccdc.cam.ac.uk">HEADER    SERINE PROTEASE INHIBITOR               11-JUL-91   1BTI      1BTI   2
+COMPND    BOVINE PANCREATIC TRYPSIN INHIBITOR (BPTI) MUTANT WITH        1BTI   3
+COMPND   2 PHE 22 REPLACED BY ALA (F22A)                                1BTI   4
+SOURCE    BOVINE (BOS TAURUS) PANCREAS                                  1BTI   5
+AUTHOR    D.HOUSSET,F.TAO,K.-*S.KIM,J.FUCHS,C.WOODWARD,A.WLODAWER       1BTI   6
+REVDAT   1   31-OCT-93 1BTI    0                                        1BTI   7
+JRNL        AUTH   A.T.DANISHEFSKY,D.HOUSSET,K.-*S.KIM,F.TAO,J.FUCHS,   1BTI   8
+JRNL        AUTH 2 C.WOODWARD,A.WLODAWER                                1BTI   9
+JRNL        TITL   CREVICE-FORMING MUTANTS IN THE RIGID CORE OF BOVINE  1BTI  10
+JRNL        TITL 2 PANCREATIC TRYPSIN INHIBITOR: CRYSTAL STRUCTURES OF  1BTI  11
+JRNL        TITL 3 /F22A$, /Y23A$, /N43G$, AND /F45A$                   1BTI  12
+JRNL        <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=93299370">REF</A>    PROTEIN SCI.                  V.   2   577 1993      1BTI  13
+JRNL        REFN                US ISSN 0961-8368                  795  1BTI  14
+REMARK   1                                                              1BTI  15
+REMARK   1 REFERENCE 1                                                  1BTI  16
+REMARK   1  AUTH   K.-*S.KIM.F.TAO,J.FUCHS,A.T.DANISHEFSKY,D.HOUSSET,   1BTI  17
+REMARK   1  AUTH 2 A.WLODAWER,C.WOODWARD                                1BTI  18
+REMARK   1  TITL   CREVICE-FORMING MUTANTS OF BOVINE PANCREATIC         1BTI  19
+REMARK   1  TITL 2 TRYPSIN INHIBITOR: STABILITY CHANGES AND NEW         1BTI  20
+REMARK   1  TITL 3 HYDROPHOBIC SURFACE                                  1BTI  21
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=93299371">REF</A>    PROTEIN SCI.                  V.   2   588 1993      1BTI  22
+REMARK   1  REFN                US ISSN 0961-8368                  795  1BTI  23
+REMARK   1 REFERENCE 2                                                  1BTI  24
+REMARK   1  AUTH   D.HOUSSET,K.-*S.KIM,J.FUCHS,C.WOODWARD,A.WLODAWER    1BTI  25
+REMARK   1  TITL   CRYSTAL STRUCTURE OF A /Y35G$ MUTANT OF BOVINE       1BTI  26
+REMARK   1  TITL 2 PANCREATIC TRYPSIN INHIBITOR                         1BTI  27
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=91332906">REF</A>    J.MOL.BIOL.                   V. 220   757 1991      1BTI  28
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1BTI  29
+REMARK   1 REFERENCE 3                                                  1BTI  30
+REMARK   1  AUTH   C.EIGENBROT,M.RANDAL,A.A.KOSSIAKOFF                  1BTI  31
+REMARK   1  TITL   STRUCTURAL EFFECTS INDUCED BY REMOVAL OF A           1BTI  32
+REMARK   1  TITL 2 DISULFIDE-BRIDGE. THE X-RAY STRUCTURE OF THE         1BTI  33
+REMARK   1  TITL 3 /C30A(SLASH)C51A$ MUTANT OF BASIC PANCREATIC         1BTI  34
+REMARK   1  TITL 4 TRYPSIN INHIBITOR AT 1.6 ANGSTROMS                   1BTI  35
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=91017454">REF</A>    PROTEIN ENG.                  V.   3   591 1990      1BTI  36
+REMARK   1  REFN   ASTM PRENE9  UK ISSN 0269-2139                  859  1BTI  37
+REMARK   1 REFERENCE 4                                                  1BTI  38
+REMARK   1  AUTH   T.R.HYNES,M.RANDAL,L.A.KENNEDY,C.EIGENBROT,          1BTI  39
+REMARK   1  AUTH 2 A.A.KOSSIAKOFF                                       1BTI  40
+REMARK   1  TITL   X-RAY CRYSTAL STRUCTURE OF THE PROTEASE INHIBITOR    1BTI  41
+REMARK   1  TITL 2 DOMAIN OF ALZHEIMER'S AMYLOID BETA-*PROTEIN          1BTI  42
+REMARK   1  TITL 3 PRECURSOR                                            1BTI  43
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=91104913">REF</A>    BIOCHEMISTRY                  V.  29 10018 1990      1BTI  44
+REMARK   1  REFN   ASTM BICHAW  US ISSN 0006-2960                  033  1BTI  45
+REMARK   1 REFERENCE 5                                                  1BTI  46
+REMARK   1  AUTH   A.WLODAWER,J.NACHMAN,G.L.GILLILAND,W.GALLAGHER,      1BTI  47
+REMARK   1  AUTH 2 C.WOODWARD                                           1BTI  48
+REMARK   1  TITL   STRUCTURE OF FORM /III$ CRYSTALS OF BOVINE           1BTI  49
+REMARK   1  TITL 2 PANCREATIC TRYPSIN INHIBITOR                         1BTI  50
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=88118944">REF</A>    J.MOL.BIOL.                   V. 198   469 1987      1BTI  51
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1BTI  52
+REMARK   1 REFERENCE 6                                                  1BTI  53
+REMARK   1  AUTH   A.WLODAWER,J.DEISENHOFER,R.HUBER                     1BTI  54
+REMARK   1  TITL   COMPARISON OF TWO HIGHLY REFINED STRUCTURES OF       1BTI  55
+REMARK   1  TITL 2 BOVINE PANCREATIC TRYPSIN INHIBITOR                  1BTI  56
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=87226182">REF</A>    J.MOL.BIOL.                   V. 193   145 1987      1BTI  57
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1BTI  58
+REMARK   1 REFERENCE 7                                                  1BTI  59
+REMARK   1  AUTH   A.WLODAWER,J.WALTER,R.HUBER,L.SJOLIN                 1BTI  60
+REMARK   1  TITL   STRUCTURE OF BOVINE PANCREATIC TRYPSIN INHIBITOR.    1BTI  61
+REMARK   1  TITL 2 RESULTS OF JOINT NEUTRON AND X-RAY REFINEMENT OF     1BTI  62
+REMARK   1  TITL 3 CRYSTAL FORM /II$                                    1BTI  63
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=85083086">REF</A>    J.MOL.BIOL.                   V. 180   301 1984      1BTI  64
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1BTI  65
+REMARK   1 REFERENCE 8                                                  1BTI  66
+REMARK   1  AUTH   J.WALTER,R.HUBER                                     1BTI  67
+REMARK   1  TITL   PANCREATIC TRYPSIN INHIBITOR. A NEW CRYSTAL FORM     1BTI  68
+REMARK   1  TITL 2 AND ITS ANALYSIS                                     1BTI  69
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=83268699">REF</A>    J.MOL.BIOL.                   V. 167   911 1983      1BTI  70
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1BTI  71
+REMARK   2                                                              1BTI  72
+REMARK   2 RESOLUTION. 2.2  ANGSTROMS.                                  1BTI  73
+REMARK   3                                                              1BTI  74
+REMARK   3 REFINEMENT.                                                  1BTI  75
+REMARK   3   PROGRAM                    X-PLOR                          1BTI  76
+REMARK   3   AUTHORS                    BRUNGER                         1BTI  77
+REMARK   3   R VALUE                    0.172                           1BTI  78
+REMARK   3                                                              1BTI  79
+REMARK   3   NUMBER OF REFLECTIONS      2410                            1BTI  80
+REMARK   3   RESOLUTION RANGE      10.0 - 2.20 ANGSTROMS                1BTI  81
+REMARK   3   PERCENT COMPLETION         94.                             1BTI  82
+REMARK   3                                                              1BTI  83
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES (THE VALUES OF             1BTI  84
+REMARK   3      SIGMA, IN PARENTHESES, ARE THE INPUT ESTIMATED          1BTI  85
+REMARK   3      STANDARD DEVIATIONS THAT DETERMINE THE RELATIVE         1BTI  86
+REMARK   3      WEIGHTS OF THE CORRESPONDING RESTRAINTS)                1BTI  87
+REMARK   3    DISTANCE RESTRAINTS (ANGSTROMS)                           1BTI  88
+REMARK   3      BOND DISTANCE                            0.017(0.02)    1BTI  89
+REMARK   3      ANGLE DISTANCE                           0.059(0.03)    1BTI  90
+REMARK   3      PLANAR 1-4 DISTANCE                      0.033(0.02)    1BTI  91
+REMARK   3    CHIRAL-CENTER RESTRAINT (ANGSTROMS**3)     0.138(0.15)    1BTI  92
+REMARK   4                                                              1BTI  93
+REMARK   4 THE NOMENCLATURE OF THE WATER MOLECULES IS THAT OF THE       1BTI  94
+REMARK   4 DEPOSITORS.                                                  1BTI  95
+SEQRES   1     58  ARG PRO ASP PHE CYS LEU GLU PRO PRO TYR THR GLY PRO  1BTI  96
+SEQRES   2     58  CYS LYS ALA ARG ILE ILE ARG TYR ALA TYR ASN ALA LYS  1BTI  97
+SEQRES   3     58  ALA GLY LEU CYS GLN THR PHE VAL TYR GLY GLY CYS ARG  1BTI  98
+SEQRES   4     58  ALA LYS ARG ASN ASN PHE LYS SER ALA GLU ASP CYS MET  1BTI  99
+SEQRES   5     58  ARG THR CYS GLY GLY ALA                              1BTI 100
+FORMUL   2  HOH   *48(H2 O1)                                            1BTI 101
+HELIX    1  H1 PRO      2  GLU      7  5 ALL DONORS,ACCEPTORS INCLUDED  1BTI 102
+HELIX    2  H2 SER     47  GLY     56  1 ALL DONORS,ACCEPTORS INCLUDED  1BTI 103
+SHEET    1  S1 3 LEU    29  TYR    35  0                                1BTI 104
+SHEET    2  S1 3 ILE    18  ASN    24 -1  N  ILE    18   O  TYR    35   1BTI 105
+SHEET    3  S1 3 PHE    45  PHE    45 -1  N  PHE    45   O  TYR    21   1BTI 106
+SSBOND   1 CYS      5    CYS     55                                     1BTI 107
+SSBOND   2 CYS     14    CYS     38                                     1BTI 108
+SSBOND   3 CYS     30    CYS     51                                     1BTI 109
+CRYST1   69.120   22.210   28.710  90.00  90.00  90.00 P 21 21 21    4  1BTI 110
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1BTI 111
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1BTI 112
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1BTI 113
+SCALE1      0.014468  0.000000  0.000000        0.00000                 1BTI 114
+SCALE2      0.000000  0.045025  0.000000        0.00000                 1BTI 115
+SCALE3      0.000000  0.000000  0.034831        0.00000                 1BTI 116
+ATOM      1  N   ARG     1      29.411  13.571 -12.388  1.00 27.66      1BTI 117
+ATOM      2  CA  ARG     1      29.130  12.765 -11.212  1.00 27.90      1BTI 118
+ATOM      3  C   ARG     1      30.464  12.033 -11.010  1.00 28.53      1BTI 119
+ATOM      4  O   ARG     1      30.998  11.405 -11.944  1.00 30.10      1BTI 120
+ATOM      5  CB AARG     1      27.975  11.729 -11.465  0.50 27.40      1BTI 121
+ATOM      6  CB BARG     1      27.941  11.858 -11.556  0.50 25.76      1BTI 122
+ATOM      7  CG AARG     1      28.273  10.278 -11.915  0.50 26.95      1BTI 123
+ATOM      8  CG BARG     1      27.891  10.346 -11.353  0.50 23.03      1BTI 124
+ATOM      9  CD AARG     1      27.196   9.719 -12.837  0.50 28.17      1BTI 125
+ATOM     10  CD BARG     1      26.523   9.918 -11.877  0.50 20.48      1BTI 126
+ATOM     11  NE AARG     1      27.752   8.903 -13.920  0.50 27.23      1BTI 127
+ATOM     12  NE BARG     1      26.331  10.317 -13.266  0.50 18.97      1BTI 128
+ATOM     13  CZ AARG     1      28.343   9.431 -15.005  0.50 27.45      1BTI 129
+ATOM     14  CZ BARG     1      25.178  10.729 -13.779  0.50 16.17      1BTI 130
+ATOM     15  NH1AARG     1      28.479  10.742 -15.190  0.50 27.90      1BTI 131
+ATOM     16  NH1BARG     1      24.082  10.807 -13.071  0.50 14.85      1BTI 132
+ATOM     17  NH2AARG     1      28.795   8.637 -15.962  0.50 28.46      1BTI 133
+ATOM     18  NH2BARG     1      25.133  11.140 -15.031  0.50 17.80      1BTI 134
+ATOM     19  N   PRO     2      31.102  12.199  -9.847  1.00 27.37      1BTI 135
+ATOM     20  CA  PRO     2      32.355  11.546  -9.545  1.00 25.85      1BTI 136
+ATOM     21  C   PRO     2      32.242  10.068  -9.252  1.00 24.77      1BTI 137
+ATOM     22  O   PRO     2      31.332   9.663  -8.535  1.00 25.03      1BTI 138
+ATOM     23  CB  PRO     2      32.894  12.333  -8.374  1.00 28.55      1BTI 139
+ATOM     24  CG  PRO     2      31.985  13.548  -8.151  1.00 28.51      1BTI 140
+ATOM     25  CD  PRO     2      30.687  13.131  -8.792  1.00 27.29      1BTI 141
+ATOM     26  N   ASP     3      33.246   9.299  -9.718  1.00 22.50      1BTI 142
+ATOM     27  CA  ASP     3      33.497   7.855  -9.500  1.00 20.64      1BTI 143
+ATOM     28  C   ASP     3      32.951   7.233  -8.190  1.00 18.11      1BTI 144
+ATOM     29  O   ASP     3      32.398   6.118  -8.189  1.00 16.56      1BTI 145
+ATOM     30  CB AASP     3      35.027   7.619  -9.579  0.50 22.08      1BTI 146
+ATOM     31  CB BASP     3      35.010   7.622  -9.543  0.50 24.25      1BTI 147
+ATOM     32  CG AASP     3      35.645   6.206  -9.507  0.50 23.40      1BTI 148
+ATOM     33  CG BASP     3      35.833   8.211 -10.703  0.50 26.97      1BTI 149
+ATOM     34  OD1AASP     3      35.531   5.540  -8.469  0.50 24.46      1BTI 150
+ATOM     35  OD1BASP     3      35.930   9.436 -10.851  0.50 29.01      1BTI 151
+ATOM     36  OD2AASP     3      36.296   5.787 -10.479  0.50 22.35      1BTI 152
+ATOM     37  OD2BASP     3      36.431   7.426 -11.436  0.50 29.35      1BTI 153
+ATOM     38  N   PHE     4      33.102   7.854  -7.018  1.00 13.08      1BTI 154
+ATOM     39  CA  PHE     4      32.624   7.234  -5.767  1.00 10.78      1BTI 155
+ATOM     40  C   PHE     4      31.113   7.238  -5.638  1.00 10.56      1BTI 156
+ATOM     41  O   PHE     4      30.585   6.536  -4.764  1.00 12.97      1BTI 157
+ATOM     42  CB  PHE     4      33.136   7.921  -4.541  1.00  7.38      1BTI 158
+ATOM     43  CG  PHE     4      32.797   9.407  -4.493  1.00  6.75      1BTI 159
+ATOM     44  CD1 PHE     4      33.602  10.294  -5.168  1.00  3.56      1BTI 160
+ATOM     45  CD2 PHE     4      31.695   9.825  -3.773  1.00  3.39      1BTI 161
+ATOM     46  CE1 PHE     4      33.257  11.628  -5.104  1.00  8.71      1BTI 162
+ATOM     47  CE2 PHE     4      31.380  11.148  -3.727  1.00  5.65      1BTI 163
+ATOM     48  CZ  PHE     4      32.150  12.058  -4.386  1.00  3.69      1BTI 164
+ATOM     49  N   CYS     5      30.452   8.050  -6.479  1.00  7.25      1BTI 165
+ATOM     50  CA  CYS     5      28.999   8.056  -6.569  1.00  7.48      1BTI 166
+ATOM     51  C   CYS     5      28.506   6.698  -7.080  1.00  7.17      1BTI 167
+ATOM     52  O   CYS     5      27.364   6.284  -6.862  1.00  4.59      1BTI 168
+ATOM     53  CB  CYS     5      28.531   9.151  -7.512  1.00  4.38      1BTI 169
+ATOM     54  SG  CYS     5      28.968  10.824  -6.968  1.00  6.89      1BTI 170
+ATOM     55  N   LEU     6      29.366   5.938  -7.758  1.00  8.98      1BTI 171
+ATOM     56  CA  LEU     6      28.969   4.626  -8.234  1.00  9.64      1BTI 172
+ATOM     57  C   LEU     6      29.269   3.515  -7.258  1.00 11.06      1BTI 173
+ATOM     58  O   LEU     6      28.990   2.339  -7.537  1.00 13.26      1BTI 174
+ATOM     59  CB  LEU     6      29.687   4.324  -9.518  1.00  9.89      1BTI 175
+ATOM     60  CG  LEU     6      29.605   5.305 -10.696  1.00 11.58      1BTI 176
+ATOM     61  CD1 LEU     6      30.112   4.579 -11.931  1.00  7.95      1BTI 177
+ATOM     62  CD2 LEU     6      28.180   5.742 -10.971  1.00 10.88      1BTI 178
+ATOM     63  N   GLU     7      29.876   3.771  -6.107  1.00 10.80      1BTI 179
+ATOM     64  CA  GLU     7      30.278   2.626  -5.302  1.00 14.65      1BTI 180
+ATOM     65  C   GLU     7      29.190   2.366  -4.263  1.00 14.98      1BTI 181
+ATOM     66  O   GLU     7      28.592   3.357  -3.810  1.00 17.88      1BTI 182
+ATOM     67  CB  GLU     7      31.688   2.925  -4.680  1.00 15.10      1BTI 183
+ATOM     68  CG  GLU     7      32.593   1.664  -4.825  1.00 18.63      1BTI 184
+ATOM     69  CD  GLU     7      32.610   0.860  -6.146  1.00 17.81      1BTI 185
+ATOM     70  OE1 GLU     7      32.788   1.383  -7.239  1.00 18.45      1BTI 186
+ATOM     71  OE2 GLU     7      32.463  -0.351  -6.087  1.00 22.23      1BTI 187
+ATOM     72  N   PRO     8      28.808   1.138  -3.881  1.00 13.71      1BTI 188
+ATOM     73  CA  PRO     8      27.615   0.897  -3.048  1.00 12.02      1BTI 189
+ATOM     74  C   PRO     8      27.808   1.577  -1.672  1.00 10.75      1BTI 190
+ATOM     75  O   PRO     8      28.977   1.865  -1.275  1.00  8.64      1BTI 191
+ATOM     76  CB  PRO     8      27.510  -0.590  -2.941  1.00 11.87      1BTI 192
+ATOM     77  CG  PRO     8      28.403  -1.098  -4.063  1.00 15.11      1BTI 193
+ATOM     78  CD  PRO     8      29.545  -0.102  -4.075  1.00 13.07      1BTI 194
+ATOM     79  N   PRO     9      26.723   1.894  -0.955  1.00  6.56      1BTI 195
+ATOM     80  CA  PRO     9      26.823   2.577   0.332  1.00  7.53      1BTI 196
+ATOM     81  C   PRO     9      27.447   1.645   1.342  1.00  7.59      1BTI 197
+ATOM     82  O   PRO     9      27.108   0.474   1.411  1.00  9.39      1BTI 198
+ATOM     83  CB  PRO     9      25.388   3.014   0.659  1.00  7.04      1BTI 199
+ATOM     84  CG  PRO     9      24.464   2.177  -0.182  1.00  9.75      1BTI 200
+ATOM     85  CD  PRO     9      25.354   1.999  -1.470  1.00  9.06      1BTI 201
+ATOM     86  N   TYR    10      28.387   2.096   2.127  1.00  8.85      1BTI 202
+ATOM     87  CA  TYR    10      29.055   1.225   3.066  1.00  8.56      1BTI 203
+ATOM     88  C   TYR    10      28.510   1.505   4.440  1.00  9.21      1BTI 204
+ATOM     89  O   TYR    10      28.640   2.625   4.920  1.00  8.88      1BTI 205
+ATOM     90  CB  TYR    10      30.486   1.552   2.972  1.00 10.18      1BTI 206
+ATOM     91  CG  TYR    10      31.412   0.925   3.961  1.00 10.38      1BTI 207
+ATOM     92  CD1 TYR    10      31.731  -0.391   3.791  1.00 12.78      1BTI 208
+ATOM     93  CD2 TYR    10      31.980   1.691   4.943  1.00 10.01      1BTI 209
+ATOM     94  CE1 TYR    10      32.664  -0.972   4.606  1.00 12.78      1BTI 210
+ATOM     95  CE2 TYR    10      32.921   1.106   5.751  1.00 12.75      1BTI 211
+ATOM     96  CZ  TYR    10      33.260  -0.210   5.567  1.00 12.00      1BTI 212
+ATOM     97  OH  TYR    10      34.273  -0.786   6.308  1.00 16.45      1BTI 213
+ATOM     98  N   THR    11      27.885   0.522   5.064  1.00  7.71      1BTI 214
+ATOM     99  CA  THR    11      27.440   0.686   6.443  1.00  8.25      1BTI 215
+ATOM    100  C   THR    11      28.676   0.881   7.359  1.00  6.78      1BTI 216
+ATOM    101  O   THR    11      28.745   1.785   8.199  1.00  8.77      1BTI 217
+ATOM    102  CB  THR    11      26.643  -0.585   6.814  1.00  7.47      1BTI 218
+ATOM    103  OG1 THR    11      25.600  -0.658   5.835  1.00 14.51      1BTI 219
+ATOM    104  CG2 THR    11      26.108  -0.601   8.244  1.00 10.41      1BTI 220
+ATOM    105  N   GLY    12      29.691   0.058   7.176  1.00  3.88      1BTI 221
+ATOM    106  CA  GLY    12      30.797   0.090   8.092  1.00  6.97      1BTI 222
+ATOM    107  C   GLY    12      30.540  -0.879   9.203  1.00  7.94      1BTI 223
+ATOM    108  O   GLY    12      29.511  -1.557   9.234  1.00 11.91      1BTI 224
+ATOM    109  N   PRO    13      31.477  -1.051  10.112  1.00  8.12      1BTI 225
+ATOM    110  CA  PRO    13      31.426  -2.096  11.129  1.00  8.00      1BTI 226
+ATOM    111  C   PRO    13      30.824  -1.674  12.452  1.00  7.43      1BTI 227
+ATOM    112  O   PRO    13      30.671  -2.519  13.320  1.00 10.12      1BTI 228
+ATOM    113  CB  PRO    13      32.840  -2.522  11.257  1.00  3.52      1BTI 229
+ATOM    114  CG  PRO    13      33.541  -1.183  11.173  1.00  4.16      1BTI 230
+ATOM    115  CD  PRO    13      32.767  -0.372  10.136  1.00  6.27      1BTI 231
+ATOM    116  N   CYS    14      30.582  -0.396  12.669  1.00  7.05      1BTI 232
+ATOM    117  CA  CYS    14      29.998   0.054  13.886  1.00  6.46      1BTI 233
+ATOM    118  C   CYS    14      28.500  -0.249  13.749  1.00  8.97      1BTI 234
+ATOM    119  O   CYS    14      27.982  -0.444  12.645  1.00  9.97      1BTI 235
+ATOM    120  CB  CYS    14      30.283   1.538  14.037  1.00  3.20      1BTI 236
+ATOM    121  SG  CYS    14      31.983   1.862  14.585  1.00  6.51      1BTI 237
+ATOM    122  N   LYS    15      27.778  -0.216  14.862  1.00  9.47      1BTI 238
+ATOM    123  CA  LYS    15      26.447  -0.726  14.980  1.00 11.19      1BTI 239
+ATOM    124  C   LYS    15      25.405   0.320  15.332  1.00 10.54      1BTI 240
+ATOM    125  O   LYS    15      24.465   0.038  16.064  1.00 12.30      1BTI 241
+ATOM    126  CB  LYS    15      26.529  -1.861  16.038  1.00 13.45      1BTI 242
+ATOM    127  CG  LYS    15      27.566  -2.984  15.732  1.00 17.51      1BTI 243
+ATOM    128  CD  LYS    15      27.451  -4.244  16.602  1.00 22.42      1BTI 244
+ATOM    129  CE  LYS    15      27.911  -4.149  18.048  1.00 21.73      1BTI 245
+ATOM    130  NZ  LYS    15      27.641  -5.437  18.685  1.00 25.85      1BTI 246
+ATOM    131  N   ALA    16      25.584   1.568  14.948  1.00  9.49      1BTI 247
+ATOM    132  CA  ALA    16      24.539   2.556  15.138  1.00  9.18      1BTI 248
+ATOM    133  C   ALA    16      23.537   2.376  13.998  1.00  7.07      1BTI 249
+ATOM    134  O   ALA    16      23.781   1.680  13.008  1.00  6.80      1BTI 250
+ATOM    135  CB  ALA    16      25.075   4.018  15.079  1.00  6.78      1BTI 251
+ATOM    136  N   ARG    17      22.372   3.007  14.154  1.00  8.17      1BTI 252
+ATOM    137  CA  ARG    17      21.383   2.962  13.089  1.00  4.83      1BTI 253
+ATOM    138  C   ARG    17      21.141   4.398  12.692  1.00  3.91      1BTI 254
+ATOM    139  O   ARG    17      20.190   5.046  13.138  1.00  2.00      1BTI 255
+ATOM    140  CB  ARG    17      20.117   2.253  13.578  1.00  2.00      1BTI 256
+ATOM    141  CG  ARG    17      20.515   0.843  13.919  1.00  3.79      1BTI 257
+ATOM    142  CD  ARG    17      19.805  -0.353  13.411  1.00  7.18      1BTI 258
+ATOM    143  NE  ARG    17      18.648  -0.625  14.224  1.00 10.71      1BTI 259
+ATOM    144  CZ  ARG    17      18.235  -1.761  14.786  1.00  8.72      1BTI 260
+ATOM    145  NH1 ARG    17      18.799  -2.957  14.720  1.00 10.74      1BTI 261
+ATOM    146  NH2 ARG    17      17.164  -1.622  15.534  1.00  6.62      1BTI 262
+ATOM    147  N   ILE    18      22.071   4.932  11.894  1.00  2.34      1BTI 263
+ATOM    148  CA  ILE    18      21.797   6.278  11.447  1.00  6.52      1BTI 264
+ATOM    149  C   ILE    18      21.575   6.338   9.920  1.00  4.58      1BTI 265
+ATOM    150  O   ILE    18      22.204   5.685   9.116  1.00  3.13      1BTI 266
+ATOM    151  CB  ILE    18      22.914   7.284  11.959  1.00  5.66      1BTI 267
+ATOM    152  CG1 ILE    18      23.818   7.702  10.869  1.00 10.11      1BTI 268
+ATOM    153  CG2 ILE    18      23.794   6.692  13.041  1.00  8.65      1BTI 269
+ATOM    154  CD1 ILE    18      23.887   9.209  11.059  1.00 11.09      1BTI 270
+ATOM    155  N   ILE    19      20.533   7.050   9.529  1.00  6.29      1BTI 271
+ATOM    156  CA  ILE    19      19.987   7.039   8.161  1.00  6.35      1BTI 272
+ATOM    157  C   ILE    19      20.745   8.113   7.393  1.00  5.73      1BTI 273
+ATOM    158  O   ILE    19      20.843   9.240   7.890  1.00  7.91      1BTI 274
+ATOM    159  CB  ILE    19      18.446   7.370   8.168  1.00  4.74      1BTI 275
+ATOM    160  CG1 ILE    19      17.717   6.565   9.261  1.00  4.73      1BTI 276
+ATOM    161  CG2 ILE    19      17.855   7.089   6.819  1.00  2.00      1BTI 277
+ATOM    162  CD1 ILE    19      17.987   5.040   9.425  1.00  9.66      1BTI 278
+ATOM    163  N   ARG    20      21.330   7.803   6.244  1.00  3.39      1BTI 279
+ATOM    164  CA  ARG    20      22.068   8.791   5.498  1.00  3.41      1BTI 280
+ATOM    165  C   ARG    20      21.592   8.560   4.097  1.00  4.66      1BTI 281
+ATOM    166  O   ARG    20      20.777   7.659   3.811  1.00  6.78      1BTI 282
+ATOM    167  CB  ARG    20      23.593   8.541   5.564  1.00  4.88      1BTI 283
+ATOM    168  CG  ARG    20      24.270   8.798   6.893  1.00  2.00      1BTI 284
+ATOM    169  CD  ARG    20      24.358  10.276   7.234  1.00  2.00      1BTI 285
+ATOM    170  NE  ARG    20      24.938  10.549   8.567  1.00  2.00      1BTI 286
+ATOM    171  CZ  ARG    20      26.226  10.560   8.848  1.00  2.00      1BTI 287
+ATOM    172  NH1 ARG    20      27.130  10.327   7.882  1.00  5.78      1BTI 288
+ATOM    173  NH2 ARG    20      26.621  10.766  10.113  1.00  2.15      1BTI 289
+ATOM    174  N   TYR    21      22.055   9.403   3.214  1.00  2.84      1BTI 290
+ATOM    175  CA  TYR    21      21.776   9.208   1.816  1.00  4.27      1BTI 291
+ATOM    176  C   TYR    21      22.980   8.738   1.013  1.00  5.08      1BTI 292
+ATOM    177  O   TYR    21      24.115   9.157   1.312  1.00  3.68      1BTI 293
+ATOM    178  CB  TYR    21      21.299  10.476   1.200  1.00  4.25      1BTI 294
+ATOM    179  CG  TYR    21      19.802  10.675   1.373  1.00  4.31      1BTI 295
+ATOM    180  CD1 TYR    21      19.285  11.296   2.488  1.00  4.12      1BTI 296
+ATOM    181  CD2 TYR    21      18.988  10.245   0.350  1.00  3.55      1BTI 297
+ATOM    182  CE1 TYR    21      17.912  11.465   2.534  1.00  4.98      1BTI 298
+ATOM    183  CE2 TYR    21      17.641  10.412   0.403  1.00  2.00      1BTI 299
+ATOM    184  CZ  TYR    21      17.110  11.022   1.507  1.00  2.10      1BTI 300
+ATOM    185  OH  TYR    21      15.742  11.176   1.582  1.00  3.79      1BTI 301
+ATOM    186  N   ALA    22      22.730   7.898   0.003  1.00  2.00      1BTI 302
+ATOM    187  CA  ALA    22      23.783   7.581  -0.903  1.00  4.39      1BTI 303
+ATOM    188  C   ALA    22      23.226   7.544  -2.318  1.00  2.99      1BTI 304
+ATOM    189  O   ALA    22      22.076   7.186  -2.476  1.00  3.38      1BTI 305
+ATOM    190  CB  ALA    22      24.402   6.232  -0.554  1.00  2.41      1BTI 306
+ATOM    191  N   TYR    23      23.990   7.909  -3.362  1.00  4.60      1BTI 307
+ATOM    192  CA  TYR    23      23.538   7.877  -4.740  1.00  4.44      1BTI 308
+ATOM    193  C   TYR    23      23.359   6.430  -5.164  1.00  5.31      1BTI 309
+ATOM    194  O   TYR    23      24.120   5.523  -4.769  1.00  6.82      1BTI 310
+ATOM    195  CB  TYR    23      24.570   8.611  -5.634  1.00  3.76      1BTI 311
+ATOM    196  CG  TYR    23      24.192   8.728  -7.117  1.00  4.71      1BTI 312
+ATOM    197  CD1 TYR    23      23.281   9.704  -7.524  1.00  6.11      1BTI 313
+ATOM    198  CD2 TYR    23      24.757   7.863  -8.055  1.00  2.07      1BTI 314
+ATOM    199  CE1 TYR    23      22.947   9.830  -8.853  1.00  7.52      1BTI 315
+ATOM    200  CE2 TYR    23      24.413   7.978  -9.394  1.00  4.91      1BTI 316
+ATOM    201  CZ  TYR    23      23.519   8.972  -9.778  1.00  8.86      1BTI 317
+ATOM    202  OH  TYR    23      23.179   9.098 -11.113  1.00  8.26      1BTI 318
+ATOM    203  N   ASN    24      22.252   6.211  -5.889  1.00  4.94      1BTI 319
+ATOM    204  CA  ASN    24      21.921   4.889  -6.372  1.00  4.11      1BTI 320
+ATOM    205  C   ASN    24      22.017   5.007  -7.886  1.00  4.97      1BTI 321
+ATOM    206  O   ASN    24      21.130   5.478  -8.578  1.00  4.41      1BTI 322
+ATOM    207  CB  ASN    24      20.517   4.521  -5.966  1.00  4.86      1BTI 323
+ATOM    208  CG  ASN    24      20.065   3.148  -6.423  1.00  4.36      1BTI 324
+ATOM    209  OD1 ASN    24      20.317   2.656  -7.499  1.00  8.19      1BTI 325
+ATOM    210  ND2 ASN    24      19.394   2.350  -5.660  1.00 11.59      1BTI 326
+ATOM    211  N   ALA    25      23.100   4.529  -8.435  1.00  6.51      1BTI 327
+ATOM    212  CA  ALA    25      23.375   4.588  -9.851  1.00  7.98      1BTI 328
+ATOM    213  C   ALA    25      22.290   3.922 -10.706  1.00  7.38      1BTI 329
+ATOM    214  O   ALA    25      22.150   4.334 -11.873  1.00  5.02      1BTI 330
+ATOM    215  CB  ALA    25      24.740   3.916 -10.095  1.00  6.68      1BTI 331
+ATOM    216  N   LYS    26      21.533   2.905 -10.202  1.00  6.63      1BTI 332
+ATOM    217  CA  LYS    26      20.503   2.305 -11.073  1.00  6.60      1BTI 333
+ATOM    218  C   LYS    26      19.242   3.149 -11.226  1.00  6.44      1BTI 334
+ATOM    219  O   LYS    26      18.611   3.211 -12.294  1.00  5.46      1BTI 335
+ATOM    220  CB  LYS    26      20.134   0.895 -10.581  1.00 10.69      1BTI 336
+ATOM    221  CG  LYS    26      21.186  -0.103 -11.033  1.00 11.74      1BTI 337
+ATOM    222  CD  LYS    26      20.779  -1.555 -11.041  1.00 17.76      1BTI 338
+ATOM    223  CE  LYS    26      22.069  -2.386 -11.199  1.00 17.67      1BTI 339
+ATOM    224  NZ  LYS    26      22.536  -2.387 -12.568  1.00 20.87      1BTI 340
+ATOM    225  N   ALA    27      18.894   3.895 -10.184  1.00  5.63      1BTI 341
+ATOM    226  CA  ALA    27      17.746   4.807 -10.223  1.00  4.21      1BTI 342
+ATOM    227  C   ALA    27      18.127   6.187 -10.770  1.00  4.12      1BTI 343
+ATOM    228  O   ALA    27      17.341   6.961 -11.347  1.00  4.68      1BTI 344
+ATOM    229  CB  ALA    27      17.217   4.970  -8.820  1.00  2.00      1BTI 345
+ATOM    230  N   GLY    28      19.399   6.528 -10.525  1.00  4.79      1BTI 346
+ATOM    231  CA  GLY    28      19.902   7.828 -10.866  1.00  2.83      1BTI 347
+ATOM    232  C   GLY    28      19.508   8.855  -9.835  1.00  2.90      1BTI 348
+ATOM    233  O   GLY    28      19.568  10.057 -10.101  1.00  2.85      1BTI 349
+ATOM    234  N   LEU    29      19.228   8.419  -8.609  1.00  2.00      1BTI 350
+ATOM    235  CA  LEU    29      18.719   9.342  -7.614  1.00  3.01      1BTI 351
+ATOM    236  C   LEU    29      19.374   8.876  -6.344  1.00  2.45      1BTI 352
+ATOM    237  O   LEU    29      19.835   7.735  -6.314  1.00  5.90      1BTI 353
+ATOM    238  CB  LEU    29      17.185   9.173  -7.580  1.00  5.66      1BTI 354
+ATOM    239  CG  LEU    29      16.286  10.415  -7.648  1.00  8.82      1BTI 355
+ATOM    240  CD1 LEU    29      16.820  11.451  -8.595  1.00  8.66      1BTI 356
+ATOM    241  CD2 LEU    29      14.933  10.001  -8.133  1.00  5.95      1BTI 357
+ATOM    242  N   CYS    30      19.385   9.661  -5.294  1.00  2.35      1BTI 358
+ATOM    243  CA  CYS    30      19.893   9.251  -4.005  1.00  3.73      1BTI 359
+ATOM    244  C   CYS    30      18.840   8.587  -3.125  1.00  4.42      1BTI 360
+ATOM    245  O   CYS    30      17.733   9.102  -3.020  1.00  2.00      1BTI 361
+ATOM    246  CB  CYS    30      20.445  10.452  -3.265  1.00  4.15      1BTI 362
+ATOM    247  SG  CYS    30      21.888  11.126  -4.165  1.00  2.80      1BTI 363
+ATOM    248  N   GLN    31      19.157   7.498  -2.408  1.00  4.92      1BTI 364
+ATOM    249  CA  GLN    31      18.186   6.802  -1.582  1.00  4.42      1BTI 365
+ATOM    250  C   GLN    31      18.821   6.639  -0.210  1.00  4.46      1BTI 366
+ATOM    251  O   GLN    31      20.030   6.825  -0.067  1.00  2.25      1BTI 367
+ATOM    252  CB  GLN    31      17.854   5.430  -2.196  1.00  2.61      1BTI 368
+ATOM    253  CG  GLN    31      17.280   5.638  -3.613  1.00  6.17      1BTI 369
+ATOM    254  CD  GLN    31      16.765   4.388  -4.251  1.00  7.78      1BTI 370
+ATOM    255  OE1 GLN    31      17.109   3.345  -3.720  1.00 12.74      1BTI 371
+ATOM    256  NE2 GLN    31      15.933   4.329  -5.293  1.00  6.80      1BTI 372
+ATOM    257  N   THR    32      18.038   6.344   0.818  1.00  4.08      1BTI 373
+ATOM    258  CA  THR    32      18.579   6.307   2.159  1.00  5.24      1BTI 374
+ATOM    259  C   THR    32      19.232   4.942   2.370  1.00  4.76      1BTI 375
+ATOM    260  O   THR    32      19.030   3.968   1.622  1.00  4.00      1BTI 376
+ATOM    261  CB  THR    32      17.416   6.569   3.179  1.00  4.31      1BTI 377
+ATOM    262  OG1 THR    32      16.397   5.585   2.974  1.00  7.28      1BTI 378
+ATOM    263  CG2 THR    32      16.802   7.894   2.999  1.00  2.00      1BTI 379
+ATOM    264  N   PHE    33      20.045   4.898   3.398  1.00  2.00      1BTI 380
+ATOM    265  CA  PHE    33      20.644   3.654   3.797  1.00  2.95      1BTI 381
+ATOM    266  C   PHE    33      21.006   3.918   5.260  1.00  2.57      1BTI 382
+ATOM    267  O   PHE    33      20.920   5.062   5.742  1.00  2.01      1BTI 383
+ATOM    268  CB  PHE    33      21.907   3.328   2.937  1.00  2.23      1BTI 384
+ATOM    269  CG  PHE    33      23.165   4.112   3.230  1.00  3.89      1BTI 385
+ATOM    270  CD1 PHE    33      23.278   5.442   2.848  1.00  4.72      1BTI 386
+ATOM    271  CD2 PHE    33      24.222   3.468   3.879  1.00  2.00      1BTI 387
+ATOM    272  CE1 PHE    33      24.468   6.128   3.141  1.00  5.47      1BTI 388
+ATOM    273  CE2 PHE    33      25.372   4.165   4.155  1.00  2.00      1BTI 389
+ATOM    274  CZ  PHE    33      25.506   5.494   3.789  1.00  2.63      1BTI 390
+ATOM    275  N   VAL    34      21.405   2.838   5.927  1.00  2.00      1BTI 391
+ATOM    276  CA  VAL    34      21.765   2.863   7.352  1.00  4.36      1BTI 392
+ATOM    277  C   VAL    34      23.288   2.793   7.474  1.00  2.40      1BTI 393
+ATOM    278  O   VAL    34      23.929   1.876   6.993  1.00  2.00      1BTI 394
+ATOM    279  CB  VAL    34      21.107   1.658   8.110  1.00  5.12      1BTI 395
+ATOM    280  CG1 VAL    34      21.255   1.783   9.607  1.00  3.45      1BTI 396
+ATOM    281  CG2 VAL    34      19.613   1.646   7.809  1.00  2.96      1BTI 397
+ATOM    282  N   TYR    35      23.843   3.877   7.958  1.00  2.32      1BTI 398
+ATOM    283  CA  TYR    35      25.246   4.019   8.305  1.00  2.72      1BTI 399
+ATOM    284  C   TYR    35      25.444   3.528   9.734  1.00  2.59      1BTI 400
+ATOM    285  O   TYR    35      24.793   4.004  10.664  1.00  3.51      1BTI 401
+ATOM    286  CB  TYR    35      25.633   5.524   8.164  1.00  2.00      1BTI 402
+ATOM    287  CG  TYR    35      27.055   5.899   8.530  1.00  2.00      1BTI 403
+ATOM    288  CD1 TYR    35      28.132   5.135   8.115  1.00  6.57      1BTI 404
+ATOM    289  CD2 TYR    35      27.273   7.014   9.303  1.00  6.48      1BTI 405
+ATOM    290  CE1 TYR    35      29.409   5.483   8.482  1.00  6.12      1BTI 406
+ATOM    291  CE2 TYR    35      28.544   7.391   9.671  1.00  5.08      1BTI 407
+ATOM    292  CZ  TYR    35      29.580   6.600   9.251  1.00  4.68      1BTI 408
+ATOM    293  OH  TYR    35      30.821   6.900   9.693  1.00  6.44      1BTI 409
+ATOM    294  N   GLY    36      26.470   2.705   9.978  1.00  4.90      1BTI 410
+ATOM    295  CA  GLY    36      26.706   2.109  11.296  1.00  2.77      1BTI 411
+ATOM    296  C   GLY    36      27.361   3.109  12.197  1.00  2.18      1BTI 412
+ATOM    297  O   GLY    36      27.560   2.863  13.378  1.00  3.17      1BTI 413
+ATOM    298  N   GLY    37      27.798   4.252  11.730  1.00  3.01      1BTI 414
+ATOM    299  CA  GLY    37      28.277   5.201  12.693  1.00  2.36      1BTI 415
+ATOM    300  C   GLY    37      29.772   5.345  12.620  1.00  3.87      1BTI 416
+ATOM    301  O   GLY    37      30.248   6.346  13.134  1.00  3.16      1BTI 417
+ATOM    302  N   CYS    38      30.553   4.463  11.987  1.00  5.32      1BTI 418
+ATOM    303  CA  CYS    38      31.956   4.798  11.822  1.00  5.86      1BTI 419
+ATOM    304  C   CYS    38      32.397   4.336  10.441  1.00  7.21      1BTI 420
+ATOM    305  O   CYS    38      31.788   3.517   9.763  1.00  7.44      1BTI 421
+ATOM    306  CB  CYS    38      32.820   4.162  12.903  1.00  2.63      1BTI 422
+ATOM    307  SG  CYS    38      32.868   2.382  12.869  1.00  6.18      1BTI 423
+ATOM    308  N   ARG    39      33.493   4.975  10.054  1.00  8.44      1BTI 424
+ATOM    309  CA  ARG    39      34.222   4.885   8.784  1.00  9.31      1BTI 425
+ATOM    310  C   ARG    39      33.374   4.914   7.524  1.00  8.30      1BTI 426
+ATOM    311  O   ARG    39      33.314   4.052   6.663  1.00 10.12      1BTI 427
+ATOM    312  CB AARG    39      35.172   3.645   8.826  0.50  6.41      1BTI 428
+ATOM    313  CB BARG    39      35.141   3.622   8.742  0.50  8.19      1BTI 429
+ATOM    314  CG AARG    39      34.741   2.205   8.714  0.50  4.97      1BTI 430
+ATOM    315  CG BARG    39      34.962   2.509   9.759  0.50  9.50      1BTI 431
+ATOM    316  CD AARG    39      35.688   1.254   9.450  0.50  4.90      1BTI 432
+ATOM    317  CD BARG    39      36.210   1.807  10.239  0.50 11.00      1BTI 433
+ATOM    318  NE AARG    39      36.945   0.940   8.776  0.50  7.77      1BTI 434
+ATOM    319  NE BARG    39      37.250   2.694  10.755  0.50 14.13      1BTI 435
+ATOM    320  CZ AARG    39      37.890   0.166   9.330  0.50  5.31      1BTI 436
+ATOM    321  CZ BARG    39      37.928   2.428  11.881  0.50 15.71      1BTI 437
+ATOM    322  NH1AARG    39      37.742  -0.383  10.529  0.50  4.79      1BTI 438
+ATOM    323  NH1BARG    39      37.692   1.356  12.637  0.50 17.17      1BTI 439
+ATOM    324  NH2AARG    39      39.033  -0.025   8.681  0.50  5.52      1BTI 440
+ATOM    325  NH2BARG    39      38.966   3.184  12.209  0.50 17.73      1BTI 441
+ATOM    326  N   ALA    40      32.849   6.148   7.492  1.00  9.02      1BTI 442
+ATOM    327  CA  ALA    40      32.059   6.688   6.403  1.00  8.82      1BTI 443
+ATOM    328  C   ALA    40      32.877   6.666   5.116  1.00  9.43      1BTI 444
+ATOM    329  O   ALA    40      34.027   7.124   5.121  1.00  7.65      1BTI 445
+ATOM    330  CB  ALA    40      31.709   8.134   6.658  1.00  9.67      1BTI 446
+ATOM    331  N   LYS    41      32.340   6.108   4.045  1.00  7.02      1BTI 447
+ATOM    332  CA  LYS    41      32.961   6.264   2.746  1.00  7.10      1BTI 448
+ATOM    333  C   LYS    41      32.382   7.557   2.150  1.00  4.77      1BTI 449
+ATOM    334  O   LYS    41      31.574   8.237   2.763  1.00  4.86      1BTI 450
+ATOM    335  CB  LYS    41      32.648   4.995   1.899  1.00  7.86      1BTI 451
+ATOM    336  CG  LYS    41      33.548   3.747   1.932  1.00  6.68      1BTI 452
+ATOM    337  CD  LYS    41      34.443   3.871   3.136  1.00 10.90      1BTI 453
+ATOM    338  CE  LYS    41      35.331   2.691   3.615  1.00 14.64      1BTI 454
+ATOM    339  NZ  LYS    41      35.765   2.925   5.003  1.00 12.78      1BTI 455
+ATOM    340  N   ARG    42      32.710   7.954   0.940  1.00  4.43      1BTI 456
+ATOM    341  CA  ARG    42      32.278   9.232   0.363  1.00  5.88      1BTI 457
+ATOM    342  C   ARG    42      30.810   9.353  -0.078  1.00  3.75      1BTI 458
+ATOM    343  O   ARG    42      30.173  10.405  -0.101  1.00  2.00      1BTI 459
+ATOM    344  CB  ARG    42      33.184   9.515  -0.809  1.00  7.83      1BTI 460
+ATOM    345  CG  ARG    42      34.589   9.972  -0.466  1.00 11.09      1BTI 461
+ATOM    346  CD  ARG    42      35.429  10.098  -1.732  1.00 15.33      1BTI 462
+ATOM    347  NE  ARG    42      35.836   8.798  -2.312  1.00 19.18      1BTI 463
+ATOM    348  CZ  ARG    42      36.833   8.627  -3.248  1.00 18.22      1BTI 464
+ATOM    349  NH1 ARG    42      37.570   9.614  -3.761  1.00 12.63      1BTI 465
+ATOM    350  NH2 ARG    42      37.087   7.401  -3.714  1.00 17.79      1BTI 466
+ATOM    351  N   ASN    43      30.258   8.234  -0.503  1.00  2.72      1BTI 467
+ATOM    352  CA  ASN    43      28.900   8.208  -0.970  1.00  3.62      1BTI 468
+ATOM    353  C   ASN    43      28.062   8.040   0.293  1.00  2.75      1BTI 469
+ATOM    354  O   ASN    43      27.499   6.987   0.510  1.00  4.10      1BTI 470
+ATOM    355  CB  ASN    43      28.774   7.045  -1.951  1.00  2.28      1BTI 471
+ATOM    356  CG  ASN    43      27.427   7.031  -2.677  1.00  5.06      1BTI 472
+ATOM    357  OD1 ASN    43      26.729   8.064  -2.688  1.00  2.53      1BTI 473
+ATOM    358  ND2 ASN    43      27.023   5.898  -3.306  1.00  2.01      1BTI 474
+ATOM    359  N   ASN    44      27.983   9.059   1.117  1.00  2.01      1BTI 475
+ATOM    360  CA  ASN    44      27.366   9.028   2.384  1.00  2.66      1BTI 476
+ATOM    361  C   ASN    44      27.060  10.489   2.595  1.00  2.00      1BTI 477
+ATOM    362  O   ASN    44      28.002  11.256   2.703  1.00  2.21      1BTI 478
+ATOM    363  CB  ASN    44      28.374   8.456   3.403  1.00  5.57      1BTI 479
+ATOM    364  CG  ASN    44      27.879   8.394   4.818  1.00  5.34      1BTI 480
+ATOM    365  OD1 ASN    44      27.244   9.326   5.286  1.00  9.38      1BTI 481
+ATOM    366  ND2 ASN    44      28.130   7.368   5.596  1.00  8.10      1BTI 482
+ATOM    367  N   PHE    45      25.764  10.928   2.560  1.00  3.29      1BTI 483
+ATOM    368  CA  PHE    45      25.351  12.349   2.632  1.00  2.01      1BTI 484
+ATOM    369  C   PHE    45      24.255  12.509   3.639  1.00  2.00      1BTI 485
+ATOM    370  O   PHE    45      23.440  11.652   3.937  1.00  2.00      1BTI 486
+ATOM    371  CB  PHE    45      24.818  12.872   1.311  1.00  2.00      1BTI 487
+ATOM    372  CG  PHE    45      25.791  12.672   0.164  1.00  3.42      1BTI 488
+ATOM    373  CD1 PHE    45      25.778  11.499  -0.562  1.00  3.91      1BTI 489
+ATOM    374  CD2 PHE    45      26.699  13.658  -0.151  1.00  3.33      1BTI 490
+ATOM    375  CE1 PHE    45      26.683  11.356  -1.613  1.00  8.43      1BTI 491
+ATOM    376  CE2 PHE    45      27.585  13.512  -1.190  1.00  2.50      1BTI 492
+ATOM    377  CZ  PHE    45      27.581  12.365  -1.935  1.00  4.89      1BTI 493
+ATOM    378  N   LYS    46      24.167  13.670   4.191  1.00  4.25      1BTI 494
+ATOM    379  CA  LYS    46      23.179  13.931   5.202  1.00  5.14      1BTI 495
+ATOM    380  C   LYS    46      21.935  14.648   4.750  1.00  5.42      1BTI 496
+ATOM    381  O   LYS    46      21.213  15.093   5.631  1.00  5.04      1BTI 497
+ATOM    382  CB  LYS    46      23.877  14.689   6.336  1.00  6.81      1BTI 498
+ATOM    383  CG  LYS    46      24.858  13.878   7.182  1.00  6.55      1BTI 499
+ATOM    384  CD  LYS    46      25.105  14.936   8.235  1.00 14.22      1BTI 500
+ATOM    385  CE  LYS    46      26.333  14.738   9.128  1.00 18.08      1BTI 501
+ATOM    386  NZ  LYS    46      27.515  15.096   8.363  1.00 21.49      1BTI 502
+ATOM    387  N   SER    47      21.685  14.804   3.448  1.00  5.59      1BTI 503
+ATOM    388  CA  SER    47      20.408  15.274   2.909  1.00  5.61      1BTI 504
+ATOM    389  C   SER    47      20.311  14.786   1.464  1.00  6.54      1BTI 505
+ATOM    390  O   SER    47      21.347  14.396   0.897  1.00  7.84      1BTI 506
+ATOM    391  CB  SER    47      20.270  16.802   2.899  1.00  6.40      1BTI 507
+ATOM    392  OG  SER    47      21.134  17.512   2.038  1.00 11.74      1BTI 508
+ATOM    393  N   ALA    48      19.123  14.710   0.825  1.00  5.45      1BTI 509
+ATOM    394  CA  ALA    48      18.989  14.189  -0.551  1.00  5.71      1BTI 510
+ATOM    395  C   ALA    48      19.608  15.126  -1.548  1.00  3.88      1BTI 511
+ATOM    396  O   ALA    48      20.265  14.688  -2.471  1.00  4.84      1BTI 512
+ATOM    397  CB  ALA    48      17.507  14.007  -1.035  1.00  2.95      1BTI 513
+ATOM    398  N   GLU    49      19.465  16.437  -1.364  1.00  6.69      1BTI 514
+ATOM    399  CA  GLU    49      20.068  17.381  -2.249  1.00  7.63      1BTI 515
+ATOM    400  C   GLU    49      21.589  17.498  -2.110  1.00  7.06      1BTI 516
+ATOM    401  O   GLU    49      22.172  17.758  -3.158  1.00  5.97      1BTI 517
+ATOM    402  CB  GLU    49      19.421  18.730  -2.044  1.00 12.20      1BTI 518
+ATOM    403  CG  GLU    49      19.649  19.328  -0.673  1.00 19.88      1BTI 519
+ATOM    404  CD  GLU    49      19.128  20.754  -0.492  1.00 24.32      1BTI 520
+ATOM    405  OE1 GLU    49      18.987  21.490  -1.480  1.00 27.51      1BTI 521
+ATOM    406  OE2 GLU    49      18.867  21.116   0.663  1.00 28.23      1BTI 522
+ATOM    407  N   ASP    50      22.287  17.370  -0.968  1.00  6.56      1BTI 523
+ATOM    408  CA  ASP    50      23.753  17.414  -0.932  1.00  7.76      1BTI 524
+ATOM    409  C   ASP    50      24.183  16.268  -1.805  1.00  6.45      1BTI 525
+ATOM    410  O   ASP    50      25.003  16.458  -2.694  1.00  5.21      1BTI 526
+ATOM    411  CB  ASP    50      24.427  17.151   0.442  1.00 14.15      1BTI 527
+ATOM    412  CG  ASP    50      25.992  17.324   0.441  1.00 23.07      1BTI 528
+ATOM    413  OD1 ASP    50      26.582  18.018  -0.414  1.00 23.40      1BTI 529
+ATOM    414  OD2 ASP    50      26.668  16.789   1.331  1.00 26.45      1BTI 530
+ATOM    415  N   CYS    51      23.497  15.116  -1.669  1.00  7.69      1BTI 531
+ATOM    416  CA  CYS    51      23.834  13.923  -2.434  1.00  5.78      1BTI 532
+ATOM    417  C   CYS    51      23.746  14.182  -3.936  1.00  5.91      1BTI 533
+ATOM    418  O   CYS    51      24.723  13.994  -4.690  1.00  2.53      1BTI 534
+ATOM    419  CB  CYS    51      22.873  12.850  -1.955  1.00  2.71      1BTI 535
+ATOM    420  SG  CYS    51      23.257  11.273  -2.760  1.00  4.63      1BTI 536
+ATOM    421  N   MET    52      22.566  14.687  -4.371  1.00  5.69      1BTI 537
+ATOM    422  CA  MET    52      22.371  15.001  -5.780  1.00  4.51      1BTI 538
+ATOM    423  C   MET    52      23.217  16.143  -6.288  1.00  6.79      1BTI 539
+ATOM    424  O   MET    52      23.609  16.027  -7.441  1.00  7.36      1BTI 540
+ATOM    425  CB  MET    52      20.928  15.344  -6.087  1.00  3.75      1BTI 541
+ATOM    426  CG  MET    52      20.014  14.125  -6.013  1.00  4.31      1BTI 542
+ATOM    427  SD  MET    52      20.589  12.763  -7.034  1.00  8.91      1BTI 543
+ATOM    428  CE  MET    52      19.998  13.266  -8.639  1.00  5.50      1BTI 544
+ATOM    429  N   ARG    53      23.523  17.257  -5.601  1.00  6.88      1BTI 545
+ATOM    430  CA  ARG    53      24.453  18.269  -6.100  1.00  8.81      1BTI 546
+ATOM    431  C   ARG    53      25.832  17.691  -6.362  1.00  9.91      1BTI 547
+ATOM    432  O   ARG    53      26.569  18.242  -7.184  1.00 12.06      1BTI 548
+ATOM    433  CB AARG    53      24.688  19.397  -5.124  0.50  7.80      1BTI 549
+ATOM    434  CB BARG    53      24.602  19.432  -5.153  0.50  7.23      1BTI 550
+ATOM    435  CG AARG    53      23.646  20.460  -4.849  0.50  8.67      1BTI 551
+ATOM    436  CG BARG    53      23.420  20.372  -5.268  0.50  7.41      1BTI 552
+ATOM    437  CD AARG    53      23.345  20.598  -3.340  0.50  9.25      1BTI 553
+ATOM    438  CD BARG    53      23.760  21.671  -4.559  0.50  7.44      1BTI 554
+ATOM    439  NE AARG    53      24.488  20.498  -2.444  0.50  3.06      1BTI 555
+ATOM    440  NE BARG    53      22.544  22.345  -4.161  0.50  6.77      1BTI 556
+ATOM    441  CZ AARG    53      24.383  20.622  -1.106  0.50  2.25      1BTI 557
+ATOM    442  CZ BARG    53      22.485  23.679  -4.090  0.50  8.01      1BTI 558
+ATOM    443  NH1AARG    53      23.231  20.842  -0.491  0.50  2.00      1BTI 559
+ATOM    444  NH1BARG    53      23.501  24.483  -4.365  0.50  7.38      1BTI 560
+ATOM    445  NH2AARG    53      25.477  20.484  -0.364  0.50  2.00      1BTI 561
+ATOM    446  NH2BARG    53      21.340  24.233  -3.773  0.50  7.90      1BTI 562
+ATOM    447  N   THR    54      26.218  16.605  -5.675  1.00 10.67      1BTI 563
+ATOM    448  CA  THR    54      27.553  16.021  -5.863  1.00 11.30      1BTI 564
+ATOM    449  C   THR    54      27.519  14.954  -6.929  1.00  9.09      1BTI 565
+ATOM    450  O   THR    54      28.227  15.042  -7.911  1.00 11.45      1BTI 566
+ATOM    451  CB  THR    54      27.996  15.482  -4.491  1.00 11.16      1BTI 567
+ATOM    452  OG1 THR    54      28.135  16.653  -3.679  1.00  9.48      1BTI 568
+ATOM    453  CG2 THR    54      29.222  14.579  -4.546  1.00 14.66      1BTI 569
+ATOM    454  N   CYS    55      26.617  14.009  -6.753  1.00 10.83      1BTI 570
+ATOM    455  CA  CYS    55      26.436  12.855  -7.594  1.00  9.12      1BTI 571
+ATOM    456  C   CYS    55      25.418  12.955  -8.697  1.00  8.06      1BTI 572
+ATOM    457  O   CYS    55      25.295  12.043  -9.506  1.00  6.48      1BTI 573
+ATOM    458  CB  CYS    55      26.088  11.692  -6.695  1.00  9.42      1BTI 574
+ATOM    459  SG  CYS    55      27.489  11.154  -5.685  1.00 10.10      1BTI 575
+ATOM    460  N   GLY    56      24.728  14.052  -8.834  1.00 10.08      1BTI 576
+ATOM    461  CA  GLY    56      23.777  14.167  -9.918  1.00 15.65      1BTI 577
+ATOM    462  C   GLY    56      24.379  14.547 -11.282  1.00 16.79      1BTI 578
+ATOM    463  O   GLY    56      25.549  14.883 -11.455  1.00 19.56      1BTI 579
+ATOM    464  N   GLY    57      23.536  14.541 -12.305  1.00 18.86      1BTI 580
+ATOM    465  CA  GLY    57      23.969  14.822 -13.656  1.00 22.25      1BTI 581
+ATOM    466  C   GLY    57      23.690  16.271 -14.067  1.00 24.29      1BTI 582
+ATOM    467  O   GLY    57      23.939  17.222 -13.319  1.00 25.14      1BTI 583
+ATOM    468  N   ALA    58      23.155  16.366 -15.291  1.00 26.47      1BTI 584
+ATOM    469  CA  ALA    58      22.772  17.628 -15.927  1.00 27.48      1BTI 585
+ATOM    470  C   ALA    58      21.557  18.219 -15.244  1.00 28.49      1BTI 586
+ATOM    471  O   ALA    58      21.491  19.426 -15.263  1.00 28.96      1BTI 587
+ATOM    472  CB  ALA    58      22.378  17.468 -17.402  1.00 25.44      1BTI 588
+ATOM    473  OXT ALA    58      20.709  17.496 -14.701  1.00 30.18      1BTI 589
+TER     474      ALA    58                                              1BTI 590
+HETATM  475  O   HOH   102      29.376   0.570  17.322  1.00 16.86      1BTI 591
+HETATM  476  O   HOH   105      30.152  17.401  -8.167  1.00 19.46      1BTI 592
+HETATM  477  O   HOH   111      30.314   4.054  -0.463  1.00  9.17      1BTI 593
+HETATM  478  O   HOH   112      28.933   5.015   1.668  1.00  2.00      1BTI 594
+HETATM  479  O   HOH   113      29.451   5.116   4.295  1.00  2.00      1BTI 595
+HETATM  480  O   HOH   117      20.799   0.274   4.311  1.00 28.75      1BTI 596
+HETATM  481  O   HOH   122      29.882   2.095  10.648  1.00  2.01      1BTI 597
+HETATM  482  O   HOH   125      20.644   7.731  14.545  1.00 10.82      1BTI 598
+HETATM  483  O   HOH   129      19.760   9.032  11.620  1.00 17.04      1BTI 599
+HETATM  484  O   HOH   138      25.254  15.978   3.479  1.00 12.66      1BTI 600
+HETATM  485  O   HOH   144      16.832  -0.406  18.503  1.00 28.79      1BTI 601
+HETATM  486  O   HOH   145      36.595  12.167  -3.793  1.00 13.57      1BTI 602
+HETATM  487  O   HOH   157      35.707  -2.704   5.079  1.00 25.19      1BTI 603
+HETATM  488  O   HOH   160      32.924   3.572  -8.493  1.00 19.65      1BTI 604
+HETATM  489  O   HOH   203      35.946   7.763   6.967  1.00 28.83      1BTI 605
+HETATM  490  O   HOH   205      17.137   3.190   4.869  1.00  8.87      1BTI 606
+HETATM  491  O   HOH   312      31.550   0.416  -0.648  1.00 22.56      1BTI 607
+HETATM  492  O   HOH   313      21.081  11.424   9.820  1.00 18.96      1BTI 608
+HETATM  493  O   HOH   400      30.280  11.427  10.093  1.00 19.50      1BTI 609
+HETATM  494  O   HOH   401      20.378   2.910  -0.633  1.00 15.46      1BTI 610
+HETATM  495  O   HOH   402      19.305  15.203 -14.553  1.00  2.84      1BTI 611
+HETATM  496  O   HOH   403      17.635  11.677  -4.145  1.00 14.61      1BTI 612
+HETATM  497  O   HOH   404      17.717   5.097  14.370  1.00  9.68      1BTI 613
+HETATM  498  O   HOH   405      41.030   2.817  10.188  1.00 31.38      1BTI 614
+HETATM  499  O   HOH   406      23.369  21.002 -17.160  1.00 31.75      1BTI 615
+HETATM  500  O   HOH   407      23.731  12.673 -16.804  1.00  8.21      1BTI 616
+HETATM  501  O   HOH   408      13.497   6.113   2.826  1.00 23.13      1BTI 617
+HETATM  502  O   HOH   409      21.924  26.389  -2.468  1.00 21.96      1BTI 618
+HETATM  503  O   HOH   410      24.974  -4.886  18.940  1.00 21.88      1BTI 619
+HETATM  504  O   HOH   411      31.742  15.202 -11.799  1.00 41.02      1BTI 620
+HETATM  505  O   HOH   412      30.223  -3.481  -5.471  1.00 22.57      1BTI 621
+HETATM  506  O   HOH   413      27.630  14.248 -14.373  1.00 36.24      1BTI 622
+HETATM  507  O   HOH   414      34.593   5.203  -1.389  1.00 23.27      1BTI 623
+HETATM  508  O   HOH   415      30.949  15.084 -14.519  1.00 14.80      1BTI 624
+HETATM  509  O   HOH   416      14.974   2.456  -7.160  1.00 33.24      1BTI 625
+HETATM  510  O   HOH   417      30.511  -4.509   7.444  1.00 39.17      1BTI 626
+HETATM  511  O   HOH   418      21.854  20.968   1.851  1.00 33.70      1BTI 627
+HETATM  512  O   HOH   419      28.950  -0.675  -8.269  1.00 46.81      1BTI 628
+HETATM  513  O   HOH   420      34.859   2.638  -2.371  1.00 32.05      1BTI 629
+HETATM  514  O   HOH   421      32.023   5.976  -1.586  1.00 14.21      1BTI 630
+HETATM  515  O   HOH   422      18.973  23.991  -2.697  1.00 26.54      1BTI 631
+HETATM  516  O   HOH   423      34.021  15.812  -9.087  1.00 28.26      1BTI 632
+HETATM  517  O   HOH   424      26.214  21.381  -7.387  1.00 31.98      1BTI 633
+HETATM  518  O   HOH   425      26.037  -2.000   2.810  1.00 28.86      1BTI 634
+HETATM  519  O   HOH   426      21.979  11.691 -11.867  1.00 25.69      1BTI 635
+HETATM  520  O   HOH   427      22.514   0.992  -7.612  1.00 39.78      1BTI 636
+HETATM  521  O   HOH   428      13.646   5.975  -5.992  1.00 35.02      1BTI 637
+HETATM  522  O   HOH   429      16.297   0.771  -4.226  1.00 34.22      1BTI 638
+CONECT   54   53  459                                                   1BTI 639
+CONECT  121  120  307                                                   1BTI 640
+CONECT  247  246  420                                                   1BTI 641
+CONECT  307  121  306                                                   1BTI 642
+CONECT  420  247  419                                                   1BTI 643
+CONECT  459   54  458                                                   1BTI 644
+MASTER       81    0    0    2    3    0    0    6  521    1    6    5  1BTI 645
+END                                                                     1BTI 646
+</pre></BODY></HTML>

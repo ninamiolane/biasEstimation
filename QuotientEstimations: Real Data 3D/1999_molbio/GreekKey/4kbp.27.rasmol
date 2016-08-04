@@ -1,0 +1,74 @@
+#!rasmol -script
+# File: 4kbp.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "4kbp"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ARG113D
+color atoms [0,255,255]
+select PHE114D
+color atoms [0,255,255]
+select SER115D
+color atoms [0,255,255]
+select PHE116D
+color atoms [0,255,255]
+select ALA41D
+color atoms [0,255,255]
+select MET42D
+color atoms [0,255,255]
+select ILE43D
+color atoms [0,255,255]
+select ILE44D
+color atoms [0,255,255]
+select SER45D
+color atoms [0,255,255]
+select THR90D
+color atoms [0,255,255]
+select THR91D
+color atoms [0,255,255]
+select ILE92D
+color atoms [0,255,255]
+select LEU95D
+color atoms [0,255,255]
+select TYR102D
+color atoms [0,255,255]
+select TYR103D
+color atoms [0,255,255]
+select GLU104D
+color atoms [0,255,255]
+select VAL30D
+color atoms [0,255,255]
+select HIS31D
+color atoms [0,255,255]
+select ILE32D
+color atoms [0,255,255]
+select THR33D
+color atoms [0,255,255]
+select all

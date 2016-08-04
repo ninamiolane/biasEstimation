@@ -1,0 +1,87 @@
+Model : MOTIF
+Scene : 1HBG
+*** Frame parameters ***
+   Maximum error on Position for frames ( eps ) :   1.5000 
+   Variance on Positions for frames     :   1.0000 
+   Variance on Orientations for frames  :   0.4000 
+*** Geometric Hashing step ***
+   Minimal score for matches : 5
+   Hash factor :   4.0000
+   Hidden parameters : bounds
+   Global mode.
+*** Clustering ***
+   Threshold on Mahalanobis distance : Chi =   4.0000
+   Threshold on the number of matches : fixed to 3
+*** Verification ***
+   Threshold on Mahalanobis distance : Chi =   4.0000
+   Threshold on Euclidien distance : fixed to 10 *   1.5000 =  15.0000
+   Threshold on angular distance : fixed to PI/2
+   Threshold on the number of matches : fixed to 3
+
+** Reading and Translating model AminoAcids into Frames
+Reading : MOTIF 
+Reading : 1HBG 
+
+** Preprocessing model
+
+Preprocessing done :
+     210   Couples indexed
+     0   Couples rejected
+     1928   Entries in Htable
+
+** Recognition step using Geometric Hashing
+
+** Filtering Matches according to MinScore
+10 matches found :
+
+MOTIF - 1HBG
+A   97 ASN  -     102 TYR  :  11 - 1.658711
+A   62 VAL  -      62 VAL  :  11 - 1.591558
+A   66 LEU  -      66 ILE  :  9 - 1.729260
+A  101 LEU  -     106 LEU  :  9 - 1.845878
+A   58 HIS  -      58 LEU  :  8 - 2.078696
+A   98 PHE  -     103 PHE  :  7 - 1.982615
+A   86 LEU  -      89 ARG  :  6 - 2.704817
+A   65 ALA  -      65 GLN  :  6 - 2.228725
+A   66 LEU  -      11 ALA  :  6 - 2.253498
+A   83 LEU  -      86 VAL  :  6 - 2.327897
+
+** Clustering and filtering of matches
+1 Cluster found :
+
+MOTIF - 1HBG
+
+Cluster  :  6 - 0.731639
+ -0.297042    0.201896   -0.066931   -2.740818    8.740630   22.120397  
+
+A   97 ASN  -     102 TYR
+A   66 LEU  -      66 ILE
+A  101 LEU  -     106 LEU
+A   58 HIS  -      58 LEU
+A   86 LEU  -      89 ARG
+A   65 ALA  -      65 GLN
+
+** Verification step
+1 Remaining Clusters
+
+MOTIF - 1HBG
+
+Cluster 0  --- Score : 14
+ -0.387224    0.099612   -0.070073   -4.433167    9.873735   21.026320  
+
+A  101 LEU  --    106 LEU :   0.9627    0.6166  Pi/  9.8398
+A   98 PHE  --    103 PHE :   0.6093    0.9169  Pi/ 31.6269
+A   97 ASN  --    102 TYR :   1.0328    0.5782  Pi/  8.1685
+A   93 VAL  --     98 ILE :   2.2800    1.3542  Pi/  3.6047
+A   91 LEU  --     93 TYR :   1.4083    2.0995  Pi/  5.1116
+A   87 HIS  --     90 HIS :   1.0989    1.2957  Pi/  6.2943
+A   86 LEU  --     89 ARG :   1.6337    0.7279  Pi/  5.9678
+A   83 LEU  --     86 VAL :   2.1194    1.1608  Pi/  4.6575
+A   66 LEU  --     66 ILE :   0.3926    0.5819  Pi/ 26.2045
+A   65 ALA  --     65 GLN :   0.5540    0.7097  Pi/ 21.1557
+A   62 VAL  --     62 VAL :   0.3491    0.3739  Pi/ 24.2665
+A   61 LYS  --     61 LYS :   0.6202    0.1963  Pi/ 14.1789
+A   58 HIS  --     58 LEU :   0.4730    0.8150  Pi/ 14.7239
+A   42 TYR  --     44 VAL :   2.2474    0.8787  Pi/  4.4735
+   RMM :   1.3136 ---  RMS distance :   0.9932
+   Angular RMS : Pi /   6.7650 =   0.4644

@@ -1,0 +1,112 @@
+#!rasmol -script
+# File: 1boy.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1boy"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ALA8 
+color atoms [255,165,0]
+select ALA9 
+color atoms [255,165,0]
+select TYR10 
+color atoms [255,165,0]
+select THR13 
+color atoms [255,165,0]
+select TRP14 
+color atoms [255,165,0]
+select LYS15 
+color atoms [255,165,0]
+select ILE22 
+color atoms [255,165,0]
+select LEU23 
+color atoms [255,165,0]
+select GLU24 
+color atoms [255,165,0]
+select TRP25 
+color atoms [255,165,0]
+select GLU26 
+color atoms [255,165,0]
+select VAL36 
+color atoms [255,165,0]
+select GLN37 
+color atoms [255,165,0]
+select ILE38 
+color atoms [255,165,0]
+select SER39 
+color atoms [255,165,0]
+select TRP45 
+color atoms [255,165,0]
+select LYS46 
+color atoms [255,165,0]
+select SER47 
+color atoms [255,165,0]
+select LYS48 
+color atoms [255,165,0]
+select GLU56 
+color atoms [255,165,0]
+select CYS57 
+color atoms [255,165,0]
+select ASP58 
+color atoms [255,165,0]
+select LEU59 
+color atoms [255,165,0]
+select ASP66 
+color atoms [255,165,0]
+select VAL67 
+color atoms [255,165,0]
+select LYS68 
+color atoms [255,165,0]
+select GLN69 
+color atoms [255,165,0]
+select THR70 
+color atoms [255,165,0]
+select TYR71 
+color atoms [255,165,0]
+select LEU72 
+color atoms [255,165,0]
+select ALA73 
+color atoms [255,165,0]
+select ARG74 
+color atoms [255,165,0]
+select VAL75 
+color atoms [255,165,0]
+select TYR94 
+color atoms [255,165,0]
+select GLU95 
+color atoms [255,165,0]
+select GLU99 
+color atoms [255,165,0]
+select PHE100 
+color atoms [255,165,0]
+select THR101 
+color atoms [255,165,0]
+select PRO102 
+color atoms [255,165,0]
+select all

@@ -1,0 +1,110 @@
+#!rasmol -script
+# File: Match.motif.4HHB.3.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.motif.4HHB.3"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select TYR42A
+color atoms [255,165,0]
+select PHE41B
+color atoms [0,255,255]
+select PHE43A
+color atoms [255,165,0]
+select PHE42B
+color atoms [0,255,255]
+select HIS45A
+color atoms [255,165,0]
+select SER44B
+color atoms [0,255,255]
+select PHE46A
+color atoms [255,165,0]
+select PHE45B
+color atoms [0,255,255]
+select HIS58A
+color atoms [255,165,0]
+select HIS63B
+color atoms [0,255,255]
+select LYS61A
+color atoms [255,165,0]
+select LYS66B
+color atoms [0,255,255]
+select VAL62A
+color atoms [255,165,0]
+select VAL67B
+color atoms [0,255,255]
+select ALA65A
+color atoms [255,165,0]
+select ALA70B
+color atoms [0,255,255]
+select LEU66A
+color atoms [255,165,0]
+select PHE71B
+color atoms [0,255,255]
+select LEU83A
+color atoms [255,165,0]
+select LEU88B
+color atoms [0,255,255]
+select LEU86A
+color atoms [255,165,0]
+select LEU91B
+color atoms [0,255,255]
+select HIS87A
+color atoms [255,165,0]
+select HIS92B
+color atoms [0,255,255]
+select LEU91A
+color atoms [255,165,0]
+select LEU96B
+color atoms [0,255,255]
+select VAL93A
+color atoms [255,165,0]
+select VAL98B
+color atoms [0,255,255]
+select ASN97A
+color atoms [255,165,0]
+select ASN102B
+color atoms [0,255,255]
+select PHE98A
+color atoms [255,165,0]
+select PHE103B
+color atoms [0,255,255]
+select LEU101A
+color atoms [255,165,0]
+select LEU106B
+color atoms [0,255,255]
+select VAL132A
+color atoms [255,165,0]
+select VAL137B
+color atoms [0,255,255]
+select LEU136A
+color atoms [255,165,0]
+select LEU141B
+color atoms [0,255,255]
+select all

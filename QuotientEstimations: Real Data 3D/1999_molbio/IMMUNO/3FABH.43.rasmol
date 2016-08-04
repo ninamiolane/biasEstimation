@@ -1,0 +1,74 @@
+#!rasmol -script
+# File: 3FABH.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "3FABH"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select PHE29H
+color atoms [255,165,0]
+select TYR32H
+color atoms [255,165,0]
+select TYR33H
+color atoms [255,165,0]
+select SER34H
+color atoms [255,165,0]
+select THR35H
+color atoms [255,165,0]
+select TRP36H
+color atoms [255,165,0]
+select VAL37H
+color atoms [255,165,0]
+select ARG38H
+color atoms [255,165,0]
+select LEU45H
+color atoms [255,165,0]
+select GLU46H
+color atoms [255,165,0]
+select TRP47H
+color atoms [255,165,0]
+select PHE52H
+color atoms [255,165,0]
+select ALA91H
+color atoms [255,165,0]
+select VAL92H
+color atoms [255,165,0]
+select TYR93H
+color atoms [255,165,0]
+select TYR94H
+color atoms [255,165,0]
+select CYS95H
+color atoms [255,165,0]
+select ALA96H
+color atoms [255,165,0]
+select VAL106H
+color atoms [255,165,0]
+select TRP107H
+color atoms [255,165,0]
+select all

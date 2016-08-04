@@ -1,0 +1,62 @@
+HEADER    DNA-BINDING REGULATORY PROTEIN          28-AUG-92   1CMB      1CMB   2
+COMPND    MET APO-REPRESSOR (METJ)                                      1CMB   3
+SOURCE    (ESCHERICHIA COLI)                                            1CMB   4
+AUTHOR    J.B.RAFFERTY,K.PHILLIPS,S.E.V.PHILLIPS                        1CMB   5
+REVDAT   1   31-OCT-93 1CMB    0                                        1CMB   6
+JRNL        AUTH   J.B.RAFFERTY,W.S.SOMERS,I.SAINT-GIRONS,              1CMB   7
+JRNL        AUTH 2 S.E.V.PHILLIPS                                       1CMB   8
+JRNL        TITL   THREE DIMENSIONAL CRYSTAL STRUCTURES OF              1CMB   9
+JRNL        TITL 2 ESCHERICHIA COLI MET REPRESSOR WITH AND WITHOUT      1CMB  10
+JRNL        TITL 3 COREPRESSOR                                          1CMB  11
+JRNL        REF    NATURE                        V. 341   705 1989      1CMB  12
+JRNL        REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  1CMB  13
+REMARK   1                                                              1CMB  14
+REMARK   2                                                              1CMB  15
+REMARK   2 RESOLUTION. 1.8  ANGSTROMS.                                  1CMB  16
+REMARK   3                                                              1CMB  17
+REMARK   3 REFINEMENT.                                                  1CMB  18
+REMARK   3   PROGRAM                    PROLSQ                          1CMB  19
+REMARK   3   AUTHORS                    KONNERT,HENDRICKSON             1CMB  20
+REMARK   3   R VALUE                    0.196 (ALL DATA)                1CMB  21
+REMARK   3   R VALUE                    0.186 (FOR F>3SIGMA(F))         1CMB  22
+REMARK   3   RMSD BOND DISTANCES        0.012  ANGSTROMS                1CMB  23
+REMARK   3   RMSD BOND ANGLE DISTANCES  0.040  ANGSTROMS                1CMB  24
+REMARK   3   RMSD PLANES                0.011  ANGSTROMS                1CMB  25
+REMARK   3   B FACTORS                  5.7 ANGSTROMS**2                1CMB  26
+REMARK   4                                                              1CMB  27
+REMARK   4 THE ASYMMETRIC UNIT IS COMPRISED OF ONE REPRESSOR DIMER      1CMB  28
+REMARK   4 (CHAINS A AND B) WITH APPROXIMATE TWO-FOLD SYMMETRY.         1CMB  29
+REMARK   5                                                              1CMB  30
+REMARK   5 ONE OF THE FLEXIBLE HAIRPIN LOOPS 12B - 20B IS SEVERELY      1CMB  31
+REMARK   5 DISORDERED.  THE CONFORMATION IN THE COORDINATES IS POOR,    1CMB  32
+REMARK   5 BUT PROBABLY APPROXIMATES TO A MAJOR COMPONENT.  THE LOOP    1CMB  33
+REMARK   5 IS UNLIKE THE EQUIVALENT ONE (12A - 20A) IN THE FIRST        1CMB  34
+REMARK   5 SUBUNIT.                                                     1CMB  35
+SEQRES   1 A  104  ALA GLU TRP SER GLY GLU TYR ILE SER PRO TYR ALA GLU  1CMB  36
+SEQRES   2 A  104  HIS GLY LYS LYS SER GLU GLN VAL LYS LYS ILE THR VAL  1CMB  37
+SEQRES   3 A  104  SER ILE PRO LEU LYS VAL LEU LYS ILE LEU THR ASP GLU  1CMB  38
+SEQRES   4 A  104  ARG THR ARG ARG GLN VAL ASN ASN LEU ARG HIS ALA THR  1CMB  39
+SEQRES   5 A  104  ASN SER GLU LEU LEU CYS GLU ALA PHE LEU HIS ALA PHE  1CMB  40
+SEQRES   6 A  104  THR GLY GLN PRO LEU PRO ASP ASP ALA ASP LEU ARG LYS  1CMB  41
+SEQRES   7 A  104  GLU ARG SER ASP GLU ILE PRO GLU ALA ALA LYS GLU ILE  1CMB  42
+SEQRES   8 A  104  MET ARG GLU MET GLY ILE ASN PRO GLU THR TRP GLU TYR  1CMB  43
+SEQRES   1 B  104  ALA GLU TRP SER GLY GLU TYR ILE SER PRO TYR ALA GLU  1CMB  44
+SEQRES   2 B  104  HIS GLY LYS LYS SER GLU GLN VAL LYS LYS ILE THR VAL  1CMB  45
+SEQRES   3 B  104  SER ILE PRO LEU LYS VAL LEU LYS ILE LEU THR ASP GLU  1CMB  46
+SEQRES   4 B  104  ARG THR ARG ARG GLN VAL ASN ASN LEU ARG HIS ALA THR  1CMB  47
+SEQRES   5 B  104  ASN SER GLU LEU LEU CYS GLU ALA PHE LEU HIS ALA PHE  1CMB  48
+SEQRES   6 B  104  THR GLY GLN PRO LEU PRO ASP ASP ALA ASP LEU ARG LYS  1CMB  49
+SEQRES   7 B  104  GLU ARG SER ASP GLU ILE PRO GLU ALA ALA LYS GLU ILE  1CMB  50
+SEQRES   8 B  104  MET ARG GLU MET GLY ILE ASN PRO GLU THR TRP GLU TYR  1CMB  51
+HET    PO4      1       5     PHOSPHATE GROUP                           1CMB  52
+FORMUL   3  PO4    O4 P1                                                1CMB  53
+FORMUL   4  HOH   *88(H2 O1)                                            1CMB  54
+HELIX    1 A   LEU A   30  VAL A   45  1                                1CMB  55
+HELIX    2 B   ASN A   53  THR A   66  1                                1CMB  56
+HELIX    3 C   GLU A   86  GLU A   94  1                                1CMB  57
+HELIX    4 A'  LEU B   30  VAL B   45  1                                1CMB  58
+HELIX    5 B'  ASN B   53  THR B   66  1                                1CMB  59
+HELIX    6 C'  GLU B   86  GLU B   94  1                                1CMB  60
+SHEET    1 S1  2 LYS A  22  ILE A  28 -1                                1CMB  61
+SHEET    2 S1  2 LYS B  22  ILE B  28 -1  O  ILE B  28   N  LYS A  22   1CMB  62
+TURN     1 TRN HIS A  14  LYS A  17     TYPE II'                        1CMB  63

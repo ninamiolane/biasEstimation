@@ -1,0 +1,70 @@
+#!rasmol -script
+# File: 3FABL.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "3FABL"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select GLN16L
+color atoms [0,255,255]
+select ARG17L
+color atoms [0,255,255]
+select VAL18L
+color atoms [0,255,255]
+select THR19L
+color atoms [0,255,255]
+select ILE20L
+color atoms [0,255,255]
+select SER69L
+color atoms [0,255,255]
+select ALA70L
+color atoms [0,255,255]
+select THR71L
+color atoms [0,255,255]
+select LEU72L
+color atoms [0,255,255]
+select ALA73L
+color atoms [0,255,255]
+select ILE74L
+color atoms [0,255,255]
+select THR75L
+color atoms [0,255,255]
+select PHE61L
+color atoms [0,255,255]
+select SER62L
+color atoms [0,255,255]
+select VAL63L
+color atoms [0,255,255]
+select SER64L
+color atoms [0,255,255]
+select LYS65L
+color atoms [0,255,255]
+select SER66L
+color atoms [0,255,255]
+select all

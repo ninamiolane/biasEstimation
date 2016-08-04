@@ -1,0 +1,68 @@
+#!rasmol -script
+# File: 2lzm.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "2lzm"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ILE3 
+color atoms [0,255,255]
+select PHE4 
+color atoms [0,255,255]
+select GLU5 
+color atoms [0,255,255]
+select MET6 
+color atoms [0,255,255]
+select LEU7 
+color atoms [0,255,255]
+select ARG8 
+color atoms [0,255,255]
+select ILE9 
+color atoms [0,255,255]
+select ASP10 
+color atoms [0,255,255]
+select GLU11 
+color atoms [0,255,255]
+select THR26 
+color atoms [0,255,255]
+select ILE27 
+color atoms [0,255,255]
+select GLY28 
+color atoms [0,255,255]
+select HIS31 
+color atoms [0,255,255]
+select LEU32 
+color atoms [0,255,255]
+select LEU33 
+color atoms [0,255,255]
+select THR59 
+color atoms [0,255,255]
+select ASP61 
+color atoms [0,255,255]
+select all

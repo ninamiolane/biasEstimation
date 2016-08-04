@@ -1,0 +1,21 @@
+backbone 0.2
+connect true
+color chain
+spacefill 0.2
+background white
+
+select 15-36
+color orange
+
+select 66-87
+color cyan
+
+set ambient 60
+set specular on
+set shadow on 
+
+select 7,8,9,11
+color yellow
+
+select 61,62,63,64
+color green

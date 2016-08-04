@@ -1,0 +1,96 @@
+#!rasmol -script
+# File: 1AXC.pdb.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1AXC.pdb"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select CYS135C
+color atoms [0,255,255]
+select VAL136C
+color atoms [0,255,255]
+select VAL137C
+color atoms [0,255,255]
+select LYS138C
+color atoms [0,255,255]
+select VAL225C
+color atoms [0,255,255]
+select THR226C
+color atoms [0,255,255]
+select LEU227C
+color atoms [0,255,255]
+select SER228C
+color atoms [0,255,255]
+select MET229C
+color atoms [0,255,255]
+select SER230C
+color atoms [0,255,255]
+select LEU37C
+color atoms [0,255,255]
+select GLN38C
+color atoms [0,255,255]
+select SER39C
+color atoms [0,255,255]
+select MET40C
+color atoms [0,255,255]
+select ASP29C
+color atoms [0,255,255]
+select SER46C
+color atoms [0,255,255]
+select LEU47C
+color atoms [0,255,255]
+select VAL48C
+color atoms [0,255,255]
+select GLN49C
+color atoms [0,255,255]
+select LEU50C
+color atoms [0,255,255]
+select THR51C
+color atoms [0,255,255]
+select LEU247C
+color atoms [0,255,255]
+select LYS248C
+color atoms [0,255,255]
+select TYR249C
+color atoms [0,255,255]
+select TYR250C
+color atoms [0,255,255]
+select LEU251C
+color atoms [0,255,255]
+select LEU235C
+color atoms [0,255,255]
+select VAL236C
+color atoms [0,255,255]
+select VAL237C
+color atoms [0,255,255]
+select GLU238C
+color atoms [0,255,255]
+select TYR239C
+color atoms [0,255,255]
+select all

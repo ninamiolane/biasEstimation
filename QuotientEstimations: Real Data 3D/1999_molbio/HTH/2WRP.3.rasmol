@@ -1,0 +1,70 @@
+#!rasmol -script
+# File: 2WRP.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "2WRP"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select HIS16R
+color atoms [255,165,0]
+select GLN17R
+color atoms [255,165,0]
+select GLU18R
+color atoms [255,165,0]
+select TRP19R
+color atoms [255,165,0]
+select LEU20R
+color atoms [255,165,0]
+select ARG21R
+color atoms [255,165,0]
+select PHE22R
+color atoms [255,165,0]
+select VAL23R
+color atoms [255,165,0]
+select ASP24R
+color atoms [255,165,0]
+select HIS35R
+color atoms [255,165,0]
+select LEU36R
+color atoms [255,165,0]
+select PRO37R
+color atoms [255,165,0]
+select LEU38R
+color atoms [255,165,0]
+select LEU39R
+color atoms [255,165,0]
+select ASN40R
+color atoms [255,165,0]
+select LEU41R
+color atoms [255,165,0]
+select MET42R
+color atoms [255,165,0]
+select LEU43R
+color atoms [255,165,0]
+select all

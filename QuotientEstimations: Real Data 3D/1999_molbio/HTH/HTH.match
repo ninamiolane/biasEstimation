@@ -1,0 +1,66 @@
+EPS_dist = 1.2
+H_dist = 2.4
+
+EPS_euler = 26.805  grad
+H_euler = 66.6667  grad
+
+EPS_theta = 21.444  grad
+H_theta = 50  grad
+
+../2CRO 
+../2WRP 
+........................................................................................................................
+Indexation done :
+     3854   Couples
+     138486   Entries in Htable
+
+../2CRO - ../2WRP
+26  - 77  :  score 28
+32  - 83  :  score 28
+35  - 86  :  score 28
+30  - 81  :  score 27
+24  - 75  :  score 27
+18  - 69  :  score 26
+Clustering
+Cluster 2
+score : 5
+Rotation :-2.47127  0.393163  0.415166  
+Translation :-17.7376  -1.64413  -0.106903  
+18 - 69
+24 - 75
+30 - 81
+32 - 83
+26 - 77
+Cluster 1
+score : 28
+Rotation :-2.53359  0.292088  0.345771  
+Translation :-17.9652  -1.94092  -0.231827  
+9 ARG - 63 ARG
+11 ILE - 64 GLY
+15 MET - 66 MET
+16 THR - 67 SER
+17 GLN - 68 GLN
+18 THR - 69 ARG
+19 GLU - 70 GLU
+20 LEU - 71 LEU
+21 ALA - 72 LYS
+22 THR - 73 ASN
+23 LYS - 74 GLU
+24 ALA - 75 LEU
+25 GLY - 76 GLY
+26 VAL - 77 ALA
+27 LYS - 78 GLY
+28 GLN - 79 ILE
+29 GLN - 80 ALA
+30 SER - 81 THR
+31 ILE - 82 ILE
+32 GLN - 83 THR
+33 LEU - 84 ARG
+34 ILE - 85 GLY
+35 GLU - 86 SER
+36 ALA - 87 ASN
+37 GLY - 88 SER
+39 THR - 1 TRP
+43 ARG - 50 ALA
+45 LEU - 53 THR
+fini

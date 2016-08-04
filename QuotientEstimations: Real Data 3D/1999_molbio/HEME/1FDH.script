@@ -1,0 +1,57 @@
+#!rasmol -script
+# File: 1FHD.script
+# Creator: RasMol Version 2.5
+
+background [0,0,0]
+load pdb "1FDH"
+set ambient 60
+set specular off
+
+reset
+slab off
+rotate z 105
+rotate y -35
+rotate x -65
+
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+colour white
+
+# Atoms
+select (atomno>=1) and (atomno<=1069)
+colour atoms [0,0,255]
+select (atomno>=1071) and (atomno<=1113)
+colour atoms [0,255,171]
+select (atomno>=1114) and (atomno<=2246)
+colour atoms [169,255,0]
+select (atomno>=2248) and (atomno<=2290)
+colour atoms [255,0,0]
+select all
+spacefill off
+
+# Bonds
+wireframe on
+
+# Ribbons
+ribbons off
+
+# Backbone
+backbone off
+
+# Labels
+labels off
+
+ssbonds off
+hbonds off

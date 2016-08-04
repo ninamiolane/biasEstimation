@@ -1,0 +1,98 @@
+#!rasmol -script
+# File: Match.1ORC.1R69.0.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.1ORC.1R69.0"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select GLN16 
+color atoms [255,165,0]
+select LEU45 
+color atoms [0,255,255]
+select THR17 
+color atoms [255,165,0]
+select PRO46 
+color atoms [0,255,255]
+select LYS18 
+color atoms [255,165,0]
+select GLU47 
+color atoms [0,255,255]
+select THR19 
+color atoms [255,165,0]
+select LEU48 
+color atoms [0,255,255]
+select ALA20 
+color atoms [255,165,0]
+select ALA49 
+color atoms [0,255,255]
+select LYS21 
+color atoms [255,165,0]
+select SER50 
+color atoms [0,255,255]
+select ASP22 
+color atoms [255,165,0]
+select ALA51 
+color atoms [0,255,255]
+select LEU23 
+color atoms [255,165,0]
+select LEU52 
+color atoms [0,255,255]
+select GLY24 
+color atoms [255,165,0]
+select GLY53 
+color atoms [0,255,255]
+select VAL25 
+color atoms [255,165,0]
+select VAL54 
+color atoms [0,255,255]
+select TYR26 
+color atoms [255,165,0]
+select SER55 
+color atoms [0,255,255]
+select GLN27 
+color atoms [255,165,0]
+select VAL56 
+color atoms [0,255,255]
+select SER28 
+color atoms [255,165,0]
+select ASP57 
+color atoms [0,255,255]
+select ALA29 
+color atoms [255,165,0]
+select TRP58 
+color atoms [0,255,255]
+select ILE30 
+color atoms [255,165,0]
+select LEU59 
+color atoms [0,255,255]
+select ASN31 
+color atoms [255,165,0]
+select LEU60 
+color atoms [0,255,255]
+select all

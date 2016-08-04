@@ -1,0 +1,97 @@
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: boot
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: mgcv
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+This is mgcv 1.8-7. For overview type 'help("mgcv-package")'.
+the integral is probably divergentError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+maximum number of subdivisions reachedError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+maximum number of subdivisions reachedError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+maximum number of subdivisions reachedError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+the integral is probably divergentError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+the integral is probably divergentError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+maximum number of subdivisions reachedError in baby_SS_eta0(v, x) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SS -> apply -> FUN -> baby_SS_eta0
+Execution halted
+the integral is probably divergentError in baby_SF(coef, u[1:2], u[3]) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SF -> apply -> FUN -> baby_SF
+Execution halted
+maximum number of subdivisions reachedError in baby_SF(coef, u[1:2], u[3]) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SF -> apply -> FUN -> baby_SF
+Execution halted
+maximum number of subdivisions reachedError in baby_SF(coef, u[1:2], u[3]) : object 'L' not found
+Calls: assign ... objective -> mLogLikelihood_SF -> apply -> FUN -> baby_SF
+Execution halted
+slurmstepd: error: *** JOB 3414628 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-1 ***
+slurmstepd: error: *** JOB 3414624 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-2-9 ***
+*
+slurmstepd: error: *** JOB 3414631 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414626 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-2-9 ***
+
+slurmstepd: error: *** JOB 3414642 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-14 ***
+slurmstepd: error: *** JOB 3414634 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414633 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414639 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414640 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414636 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414641 CANCELLED AT 2015-09-23T23:39:35 DUE TO TIME LIMIT on sh-3-10 ***
+slurmstepd: error: *** JOB 3414662 CANCELLED AT 2015-09-23T23:48:39 DUE TO TIME LIMIT on sh-2-14 ***
+slurmstepd: error: *** JOB 3414660 CANCELLED AT 2015-09-23T23:48:39 DUE TO TIME LIMIT on sh-2-14 ***
+slurmstepd: error: *** JOB 3414661 CANCELLED AT 2015-09-23T23:48:39 DUE TO TIME LIMIT on sh-2-14 ***
+slurmstepd: error: *** JOB 3414656 CANCELLED AT 2015-09-23T23:48:39 DUE TO TIME LIMIT on sh-2-14 ***
+slurmstepd: error: *** JOB 3414657 CANCELLED AT 2015-09-23T23:48:39 DUE TO TIME LIMIT on sh-2-14 ***
+slurmstepd: error: *** JOB 3414659 CANCELLED AT 2015-09-23T23:48:40 DUE TO TIME LIMIT on sh-2-14 ***

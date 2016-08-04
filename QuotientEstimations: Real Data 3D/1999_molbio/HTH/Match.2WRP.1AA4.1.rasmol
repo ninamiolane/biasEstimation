@@ -1,0 +1,162 @@
+#!rasmol -script
+# File: Match.2WRP.1AA4.1.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.2WRP.1AA4.1"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select GLU47R
+color atoms [255,165,0]
+select TYR16 
+color atoms [0,255,255]
+select ARG48R
+color atoms [255,165,0]
+select GLU17 
+color atoms [0,255,255]
+select GLU49R
+color atoms [255,165,0]
+select ASP18 
+color atoms [0,255,255]
+select ALA50R
+color atoms [255,165,0]
+select PHE19 
+color atoms [0,255,255]
+select LEU51R
+color atoms [255,165,0]
+select GLN20 
+color atoms [0,255,255]
+select GLY52R
+color atoms [255,165,0]
+select LYS21 
+color atoms [0,255,255]
+select THR53R
+color atoms [255,165,0]
+select VAL22 
+color atoms [0,255,255]
+select ARG54R
+color atoms [255,165,0]
+select TYR23 
+color atoms [0,255,255]
+select VAL55R
+color atoms [255,165,0]
+select ASN24 
+color atoms [0,255,255]
+select ARG56R
+color atoms [255,165,0]
+select ALA25 
+color atoms [0,255,255]
+select ILE57R
+color atoms [255,165,0]
+select ILE26 
+color atoms [0,255,255]
+select VAL58R
+color atoms [255,165,0]
+select ALA27 
+color atoms [0,255,255]
+select GLU59R
+color atoms [255,165,0]
+select LEU28 
+color atoms [0,255,255]
+select GLU60R
+color atoms [255,165,0]
+select LYS29 
+color atoms [0,255,255]
+select LEU61R
+color atoms [255,165,0]
+select LEU30 
+color atoms [0,255,255]
+select LEU62R
+color atoms [255,165,0]
+select ARG31 
+color atoms [0,255,255]
+select ARG63R
+color atoms [255,165,0]
+select GLU32 
+color atoms [0,255,255]
+select ARG69R
+color atoms [255,165,0]
+select PHE89 
+color atoms [0,255,255]
+select ASN73R
+color atoms [255,165,0]
+select GLU93 
+color atoms [0,255,255]
+select GLU74R
+color atoms [255,165,0]
+select PRO94 
+color atoms [0,255,255]
+select ILE79R
+color atoms [255,165,0]
+select PHE108 
+color atoms [0,255,255]
+select ALA80R
+color atoms [255,165,0]
+select SER109 
+color atoms [0,255,255]
+select THR81R
+color atoms [255,165,0]
+select LEU110 
+color atoms [0,255,255]
+select ILE82R
+color atoms [255,165,0]
+select GLY111 
+color atoms [0,255,255]
+select THR83R
+color atoms [255,165,0]
+select GLY112 
+color atoms [0,255,255]
+select ARG84R
+color atoms [255,165,0]
+select VAL113 
+color atoms [0,255,255]
+select GLY85R
+color atoms [255,165,0]
+select THR114 
+color atoms [0,255,255]
+select SER86R
+color atoms [255,165,0]
+select ALA115 
+color atoms [0,255,255]
+select ASN87R
+color atoms [255,165,0]
+select VAL116 
+color atoms [0,255,255]
+select SER88R
+color atoms [255,165,0]
+select GLN117 
+color atoms [0,255,255]
+select LEU89R
+color atoms [255,165,0]
+select GLU118 
+color atoms [0,255,255]
+select LYS90R
+color atoms [255,165,0]
+select MET119 
+color atoms [0,255,255]
+select all

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+RASMOLPROG=rasmol24
+export RASMOLPROG
+
+demo.HTH
+
+demo.HEME
+

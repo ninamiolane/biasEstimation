@@ -1,0 +1,55 @@
+#!rasmol -script
+# File: HTH.script
+# Creator: RasMol Version 2.5
+
+background [255,255,255]
+load pdb "supperpose"
+set ambient 60
+set specular on
+set specpower 8
+
+reset
+slab off
+rotate z 9
+rotate y -21
+rotate x 112
+
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+colour white
+
+# Atoms
+select (atomno>=137) and (atomno<=301)
+colour atoms [255,165,0]
+select (atomno>=527) and (atomno<=688)
+colour atoms [0,255,255]
+select all
+spacefill 50
+set shadow on
+
+# Bonds
+wireframe on
+
+# Ribbons
+ribbons off
+
+# Backbone
+backbone 50
+
+# Labels
+labels off
+
+ssbonds off
+hbonds off

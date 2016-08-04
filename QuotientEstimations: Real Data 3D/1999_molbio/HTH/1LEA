@@ -1,0 +1,1256 @@
+<!-- send-pdb -->
+<!-- Jaime Prilusky Jul 1996 -->
+<BODY BGCOLOR="#FFFFFF"><HTML><TITLE>PDB Full entry for 1LEA</TITLE>
+<base href="http://www.pdb.bnl.gov">
+<PRE>HEADER    TRANSCRIPTION REGULATION                11-MAY-94   1LEA      1LEA   2
+COMPND    LEXA REPRESSOR DNA BINDING DOMAIN                             1LEA   3
+COMPND   2 (NMR, MINIMIZED AVERAGE STRUCTURE)                           1LEA   4
+SOURCE    (ESCHERICHIA COLI)                                            1LEA   5
+EXPDTA    NMR                                                           1LEA   6
+AUTHOR    R.H.FOGH,G.OTTLEBEN,H.RUETERJANS,M.SCHNARR,R.BOELENS,         1LEA   7
+AUTHOR   2 R.KAPTEIN                                                    1LEA   8
+REVDAT   1   31-AUG-94 1LEA    0                                        1LEA   9
+JRNL        AUTH   R.H.FOGH,G.OTTLEBEN,H.RUETERJANS,M.SCHNARR,          1LEA  10
+JRNL        AUTH 2 R.BOELENS,R.KAPTEIN                                  1LEA  11
+JRNL        TITL   SOLUTION STRUCTURE OF THE LEXA REPRESSOR DNA         1LEA  12
+JRNL        TITL 2 BINDING DETERMINED BY 1H NMR SPECTROSCOPY            1LEA  13
+JRNL        REF    TO BE PUBLISHED                                      1LEA  14
+JRNL        REFN                                                  0353  1LEA  15
+REMARK   1                                                              1LEA  16
+REMARK   2                                                              1LEA  17
+REMARK   2 RESOLUTION. NOT APPLICABLE.  SEE REMARK 4.                   1LEA  18
+REMARK   3                                                              1LEA  19
+REMARK   3 REFINEMENT. NONE.                                            1LEA  20
+REMARK   4                                                              1LEA  21
+REMARK   4 THESE COORDINATES WERE GENERATED FROM SOLUTION NMR DATA.     1LEA  22
+REMARK   4 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT *CRYST1* AND      1LEA  23
+REMARK   4 *SCALE* RECORDS BE INCLUDED, BUT THE VALUES OF THESE         1LEA  24
+REMARK   4 RECORDS ARE MEANINGLESS.                                     1LEA  25
+REMARK   5                                                              1LEA  26
+REMARK   5 EXPERIMENTS WERE DONE ON A DOMAIN CONSISTING OF RESIDUES 1   1LEA  27
+REMARK   5 - 84 OF LEXA, BUT A STRUCTURE WAS GENERATED ONLY FOR         1LEA  28
+REMARK   5 RESIDUES 1 - 72, SINCE NO USEFUL RESTRAINTS INVOLVING        1LEA  29
+REMARK   5 RESIDUES 73 - 84 WERE FOUND.  THE CONFORMATION OF RESIDUES   1LEA  30
+REMARK   5 1 - 3 AND 70 - 72 IS ILL-DEFINED IN THE GENERATED            1LEA  31
+REMARK   5 STRUCTURES, AS IS THE CONFORMATION FOR A NUMBER OF           1LEA  32
+REMARK   5 (SURFACE) SIDE CHAINS.                                       1LEA  33
+REMARK   6                                                              1LEA  34
+REMARK   6 A TOTAL OF 80 STRUCTURES WERE GENERATED WITH METRIC MATRIX   1LEA  35
+REMARK   6 DISTANCE GEOMETRY USING DISTANCES OBTAINED FROM INITIAL NOE  1LEA  36
+REMARK   6 BUILD UP RATES.  THE PROGRAM DGII FROM BIOSYM WAS USED, IN   1LEA  37
+REMARK   6 A MODIFIED FORM OF VERSION 2.2.0 BETA.  THE CHIRALITY OF     1LEA  38
+REMARK   6 PROCHIRAL GROUPS WAS LEFT UNDEFINED, TO BE DETERMINED BY     1LEA  39
+REMARK   6 RESTRAINTS TO THE GROUPS ('FLOATING CHIRALITY').  THE        1LEA  40
+REMARK   6 STRUCTURES OBTAINED WERE OPTIMIZED ON DISTANCES AND          1LEA  41
+REMARK   6 CHIRALITIES WITHIN DGII BY SIMULATED ANNEALING WITH A        1LEA  42
+REMARK   6 DISTANCES-ONLY PENALTY FUNCTION.  OF THE INITIAL 80          1LEA  43
+REMARK   6 STRUCTURES, 47 WERE REFINED BY RESTRAINED ENERGY             1LEA  44
+REMARK   6 MINIMIZATION AND DYNAMICS SIMULATION IN VACUO USING THE      1LEA  45
+REMARK   6 PROGRAM DISCOVER, VERSION 2.8, FROM BIOSYM.  THE CVFF FORCE  1LEA  46
+REMARK   6 FIELD WAS USED WITH MORSE, CROSS-CORRELATION,                1LEA  47
+REMARK   6 LENNARD-JONES, AND ELECTROSTATIC FORCES INCLUDED; A          1LEA  48
+REMARK   6 CONSTANT DIELECTRIC; ALL CHARGED GROUPS REPLACED BY NEUTRAL  1LEA  49
+REMARK   6 EQUIVALENTS; AND 13.5 ANGSTROMS DISTANCE CUT-OFF FOR         1LEA  50
+REMARK   6 NON-BONDED INTERACTIONS.  FORCE CONSTANTS FOR DISTANCE       1LEA  51
+REMARK   6 RESTRAINTS WERE 5.0 KCAL MOL-1 A-2.  1400 STEPS OF           1LEA  52
+REMARK   6 RESTRAINED ENERGY MINIMIZATION WERE FOLLOWED BY 1000 0.2FS   1LEA  53
+REMARK   6 STEPS OF RESTRAINED DYNAMICS AT 600K, 3000 0.5FS STEPS       1LEA  54
+REMARK   6 COOLING TO 300K, 3000 1FS STEPS AT 300K AND 1800 STEPS OF    1LEA  55
+REMARK   6 RESTRAINED ENERGY MINIMIZATION.  19 OF THE 47 STRUCTURES     1LEA  56
+REMARK   6 WERE DISCARDED;  THE REMAINING 28 (PROTEIN DATA BANK ENTRY   1LEA  57
+REMARK   6 1LEB) WERE SUPERIMPOSED, AVERAGED, AND THE AVERAGE           1LEA  58
+REMARK   6 STRUCTURE ENERGY MINIMIZED FOR 4000 STEPS TO GIVE THE        1LEA  59
+REMARK   6 STRUCTURE IN THIS ENTRY.                                     1LEA  60
+REMARK   7                                                              1LEA  61
+REMARK   7 NOE BUILD-UPS WERE OBTAINED FROM NOESY SPECTRA RECORDED AT   1LEA  62
+REMARK   7 600MHZ IN H2O AT 293K AND PH5.5, 300MM NACL.  MIXING TIMES   1LEA  63
+REMARK   7 WERE 50 - 200MS.  MEASURED DISTANCES WERE USED AS UPPER      1LEA  64
+REMARK   7 DISTANCE LIMITS, AFTER LENGTHENING BY 20%.  NOES THAT WERE   1LEA  65
+REMARK   7 OBSERVED BUT NOT QUANTIFIED WERE CONVERTED INTO 5.5          1LEA  66
+REMARK   7 ANGSTROMS UPPER DISTANCE LIMITS.  A TOTAL OF 613 DISTANCE    1LEA  67
+REMARK   7 RESTRAINTS WERE USED, DIVIDED INTO 151 INTRA-RESIDUE, 138    1LEA  68
+REMARK   7 SEQUENTIAL (I-J=1), 171 MEDIUM-RANGE (2&LT=I-J&LT=4) AND 153     1LEA  69
+REMARK   7 LONG-RANGE (I-J&GT4) RESTRAINTS.  A FURTHER 127 RESTRAINTS     1LEA  70
+REMARK   7 WERE DEDUCED FROM THE MEASURED ONES AND ADDED TO MINIMIZE    1LEA  71
+REMARK   7 THE UNCERTAINTY ASSOCIATED WITH PSEUDOATOM CORRECTIONS.      1LEA  72
+REMARK   7 FOR 6 RESIDUES, THE DIHEDRAL ANGLE HA-CA-CB-HB TO A          1LEA  73
+REMARK   7 PROCHIRAL BETA PROTON WAS RESTRAINED TO TRANS USING          1LEA  74
+REMARK   7 APPROPRIATE DISTANCE RESTRAINTS.                             1LEA  75
+REMARK   8                                                              1LEA  76
+REMARK   8 THE RMSD (FROM THE AVERAGE) OVER RESIDUES 4 - 69 IS 0.94     1LEA  77
+REMARK   8 ANGSTROMS +/- 0.19 ANGSTROMS FOR ATOMS N, CA, CO, AND 1.57   1LEA  78
+REMARK   8 ANGSTROMS +/- 0.18 ANGSTROMS FOR ALL HEAVY ATOMS.  THE       1LEA  79
+REMARK   8 FINAL DISCOVER ENERGY OF THE STRUCTURES (EXCLUDING           1LEA  80
+REMARK   8 RESTRAINT ENERGIES) IS -48 +/- 14 KCAL/MOLE.  THE AVERAGE    1LEA  81
+REMARK   8 VIOLATION OF THE 719 DISTANCE RESTRAINTS INVOLVING ONLY THE  1LEA  82
+REMARK   8 WELL-DEFINED RESIDUES 4 - 69 WAS 0.009 +/- 0.002 ANGSTROMS,  1LEA  83
+REMARK   8 WHILE THE TEN LARGEST VIOLATIONS IN THE SET OF 28 FINAL      1LEA  84
+REMARK   8 STRUCTURES WERE IN THE RANGE 0.7 - 1.1 ANGSTROMS.            1LEA  85
+REMARK   9                                                              1LEA  86
+REMARK   9 THIS ENTRY CONTAINS ENERGY MINIMIZED AVERAGE OF THE 28       1LEA  87
+REMARK   9 SELECTED STRUCTURES.                                         1LEA  88
+SEQRES   1     84  MET LYS ALA LEU THR ALA ARG GLN GLN GLU VAL PHE ASP  1LEA  89
+SEQRES   2     84  LEU ILE ARG ASP HIS ILE SER GLN THR GLY MET PRO PRO  1LEA  90
+SEQRES   3     84  THR ARG ALA GLU ILE ALA GLN ARG LEU GLY PHE ARG SER  1LEA  91
+SEQRES   4     84  PRO ASN ALA ALA GLU GLU HIS LEU LYS ALA LEU ALA ARG  1LEA  92
+SEQRES   5     84  LYS GLY VAL ILE GLU ILE VAL SER GLY ALA SER ARG GLY  1LEA  93
+SEQRES   6     84  ILE ARG LEU LEU GLN GLU GLU GLU GLU GLY LEU PRO LEU  1LEA  94
+SEQRES   7     84  VAL GLY ARG VAL ALA ALA                              1LEA  95
+HELIX    1  H1 ALA      6  GLN     21  1                                1LEA  96
+HELIX    2  H2 ARG     28  LEU     35  1                                1LEA  97
+HELIX    3  H3 ASN     41  ARG     52  1                                1LEA  98
+SHEET    1  S1 2 ILE    56  ILE    58  0                                1LEA  99
+SHEET    2  S1 2 ILE    66  LEU    68 -1  O  ARG    67   N  GLU    57   1LEA 100
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1  1LEA 101
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1LEA 102
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1LEA 103
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1LEA 104
+SCALE1      1.000000  0.000000  0.000000        0.00000                 1LEA 105
+SCALE2      0.000000  1.000000  0.000000        0.00000                 1LEA 106
+SCALE3      0.000000  0.000000  1.000000        0.00000                 1LEA 107
+ATOM      1  N   MET     1      -7.170   1.735 -17.539  1.00  0.00      1LEA 108
+ATOM      2  CA  MET     1      -5.863   1.072 -17.799  1.00  0.00      1LEA 109
+ATOM      3  C   MET     1      -5.619  -0.145 -16.855  1.00  0.00      1LEA 110
+ATOM      4  O   MET     1      -5.547  -1.280 -17.330  1.00  0.00      1LEA 111
+ATOM      5  CB  MET     1      -4.763   2.152 -17.807  1.00  0.00      1LEA 112
+ATOM      6  CG  MET     1      -3.426   1.742 -18.439  1.00  0.00      1LEA 113
+ATOM      7  SD  MET     1      -2.581   0.482 -17.474  1.00  0.00      1LEA 114
+ATOM      8  CE  MET     1      -1.066   0.362 -18.436  1.00  0.00      1LEA 115
+ATOM      9 1H   MET     1      -7.174   2.210 -16.628  1.00  0.00      1LEA 116
+ATOM     10 2H   MET     1      -7.329   2.475 -18.232  1.00  0.00      1LEA 117
+ATOM     11  HA  MET     1      -5.928   0.642 -18.815  1.00  0.00      1LEA 118
+ATOM     12 1HB  MET     1      -5.127   3.034 -18.374  1.00  0.00      1LEA 119
+ATOM     13 2HB  MET     1      -4.587   2.527 -16.783  1.00  0.00      1LEA 120
+ATOM     14 1HG  MET     1      -3.569   1.376 -19.473  1.00  0.00      1LEA 121
+ATOM     15 2HG  MET     1      -2.771   2.631 -18.513  1.00  0.00      1LEA 122
+ATOM     16 1HE  MET     1      -1.283   0.084 -19.483  1.00  0.00      1LEA 123
+ATOM     17 2HE  MET     1      -0.519   1.322 -18.439  1.00  0.00      1LEA 124
+ATOM     18 3HE  MET     1      -0.399  -0.411 -18.013  1.00  0.00      1LEA 125
+ATOM     19  N   LYS     2      -5.488   0.090 -15.541  1.00  0.00      1LEA 126
+ATOM     20  CA  LYS     2      -5.357  -0.987 -14.524  1.00  0.00      1LEA 127
+ATOM     21  C   LYS     2      -6.209  -0.632 -13.266  1.00  0.00      1LEA 128
+ATOM     22  O   LYS     2      -5.817   0.177 -12.420  1.00  0.00      1LEA 129
+ATOM     23  CB  LYS     2      -3.881  -1.357 -14.248  1.00  0.00      1LEA 130
+ATOM     24  CG  LYS     2      -2.924  -0.266 -13.757  1.00  0.00      1LEA 131
+ATOM     25  CD  LYS     2      -1.496  -0.764 -13.480  1.00  0.00      1LEA 132
+ATOM     26  CE  LYS     2      -0.610  -1.067 -14.696  1.00  0.00      1LEA 133
+ATOM     27  NZ  LYS     2      -0.855  -2.414 -15.250  1.00  0.00      1LEA 134
+ATOM     28  H   LYS     2      -5.706   1.062 -15.297  1.00  0.00      1LEA 135
+ATOM     29  HA  LYS     2      -5.784  -1.924 -14.948  1.00  0.00      1LEA 136
+ATOM     30 1HB  LYS     2      -3.864  -2.210 -13.542  1.00  0.00      1LEA 137
+ATOM     31 2HB  LYS     2      -3.485  -1.782 -15.193  1.00  0.00      1LEA 138
+ATOM     32 1HG  LYS     2      -2.896   0.575 -14.474  1.00  0.00      1LEA 139
+ATOM     33 2HG  LYS     2      -3.309   0.176 -12.817  1.00  0.00      1LEA 140
+ATOM     34 1HD  LYS     2      -0.984   0.034 -12.905  1.00  0.00      1LEA 141
+ATOM     35 2HD  LYS     2      -1.509  -1.623 -12.780  1.00  0.00      1LEA 142
+ATOM     36 1HE  LYS     2      -0.736  -0.304 -15.486  1.00  0.00      1LEA 143
+ATOM     37 2HE  LYS     2       0.449  -0.996 -14.376  1.00  0.00      1LEA 144
+ATOM     38 1HZ  LYS     2      -0.109  -2.704 -15.893  1.00  0.00      1LEA 145
+ATOM     39 2HZ  LYS     2      -0.851  -3.127 -14.501  1.00  0.00      1LEA 146
+ATOM     40  N   ALA     3      -7.414  -1.216 -13.183  1.00  0.00      1LEA 147
+ATOM     41  CA  ALA     3      -8.416  -0.857 -12.152  1.00  0.00      1LEA 148
+ATOM     42  C   ALA     3      -8.210  -1.566 -10.778  1.00  0.00      1LEA 149
+ATOM     43  O   ALA     3      -8.001  -2.781 -10.706  1.00  0.00      1LEA 150
+ATOM     44  CB  ALA     3      -9.786  -1.204 -12.761  1.00  0.00      1LEA 151
+ATOM     45  H   ALA     3      -7.643  -1.821 -13.976  1.00  0.00      1LEA 152
+ATOM     46  HA  ALA     3      -8.397   0.246 -12.008  1.00  0.00      1LEA 153
+ATOM     47 1HB  ALA     3      -9.960  -0.665 -13.712  1.00  0.00      1LEA 154
+ATOM     48 2HB  ALA     3      -9.895  -2.286 -12.967  1.00  0.00      1LEA 155
+ATOM     49 3HB  ALA     3     -10.615  -0.923 -12.086  1.00  0.00      1LEA 156
+ATOM     50  N   LEU     4      -8.293  -0.793  -9.690  1.00  0.00      1LEA 157
+ATOM     51  CA  LEU     4      -8.042  -1.302  -8.319  1.00  0.00      1LEA 158
+ATOM     52  C   LEU     4      -9.372  -1.523  -7.520  1.00  0.00      1LEA 159
+ATOM     53  O   LEU     4     -10.224  -0.634  -7.442  1.00  0.00      1LEA 160
+ATOM     54  CB  LEU     4      -7.134  -0.303  -7.549  1.00  0.00      1LEA 161
+ATOM     55  CG  LEU     4      -5.729  -0.010  -8.131  1.00  0.00      1LEA 162
+ATOM     56  CD1 LEU     4      -4.981   0.918  -7.159  1.00  0.00      1LEA 163
+ATOM     57  CD2 LEU     4      -4.903  -1.269  -8.395  1.00  0.00      1LEA 164
+ATOM     58  H   LEU     4      -8.442   0.201  -9.881  1.00  0.00      1LEA 165
+ATOM     59  HA  LEU     4      -7.500  -2.271  -8.362  1.00  0.00      1LEA 166
+ATOM     60 1HB  LEU     4      -7.672   0.661  -7.439  1.00  0.00      1LEA 167
+ATOM     61 2HB  LEU     4      -7.019  -0.673  -6.511  1.00  0.00      1LEA 168
+ATOM     62  HG  LEU     4      -5.842   0.533  -9.094  1.00  0.00      1LEA 169
+ATOM     63 1HD1 LEU     4      -4.859   0.476  -6.155  1.00  0.00      1LEA 170
+ATOM     64 2HD1 LEU     4      -3.971   1.178  -7.525  1.00  0.00      1LEA 171
+ATOM     65 3HD1 LEU     4      -5.511   1.875  -7.019  1.00  0.00      1LEA 172
+ATOM     66 1HD2 LEU     4      -4.879  -1.958  -7.537  1.00  0.00      1LEA 173
+ATOM     67 2HD2 LEU     4      -5.308  -1.843  -9.250  1.00  0.00      1LEA 174
+ATOM     68 3HD2 LEU     4      -3.857  -1.031  -8.663  1.00  0.00      1LEA 175
+ATOM     69  N   THR     5      -9.520  -2.695  -6.886  1.00  0.00      1LEA 176
+ATOM     70  CA  THR     5     -10.691  -2.994  -6.005  1.00  0.00      1LEA 177
+ATOM     71  C   THR     5     -10.712  -2.146  -4.678  1.00  0.00      1LEA 178
+ATOM     72  O   THR     5      -9.672  -1.681  -4.208  1.00  0.00      1LEA 179
+ATOM     73  CB  THR     5     -10.789  -4.519  -5.658  1.00  0.00      1LEA 180
+ATOM     74  OG1 THR     5      -9.690  -4.973  -4.874  1.00  0.00      1LEA 181
+ATOM     75  CG2 THR     5     -10.901  -5.452  -6.858  1.00  0.00      1LEA 182
+ATOM     76  H   THR     5      -8.769  -3.374  -7.044  1.00  0.00      1LEA 183
+ATOM     77  HA  THR     5     -11.610  -2.734  -6.570  1.00  0.00      1LEA 184
+ATOM     78  HB  THR     5     -11.709  -4.658  -5.052  1.00  0.00      1LEA 185
+ATOM     79  HG1 THR     5      -8.944  -5.089  -5.483  1.00  0.00      1LEA 186
+ATOM     80 1HG2 THR     5     -11.762  -5.207  -7.507  1.00  0.00      1LEA 187
+ATOM     81 2HG2 THR     5     -10.003  -5.436  -7.503  1.00  0.00      1LEA 188
+ATOM     82 3HG2 THR     5     -11.035  -6.500  -6.531  1.00  0.00      1LEA 189
+ATOM     83  N   ALA     6     -11.895  -1.950  -4.076  1.00  0.00      1LEA 190
+ATOM     84  CA  ALA     6     -12.075  -1.014  -2.929  1.00  0.00      1LEA 191
+ATOM     85  C   ALA     6     -11.101  -1.111  -1.706  1.00  0.00      1LEA 192
+ATOM     86  O   ALA     6     -10.545  -0.085  -1.310  1.00  0.00      1LEA 193
+ATOM     87  CB  ALA     6     -13.549  -1.125  -2.505  1.00  0.00      1LEA 194
+ATOM     88  H   ALA     6     -12.695  -2.331  -4.588  1.00  0.00      1LEA 195
+ATOM     89  HA  ALA     6     -11.939   0.011  -3.331  1.00  0.00      1LEA 196
+ATOM     90 1HB  ALA     6     -14.236  -0.907  -3.345  1.00  0.00      1LEA 197
+ATOM     91 2HB  ALA     6     -13.807  -2.128  -2.117  1.00  0.00      1LEA 198
+ATOM     92 3HB  ALA     6     -13.798  -0.401  -1.707  1.00  0.00      1LEA 199
+ATOM     93  N   ARG     7     -10.861  -2.306  -1.143  1.00  0.00      1LEA 200
+ATOM     94  CA  ARG     7      -9.892  -2.474  -0.017  1.00  0.00      1LEA 201
+ATOM     95  C   ARG     7      -8.372  -2.416  -0.395  1.00  0.00      1LEA 202
+ATOM     96  O   ARG     7      -7.595  -1.861   0.385  1.00  0.00      1LEA 203
+ATOM     97  CB  ARG     7     -10.291  -3.743   0.767  1.00  0.00      1LEA 204
+ATOM     98  CG  ARG     7      -9.690  -3.885   2.182  1.00  0.00      1LEA 205
+ATOM     99  CD  ARG     7     -10.156  -2.807   3.168  1.00  0.00      1LEA 206
+ATOM    100  NE  ARG     7      -9.685  -3.156   4.526  1.00  0.00      1LEA 207
+ATOM    101  CZ  ARG     7      -9.746  -2.363   5.585  1.00  0.00      1LEA 208
+ATOM    102  NH1 ARG     7     -10.248  -1.163   5.582  1.00  0.00      1LEA 209
+ATOM    103  NH2 ARG     7      -9.271  -2.809   6.694  1.00  0.00      1LEA 210
+ATOM    104  H   ARG     7     -11.340  -3.088  -1.598  1.00  0.00      1LEA 211
+ATOM    105  HA  ARG     7     -10.051  -1.611   0.663  1.00  0.00      1LEA 212
+ATOM    106 1HB  ARG     7     -11.395  -3.786   0.874  1.00  0.00      1LEA 213
+ATOM    107 2HB  ARG     7     -10.027  -4.643   0.179  1.00  0.00      1LEA 214
+ATOM    108 1HG  ARG     7      -9.970  -4.883   2.576  1.00  0.00      1LEA 215
+ATOM    109 2HG  ARG     7      -8.582  -3.899   2.143  1.00  0.00      1LEA 216
+ATOM    110 1HD  ARG     7      -9.750  -1.819   2.873  1.00  0.00      1LEA 217
+ATOM    111 2HD  ARG     7     -11.260  -2.711   3.167  1.00  0.00      1LEA 218
+ATOM    112 1HH1 ARG     7     -10.613  -0.878   4.673  1.00  0.00      1LEA 219
+ATOM    113 2HH1 ARG     7     -10.203  -0.659   6.471  1.00  0.00      1LEA 220
+ATOM    114 1HH2 ARG     7      -8.828  -3.723   6.594  1.00  0.00      1LEA 221
+ATOM    115 2HH2 ARG     7      -9.282  -2.181   7.501  1.00  0.00      1LEA 222
+ATOM    116  N   GLN     8      -7.938  -2.910  -1.573  1.00  0.00      1LEA 223
+ATOM    117  CA  GLN     8      -6.578  -2.581  -2.107  1.00  0.00      1LEA 224
+ATOM    118  C   GLN     8      -6.348  -1.070  -2.478  1.00  0.00      1LEA 225
+ATOM    119  O   GLN     8      -5.287  -0.528  -2.175  1.00  0.00      1LEA 226
+ATOM    120  CB  GLN     8      -6.157  -3.588  -3.210  1.00  0.00      1LEA 227
+ATOM    121  CG  GLN     8      -6.689  -3.312  -4.624  1.00  0.00      1LEA 228
+ATOM    122  CD  GLN     8      -6.436  -4.365  -5.682  1.00  0.00      1LEA 229
+ATOM    123  OE1 GLN     8      -7.363  -4.942  -6.239  1.00  0.00      1LEA 230
+ATOM    124  NE2 GLN     8      -5.211  -4.607  -6.065  1.00  0.00      1LEA 231
+ATOM    125  H   GLN     8      -8.681  -3.278  -2.176  1.00  0.00      1LEA 232
+ATOM    126  HA  GLN     8      -5.871  -2.780  -1.274  1.00  0.00      1LEA 233
+ATOM    127 1HB  GLN     8      -5.050  -3.613  -3.232  1.00  0.00      1LEA 234
+ATOM    128 2HB  GLN     8      -6.436  -4.611  -2.883  1.00  0.00      1LEA 235
+ATOM    129 1HG  GLN     8      -7.779  -3.163  -4.570  1.00  0.00      1LEA 236
+ATOM    130 2HG  GLN     8      -6.303  -2.348  -5.003  1.00  0.00      1LEA 237
+ATOM    131 1HE2 GLN     8      -5.117  -5.321  -6.794  1.00  0.00      1LEA 238
+ATOM    132 2HE2 GLN     8      -4.460  -4.163  -5.529  1.00  0.00      1LEA 239
+ATOM    133  N   GLN     9      -7.341  -0.389  -3.072  1.00  0.00      1LEA 240
+ATOM    134  CA  GLN     9      -7.372   1.098  -3.178  1.00  0.00      1LEA 241
+ATOM    135  C   GLN     9      -7.300   1.882  -1.822  1.00  0.00      1LEA 242
+ATOM    136  O   GLN     9      -6.603   2.894  -1.771  1.00  0.00      1LEA 243
+ATOM    137  CB  GLN     9      -8.603   1.444  -4.044  1.00  0.00      1LEA 244
+ATOM    138  CG  GLN     9      -8.795   2.918  -4.452  1.00  0.00      1LEA 245
+ATOM    139  CD  GLN     9      -7.743   3.509  -5.375  1.00  0.00      1LEA 246
+ATOM    140  OE1 GLN     9      -7.598   3.131  -6.530  1.00  0.00      1LEA 247
+ATOM    141  NE2 GLN     9      -6.986   4.476  -4.929  1.00  0.00      1LEA 248
+ATOM    142  H   GLN     9      -8.167  -0.961  -3.307  1.00  0.00      1LEA 249
+ATOM    143  HA  GLN     9      -6.480   1.400  -3.762  1.00  0.00      1LEA 250
+ATOM    144 1HB  GLN     9      -8.580   0.835  -4.974  1.00  0.00      1LEA 251
+ATOM    145 2HB  GLN     9      -9.525   1.112  -3.530  1.00  0.00      1LEA 252
+ATOM    146 1HG  GLN     9      -9.756   2.982  -4.994  1.00  0.00      1LEA 253
+ATOM    147 2HG  GLN     9      -8.949   3.552  -3.559  1.00  0.00      1LEA 254
+ATOM    148 1HE2 GLN     9      -6.434   4.934  -5.663  1.00  0.00      1LEA 255
+ATOM    149 2HE2 GLN     9      -7.245   4.874  -4.020  1.00  0.00      1LEA 256
+ATOM    150  N   GLU    10      -7.929   1.426  -0.725  1.00  0.00      1LEA 257
+ATOM    151  CA  GLU    10      -7.606   1.920   0.650  1.00  0.00      1LEA 258
+ATOM    152  C   GLU    10      -6.097   1.761   1.095  1.00  0.00      1LEA 259
+ATOM    153  O   GLU    10      -5.520   2.733   1.586  1.00  0.00      1LEA 260
+ATOM    154  CB  GLU    10      -8.543   1.270   1.698  1.00  0.00      1LEA 261
+ATOM    155  CG  GLU    10     -10.002   1.766   1.647  1.00  0.00      1LEA 262
+ATOM    156  CD  GLU    10     -10.854   1.206   2.773  1.00  0.00      1LEA 263
+ATOM    157  OE1 GLU    10     -10.816   1.987   3.886  1.00  0.00      1LEA 264
+ATOM    158  OE2 GLU    10     -11.501   0.168   2.695  1.00  0.00      1LEA 265
+ATOM    159  H   GLU    10      -8.561   0.631  -0.891  1.00  0.00      1LEA 266
+ATOM    160  HA  GLU    10      -7.792   3.014   0.669  1.00  0.00      1LEA 267
+ATOM    161 1HB  GLU    10      -8.507   0.167   1.615  1.00  0.00      1LEA 268
+ATOM    162 2HB  GLU    10      -8.143   1.485   2.708  1.00  0.00      1LEA 269
+ATOM    163 1HG  GLU    10     -10.042   2.870   1.692  1.00  0.00      1LEA 270
+ATOM    164 2HG  GLU    10     -10.478   1.495   0.688  1.00  0.00      1LEA 271
+ATOM    165  HE1 GLU    10     -11.378   1.595   4.556  1.00  0.00      1LEA 272
+ATOM    166  N   VAL    11      -5.467   0.596   0.870  1.00  0.00      1LEA 273
+ATOM    167  CA  VAL    11      -3.979   0.423   1.007  1.00  0.00      1LEA 274
+ATOM    168  C   VAL    11      -3.137   1.415   0.114  1.00  0.00      1LEA 275
+ATOM    169  O   VAL    11      -2.249   2.087   0.640  1.00  0.00      1LEA 276
+ATOM    170  CB  VAL    11      -3.590  -1.083   0.800  1.00  0.00      1LEA 277
+ATOM    171  CG1 VAL    11      -2.069  -1.348   0.891  1.00  0.00      1LEA 278
+ATOM    172  CG2 VAL    11      -4.256  -2.027   1.832  1.00  0.00      1LEA 279
+ATOM    173  H   VAL    11      -6.070  -0.134   0.469  1.00  0.00      1LEA 280
+ATOM    174  HA  VAL    11      -3.709   0.684   2.048  1.00  0.00      1LEA 281
+ATOM    175  HB  VAL    11      -3.920  -1.406  -0.209  1.00  0.00      1LEA 282
+ATOM    176 1HG1 VAL    11      -1.634  -0.998   1.843  1.00  0.00      1LEA 283
+ATOM    177 2HG1 VAL    11      -1.832  -2.425   0.790  1.00  0.00      1LEA 284
+ATOM    178 3HG1 VAL    11      -1.508  -0.838   0.088  1.00  0.00      1LEA 285
+ATOM    179 1HG2 VAL    11      -4.021  -1.751   2.875  1.00  0.00      1LEA 286
+ATOM    180 2HG2 VAL    11      -5.358  -2.028   1.749  1.00  0.00      1LEA 287
+ATOM    181 3HG2 VAL    11      -3.938  -3.076   1.693  1.00  0.00      1LEA 288
+ATOM    182  N   PHE    12      -3.446   1.531  -1.186  1.00  0.00      1LEA 289
+ATOM    183  CA  PHE    12      -2.855   2.563  -2.087  1.00  0.00      1LEA 290
+ATOM    184  C   PHE    12      -3.038   4.057  -1.640  1.00  0.00      1LEA 291
+ATOM    185  O   PHE    12      -2.054   4.796  -1.616  1.00  0.00      1LEA 292
+ATOM    186  CB  PHE    12      -3.420   2.267  -3.500  1.00  0.00      1LEA 293
+ATOM    187  CG  PHE    12      -2.678   2.966  -4.644  1.00  0.00      1LEA 294
+ATOM    188  CD1 PHE    12      -1.475   2.446  -5.151  1.00  0.00      1LEA 295
+ATOM    189  CD2 PHE    12      -3.185   4.151  -5.193  1.00  0.00      1LEA 296
+ATOM    190  CE1 PHE    12      -0.793   3.108  -6.173  1.00  0.00      1LEA 297
+ATOM    191  CE2 PHE    12      -2.506   4.803  -6.223  1.00  0.00      1LEA 298
+ATOM    192  CZ  PHE    12      -1.310   4.286  -6.706  1.00  0.00      1LEA 299
+ATOM    193  H   PHE    12      -4.200   0.897  -1.486  1.00  0.00      1LEA 300
+ATOM    194  HA  PHE    12      -1.762   2.387  -2.119  1.00  0.00      1LEA 301
+ATOM    195 1HB  PHE    12      -3.391   1.178  -3.699  1.00  0.00      1LEA 302
+ATOM    196 2HB  PHE    12      -4.495   2.523  -3.538  1.00  0.00      1LEA 303
+ATOM    197  HD1 PHE    12      -1.055   1.537  -4.739  1.00  0.00      1LEA 304
+ATOM    198  HD2 PHE    12      -4.087   4.604  -4.799  1.00  0.00      1LEA 305
+ATOM    199  HE1 PHE    12       0.149   2.721  -6.542  1.00  0.00      1LEA 306
+ATOM    200  HE2 PHE    12      -2.897   5.732  -6.618  1.00  0.00      1LEA 307
+ATOM    201  HZ  PHE    12      -0.766   4.826  -7.471  1.00  0.00      1LEA 308
+ATOM    202  N   ASP    13      -4.251   4.466  -1.235  1.00  0.00      1LEA 309
+ATOM    203  CA  ASP    13      -4.488   5.786  -0.591  1.00  0.00      1LEA 310
+ATOM    204  C   ASP    13      -3.681   6.061   0.730  1.00  0.00      1LEA 311
+ATOM    205  O   ASP    13      -3.178   7.174   0.866  1.00  0.00      1LEA 312
+ATOM    206  CB  ASP    13      -6.000   5.983  -0.328  1.00  0.00      1LEA 313
+ATOM    207  CG  ASP    13      -6.810   6.375  -1.549  1.00  0.00      1LEA 314
+ATOM    208  OD1 ASP    13      -6.905   7.528  -1.951  1.00  0.00      1LEA 315
+ATOM    209  OD2 ASP    13      -7.424   5.311  -2.133  1.00  0.00      1LEA 316
+ATOM    210  H   ASP    13      -4.957   3.720  -1.269  1.00  0.00      1LEA 317
+ATOM    211  HA  ASP    13      -4.148   6.574  -1.300  1.00  0.00      1LEA 318
+ATOM    212 1HB  ASP    13      -6.440   5.101   0.171  1.00  0.00      1LEA 319
+ATOM    213 2HB  ASP    13      -6.148   6.807   0.397  1.00  0.00      1LEA 320
+ATOM    214  HD2 ASP    13      -7.118   4.482  -1.744  1.00  0.00      1LEA 321
+ATOM    215  N   LEU    14      -3.520   5.101   1.658  1.00  0.00      1LEA 322
+ATOM    216  CA  LEU    14      -2.562   5.254   2.796  1.00  0.00      1LEA 323
+ATOM    217  C   LEU    14      -1.041   5.399   2.397  1.00  0.00      1LEA 324
+ATOM    218  O   LEU    14      -0.329   6.194   3.015  1.00  0.00      1LEA 325
+ATOM    219  CB  LEU    14      -2.778   4.085   3.793  1.00  0.00      1LEA 326
+ATOM    220  CG  LEU    14      -2.242   4.370   5.219  1.00  0.00      1LEA 327
+ATOM    221  CD1 LEU    14      -3.232   5.210   6.038  1.00  0.00      1LEA 328
+ATOM    222  CD2 LEU    14      -1.969   3.061   5.964  1.00  0.00      1LEA 329
+ATOM    223  H   LEU    14      -3.995   4.211   1.452  1.00  0.00      1LEA 330
+ATOM    224  HA  LEU    14      -2.829   6.198   3.312  1.00  0.00      1LEA 331
+ATOM    225 1HB  LEU    14      -3.854   3.825   3.863  1.00  0.00      1LEA 332
+ATOM    226 2HB  LEU    14      -2.307   3.173   3.375  1.00  0.00      1LEA 333
+ATOM    227  HG  LEU    14      -1.279   4.921   5.169  1.00  0.00      1LEA 334
+ATOM    228 1HD1 LEU    14      -4.209   4.708   6.166  1.00  0.00      1LEA 335
+ATOM    229 2HD1 LEU    14      -2.842   5.415   7.053  1.00  0.00      1LEA 336
+ATOM    230 3HD1 LEU    14      -3.428   6.195   5.580  1.00  0.00      1LEA 337
+ATOM    231 1HD2 LEU    14      -2.865   2.421   6.042  1.00  0.00      1LEA 338
+ATOM    232 2HD2 LEU    14      -1.183   2.467   5.466  1.00  0.00      1LEA 339
+ATOM    233 3HD2 LEU    14      -1.616   3.241   6.997  1.00  0.00      1LEA 340
+ATOM    234  N   ILE    15      -0.569   4.681   1.365  1.00  0.00      1LEA 341
+ATOM    235  CA  ILE    15       0.770   4.925   0.734  1.00  0.00      1LEA 342
+ATOM    236  C   ILE    15       0.931   6.382   0.162  1.00  0.00      1LEA 343
+ATOM    237  O   ILE    15       1.897   7.059   0.523  1.00  0.00      1LEA 344
+ATOM    238  CB  ILE    15       1.102   3.791  -0.300  1.00  0.00      1LEA 345
+ATOM    239  CG1 ILE    15       1.179   2.378   0.364  1.00  0.00      1LEA 346
+ATOM    240  CG2 ILE    15       2.440   4.021  -1.053  1.00  0.00      1LEA 347
+ATOM    241  CD1 ILE    15       0.834   1.240  -0.598  1.00  0.00      1LEA 348
+ATOM    242  H   ILE    15      -1.267   4.055   0.941  1.00  0.00      1LEA 349
+ATOM    243  HA  ILE    15       1.520   4.852   1.535  1.00  0.00      1LEA 350
+ATOM    244  HB  ILE    15       0.287   3.790  -1.052  1.00  0.00      1LEA 351
+ATOM    245 1HG1 ILE    15       2.177   2.211   0.815  1.00  0.00      1LEA 352
+ATOM    246 2HG1 ILE    15       0.479   2.297   1.219  1.00  0.00      1LEA 353
+ATOM    247 1HG2 ILE    15       3.308   4.074  -0.370  1.00  0.00      1LEA 354
+ATOM    248 2HG2 ILE    15       2.647   3.214  -1.779  1.00  0.00      1LEA 355
+ATOM    249 3HG2 ILE    15       2.437   4.958  -1.638  1.00  0.00      1LEA 356
+ATOM    250 1HD1 ILE    15       1.462   1.230  -1.504  1.00  0.00      1LEA 357
+ATOM    251 2HD1 ILE    15       0.954   0.263  -0.101  1.00  0.00      1LEA 358
+ATOM    252 3HD1 ILE    15      -0.216   1.292  -0.932  1.00  0.00      1LEA 359
+ATOM    253  N   ARG    16      -0.009   6.863  -0.665  1.00  0.00      1LEA 360
+ATOM    254  CA  ARG    16      -0.046   8.283  -1.114  1.00  0.00      1LEA 361
+ATOM    255  C   ARG    16      -0.202   9.361   0.029  1.00  0.00      1LEA 362
+ATOM    256  O   ARG    16       0.519  10.358   0.015  1.00  0.00      1LEA 363
+ATOM    257  CB  ARG    16      -1.161   8.482  -2.178  1.00  0.00      1LEA 364
+ATOM    258  CG  ARG    16      -1.004   7.635  -3.456  1.00  0.00      1LEA 365
+ATOM    259  CD  ARG    16      -1.905   8.062  -4.620  1.00  0.00      1LEA 366
+ATOM    260  NE  ARG    16      -3.341   7.815  -4.337  1.00  0.00      1LEA 367
+ATOM    261  CZ  ARG    16      -4.325   7.970  -5.208  1.00  0.00      1LEA 368
+ATOM    262  NH1 ARG    16      -4.160   8.350  -6.441  1.00  0.00      1LEA 369
+ATOM    263  NH2 ARG    16      -5.526   7.731  -4.808  1.00  0.00      1LEA 370
+ATOM    264  H   ARG    16      -0.781   6.209  -0.855  1.00  0.00      1LEA 371
+ATOM    265  HA  ARG    16       0.924   8.513  -1.602  1.00  0.00      1LEA 372
+ATOM    266 1HB  ARG    16      -2.157   8.286  -1.731  1.00  0.00      1LEA 373
+ATOM    267 2HB  ARG    16      -1.186   9.553  -2.463  1.00  0.00      1LEA 374
+ATOM    268 1HG  ARG    16       0.045   7.680  -3.802  1.00  0.00      1LEA 375
+ATOM    269 2HG  ARG    16      -1.182   6.564  -3.237  1.00  0.00      1LEA 376
+ATOM    270 1HD  ARG    16      -1.736   9.124  -4.879  1.00  0.00      1LEA 377
+ATOM    271 2HD  ARG    16      -1.597   7.487  -5.516  1.00  0.00      1LEA 378
+ATOM    272 1HH1 ARG    16      -3.187   8.539  -6.678  1.00  0.00      1LEA 379
+ATOM    273 2HH1 ARG    16      -4.987   8.383  -7.038  1.00  0.00      1LEA 380
+ATOM    274 1HH2 ARG    16      -5.579   7.540  -3.804  1.00  0.00      1LEA 381
+ATOM    275 2HH2 ARG    16      -6.280   7.920  -5.466  1.00  0.00      1LEA 382
+ATOM    276  N   ASP    17      -1.097   9.142   1.001  1.00  0.00      1LEA 383
+ATOM    277  CA  ASP    17      -1.250  10.009   2.203  1.00  0.00      1LEA 384
+ATOM    278  C   ASP    17       0.007  10.135   3.125  1.00  0.00      1LEA 385
+ATOM    279  O   ASP    17       0.332  11.253   3.528  1.00  0.00      1LEA 386
+ATOM    280  CB  ASP    17      -2.496   9.466   2.941  1.00  0.00      1LEA 387
+ATOM    281  CG  ASP    17      -3.006  10.281   4.112  1.00  0.00      1LEA 388
+ATOM    282  OD1 ASP    17      -3.285  11.568   3.775  1.00  0.00      1LEA 389
+ATOM    283  OD2 ASP    17      -3.153   9.826   5.240  1.00  0.00      1LEA 390
+ATOM    284  H   ASP    17      -1.666   8.294   0.861  1.00  0.00      1LEA 391
+ATOM    285  HA  ASP    17      -1.481  11.034   1.843  1.00  0.00      1LEA 392
+ATOM    286 1HB  ASP    17      -3.341   9.359   2.236  1.00  0.00      1LEA 393
+ATOM    287 2HB  ASP    17      -2.300   8.441   3.304  1.00  0.00      1LEA 394
+ATOM    288  HD1 ASP    17      -3.583  12.026   4.564  1.00  0.00      1LEA 395
+ATOM    289  N   HIS    18       0.707   9.039   3.457  1.00  0.00      1LEA 396
+ATOM    290  CA  HIS    18       2.001   9.115   4.197  1.00  0.00      1LEA 397
+ATOM    291  C   HIS    18       3.199   9.758   3.409  1.00  0.00      1LEA 398
+ATOM    292  O   HIS    18       3.956  10.519   4.014  1.00  0.00      1LEA 399
+ATOM    293  CB  HIS    18       2.321   7.708   4.744  1.00  0.00      1LEA 400
+ATOM    294  CG  HIS    18       3.236   7.716   5.982  1.00  0.00      1LEA 401
+ATOM    295  ND1 HIS    18       2.797   8.177   7.217  1.00  0.00      1LEA 402
+ATOM    296  CD2 HIS    18       4.566   7.259   6.079  1.00  0.00      1LEA 403
+ATOM    297  CE1 HIS    18       3.929   7.966   7.956  1.00  0.00      1LEA 404
+ATOM    298  NE2 HIS    18       5.016   7.383   7.374  1.00  0.00      1LEA 405
+ATOM    299  H   HIS    18       0.337   8.157   3.075  1.00  0.00      1LEA 406
+ATOM    300  HA  HIS    18       1.829   9.782   5.069  1.00  0.00      1LEA 407
+ATOM    301 1HB  HIS    18       1.390   7.186   5.042  1.00  0.00      1LEA 408
+ATOM    302 2HB  HIS    18       2.763   7.080   3.952  1.00  0.00      1LEA 409
+ATOM    303  HD2 HIS    18       5.159   6.880   5.260  1.00  0.00      1LEA 410
+ATOM    304  HE1 HIS    18       3.955   8.271   8.995  1.00  0.00      1LEA 411
+ATOM    305  HE2 HIS    18       5.967   7.238   7.742  1.00  0.00      1LEA 412
+ATOM    306  N   ILE    19       3.325   9.527   2.090  1.00  0.00      1LEA 413
+ATOM    307  CA  ILE    19       4.243  10.321   1.202  1.00  0.00      1LEA 414
+ATOM    308  C   ILE    19       3.868  11.852   1.137  1.00  0.00      1LEA 415
+ATOM    309  O   ILE    19       4.759  12.685   1.294  1.00  0.00      1LEA 416
+ATOM    310  CB  ILE    19       4.345   9.643  -0.223  1.00  0.00      1LEA 417
+ATOM    311  CG1 ILE    19       5.028   8.243  -0.131  1.00  0.00      1LEA 418
+ATOM    312  CG2 ILE    19       5.147  10.495  -1.242  1.00  0.00      1LEA 419
+ATOM    313  CD1 ILE    19       4.852   7.355  -1.364  1.00  0.00      1LEA 420
+ATOM    314  H   ILE    19       2.645   8.859   1.707  1.00  0.00      1LEA 421
+ATOM    315  HA  ILE    19       5.257  10.284   1.655  1.00  0.00      1LEA 422
+ATOM    316  HB  ILE    19       3.313   9.516  -0.614  1.00  0.00      1LEA 423
+ATOM    317 1HG1 ILE    19       6.104   8.362   0.108  1.00  0.00      1LEA 424
+ATOM    318 2HG1 ILE    19       4.616   7.685   0.731  1.00  0.00      1LEA 425
+ATOM    319 1HG2 ILE    19       6.187  10.673  -0.908  1.00  0.00      1LEA 426
+ATOM    320 2HG2 ILE    19       5.198  10.015  -2.234  1.00  0.00      1LEA 427
+ATOM    321 3HG2 ILE    19       4.692  11.487  -1.415  1.00  0.00      1LEA 428
+ATOM    322 1HD1 ILE    19       3.786   7.197  -1.606  1.00  0.00      1LEA 429
+ATOM    323 2HD1 ILE    19       5.343   7.768  -2.262  1.00  0.00      1LEA 430
+ATOM    324 3HD1 ILE    19       5.297   6.359  -1.193  1.00  0.00      1LEA 431
+ATOM    325  N   SER    20       2.595  12.227   0.939  1.00  0.00      1LEA 432
+ATOM    326  CA  SER    20       2.155  13.649   1.028  1.00  0.00      1LEA 433
+ATOM    327  C   SER    20       2.306  14.381   2.413  1.00  0.00      1LEA 434
+ATOM    328  O   SER    20       2.458  15.603   2.417  1.00  0.00      1LEA 435
+ATOM    329  CB  SER    20       0.684  13.714   0.550  1.00  0.00      1LEA 436
+ATOM    330  OG  SER    20       0.250  15.068   0.399  1.00  0.00      1LEA 437
+ATOM    331  H   SER    20       1.937  11.455   0.763  1.00  0.00      1LEA 438
+ATOM    332  HA  SER    20       2.759  14.236   0.306  1.00  0.00      1LEA 439
+ATOM    333 1HB  SER    20       0.569  13.197  -0.423  1.00  0.00      1LEA 440
+ATOM    334 2HB  SER    20       0.017  13.182   1.257  1.00  0.00      1LEA 441
+ATOM    335  HG  SER    20       0.657  15.580   1.111  1.00  0.00      1LEA 442
+ATOM    336  N   GLN    21       2.233  13.668   3.542  1.00  0.00      1LEA 443
+ATOM    337  CA  GLN    21       2.521  14.235   4.887  1.00  0.00      1LEA 444
+ATOM    338  C   GLN    21       4.046  14.232   5.291  1.00  0.00      1LEA 445
+ATOM    339  O   GLN    21       4.524  15.231   5.830  1.00  0.00      1LEA 446
+ATOM    340  CB  GLN    21       1.708  13.444   5.953  1.00  0.00      1LEA 447
+ATOM    341  CG  GLN    21       0.178  13.636   5.878  1.00  0.00      1LEA 448
+ATOM    342  CD  GLN    21      -0.604  12.733   6.820  1.00  0.00      1LEA 449
+ATOM    343  OE1 GLN    21      -1.138  13.152   7.838  1.00  0.00      1LEA 450
+ATOM    344  NE2 GLN    21      -0.728  11.471   6.502  1.00  0.00      1LEA 451
+ATOM    345  H   GLN    21       1.991  12.681   3.391  1.00  0.00      1LEA 452
+ATOM    346  HA  GLN    21       2.200  15.297   4.928  1.00  0.00      1LEA 453
+ATOM    347 1HB  GLN    21       1.969  12.368   5.883  1.00  0.00      1LEA 454
+ATOM    348 2HB  GLN    21       2.042  13.752   6.966  1.00  0.00      1LEA 455
+ATOM    349 1HG  GLN    21      -0.077  14.686   6.116  1.00  0.00      1LEA 456
+ATOM    350 2HG  GLN    21      -0.197  13.484   4.849  1.00  0.00      1LEA 457
+ATOM    351 1HE2 GLN    21      -1.344  10.934   7.118  1.00  0.00      1LEA 458
+ATOM    352 2HE2 GLN    21      -0.333  11.199   5.597  1.00  0.00      1LEA 459
+ATOM    353  N   THR    22       4.761  13.117   5.089  1.00  0.00      1LEA 460
+ATOM    354  CA  THR    22       6.160  12.935   5.567  1.00  0.00      1LEA 461
+ATOM    355  C   THR    22       7.296  12.945   4.473  1.00  0.00      1LEA 462
+ATOM    356  O   THR    22       8.466  13.076   4.840  1.00  0.00      1LEA 463
+ATOM    357  CB  THR    22       6.312  11.598   6.390  1.00  0.00      1LEA 464
+ATOM    358  OG1 THR    22       6.150  10.433   5.584  1.00  0.00      1LEA 465
+ATOM    359  CG2 THR    22       5.377  11.452   7.585  1.00  0.00      1LEA 466
+ATOM    360  H   THR    22       4.245  12.373   4.602  1.00  0.00      1LEA 467
+ATOM    361  HA  THR    22       6.435  13.751   6.267  1.00  0.00      1LEA 468
+ATOM    362  HB  THR    22       7.351  11.585   6.786  1.00  0.00      1LEA 469
+ATOM    363  HG1 THR    22       5.296  10.502   5.132  1.00  0.00      1LEA 470
+ATOM    364 1HG2 THR    22       5.450  12.306   8.282  1.00  0.00      1LEA 471
+ATOM    365 2HG2 THR    22       4.317  11.364   7.283  1.00  0.00      1LEA 472
+ATOM    366 3HG2 THR    22       5.623  10.539   8.157  1.00  0.00      1LEA 473
+ATOM    367  N   GLY    23       6.987  12.731   3.185  1.00  0.00      1LEA 474
+ATOM    368  CA  GLY    23       8.000  12.358   2.164  1.00  0.00      1LEA 475
+ATOM    369  C   GLY    23       8.166  10.847   1.876  1.00  0.00      1LEA 476
+ATOM    370  O   GLY    23       8.277  10.450   0.715  1.00  0.00      1LEA 477
+ATOM    371  H   GLY    23       5.978  12.749   2.979  1.00  0.00      1LEA 478
+ATOM    372 1HA  GLY    23       7.721  12.844   1.211  1.00  0.00      1LEA 479
+ATOM    373 2HA  GLY    23       8.996  12.776   2.405  1.00  0.00      1LEA 480
+ATOM    374  N   MET    24       8.239  10.029   2.926  1.00  0.00      1LEA 481
+ATOM    375  CA  MET    24       8.522   8.576   2.833  1.00  0.00      1LEA 482
+ATOM    376  C   MET    24       7.264   7.635   2.803  1.00  0.00      1LEA 483
+ATOM    377  O   MET    24       6.213   8.018   3.326  1.00  0.00      1LEA 484
+ATOM    378  CB  MET    24       9.504   8.225   3.988  1.00  0.00      1LEA 485
+ATOM    379  CG  MET    24       8.966   8.334   5.424  1.00  0.00      1LEA 486
+ATOM    380  SD  MET    24      10.292   7.961   6.587  1.00  0.00      1LEA 487
+ATOM    381  CE  MET    24      10.924   9.620   6.891  1.00  0.00      1LEA 488
+ATOM    382  H   MET    24       7.982  10.480   3.812  1.00  0.00      1LEA 489
+ATOM    383  HA  MET    24       9.080   8.400   1.891  1.00  0.00      1LEA 490
+ATOM    384 1HB  MET    24       9.883   7.196   3.843  1.00  0.00      1LEA 491
+ATOM    385 2HB  MET    24      10.405   8.863   3.888  1.00  0.00      1LEA 492
+ATOM    386 1HG  MET    24       8.548   9.336   5.636  1.00  0.00      1LEA 493
+ATOM    387 2HG  MET    24       8.130   7.628   5.584  1.00  0.00      1LEA 494
+ATOM    388 1HE  MET    24      11.265  10.094   5.953  1.00  0.00      1LEA 495
+ATOM    389 2HE  MET    24      10.145  10.269   7.331  1.00  0.00      1LEA 496
+ATOM    390 3HE  MET    24      11.780   9.593   7.589  1.00  0.00      1LEA 497
+ATOM    391  N   PRO    25       7.320   6.393   2.243  1.00  0.00      1LEA 498
+ATOM    392  CA  PRO    25       6.175   5.424   2.320  1.00  0.00      1LEA 499
+ATOM    393  C   PRO    25       5.955   4.723   3.701  1.00  0.00      1LEA 500
+ATOM    394  O   PRO    25       6.881   4.702   4.515  1.00  0.00      1LEA 501
+ATOM    395  CB  PRO    25       6.552   4.420   1.203  1.00  0.00      1LEA 502
+ATOM    396  CG  PRO    25       8.095   4.427   1.169  1.00  0.00      1LEA 503
+ATOM    397  CD  PRO    25       8.457   5.892   1.440  1.00  0.00      1LEA 504
+ATOM    398  HA  PRO    25       5.247   5.953   2.037  1.00  0.00      1LEA 505
+ATOM    399 1HB  PRO    25       6.135   3.409   1.355  1.00  0.00      1LEA 506
+ATOM    400 2HB  PRO    25       6.153   4.788   0.239  1.00  0.00      1LEA 507
+ATOM    401 1HG  PRO    25       8.493   3.791   1.983  1.00  0.00      1LEA 508
+ATOM    402 2HG  PRO    25       8.508   4.059   0.214  1.00  0.00      1LEA 509
+ATOM    403 1HD  PRO    25       9.424   5.973   1.972  1.00  0.00      1LEA 510
+ATOM    404 2HD  PRO    25       8.534   6.463   0.493  1.00  0.00      1LEA 511
+ATOM    405  N   PRO    26       4.770   4.141   4.027  1.00  0.00      1LEA 512
+ATOM    406  CA  PRO    26       4.524   3.527   5.371  1.00  0.00      1LEA 513
+ATOM    407  C   PRO    26       5.039   2.071   5.543  1.00  0.00      1LEA 514
+ATOM    408  O   PRO    26       5.283   1.334   4.583  1.00  0.00      1LEA 515
+ATOM    409  CB  PRO    26       2.973   3.633   5.450  1.00  0.00      1LEA 516
+ATOM    410  CG  PRO    26       2.499   3.430   3.993  1.00  0.00      1LEA 517
+ATOM    411  CD  PRO    26       3.576   4.143   3.158  1.00  0.00      1LEA 518
+ATOM    412  HA  PRO    26       4.970   4.168   6.160  1.00  0.00      1LEA 519
+ATOM    413 1HB  PRO    26       2.512   2.916   6.153  1.00  0.00      1LEA 520
+ATOM    414 2HB  PRO    26       2.700   4.648   5.800  1.00  0.00      1LEA 521
+ATOM    415 1HG  PRO    26       2.486   2.349   3.750  1.00  0.00      1LEA 522
+ATOM    416 2HG  PRO    26       1.483   3.826   3.814  1.00  0.00      1LEA 523
+ATOM    417 1HD  PRO    26       3.764   3.621   2.200  1.00  0.00      1LEA 524
+ATOM    418 2HD  PRO    26       3.271   5.180   2.926  1.00  0.00      1LEA 525
+ATOM    419  N   THR    27       5.141   1.645   6.804  1.00  0.00      1LEA 526
+ATOM    420  CA  THR    27       5.379   0.220   7.158  1.00  0.00      1LEA 527
+ATOM    421  C   THR    27       4.109  -0.690   6.961  1.00  0.00      1LEA 528
+ATOM    422  O   THR    27       2.964  -0.239   7.064  1.00  0.00      1LEA 529
+ATOM    423  CB  THR    27       5.867   0.067   8.644  1.00  0.00      1LEA 530
+ATOM    424  OG1 THR    27       4.901   0.538   9.579  1.00  0.00      1LEA 531
+ATOM    425  CG2 THR    27       7.170   0.772   8.988  1.00  0.00      1LEA 532
+ATOM    426  H   THR    27       4.993   2.372   7.512  1.00  0.00      1LEA 533
+ATOM    427  HA  THR    27       6.178  -0.181   6.503  1.00  0.00      1LEA 534
+ATOM    428  HB  THR    27       6.025  -1.017   8.829  1.00  0.00      1LEA 535
+ATOM    429  HG1 THR    27       4.990   1.503   9.567  1.00  0.00      1LEA 536
+ATOM    430 1HG2 THR    27       7.999   0.474   8.325  1.00  0.00      1LEA 537
+ATOM    431 2HG2 THR    27       7.089   1.872   8.923  1.00  0.00      1LEA 538
+ATOM    432 3HG2 THR    27       7.483   0.538  10.022  1.00  0.00      1LEA 539
+ATOM    433  N   ARG    28       4.325  -1.998   6.786  1.00  0.00      1LEA 540
+ATOM    434  CA  ARG    28       3.237  -3.017   6.864  1.00  0.00      1LEA 541
+ATOM    435  C   ARG    28       2.442  -3.090   8.233  1.00  0.00      1LEA 542
+ATOM    436  O   ARG    28       1.245  -3.383   8.212  1.00  0.00      1LEA 543
+ATOM    437  CB  ARG    28       3.842  -4.393   6.496  1.00  0.00      1LEA 544
+ATOM    438  CG  ARG    28       4.051  -4.684   4.995  1.00  0.00      1LEA 545
+ATOM    439  CD  ARG    28       5.068  -3.834   4.223  1.00  0.00      1LEA 546
+ATOM    440  NE  ARG    28       6.450  -4.059   4.700  1.00  0.00      1LEA 547
+ATOM    441  CZ  ARG    28       7.536  -3.483   4.203  1.00  0.00      1LEA 548
+ATOM    442  NH1 ARG    28       7.539  -2.600   3.247  1.00  0.00      1LEA 549
+ATOM    443  NH2 ARG    28       8.672  -3.829   4.699  1.00  0.00      1LEA 550
+ATOM    444  H   ARG    28       5.274  -2.261   6.489  1.00  0.00      1LEA 551
+ATOM    445  HA  ARG    28       2.468  -2.761   6.107  1.00  0.00      1LEA 552
+ATOM    446 1HB  ARG    28       4.787  -4.566   7.048  1.00  0.00      1LEA 553
+ATOM    447 2HB  ARG    28       3.170  -5.195   6.862  1.00  0.00      1LEA 554
+ATOM    448 1HG  ARG    28       4.349  -5.749   4.896  1.00  0.00      1LEA 555
+ATOM    449 2HG  ARG    28       3.075  -4.625   4.476  1.00  0.00      1LEA 556
+ATOM    450 1HD  ARG    28       5.014  -4.124   3.155  1.00  0.00      1LEA 557
+ATOM    451 2HD  ARG    28       4.806  -2.758   4.249  1.00  0.00      1LEA 558
+ATOM    452 1HH1 ARG    28       6.614  -2.349   2.900  1.00  0.00      1LEA 559
+ATOM    453 2HH1 ARG    28       8.457  -2.254   2.961  1.00  0.00      1LEA 560
+ATOM    454 1HH2 ARG    28       8.588  -4.530   5.436  1.00  0.00      1LEA 561
+ATOM    455 2HH2 ARG    28       9.502  -3.352   4.335  1.00  0.00      1LEA 562
+ATOM    456  N   ALA    29       3.080  -2.775   9.374  1.00  0.00      1LEA 563
+ATOM    457  CA  ALA    29       2.365  -2.469  10.641  1.00  0.00      1LEA 564
+ATOM    458  C   ALA    29       1.418  -1.219  10.622  1.00  0.00      1LEA 565
+ATOM    459  O   ALA    29       0.268  -1.351  11.038  1.00  0.00      1LEA 566
+ATOM    460  CB  ALA    29       3.438  -2.360  11.736  1.00  0.00      1LEA 567
+ATOM    461  H   ALA    29       4.043  -2.468   9.212  1.00  0.00      1LEA 568
+ATOM    462  HA  ALA    29       1.725  -3.339  10.894  1.00  0.00      1LEA 569
+ATOM    463 1HB  ALA    29       4.036  -3.286  11.817  1.00  0.00      1LEA 570
+ATOM    464 2HB  ALA    29       4.139  -1.523  11.560  1.00  0.00      1LEA 571
+ATOM    465 3HB  ALA    29       2.984  -2.191  12.731  1.00  0.00      1LEA 572
+ATOM    466  N   GLU    30       1.854  -0.059  10.098  1.00  0.00      1LEA 573
+ATOM    467  CA  GLU    30       0.943   1.089   9.793  1.00  0.00      1LEA 574
+ATOM    468  C   GLU    30      -0.269   0.767   8.839  1.00  0.00      1LEA 575
+ATOM    469  O   GLU    30      -1.391   1.168   9.146  1.00  0.00      1LEA 576
+ATOM    470  CB  GLU    30       1.783   2.251   9.196  1.00  0.00      1LEA 577
+ATOM    471  CG  GLU    30       2.636   3.028  10.218  1.00  0.00      1LEA 578
+ATOM    472  CD  GLU    30       3.783   3.783   9.566  1.00  0.00      1LEA 579
+ATOM    473  OE1 GLU    30       4.875   3.272   9.345  1.00  0.00      1LEA 580
+ATOM    474  OE2 GLU    30       3.467   5.063   9.240  1.00  0.00      1LEA 581
+ATOM    475  H   GLU    30       2.815  -0.100   9.737  1.00  0.00      1LEA 582
+ATOM    476  HA  GLU    30       0.487   1.435  10.743  1.00  0.00      1LEA 583
+ATOM    477 1HB  GLU    30       2.405   1.858   8.368  1.00  0.00      1LEA 584
+ATOM    478 2HB  GLU    30       1.108   2.985   8.709  1.00  0.00      1LEA 585
+ATOM    479 1HG  GLU    30       1.998   3.733  10.784  1.00  0.00      1LEA 586
+ATOM    480 2HG  GLU    30       3.071   2.351  10.976  1.00  0.00      1LEA 587
+ATOM    481  HE2 GLU    30       4.223   5.464   8.801  1.00  0.00      1LEA 588
+ATOM    482  N   ILE    31      -0.055   0.020   7.746  1.00  0.00      1LEA 589
+ATOM    483  CA  ILE    31      -1.162  -0.489   6.871  1.00  0.00      1LEA 590
+ATOM    484  C   ILE    31      -2.187  -1.414   7.629  1.00  0.00      1LEA 591
+ATOM    485  O   ILE    31      -3.393  -1.188   7.504  1.00  0.00      1LEA 592
+ATOM    486  CB  ILE    31      -0.579  -1.143   5.565  1.00  0.00      1LEA 593
+ATOM    487  CG1 ILE    31       0.272  -0.130   4.732  1.00  0.00      1LEA 594
+ATOM    488  CG2 ILE    31      -1.699  -1.672   4.628  1.00  0.00      1LEA 595
+ATOM    489  CD1 ILE    31       1.206  -0.788   3.720  1.00  0.00      1LEA 596
+ATOM    490  H   ILE    31       0.933  -0.221   7.591  1.00  0.00      1LEA 597
+ATOM    491  HA  ILE    31      -1.751   0.386   6.541  1.00  0.00      1LEA 598
+ATOM    492  HB  ILE    31       0.062  -1.997   5.869  1.00  0.00      1LEA 599
+ATOM    493 1HG1 ILE    31      -0.388   0.598   4.219  1.00  0.00      1LEA 600
+ATOM    494 2HG1 ILE    31       0.907   0.495   5.390  1.00  0.00      1LEA 601
+ATOM    495 1HG2 ILE    31      -2.420  -2.335   5.133  1.00  0.00      1LEA 602
+ATOM    496 2HG2 ILE    31      -2.294  -0.847   4.194  1.00  0.00      1LEA 603
+ATOM    497 3HG2 ILE    31      -1.286  -2.263   3.791  1.00  0.00      1LEA 604
+ATOM    498 1HD1 ILE    31       0.671  -1.419   2.992  1.00  0.00      1LEA 605
+ATOM    499 2HD1 ILE    31       1.748  -0.017   3.144  1.00  0.00      1LEA 606
+ATOM    500 3HD1 ILE    31       1.968  -1.417   4.214  1.00  0.00      1LEA 607
+ATOM    501  N   ALA    32      -1.728  -2.407   8.407  1.00  0.00      1LEA 608
+ATOM    502  CA  ALA    32      -2.613  -3.186   9.307  1.00  0.00      1LEA 609
+ATOM    503  C   ALA    32      -3.335  -2.402  10.460  1.00  0.00      1LEA 610
+ATOM    504  O   ALA    32      -4.534  -2.598  10.668  1.00  0.00      1LEA 611
+ATOM    505  CB  ALA    32      -1.782  -4.363   9.840  1.00  0.00      1LEA 612
+ATOM    506  H   ALA    32      -0.703  -2.476   8.445  1.00  0.00      1LEA 613
+ATOM    507  HA  ALA    32      -3.414  -3.621   8.682  1.00  0.00      1LEA 614
+ATOM    508 1HB  ALA    32      -1.347  -4.961   9.017  1.00  0.00      1LEA 615
+ATOM    509 2HB  ALA    32      -0.944  -4.031  10.481  1.00  0.00      1LEA 616
+ATOM    510 3HB  ALA    32      -2.401  -5.054  10.443  1.00  0.00      1LEA 617
+ATOM    511  N   GLN    33      -2.619  -1.540  11.191  1.00  0.00      1LEA 618
+ATOM    512  CA  GLN    33      -3.173  -0.784  12.342  1.00  0.00      1LEA 619
+ATOM    513  C   GLN    33      -4.072   0.448  11.976  1.00  0.00      1LEA 620
+ATOM    514  O   GLN    33      -5.151   0.578  12.557  1.00  0.00      1LEA 621
+ATOM    515  CB  GLN    33      -1.998  -0.338  13.263  1.00  0.00      1LEA 622
+ATOM    516  CG  GLN    33      -1.283  -1.497  13.996  1.00  0.00      1LEA 623
+ATOM    517  CD  GLN    33      -0.073  -1.056  14.804  1.00  0.00      1LEA 624
+ATOM    518  OE1 GLN    33       1.060  -1.051  14.340  1.00  0.00      1LEA 625
+ATOM    519  NE2 GLN    33      -0.255  -0.683  16.045  1.00  0.00      1LEA 626
+ATOM    520  H   GLN    33      -1.626  -1.481  10.922  1.00  0.00      1LEA 627
+ATOM    521  HA  GLN    33      -3.824  -1.460  12.935  1.00  0.00      1LEA 628
+ATOM    522 1HB  GLN    33      -1.265   0.246  12.669  1.00  0.00      1LEA 629
+ATOM    523 2HB  GLN    33      -2.383   0.374  14.022  1.00  0.00      1LEA 630
+ATOM    524 1HG  GLN    33      -1.994  -2.052  14.637  1.00  0.00      1LEA 631
+ATOM    525 2HG  GLN    33      -0.925  -2.244  13.264  1.00  0.00      1LEA 632
+ATOM    526 1HE2 GLN    33       0.601  -0.386  16.519  1.00  0.00      1LEA 633
+ATOM    527 2HE2 GLN    33      -1.218  -0.668  16.386  1.00  0.00      1LEA 634
+ATOM    528  N   ARG    34      -3.645   1.344  11.071  1.00  0.00      1LEA 635
+ATOM    529  CA  ARG    34      -4.422   2.568  10.719  1.00  0.00      1LEA 636
+ATOM    530  C   ARG    34      -5.720   2.332   9.866  1.00  0.00      1LEA 637
+ATOM    531  O   ARG    34      -6.738   2.969  10.143  1.00  0.00      1LEA 638
+ATOM    532  CB  ARG    34      -3.507   3.621  10.035  1.00  0.00      1LEA 639
+ATOM    533  CG  ARG    34      -2.358   4.146  10.923  1.00  0.00      1LEA 640
+ATOM    534  CD  ARG    34      -1.667   5.404  10.378  1.00  0.00      1LEA 641
+ATOM    535  NE  ARG    34      -0.834   5.106   9.190  1.00  0.00      1LEA 642
+ATOM    536  CZ  ARG    34      -0.065   5.978   8.561  1.00  0.00      1LEA 643
+ATOM    537  NH1 ARG    34       0.089   7.220   8.916  1.00  0.00      1LEA 644
+ATOM    538  NH2 ARG    34       0.575   5.569   7.522  1.00  0.00      1LEA 645
+ATOM    539  H   ARG    34      -2.782   1.086  10.571  1.00  0.00      1LEA 646
+ATOM    540  HA  ARG    34      -4.787   3.026  11.663  1.00  0.00      1LEA 647
+ATOM    541 1HB  ARG    34      -3.091   3.218   9.090  1.00  0.00      1LEA 648
+ATOM    542 2HB  ARG    34      -4.135   4.479   9.721  1.00  0.00      1LEA 649
+ATOM    543 1HG  ARG    34      -2.748   4.382  11.932  1.00  0.00      1LEA 650
+ATOM    544 2HG  ARG    34      -1.606   3.348  11.083  1.00  0.00      1LEA 651
+ATOM    545 1HD  ARG    34      -2.416   6.187  10.138  1.00  0.00      1LEA 652
+ATOM    546 2HD  ARG    34      -1.029   5.827  11.180  1.00  0.00      1LEA 653
+ATOM    547 1HH1 ARG    34      -0.457   7.486   9.735  1.00  0.00      1LEA 654
+ATOM    548 2HH1 ARG    34       0.725   7.782   8.346  1.00  0.00      1LEA 655
+ATOM    549 1HH2 ARG    34       0.362   4.600   7.285  1.00  0.00      1LEA 656
+ATOM    550 2HH2 ARG    34       1.173   6.251   7.053  1.00  0.00      1LEA 657
+ATOM    551  N   LEU    35      -5.696   1.435   8.872  1.00  0.00      1LEA 658
+ATOM    552  CA  LEU    35      -6.928   1.010   8.144  1.00  0.00      1LEA 659
+ATOM    553  C   LEU    35      -7.874  -0.020   8.878  1.00  0.00      1LEA 660
+ATOM    554  O   LEU    35      -9.028  -0.166   8.462  1.00  0.00      1LEA 661
+ATOM    555  CB  LEU    35      -6.508   0.429   6.766  1.00  0.00      1LEA 662
+ATOM    556  CG  LEU    35      -5.884   1.434   5.773  1.00  0.00      1LEA 663
+ATOM    557  CD1 LEU    35      -5.297   0.672   4.581  1.00  0.00      1LEA 664
+ATOM    558  CD2 LEU    35      -6.893   2.471   5.271  1.00  0.00      1LEA 665
+ATOM    559  H   LEU    35      -4.789   0.973   8.739  1.00  0.00      1LEA 666
+ATOM    560  HA  LEU    35      -7.570   1.897   7.968  1.00  0.00      1LEA 667
+ATOM    561 1HB  LEU    35      -5.802  -0.407   6.944  1.00  0.00      1LEA 668
+ATOM    562 2HB  LEU    35      -7.380  -0.053   6.279  1.00  0.00      1LEA 669
+ATOM    563  HG  LEU    35      -5.048   1.969   6.268  1.00  0.00      1LEA 670
+ATOM    564 1HD1 LEU    35      -4.525  -0.052   4.901  1.00  0.00      1LEA 671
+ATOM    565 2HD1 LEU    35      -6.061   0.110   4.012  1.00  0.00      1LEA 672
+ATOM    566 3HD1 LEU    35      -4.804   1.365   3.876  1.00  0.00      1LEA 673
+ATOM    567 1HD2 LEU    35      -7.813   2.009   4.871  1.00  0.00      1LEA 674
+ATOM    568 2HD2 LEU    35      -7.205   3.162   6.074  1.00  0.00      1LEA 675
+ATOM    569 3HD2 LEU    35      -6.465   3.104   4.471  1.00  0.00      1LEA 676
+ATOM    570  N   GLY    36      -7.405  -0.715   9.924  1.00  0.00      1LEA 677
+ATOM    571  CA  GLY    36      -8.247  -1.632  10.727  1.00  0.00      1LEA 678
+ATOM    572  C   GLY    36      -8.329  -3.078  10.219  1.00  0.00      1LEA 679
+ATOM    573  O   GLY    36      -9.402  -3.518   9.806  1.00  0.00      1LEA 680
+ATOM    574  H   GLY    36      -6.456  -0.433  10.198  1.00  0.00      1LEA 681
+ATOM    575 1HA  GLY    36      -7.869  -1.647  11.766  1.00  0.00      1LEA 682
+ATOM    576 2HA  GLY    36      -9.276  -1.233  10.821  1.00  0.00      1LEA 683
+ATOM    577  N   PHE    37      -7.217  -3.809  10.298  1.00  0.00      1LEA 684
+ATOM    578  CA  PHE    37      -7.145  -5.231   9.891  1.00  0.00      1LEA 685
+ATOM    579  C   PHE    37      -6.913  -6.142  11.145  1.00  0.00      1LEA 686
+ATOM    580  O   PHE    37      -5.910  -6.006  11.852  1.00  0.00      1LEA 687
+ATOM    581  CB  PHE    37      -5.965  -5.441   8.904  1.00  0.00      1LEA 688
+ATOM    582  CG  PHE    37      -6.188  -4.929   7.477  1.00  0.00      1LEA 689
+ATOM    583  CD1 PHE    37      -6.772  -5.770   6.520  1.00  0.00      1LEA 690
+ATOM    584  CD2 PHE    37      -5.754  -3.654   7.077  1.00  0.00      1LEA 691
+ATOM    585  CE1 PHE    37      -6.889  -5.363   5.190  1.00  0.00      1LEA 692
+ATOM    586  CE2 PHE    37      -5.849  -3.257   5.741  1.00  0.00      1LEA 693
+ATOM    587  CZ  PHE    37      -6.411  -4.114   4.799  1.00  0.00      1LEA 694
+ATOM    588  H   PHE    37      -6.378  -3.269  10.556  1.00  0.00      1LEA 695
+ATOM    589  HA  PHE    37      -8.079  -5.551   9.384  1.00  0.00      1LEA 696
+ATOM    590 1HB  PHE    37      -5.041  -5.010   9.332  1.00  0.00      1LEA 697
+ATOM    591 2HB  PHE    37      -5.727  -6.523   8.842  1.00  0.00      1LEA 698
+ATOM    592  HD1 PHE    37      -7.139  -6.748   6.803  1.00  0.00      1LEA 699
+ATOM    593  HD2 PHE    37      -5.347  -2.956   7.798  1.00  0.00      1LEA 700
+ATOM    594  HE1 PHE    37      -7.378  -6.010   4.476  1.00  0.00      1LEA 701
+ATOM    595  HE2 PHE    37      -5.509  -2.273   5.446  1.00  0.00      1LEA 702
+ATOM    596  HZ  PHE    37      -6.526  -3.787   3.773  1.00  0.00      1LEA 703
+ATOM    597  N   ARG    38      -7.795  -7.123  11.359  1.00  0.00      1LEA 704
+ATOM    598  CA  ARG    38      -7.623  -8.140  12.439  1.00  0.00      1LEA 705
+ATOM    599  C   ARG    38      -6.388  -9.110  12.275  1.00  0.00      1LEA 706
+ATOM    600  O   ARG    38      -5.759  -9.468  13.271  1.00  0.00      1LEA 707
+ATOM    601  CB  ARG    38      -8.925  -8.981  12.568  1.00  0.00      1LEA 708
+ATOM    602  CG  ARG    38     -10.208  -8.188  12.910  1.00  0.00      1LEA 709
+ATOM    603  CD  ARG    38     -11.340  -8.332  11.877  1.00  0.00      1LEA 710
+ATOM    604  NE  ARG    38     -11.003  -7.807  10.529  1.00  0.00      1LEA 711
+ATOM    605  CZ  ARG    38     -11.042  -6.540  10.150  1.00  0.00      1LEA 712
+ATOM    606  NH1 ARG    38     -11.346  -5.547  10.931  1.00  0.00      1LEA 713
+ATOM    607  NH2 ARG    38     -10.733  -6.275   8.928  1.00  0.00      1LEA 714
+ATOM    608  H   ARG    38      -8.679  -7.055  10.834  1.00  0.00      1LEA 715
+ATOM    609  HA  ARG    38      -7.462  -7.608  13.399  1.00  0.00      1LEA 716
+ATOM    610 1HB  ARG    38      -9.069  -9.572  11.641  1.00  0.00      1LEA 717
+ATOM    611 2HB  ARG    38      -8.777  -9.746  13.357  1.00  0.00      1LEA 718
+ATOM    612 1HG  ARG    38     -10.593  -8.536  13.890  1.00  0.00      1LEA 719
+ATOM    613 2HG  ARG    38      -9.994  -7.113  13.073  1.00  0.00      1LEA 720
+ATOM    614 1HD  ARG    38     -11.615  -9.401  11.769  1.00  0.00      1LEA 721
+ATOM    615 2HD  ARG    38     -12.267  -7.855  12.255  1.00  0.00      1LEA 722
+ATOM    616 1HH1 ARG    38     -11.554  -5.822  11.890  1.00  0.00      1LEA 723
+ATOM    617 2HH1 ARG    38     -11.236  -4.613  10.529  1.00  0.00      1LEA 724
+ATOM    618 1HH2 ARG    38     -10.560  -7.109   8.367  1.00  0.00      1LEA 725
+ATOM    619 2HH2 ARG    38     -10.754  -5.292   8.645  1.00  0.00      1LEA 726
+ATOM    620  N   SER    39      -6.071  -9.521  11.038  1.00  0.00      1LEA 727
+ATOM    621  CA  SER    39      -4.831 -10.265  10.723  1.00  0.00      1LEA 728
+ATOM    622  C   SER    39      -3.882  -9.400   9.825  1.00  0.00      1LEA 729
+ATOM    623  O   SER    39      -4.261  -9.118   8.682  1.00  0.00      1LEA 730
+ATOM    624  CB  SER    39      -5.217 -11.580   9.999  1.00  0.00      1LEA 731
+ATOM    625  OG  SER    39      -5.929 -12.454  10.875  1.00  0.00      1LEA 732
+ATOM    626  H   SER    39      -6.579  -8.988  10.323  1.00  0.00      1LEA 733
+ATOM    627  HA  SER    39      -4.297 -10.571  11.645  1.00  0.00      1LEA 734
+ATOM    628 1HB  SER    39      -5.821 -11.380   9.091  1.00  0.00      1LEA 735
+ATOM    629 2HB  SER    39      -4.307 -12.103   9.645  1.00  0.00      1LEA 736
+ATOM    630  HG  SER    39      -6.573 -11.908  11.339  1.00  0.00      1LEA 737
+ATOM    631  N   PRO    40      -2.647  -9.006  10.240  1.00  0.00      1LEA 738
+ATOM    632  CA  PRO    40      -1.650  -8.342   9.323  1.00  0.00      1LEA 739
+ATOM    633  C   PRO    40      -1.275  -9.010   7.969  1.00  0.00      1LEA 740
+ATOM    634  O   PRO    40      -0.933  -8.303   7.019  1.00  0.00      1LEA 741
+ATOM    635  CB  PRO    40      -0.421  -8.158  10.253  1.00  0.00      1LEA 742
+ATOM    636  CG  PRO    40      -1.041  -8.013  11.662  1.00  0.00      1LEA 743
+ATOM    637  CD  PRO    40      -2.205  -9.020  11.652  1.00  0.00      1LEA 744
+ATOM    638  HA  PRO    40      -2.052  -7.337   9.086  1.00  0.00      1LEA 745
+ATOM    639 1HB  PRO    40       0.236  -9.051  10.224  1.00  0.00      1LEA 746
+ATOM    640 2HB  PRO    40       0.194  -7.287   9.964  1.00  0.00      1LEA 747
+ATOM    641 1HG  PRO    40      -0.316  -8.207  12.473  1.00  0.00      1LEA 748
+ATOM    642 2HG  PRO    40      -1.432  -6.987  11.807  1.00  0.00      1LEA 749
+ATOM    643 1HD  PRO    40      -1.860 -10.033  11.938  1.00  0.00      1LEA 750
+ATOM    644 2HD  PRO    40      -3.007  -8.717  12.355  1.00  0.00      1LEA 751
+ATOM    645  N   ASN    41      -1.398 -10.339   7.850  1.00  0.00      1LEA 752
+ATOM    646  CA  ASN    41      -1.370 -11.046   6.540  1.00  0.00      1LEA 753
+ATOM    647  C   ASN    41      -2.475 -10.641   5.487  1.00  0.00      1LEA 754
+ATOM    648  O   ASN    41      -2.178 -10.693   4.295  1.00  0.00      1LEA 755
+ATOM    649  CB  ASN    41      -1.400 -12.579   6.764  1.00  0.00      1LEA 756
+ATOM    650  CG  ASN    41      -0.185 -13.151   7.476  1.00  0.00      1LEA 757
+ATOM    651  OD1 ASN    41      -0.178 -13.329   8.687  1.00  0.00      1LEA 758
+ATOM    652  ND2 ASN    41       0.881 -13.444   6.777  1.00  0.00      1LEA 759
+ATOM    653  H   ASN    41      -1.626 -10.811   8.732  1.00  0.00      1LEA 760
+ATOM    654  HA  ASN    41      -0.406 -10.801   6.051  1.00  0.00      1LEA 761
+ATOM    655 1HB  ASN    41      -2.302 -12.864   7.335  1.00  0.00      1LEA 762
+ATOM    656 2HB  ASN    41      -1.516 -13.102   5.794  1.00  0.00      1LEA 763
+ATOM    657 1HD2 ASN    41       1.652 -13.816   7.337  1.00  0.00      1LEA 764
+ATOM    658 2HD2 ASN    41       0.876 -13.221   5.778  1.00  0.00      1LEA 765
+ATOM    659  N   ALA    42      -3.684 -10.220   5.895  1.00  0.00      1LEA 766
+ATOM    660  CA  ALA    42      -4.651  -9.556   4.974  1.00  0.00      1LEA 767
+ATOM    661  C   ALA    42      -4.218  -8.156   4.409  1.00  0.00      1LEA 768
+ATOM    662  O   ALA    42      -4.364  -7.924   3.208  1.00  0.00      1LEA 769
+ATOM    663  CB  ALA    42      -5.992  -9.490   5.718  1.00  0.00      1LEA 770
+ATOM    664  H   ALA    42      -3.774 -10.130   6.915  1.00  0.00      1LEA 771
+ATOM    665  HA  ALA    42      -4.798 -10.215   4.092  1.00  0.00      1LEA 772
+ATOM    666 1HB  ALA    42      -6.341 -10.495   6.020  1.00  0.00      1LEA 773
+ATOM    667 2HB  ALA    42      -5.938  -8.873   6.634  1.00  0.00      1LEA 774
+ATOM    668 3HB  ALA    42      -6.789  -9.057   5.085  1.00  0.00      1LEA 775
+ATOM    669  N   ALA    43      -3.641  -7.272   5.241  1.00  0.00      1LEA 776
+ATOM    670  CA  ALA    43      -2.909  -6.066   4.761  1.00  0.00      1LEA 777
+ATOM    671  C   ALA    43      -1.712  -6.327   3.777  1.00  0.00      1LEA 778
+ATOM    672  O   ALA    43      -1.638  -5.692   2.724  1.00  0.00      1LEA 779
+ATOM    673  CB  ALA    43      -2.455  -5.320   6.024  1.00  0.00      1LEA 780
+ATOM    674  H   ALA    43      -3.558  -7.610   6.205  1.00  0.00      1LEA 781
+ATOM    675  HA  ALA    43      -3.628  -5.415   4.222  1.00  0.00      1LEA 782
+ATOM    676 1HB  ALA    43      -3.313  -5.020   6.651  1.00  0.00      1LEA 783
+ATOM    677 2HB  ALA    43      -1.781  -5.921   6.659  1.00  0.00      1LEA 784
+ATOM    678 3HB  ALA    43      -1.905  -4.394   5.785  1.00  0.00      1LEA 785
+ATOM    679  N   GLU    44      -0.837  -7.293   4.098  1.00  0.00      1LEA 786
+ATOM    680  CA  GLU    44       0.166  -7.846   3.146  1.00  0.00      1LEA 787
+ATOM    681  C   GLU    44      -0.404  -8.462   1.817  1.00  0.00      1LEA 788
+ATOM    682  O   GLU    44       0.157  -8.187   0.759  1.00  0.00      1LEA 789
+ATOM    683  CB  GLU    44       0.994  -8.870   3.966  1.00  0.00      1LEA 790
+ATOM    684  CG  GLU    44       2.238  -9.429   3.252  1.00  0.00      1LEA 791
+ATOM    685  CD  GLU    44       2.945 -10.501   4.068  1.00  0.00      1LEA 792
+ATOM    686  OE1 GLU    44       2.516 -11.641   4.217  1.00  0.00      1LEA 793
+ATOM    687  OE2 GLU    44       4.106 -10.053   4.617  1.00  0.00      1LEA 794
+ATOM    688  H   GLU    44      -1.019  -7.713   5.019  1.00  0.00      1LEA 795
+ATOM    689  HA  GLU    44       0.839  -7.017   2.848  1.00  0.00      1LEA 796
+ATOM    690 1HB  GLU    44       1.316  -8.403   4.922  1.00  0.00      1LEA 797
+ATOM    691 2HB  GLU    44       0.333  -9.710   4.256  1.00  0.00      1LEA 798
+ATOM    692 1HG  GLU    44       1.962  -9.881   2.283  1.00  0.00      1LEA 799
+ATOM    693 2HG  GLU    44       2.949  -8.618   3.004  1.00  0.00      1LEA 800
+ATOM    694  HE2 GLU    44       4.510 -10.773   5.103  1.00  0.00      1LEA 801
+ATOM    695  N   GLU    45      -1.482  -9.258   1.857  1.00  0.00      1LEA 802
+ATOM    696  CA  GLU    45      -2.156  -9.786   0.634  1.00  0.00      1LEA 803
+ATOM    697  C   GLU    45      -2.768  -8.710  -0.326  1.00  0.00      1LEA 804
+ATOM    698  O   GLU    45      -2.562  -8.814  -1.537  1.00  0.00      1LEA 805
+ATOM    699  CB  GLU    45      -3.193 -10.831   1.118  1.00  0.00      1LEA 806
+ATOM    700  CG  GLU    45      -3.819 -11.680  -0.007  1.00  0.00      1LEA 807
+ATOM    701  CD  GLU    45      -4.794 -12.724   0.512  1.00  0.00      1LEA 808
+ATOM    702  OE1 GLU    45      -6.052 -12.231   0.663  1.00  0.00      1LEA 809
+ATOM    703  OE2 GLU    45      -4.485 -13.883   0.765  1.00  0.00      1LEA 810
+ATOM    704  H   GLU    45      -1.822  -9.472   2.804  1.00  0.00      1LEA 811
+ATOM    705  HA  GLU    45      -1.385 -10.326   0.045  1.00  0.00      1LEA 812
+ATOM    706 1HB  GLU    45      -2.702 -11.519   1.838  1.00  0.00      1LEA 813
+ATOM    707 2HB  GLU    45      -3.991 -10.322   1.696  1.00  0.00      1LEA 814
+ATOM    708 1HG  GLU    45      -4.346 -11.042  -0.742  1.00  0.00      1LEA 815
+ATOM    709 2HG  GLU    45      -3.032 -12.201  -0.582  1.00  0.00      1LEA 816
+ATOM    710  HE1 GLU    45      -6.611 -12.944   0.974  1.00  0.00      1LEA 817
+ATOM    711  N   HIS    46      -3.466  -7.683   0.186  1.00  0.00      1LEA 818
+ATOM    712  CA  HIS    46      -3.838  -6.488  -0.629  1.00  0.00      1LEA 819
+ATOM    713  C   HIS    46      -2.630  -5.641  -1.175  1.00  0.00      1LEA 820
+ATOM    714  O   HIS    46      -2.676  -5.227  -2.334  1.00  0.00      1LEA 821
+ATOM    715  CB  HIS    46      -4.809  -5.582   0.160  1.00  0.00      1LEA 822
+ATOM    716  CG  HIS    46      -6.225  -6.145   0.311  1.00  0.00      1LEA 823
+ATOM    717  ND1 HIS    46      -7.073  -6.395  -0.760  1.00  0.00      1LEA 824
+ATOM    718  CD2 HIS    46      -6.844  -6.497   1.519  1.00  0.00      1LEA 825
+ATOM    719  CE1 HIS    46      -8.144  -6.911  -0.082  1.00  0.00      1LEA 826
+ATOM    720  NE2 HIS    46      -8.102  -7.005   1.282  1.00  0.00      1LEA 827
+ATOM    721  H   HIS    46      -3.605  -7.727   1.204  1.00  0.00      1LEA 828
+ATOM    722  HA  HIS    46      -4.366  -6.846  -1.538  1.00  0.00      1LEA 829
+ATOM    723 1HB  HIS    46      -4.386  -5.341   1.154  1.00  0.00      1LEA 830
+ATOM    724 2HB  HIS    46      -4.911  -4.607  -0.351  1.00  0.00      1LEA 831
+ATOM    725  HD2 HIS    46      -6.378  -6.386   2.485  1.00  0.00      1LEA 832
+ATOM    726  HE1 HIS    46      -9.015  -7.240  -0.634  1.00  0.00      1LEA 833
+ATOM    727  HE2 HIS    46      -8.807  -7.363   1.934  1.00  0.00      1LEA 834
+ATOM    728  N   LEU    47      -1.564  -5.433  -0.387  1.00  0.00      1LEA 835
+ATOM    729  CA  LEU    47      -0.265  -4.912  -0.902  1.00  0.00      1LEA 836
+ATOM    730  C   LEU    47       0.404  -5.759  -2.047  1.00  0.00      1LEA 837
+ATOM    731  O   LEU    47       0.784  -5.191  -3.073  1.00  0.00      1LEA 838
+ATOM    732  CB  LEU    47       0.654  -4.728   0.334  1.00  0.00      1LEA 839
+ATOM    733  CG  LEU    47       1.934  -3.907   0.091  1.00  0.00      1LEA 840
+ATOM    734  CD1 LEU    47       1.634  -2.415  -0.049  1.00  0.00      1LEA 841
+ATOM    735  CD2 LEU    47       2.914  -4.100   1.256  1.00  0.00      1LEA 842
+ATOM    736  H   LEU    47      -1.656  -5.833   0.556  1.00  0.00      1LEA 843
+ATOM    737  HA  LEU    47      -0.470  -3.917  -1.340  1.00  0.00      1LEA 844
+ATOM    738 1HB  LEU    47       0.086  -4.261   1.165  1.00  0.00      1LEA 845
+ATOM    739 2HB  LEU    47       0.927  -5.731   0.716  1.00  0.00      1LEA 846
+ATOM    740  HG  LEU    47       2.437  -4.256  -0.833  1.00  0.00      1LEA 847
+ATOM    741 1HD1 LEU    47       0.925  -2.200  -0.866  1.00  0.00      1LEA 848
+ATOM    742 2HD1 LEU    47       1.199  -1.981   0.868  1.00  0.00      1LEA 849
+ATOM    743 3HD1 LEU    47       2.551  -1.845  -0.279  1.00  0.00      1LEA 850
+ATOM    744 1HD2 LEU    47       3.200  -5.161   1.382  1.00  0.00      1LEA 851
+ATOM    745 2HD2 LEU    47       3.853  -3.541   1.089  1.00  0.00      1LEA 852
+ATOM    746 3HD2 LEU    47       2.496  -3.755   2.220  1.00  0.00      1LEA 853
+ATOM    747  N   LYS    48       0.495  -7.088  -1.902  1.00  0.00      1LEA 854
+ATOM    748  CA  LYS    48       0.855  -8.016  -3.012  1.00  0.00      1LEA 855
+ATOM    749  C   LYS    48      -0.049  -7.912  -4.293  1.00  0.00      1LEA 856
+ATOM    750  O   LYS    48       0.499  -7.769  -5.384  1.00  0.00      1LEA 857
+ATOM    751  CB  LYS    48       0.866  -9.468  -2.468  1.00  0.00      1LEA 858
+ATOM    752  CG  LYS    48       2.054  -9.799  -1.541  1.00  0.00      1LEA 859
+ATOM    753  CD  LYS    48       1.835 -11.143  -0.824  1.00  0.00      1LEA 860
+ATOM    754  CE  LYS    48       3.067 -11.563  -0.019  1.00  0.00      1LEA 861
+ATOM    755  NZ  LYS    48       2.761 -12.791   0.743  1.00  0.00      1LEA 862
+ATOM    756  H   LYS    48       0.196  -7.439  -0.981  1.00  0.00      1LEA 863
+ATOM    757  HA  LYS    48       1.882  -7.769  -3.351  1.00  0.00      1LEA 864
+ATOM    758 1HB  LYS    48      -0.097  -9.679  -1.962  1.00  0.00      1LEA 865
+ATOM    759 2HB  LYS    48       0.898 -10.181  -3.317  1.00  0.00      1LEA 866
+ATOM    760 1HG  LYS    48       2.987  -9.822  -2.138  1.00  0.00      1LEA 867
+ATOM    761 2HG  LYS    48       2.200  -9.003  -0.784  1.00  0.00      1LEA 868
+ATOM    762 1HD  LYS    48       0.950 -11.055  -0.163  1.00  0.00      1LEA 869
+ATOM    763 2HD  LYS    48       1.588 -11.931  -1.563  1.00  0.00      1LEA 870
+ATOM    764 1HE  LYS    48       3.921 -11.745  -0.702  1.00  0.00      1LEA 871
+ATOM    765 2HE  LYS    48       3.388 -10.754   0.665  1.00  0.00      1LEA 872
+ATOM    766 1HZ  LYS    48       1.992 -12.633   1.405  1.00  0.00      1LEA 873
+ATOM    767 2HZ  LYS    48       3.559 -13.090   1.317  1.00  0.00      1LEA 874
+ATOM    768  N   ALA    49      -1.387  -7.906  -4.166  1.00  0.00      1LEA 875
+ATOM    769  CA  ALA    49      -2.303  -7.572  -5.289  1.00  0.00      1LEA 876
+ATOM    770  C   ALA    49      -2.098  -6.194  -6.017  1.00  0.00      1LEA 877
+ATOM    771  O   ALA    49      -2.237  -6.140  -7.240  1.00  0.00      1LEA 878
+ATOM    772  CB  ALA    49      -3.730  -7.715  -4.738  1.00  0.00      1LEA 879
+ATOM    773  H   ALA    49      -1.720  -8.039  -3.201  1.00  0.00      1LEA 880
+ATOM    774  HA  ALA    49      -2.172  -8.349  -6.068  1.00  0.00      1LEA 881
+ATOM    775 1HB  ALA    49      -3.899  -8.711  -4.287  1.00  0.00      1LEA 882
+ATOM    776 2HB  ALA    49      -3.956  -6.963  -3.960  1.00  0.00      1LEA 883
+ATOM    777 3HB  ALA    49      -4.490  -7.595  -5.531  1.00  0.00      1LEA 884
+ATOM    778  N   LEU    50      -1.745  -5.116  -5.297  1.00  0.00      1LEA 885
+ATOM    779  CA  LEU    50      -1.256  -3.852  -5.913  1.00  0.00      1LEA 886
+ATOM    780  C   LEU    50       0.074  -3.988  -6.763  1.00  0.00      1LEA 887
+ATOM    781  O   LEU    50       0.107  -3.529  -7.907  1.00  0.00      1LEA 888
+ATOM    782  CB  LEU    50      -1.059  -2.786  -4.803  1.00  0.00      1LEA 889
+ATOM    783  CG  LEU    50      -2.295  -2.285  -4.036  1.00  0.00      1LEA 890
+ATOM    784  CD1 LEU    50      -1.834  -1.380  -2.881  1.00  0.00      1LEA 891
+ATOM    785  CD2 LEU    50      -3.247  -1.489  -4.922  1.00  0.00      1LEA 892
+ATOM    786  H   LEU    50      -1.657  -5.297  -4.289  1.00  0.00      1LEA 893
+ATOM    787  HA  LEU    50      -2.020  -3.491  -6.629  1.00  0.00      1LEA 894
+ATOM    788 1HB  LEU    50      -0.324  -3.178  -4.075  1.00  0.00      1LEA 895
+ATOM    789 2HB  LEU    50      -0.562  -1.905  -5.242  1.00  0.00      1LEA 896
+ATOM    790  HG  LEU    50      -2.839  -3.142  -3.598  1.00  0.00      1LEA 897
+ATOM    791 1HD1 LEU    50      -1.166  -1.910  -2.181  1.00  0.00      1LEA 898
+ATOM    792 2HD1 LEU    50      -1.287  -0.485  -3.232  1.00  0.00      1LEA 899
+ATOM    793 3HD1 LEU    50      -2.689  -1.021  -2.281  1.00  0.00      1LEA 900
+ATOM    794 1HD2 LEU    50      -3.609  -2.077  -5.778  1.00  0.00      1LEA 901
+ATOM    795 2HD2 LEU    50      -4.143  -1.160  -4.369  1.00  0.00      1LEA 902
+ATOM    796 3HD2 LEU    50      -2.777  -0.577  -5.330  1.00  0.00      1LEA 903
+ATOM    797  N   ALA    51       1.127  -4.625  -6.227  1.00  0.00      1LEA 904
+ATOM    798  CA  ALA    51       2.339  -4.977  -7.014  1.00  0.00      1LEA 905
+ATOM    799  C   ALA    51       2.137  -5.961  -8.221  1.00  0.00      1LEA 906
+ATOM    800  O   ALA    51       2.674  -5.705  -9.299  1.00  0.00      1LEA 907
+ATOM    801  CB  ALA    51       3.367  -5.511  -6.003  1.00  0.00      1LEA 908
+ATOM    802  H   ALA    51       0.956  -5.001  -5.285  1.00  0.00      1LEA 909
+ATOM    803  HA  ALA    51       2.756  -4.042  -7.443  1.00  0.00      1LEA 910
+ATOM    804 1HB  ALA    51       3.573  -4.773  -5.206  1.00  0.00      1LEA 911
+ATOM    805 2HB  ALA    51       3.030  -6.443  -5.512  1.00  0.00      1LEA 912
+ATOM    806 3HB  ALA    51       4.336  -5.729  -6.488  1.00  0.00      1LEA 913
+ATOM    807  N   ARG    52       1.351  -7.032  -8.047  1.00  0.00      1LEA 914
+ATOM    808  CA  ARG    52       0.977  -7.977  -9.136  1.00  0.00      1LEA 915
+ATOM    809  C   ARG    52       0.141  -7.371 -10.325  1.00  0.00      1LEA 916
+ATOM    810  O   ARG    52       0.401  -7.736 -11.472  1.00  0.00      1LEA 917
+ATOM    811  CB  ARG    52       0.210  -9.173  -8.500  1.00  0.00      1LEA 918
+ATOM    812  CG  ARG    52       1.071 -10.092  -7.606  1.00  0.00      1LEA 919
+ATOM    813  CD  ARG    52       0.207 -11.049  -6.771  1.00  0.00      1LEA 920
+ATOM    814  NE  ARG    52       1.105 -11.844  -5.901  1.00  0.00      1LEA 921
+ATOM    815  CZ  ARG    52       0.720 -12.653  -4.930  1.00  0.00      1LEA 922
+ATOM    816  NH1 ARG    52      -0.520 -12.867  -4.597  1.00  0.00      1LEA 923
+ATOM    817  NH2 ARG    52       1.643 -13.264  -4.271  1.00  0.00      1LEA 924
+ATOM    818  H   ARG    52       1.013  -7.151  -7.080  1.00  0.00      1LEA 925
+ATOM    819  HA  ARG    52       1.908  -8.366  -9.597  1.00  0.00      1LEA 926
+ATOM    820 1HB  ARG    52      -0.656  -8.778  -7.932  1.00  0.00      1LEA 927
+ATOM    821 2HB  ARG    52      -0.235  -9.796  -9.302  1.00  0.00      1LEA 928
+ATOM    822 1HG  ARG    52       1.789 -10.666  -8.224  1.00  0.00      1LEA 929
+ATOM    823 2HG  ARG    52       1.699  -9.493  -6.915  1.00  0.00      1LEA 930
+ATOM    824 1HD  ARG    52      -0.510 -10.469  -6.156  1.00  0.00      1LEA 931
+ATOM    825 2HD  ARG    52      -0.385 -11.719  -7.427  1.00  0.00      1LEA 932
+ATOM    826 1HH1 ARG    52      -1.185 -12.359  -5.181  1.00  0.00      1LEA 933
+ATOM    827 2HH1 ARG    52      -0.689 -13.532  -3.845  1.00  0.00      1LEA 934
+ATOM    828 1HH2 ARG    52       2.576 -13.022  -4.610  1.00  0.00      1LEA 935
+ATOM    829 2HH2 ARG    52       1.367 -13.886  -3.514  1.00  0.00      1LEA 936
+ATOM    830  N   LYS    53      -0.815  -6.462 -10.071  1.00  0.00      1LEA 937
+ATOM    831  CA  LYS    53      -1.443  -5.643 -11.150  1.00  0.00      1LEA 938
+ATOM    832  C   LYS    53      -0.499  -4.580 -11.838  1.00  0.00      1LEA 939
+ATOM    833  O   LYS    53      -0.603  -4.392 -13.051  1.00  0.00      1LEA 940
+ATOM    834  CB  LYS    53      -2.720  -4.943 -10.603  1.00  0.00      1LEA 941
+ATOM    835  CG  LYS    53      -3.897  -5.907 -10.349  1.00  0.00      1LEA 942
+ATOM    836  CD  LYS    53      -5.165  -5.158  -9.902  1.00  0.00      1LEA 943
+ATOM    837  CE  LYS    53      -6.333  -6.131  -9.704  1.00  0.00      1LEA 944
+ATOM    838  NZ  LYS    53      -7.530  -5.392  -9.264  1.00  0.00      1LEA 945
+ATOM    839  H   LYS    53      -0.972  -6.271  -9.074  1.00  0.00      1LEA 946
+ATOM    840  HA  LYS    53      -1.753  -6.321 -11.972  1.00  0.00      1LEA 947
+ATOM    841 1HB  LYS    53      -2.478  -4.375  -9.683  1.00  0.00      1LEA 948
+ATOM    842 2HB  LYS    53      -3.052  -4.180 -11.336  1.00  0.00      1LEA 949
+ATOM    843 1HG  LYS    53      -4.111  -6.483 -11.272  1.00  0.00      1LEA 950
+ATOM    844 2HG  LYS    53      -3.615  -6.658  -9.584  1.00  0.00      1LEA 951
+ATOM    845 1HD  LYS    53      -4.957  -4.597  -8.970  1.00  0.00      1LEA 952
+ATOM    846 2HD  LYS    53      -5.436  -4.394 -10.660  1.00  0.00      1LEA 953
+ATOM    847 1HE  LYS    53      -6.556  -6.665 -10.649  1.00  0.00      1LEA 954
+ATOM    848 2HE  LYS    53      -6.081  -6.914  -8.962  1.00  0.00      1LEA 955
+ATOM    849 1HZ  LYS    53      -7.379  -4.990  -8.330  1.00  0.00      1LEA 956
+ATOM    850 2HZ  LYS    53      -7.700  -4.581  -9.884  1.00  0.00      1LEA 957
+ATOM    851  N   GLY    54       0.375  -3.905 -11.079  1.00  0.00      1LEA 958
+ATOM    852  CA  GLY    54       1.408  -2.993 -11.639  1.00  0.00      1LEA 959
+ATOM    853  C   GLY    54       1.377  -1.513 -11.201  1.00  0.00      1LEA 960
+ATOM    854  O   GLY    54       1.681  -0.638 -12.012  1.00  0.00      1LEA 961
+ATOM    855  H   GLY    54       0.419  -4.275 -10.120  1.00  0.00      1LEA 962
+ATOM    856 1HA  GLY    54       2.404  -3.388 -11.367  1.00  0.00      1LEA 963
+ATOM    857 2HA  GLY    54       1.409  -3.010 -12.747  1.00  0.00      1LEA 964
+ATOM    858  N   VAL    55       1.071  -1.241  -9.929  1.00  0.00      1LEA 965
+ATOM    859  CA  VAL    55       0.991   0.149  -9.384  1.00  0.00      1LEA 966
+ATOM    860  C   VAL    55       2.099   0.548  -8.326  1.00  0.00      1LEA 967
+ATOM    861  O   VAL    55       2.302   1.743  -8.099  1.00  0.00      1LEA 968
+ATOM    862  CB  VAL    55      -0.441   0.491  -8.852  1.00  0.00      1LEA 969
+ATOM    863  CG1 VAL    55      -1.516   0.485  -9.959  1.00  0.00      1LEA 970
+ATOM    864  CG2 VAL    55      -0.949  -0.349  -7.680  1.00  0.00      1LEA 971
+ATOM    865  H   VAL    55       0.693  -2.052  -9.424  1.00  0.00      1LEA 972
+ATOM    866  HA  VAL    55       1.168   0.878 -10.203  1.00  0.00      1LEA 973
+ATOM    867  HB  VAL    55      -0.392   1.536  -8.488  1.00  0.00      1LEA 974
+ATOM    868 1HG1 VAL    55      -1.229   1.127 -10.810  1.00  0.00      1LEA 975
+ATOM    869 2HG1 VAL    55      -1.702  -0.526 -10.367  1.00  0.00      1LEA 976
+ATOM    870 3HG1 VAL    55      -2.483   0.871  -9.587  1.00  0.00      1LEA 977
+ATOM    871 1HG2 VAL    55      -0.226  -0.373  -6.846  1.00  0.00      1LEA 978
+ATOM    872 2HG2 VAL    55      -1.883   0.080  -7.277  1.00  0.00      1LEA 979
+ATOM    873 3HG2 VAL    55      -1.169  -1.392  -7.965  1.00  0.00      1LEA 980
+ATOM    874  N   ILE    56       2.782  -0.416  -7.695  1.00  0.00      1LEA 981
+ATOM    875  CA  ILE    56       3.819  -0.165  -6.652  1.00  0.00      1LEA 982
+ATOM    876  C   ILE    56       5.018  -1.184  -6.775  1.00  0.00      1LEA 983
+ATOM    877  O   ILE    56       4.831  -2.338  -7.174  1.00  0.00      1LEA 984
+ATOM    878  CB  ILE    56       3.249  -0.223  -5.171  1.00  0.00      1LEA 985
+ATOM    879  CG1 ILE    56       2.530  -1.553  -4.847  1.00  0.00      1LEA 986
+ATOM    880  CG2 ILE    56       2.353   0.994  -4.865  1.00  0.00      1LEA 987
+ATOM    881  CD1 ILE    56       2.290  -1.826  -3.370  1.00  0.00      1LEA 988
+ATOM    882  H   ILE    56       2.555  -1.361  -8.023  1.00  0.00      1LEA 989
+ATOM    883  HA  ILE    56       4.256   0.843  -6.806  1.00  0.00      1LEA 990
+ATOM    884  HB  ILE    56       4.132  -0.129  -4.501  1.00  0.00      1LEA 991
+ATOM    885 1HG1 ILE    56       1.580  -1.604  -5.408  1.00  0.00      1LEA 992
+ATOM    886 2HG1 ILE    56       3.115  -2.404  -5.244  1.00  0.00      1LEA 993
+ATOM    887 1HG2 ILE    56       2.868   1.943  -5.096  1.00  0.00      1LEA 994
+ATOM    888 2HG2 ILE    56       1.416   0.983  -5.448  1.00  0.00      1LEA 995
+ATOM    889 3HG2 ILE    56       2.074   1.043  -3.799  1.00  0.00      1LEA 996
+ATOM    890 1HD1 ILE    56       1.657  -1.063  -2.885  1.00  0.00      1LEA 997
+ATOM    891 2HD1 ILE    56       1.786  -2.799  -3.230  1.00  0.00      1LEA 998
+ATOM    892 3HD1 ILE    56       3.233  -1.892  -2.802  1.00  0.00      1LEA 999
+ATOM    893  N   GLU    57       6.221  -0.779  -6.340  1.00  0.00      1LEA1000
+ATOM    894  CA  GLU    57       7.308  -1.744  -6.018  1.00  0.00      1LEA1001
+ATOM    895  C   GLU    57       7.414  -1.941  -4.469  1.00  0.00      1LEA1002
+ATOM    896  O   GLU    57       7.675  -0.987  -3.732  1.00  0.00      1LEA1003
+ATOM    897  CB  GLU    57       8.649  -1.229  -6.610  1.00  0.00      1LEA1004
+ATOM    898  CG  GLU    57       9.736  -2.327  -6.638  1.00  0.00      1LEA1005
+ATOM    899  CD  GLU    57      11.127  -1.850  -7.008  1.00  0.00      1LEA1006
+ATOM    900  OE1 GLU    57      11.183  -1.341  -8.271  1.00  0.00      1LEA1007
+ATOM    901  OE2 GLU    57      12.090  -1.941  -6.254  1.00  0.00      1LEA1008
+ATOM    902  H   GLU    57       6.249   0.202  -6.027  1.00  0.00      1LEA1009
+ATOM    903  HA  GLU    57       7.098  -2.726  -6.495  1.00  0.00      1LEA1010
+ATOM    904 1HB  GLU    57       8.481  -0.854  -7.638  1.00  0.00      1LEA1011
+ATOM    905 2HB  GLU    57       9.003  -0.351  -6.035  1.00  0.00      1LEA1012
+ATOM    906 1HG  GLU    57       9.823  -2.807  -5.644  1.00  0.00      1LEA1013
+ATOM    907 2HG  GLU    57       9.452  -3.145  -7.325  1.00  0.00      1LEA1014
+ATOM    908  HE1 GLU    57      10.312  -1.341  -8.663  1.00  0.00      1LEA1015
+ATOM    909  N   ILE    58       7.266  -3.182  -3.993  1.00  0.00      1LEA1016
+ATOM    910  CA  ILE    58       7.515  -3.526  -2.558  1.00  0.00      1LEA1017
+ATOM    911  C   ILE    58       9.052  -3.811  -2.392  1.00  0.00      1LEA1018
+ATOM    912  O   ILE    58       9.553  -4.860  -2.815  1.00  0.00      1LEA1019
+ATOM    913  CB  ILE    58       6.644  -4.752  -2.089  1.00  0.00      1LEA1020
+ATOM    914  CG1 ILE    58       5.118  -4.552  -2.315  1.00  0.00      1LEA1021
+ATOM    915  CG2 ILE    58       6.872  -5.046  -0.579  1.00  0.00      1LEA1022
+ATOM    916  CD1 ILE    58       4.328  -5.865  -2.322  1.00  0.00      1LEA1023
+ATOM    917  H   ILE    58       7.037  -3.895  -4.691  1.00  0.00      1LEA1024
+ATOM    918  HA  ILE    58       7.235  -2.664  -1.914  1.00  0.00      1LEA1025
+ATOM    919  HB  ILE    58       6.973  -5.641  -2.669  1.00  0.00      1LEA1026
+ATOM    920 1HG1 ILE    58       4.698  -3.850  -1.568  1.00  0.00      1LEA1027
+ATOM    921 2HG1 ILE    58       4.923  -4.059  -3.288  1.00  0.00      1LEA1028
+ATOM    922 1HG2 ILE    58       7.928  -5.275  -0.348  1.00  0.00      1LEA1029
+ATOM    923 2HG2 ILE    58       6.579  -4.195   0.065  1.00  0.00      1LEA1030
+ATOM    924 3HG2 ILE    58       6.295  -5.925  -0.239  1.00  0.00      1LEA1031
+ATOM    925 1HD1 ILE    58       4.733  -6.593  -3.050  1.00  0.00      1LEA1032
+ATOM    926 2HD1 ILE    58       4.308  -6.364  -1.337  1.00  0.00      1LEA1033
+ATOM    927 3HD1 ILE    58       3.277  -5.689  -2.610  1.00  0.00      1LEA1034
+ATOM    928  N   VAL    59       9.780  -2.878  -1.771  1.00  0.00      1LEA1035
+ATOM    929  CA  VAL    59      11.256  -3.000  -1.558  1.00  0.00      1LEA1036
+ATOM    930  C   VAL    59      11.503  -3.947  -0.332  1.00  0.00      1LEA1037
+ATOM    931  O   VAL    59      11.482  -3.533   0.831  1.00  0.00      1LEA1038
+ATOM    932  CB  VAL    59      11.898  -1.582  -1.396  1.00  0.00      1LEA1039
+ATOM    933  CG1 VAL    59      13.430  -1.641  -1.182  1.00  0.00      1LEA1040
+ATOM    934  CG2 VAL    59      11.676  -0.669  -2.628  1.00  0.00      1LEA1041
+ATOM    935  H   VAL    59       9.245  -2.098  -1.366  1.00  0.00      1LEA1042
+ATOM    936  HA  VAL    59      11.715  -3.456  -2.462  1.00  0.00      1LEA1043
+ATOM    937  HB  VAL    59      11.450  -1.084  -0.512  1.00  0.00      1LEA1044
+ATOM    938 1HG1 VAL    59      13.708  -2.209  -0.276  1.00  0.00      1LEA1045
+ATOM    939 2HG1 VAL    59      13.955  -2.113  -2.034  1.00  0.00      1LEA1046
+ATOM    940 3HG1 VAL    59      13.858  -0.629  -1.055  1.00  0.00      1LEA1047
+ATOM    941 1HG2 VAL    59      12.104  -1.095  -3.555  1.00  0.00      1LEA1048
+ATOM    942 2HG2 VAL    59      10.606  -0.485  -2.832  1.00  0.00      1LEA1049
+ATOM    943 3HG2 VAL    59      12.137   0.327  -2.492  1.00  0.00      1LEA1050
+ATOM    944  N   SER    60      11.681  -5.241  -0.629  1.00  0.00      1LEA1051
+ATOM    945  CA  SER    60      11.581  -6.322   0.386  1.00  0.00      1LEA1052
+ATOM    946  C   SER    60      12.882  -6.470   1.228  1.00  0.00      1LEA1053
+ATOM    947  O   SER    60      13.896  -7.001   0.770  1.00  0.00      1LEA1054
+ATOM    948  CB  SER    60      11.200  -7.622  -0.361  1.00  0.00      1LEA1055
+ATOM    949  OG  SER    60       9.902  -7.521  -0.954  1.00  0.00      1LEA1056
+ATOM    950  H   SER    60      11.632  -5.432  -1.635  1.00  0.00      1LEA1057
+ATOM    951  HA  SER    60      10.727  -6.104   1.065  1.00  0.00      1LEA1058
+ATOM    952 1HB  SER    60      11.954  -7.881  -1.131  1.00  0.00      1LEA1059
+ATOM    953 2HB  SER    60      11.196  -8.477   0.344  1.00  0.00      1LEA1060
+ATOM    954  HG  SER    60       9.894  -6.728  -1.507  1.00  0.00      1LEA1061
+ATOM    955  N   GLY    61      12.839  -5.925   2.449  1.00  0.00      1LEA1062
+ATOM    956  CA  GLY    61      14.068  -5.604   3.220  1.00  0.00      1LEA1063
+ATOM    957  C   GLY    61      13.997  -4.267   3.985  1.00  0.00      1LEA1064
+ATOM    958  O   GLY    61      14.245  -4.234   5.190  1.00  0.00      1LEA1065
+ATOM    959  H   GLY    61      11.952  -5.439   2.627  1.00  0.00      1LEA1066
+ATOM    960 1HA  GLY    61      14.263  -6.412   3.949  1.00  0.00      1LEA1067
+ATOM    961 2HA  GLY    61      14.969  -5.575   2.574  1.00  0.00      1LEA1068
+ATOM    962  N   ALA    62      13.667  -3.171   3.286  1.00  0.00      1LEA1069
+ATOM    963  CA  ALA    62      13.412  -1.862   3.928  1.00  0.00      1LEA1070
+ATOM    964  C   ALA    62      11.999  -1.768   4.590  1.00  0.00      1LEA1071
+ATOM    965  O   ALA    62      10.975  -1.947   3.923  1.00  0.00      1LEA1072
+ATOM    966  CB  ALA    62      13.581  -0.810   2.817  1.00  0.00      1LEA1073
+ATOM    967  H   ALA    62      13.327  -3.382   2.340  1.00  0.00      1LEA1074
+ATOM    968  HA  ALA    62      14.199  -1.667   4.689  1.00  0.00      1LEA1075
+ATOM    969 1HB  ALA    62      14.598  -0.832   2.385  1.00  0.00      1LEA1076
+ATOM    970 2HB  ALA    62      12.867  -0.962   1.985  1.00  0.00      1LEA1077
+ATOM    971 3HB  ALA    62      13.417   0.216   3.194  1.00  0.00      1LEA1078
+ATOM    972  N   SER    63      11.962  -1.462   5.895  1.00  0.00      1LEA1079
+ATOM    973  CA  SER    63      10.687  -1.357   6.666  1.00  0.00      1LEA1080
+ATOM    974  C   SER    63       9.671  -0.279   6.164  1.00  0.00      1LEA1081
+ATOM    975  O   SER    63       8.519  -0.617   5.900  1.00  0.00      1LEA1082
+ATOM    976  CB  SER    63      11.018  -1.166   8.169  1.00  0.00      1LEA1083
+ATOM    977  OG  SER    63      11.751  -2.276   8.688  1.00  0.00      1LEA1084
+ATOM    978  H   SER    63      12.851  -1.626   6.379  1.00  0.00      1LEA1085
+ATOM    979  HA  SER    63      10.163  -2.332   6.585  1.00  0.00      1LEA1086
+ATOM    980 1HB  SER    63      11.584  -0.227   8.332  1.00  0.00      1LEA1087
+ATOM    981 2HB  SER    63      10.075  -1.060   8.743  1.00  0.00      1LEA1088
+ATOM    982  HG  SER    63      11.856  -2.143   9.636  1.00  0.00      1LEA1089
+ATOM    983  N   ARG    64      10.103   0.981   5.992  1.00  0.00      1LEA1090
+ATOM    984  CA  ARG    64       9.343   1.972   5.177  1.00  0.00      1LEA1091
+ATOM    985  C   ARG    64       9.854   1.922   3.695  1.00  0.00      1LEA1092
+ATOM    986  O   ARG    64      10.713   2.705   3.277  1.00  0.00      1LEA1093
+ATOM    987  CB  ARG    64       9.491   3.379   5.815  1.00  0.00      1LEA1094
+ATOM    988  CG  ARG    64       8.618   3.561   7.074  1.00  0.00      1LEA1095
+ATOM    989  CD  ARG    64       8.554   5.017   7.545  1.00  0.00      1LEA1096
+ATOM    990  NE  ARG    64       7.682   5.079   8.740  1.00  0.00      1LEA1097
+ATOM    991  CZ  ARG    64       7.460   6.151   9.477  1.00  0.00      1LEA1098
+ATOM    992  NH1 ARG    64       7.965   7.326   9.239  1.00  0.00      1LEA1099
+ATOM    993  NH2 ARG    64       6.682   6.014  10.495  1.00  0.00      1LEA1100
+ATOM    994  H   ARG    64      11.114   1.068   6.123  1.00  0.00      1LEA1101
+ATOM    995  HA  ARG    64       8.257   1.729   5.157  1.00  0.00      1LEA1102
+ATOM    996 1HB  ARG    64      10.551   3.607   6.034  1.00  0.00      1LEA1103
+ATOM    997 2HB  ARG    64       9.195   4.139   5.065  1.00  0.00      1LEA1104
+ATOM    998 1HG  ARG    64       7.585   3.217   6.863  1.00  0.00      1LEA1105
+ATOM    999 2HG  ARG    64       8.988   2.914   7.892  1.00  0.00      1LEA1106
+ATOM   1000 1HD  ARG    64       9.569   5.398   7.777  1.00  0.00      1LEA1107
+ATOM   1001 2HD  ARG    64       8.138   5.653   6.737  1.00  0.00      1LEA1108
+ATOM   1002 1HH1 ARG    64       8.585   7.345   8.427  1.00  0.00      1LEA1109
+ATOM   1003 2HH1 ARG    64       7.754   8.071   9.903  1.00  0.00      1LEA1110
+ATOM   1004 1HH2 ARG    64       6.385   5.042  10.615  1.00  0.00      1LEA1111
+ATOM   1005 2HH2 ARG    64       6.552   6.814  11.112  1.00  0.00      1LEA1112
+ATOM   1006  N   GLY    65       9.328   0.958   2.927  1.00  0.00      1LEA1113
+ATOM   1007  CA  GLY    65       9.850   0.644   1.574  1.00  0.00      1LEA1114
+ATOM   1008  C   GLY    65       8.791   0.202   0.558  1.00  0.00      1LEA1115
+ATOM   1009  O   GLY    65       8.744  -0.968   0.178  1.00  0.00      1LEA1116
+ATOM   1010  H   GLY    65       8.742   0.310   3.471  1.00  0.00      1LEA1117
+ATOM   1011 1HA  GLY    65      10.423   1.487   1.140  1.00  0.00      1LEA1118
+ATOM   1012 2HA  GLY    65      10.588  -0.175   1.667  1.00  0.00      1LEA1119
+ATOM   1013  N   ILE    66       7.962   1.142   0.102  1.00  0.00      1LEA1120
+ATOM   1014  CA  ILE    66       6.927   0.880  -0.939  1.00  0.00      1LEA1121
+ATOM   1015  C   ILE    66       6.989   2.083  -1.950  1.00  0.00      1LEA1122
+ATOM   1016  O   ILE    66       6.482   3.170  -1.660  1.00  0.00      1LEA1123
+ATOM   1017  CB  ILE    66       5.486   0.705  -0.330  1.00  0.00      1LEA1124
+ATOM   1018  CG1 ILE    66       5.373  -0.436   0.722  1.00  0.00      1LEA1125
+ATOM   1019  CG2 ILE    66       4.468   0.410  -1.463  1.00  0.00      1LEA1126
+ATOM   1020  CD1 ILE    66       4.203  -0.243   1.691  1.00  0.00      1LEA1127
+ATOM   1021  H   ILE    66       8.006   2.021   0.630  1.00  0.00      1LEA1128
+ATOM   1022  HA  ILE    66       7.173  -0.047  -1.495  1.00  0.00      1LEA1129
+ATOM   1023  HB  ILE    66       5.201   1.662   0.155  1.00  0.00      1LEA1130
+ATOM   1024 1HG1 ILE    66       5.319  -1.427   0.229  1.00  0.00      1LEA1131
+ATOM   1025 2HG1 ILE    66       6.281  -0.490   1.350  1.00  0.00      1LEA1132
+ATOM   1026 1HG2 ILE    66       4.774  -0.462  -2.068  1.00  0.00      1LEA1133
+ATOM   1027 2HG2 ILE    66       3.459   0.203  -1.072  1.00  0.00      1LEA1134
+ATOM   1028 3HG2 ILE    66       4.357   1.263  -2.158  1.00  0.00      1LEA1135
+ATOM   1029 1HD1 ILE    66       3.223  -0.187   1.189  1.00  0.00      1LEA1136
+ATOM   1030 2HD1 ILE    66       4.147  -1.071   2.421  1.00  0.00      1LEA1137
+ATOM   1031 3HD1 ILE    66       4.314   0.687   2.279  1.00  0.00      1LEA1138
+ATOM   1032  N   ARG    67       7.601   1.894  -3.126  1.00  0.00      1LEA1139
+ATOM   1033  CA  ARG    67       7.744   2.991  -4.122  1.00  0.00      1LEA1140
+ATOM   1034  C   ARG    67       6.488   3.117  -5.046  1.00  0.00      1LEA1141
+ATOM   1035  O   ARG    67       6.019   2.141  -5.637  1.00  0.00      1LEA1142
+ATOM   1036  CB  ARG    67       9.042   2.817  -4.950  1.00  0.00      1LEA1143
+ATOM   1037  CG  ARG    67      10.330   3.060  -4.130  1.00  0.00      1LEA1144
+ATOM   1038  CD  ARG    67      11.586   3.265  -4.985  1.00  0.00      1LEA1145
+ATOM   1039  NE  ARG    67      12.103   1.985  -5.520  1.00  0.00      1LEA1146
+ATOM   1040  CZ  ARG    67      13.227   1.849  -6.209  1.00  0.00      1LEA1147
+ATOM   1041  NH1 ARG    67      14.015   2.834  -6.532  1.00  0.00      1LEA1148
+ATOM   1042  NH2 ARG    67      13.569   0.666  -6.583  1.00  0.00      1LEA1149
+ATOM   1043  H   ARG    67       7.857   0.919  -3.335  1.00  0.00      1LEA1150
+ATOM   1044  HA  ARG    67       7.859   3.951  -3.573  1.00  0.00      1LEA1151
+ATOM   1045 1HB  ARG    67       9.084   1.821  -5.429  1.00  0.00      1LEA1152
+ATOM   1046 2HB  ARG    67       9.022   3.533  -5.796  1.00  0.00      1LEA1153
+ATOM   1047 1HG  ARG    67      10.208   3.962  -3.499  1.00  0.00      1LEA1154
+ATOM   1048 2HG  ARG    67      10.494   2.232  -3.411  1.00  0.00      1LEA1155
+ATOM   1049 1HD  ARG    67      11.397   3.985  -5.806  1.00  0.00      1LEA1156
+ATOM   1050 2HD  ARG    67      12.366   3.730  -4.346  1.00  0.00      1LEA1157
+ATOM   1051 1HH1 ARG    67      13.684   3.743  -6.210  1.00  0.00      1LEA1158
+ATOM   1052 2HH1 ARG    67      14.851   2.599  -7.066  1.00  0.00      1LEA1159
+ATOM   1053 1HH2 ARG    67      12.908  -0.062  -6.290  1.00  0.00      1LEA1160
+ATOM   1054 2HH2 ARG    67      14.434   0.562  -7.108  1.00  0.00      1LEA1161
+ATOM   1055  N   LEU    68       5.960   4.340  -5.149  1.00  0.00      1LEA1162
+ATOM   1056  CA  LEU    68       4.729   4.647  -5.927  1.00  0.00      1LEA1163
+ATOM   1057  C   LEU    68       5.014   4.781  -7.458  1.00  0.00      1LEA1164
+ATOM   1058  O   LEU    68       5.818   5.623  -7.867  1.00  0.00      1LEA1165
+ATOM   1059  CB  LEU    68       4.184   5.965  -5.308  1.00  0.00      1LEA1166
+ATOM   1060  CG  LEU    68       2.757   6.374  -5.732  1.00  0.00      1LEA1167
+ATOM   1061  CD1 LEU    68       1.694   5.495  -5.067  1.00  0.00      1LEA1168
+ATOM   1062  CD2 LEU    68       2.511   7.839  -5.329  1.00  0.00      1LEA1169
+ATOM   1063  H   LEU    68       6.458   5.063  -4.622  1.00  0.00      1LEA1170
+ATOM   1064  HA  LEU    68       3.989   3.842  -5.752  1.00  0.00      1LEA1171
+ATOM   1065 1HB  LEU    68       4.210   5.906  -4.200  1.00  0.00      1LEA1172
+ATOM   1066 2HB  LEU    68       4.890   6.784  -5.561  1.00  0.00      1LEA1173
+ATOM   1067  HG  LEU    68       2.651   6.308  -6.836  1.00  0.00      1LEA1174
+ATOM   1068 1HD1 LEU    68       1.744   5.526  -3.963  1.00  0.00      1LEA1175
+ATOM   1069 2HD1 LEU    68       0.673   5.813  -5.346  1.00  0.00      1LEA1176
+ATOM   1070 3HD1 LEU    68       1.777   4.435  -5.365  1.00  0.00      1LEA1177
+ATOM   1071 1HD2 LEU    68       3.239   8.522  -5.805  1.00  0.00      1LEA1178
+ATOM   1072 2HD2 LEU    68       1.511   8.188  -5.645  1.00  0.00      1LEA1179
+ATOM   1073 3HD2 LEU    68       2.586   7.998  -4.236  1.00  0.00      1LEA1180
+ATOM   1074  N   LEU    69       4.364   3.949  -8.284  1.00  0.00      1LEA1181
+ATOM   1075  CA  LEU    69       4.671   3.865  -9.739  1.00  0.00      1LEA1182
+ATOM   1076  C   LEU    69       3.542   4.377 -10.705  1.00  0.00      1LEA1183
+ATOM   1077  O   LEU    69       3.824   5.141 -11.629  1.00  0.00      1LEA1184
+ATOM   1078  CB  LEU    69       5.075   2.416 -10.144  1.00  0.00      1LEA1185
+ATOM   1079  CG  LEU    69       6.285   1.772  -9.434  1.00  0.00      1LEA1186
+ATOM   1080  CD1 LEU    69       6.426   0.323  -9.936  1.00  0.00      1LEA1187
+ATOM   1081  CD2 LEU    69       7.596   2.520  -9.685  1.00  0.00      1LEA1188
+ATOM   1082  H   LEU    69       3.775   3.249  -7.820  1.00  0.00      1LEA1189
+ATOM   1083  HA  LEU    69       5.521   4.519  -9.986  1.00  0.00      1LEA1190
+ATOM   1084 1HB  LEU    69       4.197   1.754 -10.009  1.00  0.00      1LEA1191
+ATOM   1085 2HB  LEU    69       5.263   2.405 -11.238  1.00  0.00      1LEA1192
+ATOM   1086  HG  LEU    69       6.099   1.739  -8.340  1.00  0.00      1LEA1193
+ATOM   1087 1HD1 LEU    69       5.518  -0.273  -9.728  1.00  0.00      1LEA1194
+ATOM   1088 2HD1 LEU    69       6.606   0.271 -11.026  1.00  0.00      1LEA1195
+ATOM   1089 3HD1 LEU    69       7.262  -0.203  -9.446  1.00  0.00      1LEA1196
+ATOM   1090 1HD2 LEU    69       7.842   2.601 -10.760  1.00  0.00      1LEA1197
+ATOM   1091 2HD2 LEU    69       7.566   3.549  -9.282  1.00  0.00      1LEA1198
+ATOM   1092 3HD2 LEU    69       8.449   2.023  -9.189  1.00  0.00      1LEA1199
+ATOM   1093  N   GLN    70       2.312   3.885 -10.538  1.00  0.00      1LEA1200
+ATOM   1094  CA  GLN    70       1.228   4.033 -11.550  1.00  0.00      1LEA1201
+ATOM   1095  C   GLN    70      -0.197   4.016 -10.891  1.00  0.00      1LEA1202
+ATOM   1096  O   GLN    70      -0.381   3.556  -9.765  1.00  0.00      1LEA1203
+ATOM   1097  CB  GLN    70       1.395   2.875 -12.593  1.00  0.00      1LEA1204
+ATOM   1098  CG  GLN    70       1.272   3.282 -14.075  1.00  0.00      1LEA1205
+ATOM   1099  CD  GLN    70      -0.120   3.555 -14.599  1.00  0.00      1LEA1206
+ATOM   1100  OE1 GLN    70      -0.621   4.673 -14.557  1.00  0.00      1LEA1207
+ATOM   1101  NE2 GLN    70      -0.809   2.563 -15.095  1.00  0.00      1LEA1208
+ATOM   1102  H   GLN    70       2.244   3.319  -9.688  1.00  0.00      1LEA1209
+ATOM   1103  HA  GLN    70       1.342   5.018 -12.050  1.00  0.00      1LEA1210
+ATOM   1104 1HB  GLN    70       2.405   2.420 -12.510  1.00  0.00      1LEA1211
+ATOM   1105 2HB  GLN    70       0.726   2.023 -12.359  1.00  0.00      1LEA1212
+ATOM   1106 1HG  GLN    70       1.902   4.170 -14.271  1.00  0.00      1LEA1213
+ATOM   1107 2HG  GLN    70       1.745   2.490 -14.689  1.00  0.00      1LEA1214
+ATOM   1108 1HE2 GLN    70      -1.792   2.781 -15.276  1.00  0.00      1LEA1215
+ATOM   1109 2HE2 GLN    70      -0.403   1.631 -14.975  1.00  0.00      1LEA1216
+ATOM   1110  N   GLU    71      -1.215   4.495 -11.617  1.00  0.00      1LEA1217
+ATOM   1111  CA  GLU    71      -2.641   4.172 -11.302  1.00  0.00      1LEA1218
+ATOM   1112  C   GLU    71      -3.440   4.068 -12.642  1.00  0.00      1LEA1219
+ATOM   1113  O   GLU    71      -3.404   3.011 -13.275  1.00  0.00      1LEA1220
+ATOM   1114  CB  GLU    71      -3.201   5.115 -10.209  1.00  0.00      1LEA1221
+ATOM   1115  CG  GLU    71      -4.583   4.675  -9.671  1.00  0.00      1LEA1222
+ATOM   1116  CD  GLU    71      -5.189   5.657  -8.679  1.00  0.00      1LEA1223
+ATOM   1117  OE1 GLU    71      -5.387   6.841  -8.933  1.00  0.00      1LEA1224
+ATOM   1118  OE2 GLU    71      -5.503   5.067  -7.492  1.00  0.00      1LEA1225
+ATOM   1119  H   GLU    71      -0.919   4.753 -12.567  1.00  0.00      1LEA1226
+ATOM   1120  HA  GLU    71      -2.670   3.141 -10.890  1.00  0.00      1LEA1227
+ATOM   1121 1HB  GLU    71      -2.485   5.137  -9.362  1.00  0.00      1LEA1228
+ATOM   1122 2HB  GLU    71      -3.232   6.159 -10.577  1.00  0.00      1LEA1229
+ATOM   1123 1HG  GLU    71      -5.312   4.565 -10.494  1.00  0.00      1LEA1230
+ATOM   1124 2HG  GLU    71      -4.503   3.669  -9.217  1.00  0.00      1LEA1231
+ATOM   1125  HE2 GLU    71      -5.314   4.128  -7.523  1.00  0.00      1LEA1232
+ATOM   1126  N   GLU    72      -4.150   5.122 -13.085  1.00  0.00      1LEA1233
+ATOM   1127  CA  GLU    72      -4.914   5.152 -14.366  1.00  0.00      1LEA1234
+ATOM   1128  C   GLU    72      -6.099   4.137 -14.509  1.00  0.00      1LEA1235
+ATOM   1129  O   GLU    72      -7.224   4.485 -14.851  1.00  0.00      1LEA1236
+ATOM   1130  CB  GLU    72      -4.008   5.142 -15.625  1.00  0.00      1LEA1237
+ATOM   1131  CG  GLU    72      -3.134   6.402 -15.794  1.00  0.00      1LEA1238
+ATOM   1132  CD  GLU    72      -2.319   6.380 -17.080  1.00  0.00      1LEA1239
+ATOM   1133  OE1 GLU    72      -1.112   5.766 -16.922  1.00  0.00      1LEA1240
+ATOM   1134  OE2 GLU    72      -2.719   6.859 -18.136  1.00  0.00      1LEA1241
+ATOM   1135  OXT GLU    72      -5.753   2.836 -14.261  1.00  0.00      1LEA1242
+ATOM   1136  H   GLU    72      -4.090   5.939 -12.468  1.00  0.00      1LEA1243
+ATOM   1137  HA  GLU    72      -5.436   6.132 -14.372  1.00  0.00      1LEA1244
+ATOM   1138 1HB  GLU    72      -3.374   4.235 -15.634  1.00  0.00      1LEA1245
+ATOM   1139 2HB  GLU    72      -4.653   5.052 -16.525  1.00  0.00      1LEA1246
+ATOM   1140 1HG  GLU    72      -3.767   7.308 -15.819  1.00  0.00      1LEA1247
+ATOM   1141 2HG  GLU    72      -2.455   6.544 -14.934  1.00  0.00      1LEA1248
+ATOM   1142  HE1 GLU    72      -0.998   5.457 -16.015  1.00  0.00      1LEA1249
+TER    1143      GLU    72                                              1LEA1250
+MASTER       73    0    0    3    2    0    0    6 1142    1    0    7  1LEA1251
+END                                                                     1LEA1252
+</PRE></BODY></HTML>

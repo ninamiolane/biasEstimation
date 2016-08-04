@@ -1,0 +1,290 @@
+#!rasmol -script
+# File: 1AXC.pdb.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1AXC.pdb"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select CYS135C
+color atoms [0,255,255]
+select VAL136C
+color atoms [0,255,255]
+select VAL137C
+color atoms [0,255,255]
+select LYS138C
+color atoms [0,255,255]
+select SER141C
+color atoms [0,255,255]
+select GLY142C
+color atoms [0,255,255]
+select GLU143C
+color atoms [0,255,255]
+select PHE144C
+color atoms [0,255,255]
+select ALA145C
+color atoms [0,255,255]
+select GLY155C
+color atoms [0,255,255]
+select ASP156C
+color atoms [0,255,255]
+select ALA157C
+color atoms [0,255,255]
+select VAL158C
+color atoms [0,255,255]
+select VAL159C
+color atoms [0,255,255]
+select ILE160C
+color atoms [0,255,255]
+select SER161C
+color atoms [0,255,255]
+select CYS162C
+color atoms [0,255,255]
+select ALA163C
+color atoms [0,255,255]
+select ASP165C
+color atoms [0,255,255]
+select GLY166C
+color atoms [0,255,255]
+select VAL167C
+color atoms [0,255,255]
+select LYS168C
+color atoms [0,255,255]
+select ALA171C
+color atoms [0,255,255]
+select SER172C
+color atoms [0,255,255]
+select ASN177C
+color atoms [0,255,255]
+select GLY178C
+color atoms [0,255,255]
+select ASN179C
+color atoms [0,255,255]
+select LYS181C
+color atoms [0,255,255]
+select LEU182C
+color atoms [0,255,255]
+select SER183C
+color atoms [0,255,255]
+select GLN184C
+color atoms [0,255,255]
+select ILE197C
+color atoms [0,255,255]
+select GLU198C
+color atoms [0,255,255]
+select GLU201C
+color atoms [0,255,255]
+select PRO202C
+color atoms [0,255,255]
+select VAL203C
+color atoms [0,255,255]
+select GLN204C
+color atoms [0,255,255]
+select LEU205C
+color atoms [0,255,255]
+select THR206C
+color atoms [0,255,255]
+select PHE207C
+color atoms [0,255,255]
+select ALA208C
+color atoms [0,255,255]
+select LEU209C
+color atoms [0,255,255]
+select ARG210C
+color atoms [0,255,255]
+select TYR211C
+color atoms [0,255,255]
+select LEU212C
+color atoms [0,255,255]
+select ASN213C
+color atoms [0,255,255]
+select PHE214C
+color atoms [0,255,255]
+select PHE215C
+color atoms [0,255,255]
+select THR216C
+color atoms [0,255,255]
+select LYS217C
+color atoms [0,255,255]
+select ALA218C
+color atoms [0,255,255]
+select THR219C
+color atoms [0,255,255]
+select THR224C
+color atoms [0,255,255]
+select VAL225C
+color atoms [0,255,255]
+select THR226C
+color atoms [0,255,255]
+select LEU227C
+color atoms [0,255,255]
+select SER228C
+color atoms [0,255,255]
+select MET229C
+color atoms [0,255,255]
+select PRO234C
+color atoms [0,255,255]
+select LEU235C
+color atoms [0,255,255]
+select VAL236C
+color atoms [0,255,255]
+select VAL237C
+color atoms [0,255,255]
+select GLU238C
+color atoms [0,255,255]
+select TYR239C
+color atoms [0,255,255]
+select LEU247C
+color atoms [0,255,255]
+select LYS248C
+color atoms [0,255,255]
+select TYR249C
+color atoms [0,255,255]
+select TYR250C
+color atoms [0,255,255]
+select LEU251C
+color atoms [0,255,255]
+select ALA252C
+color atoms [0,255,255]
+select PRO253C
+color atoms [0,255,255]
+select LYS254C
+color atoms [0,255,255]
+select PHE2A
+color atoms [0,255,255]
+select GLU3A
+color atoms [0,255,255]
+select ALA4A
+color atoms [0,255,255]
+select SER10A
+color atoms [0,255,255]
+select ILE11A
+color atoms [0,255,255]
+select LEU12A
+color atoms [0,255,255]
+select LYS13A
+color atoms [0,255,255]
+select VAL15A
+color atoms [0,255,255]
+select LEU16A
+color atoms [0,255,255]
+select LYS20A
+color atoms [0,255,255]
+select ASN24A
+color atoms [0,255,255]
+select TRP28A
+color atoms [0,255,255]
+select ASP29A
+color atoms [0,255,255]
+select ILE30A
+color atoms [0,255,255]
+select SER31A
+color atoms [0,255,255]
+select SER32A
+color atoms [0,255,255]
+select VAL35A
+color atoms [0,255,255]
+select LEU50A
+color atoms [0,255,255]
+select THR51A
+color atoms [0,255,255]
+select LEU52A
+color atoms [0,255,255]
+select TYR60A
+color atoms [0,255,255]
+select ARG61A
+color atoms [0,255,255]
+select CYS62A
+color atoms [0,255,255]
+select ARG64A
+color atoms [0,255,255]
+select ASN65A
+color atoms [0,255,255]
+select LEU66A
+color atoms [0,255,255]
+select ALA67A
+color atoms [0,255,255]
+select MET68A
+color atoms [0,255,255]
+select GLY69A
+color atoms [0,255,255]
+select ASN71A
+color atoms [0,255,255]
+select SER74A
+color atoms [0,255,255]
+select MET75A
+color atoms [0,255,255]
+select SER76A
+color atoms [0,255,255]
+select LYS77A
+color atoms [0,255,255]
+select ILE78A
+color atoms [0,255,255]
+select LEU79A
+color atoms [0,255,255]
+select LYS80A
+color atoms [0,255,255]
+select ILE88A
+color atoms [0,255,255]
+select THR89A
+color atoms [0,255,255]
+select LEU90A
+color atoms [0,255,255]
+select ARG91A
+color atoms [0,255,255]
+select ALA92A
+color atoms [0,255,255]
+select LEU99A
+color atoms [0,255,255]
+select ALA100A
+color atoms [0,255,255]
+select LEU101A
+color atoms [0,255,255]
+select VAL102A
+color atoms [0,255,255]
+select PHE103A
+color atoms [0,255,255]
+select GLU109A
+color atoms [0,255,255]
+select VAL111A
+color atoms [0,255,255]
+select SER112A
+color atoms [0,255,255]
+select ASP113A
+color atoms [0,255,255]
+select TYR114A
+color atoms [0,255,255]
+select GLU115A
+color atoms [0,255,255]
+select MET116A
+color atoms [0,255,255]
+select LYS117A
+color atoms [0,255,255]
+select LEU118A
+color atoms [0,255,255]
+select all

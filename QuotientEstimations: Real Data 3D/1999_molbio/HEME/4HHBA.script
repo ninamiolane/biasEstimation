@@ -1,0 +1,56 @@
+#!rasmol -script
+# File: 4HHBA.script
+# Creator: RasMol Version 2.5
+
+background [0,0,0]
+load pdb "4HHBA"
+set ambient 60
+set specular on
+set specpower 8
+
+reset
+slab off
+rotate z 58
+rotate y 14
+rotate x 4
+translate x -1
+translate y -2
+
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+colour white
+
+# Atoms
+select (atomno>=1) and (atomno<=1069)
+colour atoms [0,0,255]
+select (atomno>=1071) and (atomno<=1113)
+colour atoms [255,0,0]
+select all
+spacefill off
+
+# Bonds
+wireframe on
+
+# Ribbons
+ribbons off
+
+# Backbone
+backbone off
+
+# Labels
+labels off
+
+ssbonds off
+hbonds off

@@ -1,0 +1,25 @@
+#!/bin/tcsh
+
+# set RASMOLPROG="rasmol"
+
+cd /u/knock/0/xpennec/molbio/HEME
+
+echo "Hemoglobine humaine, chaine A"
+$RASMOLPROG -script 4HHBA.script
+
+# echo "Hemoglobine humaine (foetus)"
+# $RASMOLPROG -script 1FDH.script
+
+echo "leghemoglobine, lupin jaune"
+$RASMOLPROG -script 1LH4.script
+
+echo "Cyano-hemoglobine, lamproie"
+$RASMOLPROG -script 2LHB.script
+
+echo "Motif"
+$RASMOLPROG -script MOTIF.script
+
+
+cd MeanShape
+echo "Recalage multiple : modele"
+$RASMOLPROG -script Registered.script

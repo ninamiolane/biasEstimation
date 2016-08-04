@@ -1,0 +1,240 @@
+Model : MOTIF
+Scene : 4MBN
+*** Frame parameters ***
+   Maximum error on Position for frames ( eps ) :   2.0000 
+   Variance on Positions for frames     :   1.0000 
+   Variance on Orientations for frames  :   0.4000 
+*** Geometric Hashing step ***
+   Minimal score for matches : 5
+   Hash factor :   4.0000
+   Hidden parameters : bounds
+   Global mode.
+*** Clustering ***
+   Threshold on Mahalanobis distance : Chi =   8.0000
+   Threshold on the number of matches : fixed to 3
+*** Verification ***
+   Threshold on Mahalanobis distance : Chi =   2.0000
+   Threshold on Euclidien distance : fixed to 10 *   2.0000 =  20.0000
+   Threshold on angular distance : fixed to PI/2
+   Threshold on the number of matches : fixed to 3
+
+** Reading and Translating model AminoAcids into Frames
+Reading : MOTIF 
+Reading : 4MBN 
+
+** Preprocessing model
+
+Preprocessing done :
+     210   Couples indexed
+     0   Couples rejected
+     2682   Entries in Htable
+
+** Recognition step using Geometric Hashing
+
+** Filtering Matches according to MinScore
+154 matches found :
+
+MOTIF - 4MBN
+A   98 PHE  -     104 LEU  :  18 - 1.734447
+A   87 HIS  -     104 LEU  :  15 - 2.146318
+A   93 VAL  -     115 LEU  :  15 - 1.574178
+A   58 HIS  -     110 ALA  :  14 - 1.392724
+A   98 PHE  -      93 HIS  :  13 - 1.702511
+A   97 ASN  -      67 THR  :  13 - 1.830814
+A  101 LEU  -     104 LEU  :  12 - 1.983274
+A   93 VAL  -     138 PHE  :  12 - 1.959425
+A  101 LEU  -      93 HIS  :  12 - 1.643553
+A  101 LEU  -      42 LYS  :  11 - 1.831896
+A   97 ASN  -     106 PHE  :  11 - 1.791294
+A   42 TYR  -     134 ALA  :  11 - 2.310853
+A   91 LEU  -     111 ILE  :  11 - 1.827296
+A   98 PHE  -     112 ILE  :  11 - 2.146554
+A   43 PHE  -     108 SER  :  11 - 1.662453
+A   98 PHE  -     108 SER  :  11 - 2.250586
+A   66 LEU  -      33 PHE  :  10 - 2.124845
+A   98 PHE  -      33 PHE  :  10 - 1.933925
+A   97 ASN  -      39 THR  :  10 - 2.514600
+A   66 LEU  -     108 SER  :  10 - 1.671410
+A   97 ASN  -      13 VAL  :  10 - 1.947504
+A   98 PHE  -     111 ILE  :  10 - 1.690870
+A   58 HIS  -      39 THR  :  10 - 1.551060
+A   97 ASN  -     110 ALA  :  10 - 2.485057
+A   91 LEU  -     115 LEU  :  10 - 2.037972
+A   61 LYS  -      75 ILE  :  10 - 1.563616
+A   66 LEU  -      69 LEU  :  10 - 1.869391
+A   42 TYR  -     138 PHE  :  10 - 2.380204
+A   61 LYS  -     110 ALA  :  9 - 2.083929
+A   97 ASN  -      72 LEU  :  9 - 2.279251
+A   93 VAL  -     145 LYS  :  9 - 2.154775
+A   86 LEU  -      39 THR  :  9 - 2.272960
+A   83 LEU  -     104 LEU  :  9 - 1.902923
+A  101 LEU  -      72 LEU  :  9 - 2.196533
+A   87 HIS  -     108 SER  :  9 - 2.335286
+A   97 ASN  -      71 ALA  :  9 - 1.707716
+A   98 PHE  -      40 LEU  :  9 - 1.846404
+A   43 PHE  -      18 GLU  :  9 - 1.594456
+A   97 ASN  -     130 ALA  :  9 - 2.365699
+A  101 LEU  -      89 LEU  :  9 - 1.799675
+A   97 ASN  -       6 GLU  :  8 - 2.329445
+A   97 ASN  -      68 VAL  :  8 - 2.505983
+A   91 LEU  -      76 LEU  :  8 - 3.016332
+A  101 LEU  -      46 PHE  :  8 - 2.248494
+A   43 PHE  -      69 LEU  :  8 - 2.030201
+A   42 TYR  -     117 SER  :  8 - 2.413642
+A  101 LEU  -       2 LEU  :  8 - 2.726557
+A   98 PHE  -      76 LEU  :  8 - 1.889796
+A  101 LEU  -      43 PHE  :  8 - 2.112452
+A  101 LEU  -     117 SER  :  8 - 1.782682
+A   66 LEU  -      93 HIS  :  8 - 1.795469
+A   91 LEU  -      82 HIS  :  8 - 1.770431
+A   43 PHE  -      77 LYS  :  8 - 2.267776
+A   61 LYS  -      45 ARG  :  8 - 2.072414
+A   97 ASN  -     134 ALA  :  8 - 2.088840
+A  101 LEU  -      33 PHE  :  8 - 1.943037
+A   83 LEU  -      72 LEU  :  8 - 2.028749
+A   66 LEU  -     139 ARG  :  8 - 2.252193
+A   42 TYR  -      85 GLU  :  8 - 2.495869
+A   42 TYR  -      72 LEU  :  8 - 2.244498
+A   83 LEU  -     127 ALA  :  8 - 1.863357
+A   66 LEU  -     120 PRO  :  8 - 2.697216
+A   66 LEU  -     146 TYR  :  8 - 2.226196
+A   98 PHE  -     139 ARG  :  7 - 2.411405
+A  101 LEU  -      75 ILE  :  7 - 2.452795
+A   43 PHE  -      73 GLY  :  7 - 1.911786
+A   66 LEU  -      56 LYS  :  7 - 2.225783
+A   65 ALA  -      75 ILE  :  7 - 2.063964
+A   58 HIS  -     135 LEU  :  7 - 2.616203
+A  101 LEU  -     137 LEU  :  7 - 2.804372
+A   61 LYS  -      71 ALA  :  7 - 2.436633
+A   98 PHE  -      26 GLN  :  7 - 2.451743
+A   43 PHE  -      28 ILE  :  7 - 1.873499
+A  101 LEU  -      29 LEU  :  7 - 2.228246
+A   83 LEU  -      61 LEU  :  7 - 2.032708
+A   98 PHE  -      62 LYS  :  7 - 1.982000
+A   66 LEU  -      86 LEU  :  7 - 2.012265
+A   66 LEU  -      29 LEU  :  7 - 2.531451
+A   65 ALA  -     114 VAL  :  7 - 2.034902
+A   91 LEU  -     107 ILE  :  7 - 2.551471
+A  101 LEU  -     107 ILE  :  7 - 1.926283
+A   98 PHE  -      28 ILE  :  7 - 2.455403
+A   58 HIS  -      28 ILE  :  7 - 2.435493
+A   65 ALA  -     107 ILE  :  7 - 1.869143
+A   83 LEU  -      28 ILE  :  7 - 2.052269
+A   58 HIS  -      89 LEU  :  7 - 2.135550
+A   97 ASN  -      64 HIS  :  7 - 2.304137
+A   42 TYR  -      13 VAL  :  7 - 2.520462
+A   87 HIS  -     119 HIS  :  7 - 2.597262
+A   66 LEU  -     109 GLU  :  7 - 2.508161
+A   43 PHE  -      33 PHE  :  7 - 1.932049
+A   83 LEU  -      68 VAL  :  7 - 2.203230
+A   65 ALA  -     110 ALA  :  7 - 1.897991
+A   83 LEU  -     111 ILE  :  7 - 2.099310
+A   43 PHE  -     112 ILE  :  7 - 2.085355
+A  101 LEU  -     113 HIS  :  7 - 2.202467
+A   58 HIS  -      64 HIS  :  7 - 3.642633
+A   87 HIS  -      65 GLY  :  7 - 2.811208
+A   62 VAL  -      89 LEU  :  7 - 2.482571
+A   97 ASN  -      82 HIS  :  6 - 2.466690
+A   97 ASN  -     131 MET  :  6 - 2.823821
+A   65 ALA  -      49 LEU  :  6 - 2.077992
+A   65 ALA  -     118 ARG  :  6 - 2.232477
+A   87 HIS  -      33 PHE  :  6 - 3.085917
+A  101 LEU  -     118 ARG  :  6 - 2.000532
+A   98 PHE  -     135 LEU  :  6 - 2.691355
+A   66 LEU  -      79 LYS  :  6 - 2.767833
+A   58 HIS  -      69 LEU  :  6 - 3.066100
+A   97 ASN  -      85 GLU  :  6 - 2.591228
+A   97 ASN  -      63 LYS  :  6 - 2.856711
+A   91 LEU  -      32 LEU  :  6 - 2.348954
+A   83 LEU  -     131 MET  :  6 - 2.394915
+A   62 VAL  -      33 PHE  :  6 - 2.351915
+A   58 HIS  -     103 TYR  :  6 - 2.396543
+A   43 PHE  -     119 HIS  :  6 - 2.559283
+A   62 VAL  -      86 LEU  :  6 - 2.177199
+A   43 PHE  -      15 ALA  :  6 - 2.453074
+A   97 ASN  -      78 LYS  :  6 - 2.342409
+A   86 LEU  -     130 ALA  :  6 - 2.341505
+A   97 ASN  -      42 LYS  :  6 - 2.516444
+A   62 VAL  -     115 LEU  :  6 - 2.324161
+A   98 PHE  -      69 LEU  :  6 - 2.617672
+A   97 ASN  -     103 TYR  :  6 - 2.806259
+A   62 VAL  -      40 LEU  :  6 - 2.266789
+A   42 TYR  -     110 ALA  :  6 - 3.073387
+A   91 LEU  -      68 VAL  :  6 - 2.309969
+A   61 LYS  -      27 ASP  :  6 - 2.247363
+A   87 HIS  -     135 LEU  :  6 - 2.351124
+A  101 LEU  -     135 LEU  :  6 - 2.140582
+A   65 ALA  -      92 SER  :  6 - 2.694685
+A   66 LEU  -      76 LEU  :  6 - 2.965513
+A  101 LEU  -     110 ALA  :  6 - 2.125151
+A   91 LEU  -     104 LEU  :  6 - 3.064472
+A   98 PHE  -      94 ALA  :  6 - 2.577544
+A  101 LEU  -      28 ILE  :  6 - 2.385442
+A   58 HIS  -      68 VAL  :  6 - 2.453786
+A   91 LEU  -     145 LYS  :  6 - 2.424574
+A   87 HIS  -     139 ARG  :  6 - 3.011058
+A   87 HIS  -      43 PHE  :  6 - 2.398881
+A   61 LYS  -      67 THR  :  6 - 2.056376
+A   93 VAL  -     104 LEU  :  6 - 2.452297
+A   87 HIS  -     107 ILE  :  6 - 2.309145
+A   62 VAL  -      68 VAL  :  6 - 2.539339
+A   61 LYS  -     107 ILE  :  6 - 2.467941
+A   58 HIS  -      55 MET  :  6 - 2.063677
+A   62 VAL  -      93 HIS  :  6 - 3.004413
+A   65 ALA  -      71 ALA  :  6 - 2.232037
+A   87 HIS  -      93 HIS  :  6 - 2.740624
+A   91 LEU  -     138 PHE  :  6 - 2.565631
+A   66 LEU  -      43 PHE  :  6 - 2.108978
+A   97 ASN  -     102 LYS  :  6 - 2.360299
+A  101 LEU  -     111 ILE  :  6 - 2.407089
+A   91 LEU  -      93 HIS  :  6 - 2.647373
+A   87 HIS  -      40 LEU  :  6 - 2.662865
+
+** Clustering and filtering of matches
+2 Cluster found :
+
+MOTIF - 4MBN
+
+Cluster  :  6 - 0.813847
+  1.169768   -0.639991    0.017131    3.328259   14.349083   -6.324495  
+
+A   98 PHE  -     104 LEU
+A  101 LEU  -     107 ILE
+A   58 HIS  -      64 HIS
+A   62 VAL  -      68 VAL
+A   65 ALA  -      71 ALA
+A   87 HIS  -      93 HIS
+
+Cluster  :  4 - 0.974465
+  2.821052   -0.028614    0.341179   11.156505   22.895256  -11.424245  
+
+A   91 LEU  -     138 PHE
+A   91 LEU  -     145 LYS
+A   87 HIS  -     135 LEU
+A   83 LEU  -     127 ALA
+
+** Verification step
+1 Remaining Clusters
+
+MOTIF - 4MBN
+
+Cluster 0  --- Score : 15
+  1.142171   -0.675039    0.010929    3.395687   14.618853   -6.194102  
+
+A  101 LEU  --    107 ILE :   0.4317    0.6370  Pi/ 25.3703
+A   98 PHE  --    104 LEU :   0.3949    0.6753  Pi/ 17.3086
+A   97 ASN  --    103 TYR :   0.5498    0.6007  Pi/ 14.0385
+A   93 VAL  --     99 ILE :   0.8286    0.6122  Pi/ 11.4213
+A   91 LEU  --     97 HIS :   0.3598    0.6865  Pi/ 27.0049
+A   87 HIS  --     93 HIS :   0.5758    0.9154  Pi/ 12.8839
+A   86 LEU  --     92 SER :   0.6498    0.6715  Pi/ 17.7052
+A   83 LEU  --     89 LEU :   1.2562    1.2343  Pi/  5.5660
+A   66 LEU  --     72 LEU :   0.8037    0.8381  Pi/ 12.6864
+A   65 ALA  --     71 ALA :   1.0894    0.3711  Pi/  8.4053
+A   62 VAL  --     68 VAL :   0.5241    0.2672  Pi/ 19.1405
+A   61 LYS  --     67 THR :   0.5120    0.5411  Pi/ 13.4592
+A   58 HIS  --     64 HIS :   0.9129    0.7896  Pi/ 11.7151
+A   43 PHE  --     43 PHE :   1.0149    1.3910  Pi/  7.6834
+A   42 TYR  --     42 LYS :   0.8886    0.4048  Pi/ 12.8598
+   RMM :   0.7666 ---  RMS distance :   0.7663
+   Angular RMS : Pi /  11.2091 =   0.2803

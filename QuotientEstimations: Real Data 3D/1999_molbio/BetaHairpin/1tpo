@@ -1,0 +1,1850 @@
+<META name="description" content="send-pdb 1.1.3 by Prilusky, 1996,1997,1998">
+<BODY BGCOLOR="#FFFFFF"><pre><HTML><TITLE>PDB Full entry for 1TPO</TITLE><base href="http://pdb.ccdc.cam.ac.uk">HEADER    HYDROLASE (SERINE PROTEINASE)           27-SEP-82   1TPO      1TPO   3
+COMPND    BETA-TRYPSIN (ORTHORHOMBIC) AT $P*H5.0 <A HREF="http://www.expasy.ch/cgi-bin/get-enzyme-entry?3.4.21.4">(E.C.3.4.21.4)</A>         1TPO   4
+SOURCE    BOVINE (BOS TAURUS) PANCREAS                                  1TPO   5
+AUTHOR    W.BODE,J.WALTER,R.HUBER                                       1TPO   6
+REVDAT   4   14-MAR-85 1TPOC   3       SEQRES ATOM                      1TPOC  1
+REVDAT   3   23-FEB-84 1TPOB   1       JRNL                             1TPOB  1
+REVDAT   2   30-SEP-83 1TPOA   1       REVDAT                           1TPOA  1
+REVDAT   1   18-JAN-83 1TPO    0                                        1TPOA  2
+JRNL        AUTH   M.MARQUART,J.WALTER,J.DEISENHOFER,W.BODE,R.HUBER     1TPO   7
+JRNL        TITL   THE GEOMETRY OF THE REACTIVE SITE AND OF THE         1TPO   8
+JRNL        TITL 2 PEPTIDE GROUPS IN TRYPSIN, TRYPSINOGEN AND ITS       1TPO   9
+JRNL        TITL 3 COMPLEXES WITH INHIBITORS                            1TPO  10
+JRNL        REF    ACTA CRYSTALLOGR.,SECT.B      V.  39   480 1983      1TPOB  2
+JRNL        REFN   ASTM ASBSDK  DK ISSN 0108-7681                  622  1TPOB  3
+REMARK   1                                                              1TPO  13
+REMARK   1 REFERENCE 1                                                  1TPO  14
+REMARK   1  AUTH   W.BODE,P.SCHWAGER,R.HUBER                            1TPO  15
+REMARK   1  TITL   STRUCTURAL STUDIES ON THE PANCREATIC TRYPSIN         1TPO  16
+REMARK   1  TITL 2 INHIBITOR-*TRYPSIN COMPLEX AND ITS FREE COMPONENTS.  1TPO  17
+REMARK   1  TITL 3 STRUCTURE AND FUNCTION RELATIONSHIPS IN SERINE       1TPO  18
+REMARK   1  TITL 4 PROTEASE INHIBITION AND CATALYSIS                    1TPO  19
+REMARK   1  REF    MIAMI WINTER SYMP.            V.  11    43 1976      1TPO  20
+REMARK   1  REFN   ASTM MIWSAE  US ISSN 0097-0808                  926  1TPO  21
+REMARK   1 REFERENCE 2                                                  1TPO  22
+REMARK   1  AUTH   H.FEHLHAMMER,W.BODE                                  1TPO  23
+REMARK   1  TITL   THE REFINED CRYSTAL STRUCTURE OF BOVINE              1TPO  24
+REMARK   1  TITL 2 BETA-*TRYPSIN AT 1.8 ANGSTROMS RESOLUTION.           1TPO  25
+REMARK   1  TITL 3 I. CRYSTALLIZATION, DATA COLLECTION AND APPLICATION  1TPO  26
+REMARK   1  TITL 4 OF PATTERSON SEARCH TECHNIQUES                       1TPO  27
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=76072096">REF</A>    J.MOL.BIOL.                   V.  98   683 1975      1TPO  28
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1TPO  29
+REMARK   1 REFERENCE 3                                                  1TPO  30
+REMARK   1  AUTH   W.BODE,P.SCHWAGER                                    1TPO  31
+REMARK   1  TITL   THE REFINED CRYSTAL STRUCTURE OF BOVINE              1TPO  32
+REMARK   1  TITL 2 BETA-*TRYPSIN AT 1.8 ANGSTROMS RESOLUTION.           1TPO  33
+REMARK   1  TITL 3 /II$. CRYSTALLOGRAPHIC REFINEMENT, CALCIUM BINDING   1TPO  34
+REMARK   1  TITL 4 SITE, BENZAMIDINE BINDING SITE AND ACTIVE SITE AT    1TPO  35
+REMARK   1  TITL 5 $P*H 7.0                                             1TPO  36
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=76072097">REF</A>    J.MOL.BIOL.                   V.  98   693 1975      1TPO  37
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  1TPO  38
+REMARK   1 REFERENCE 4                                                  1TPO  39
+REMARK   1  AUTH   W.BODE,P.SCHWAGER                                    1TPO  40
+REMARK   1  TITL   THE SINGLE CALCIUM-BINDING SITE OF CRYSTALLINE       1TPO  41
+REMARK   1  TITL 2 BOVINE BETA-*TRYPSIN                                 1TPO  42
+REMARK   1  <A HREF="http://www3.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=76003223">REF</A>    /FEBS$ LETT.                  V.  56   139 1975      1TPO  43
+REMARK   1  REFN   ASTM FEBLAL  NE ISSN 0014-5793                  165  1TPO  44
+REMARK   1 REFERENCE 5                                                  1TPO  45
+REMARK   1  EDIT   M.O.DAYHOFF                                          1TPO  46
+REMARK   1  REF    ATLAS OF PROTEIN SEQUENCE     V.   5   105 1972      1TPO  47
+REMARK   1  REF  2 AND STRUCTURE (DATA SECTION)                         1TPO  48
+REMARK   1  PUBL   NATIONAL BIOMEDICAL RESEARCH FOUNDATION,             1TPO  49
+REMARK   1  PUBL 2 SILVER SPRING,MD.                                    1TPO  50
+REMARK   1  REFN                   ISBN 0-912466-02-2              435  1TPO  51
+REMARK   2                                                              1TPO  52
+REMARK   2 RESOLUTION. 1.7 ANGSTROMS.                                   1TPO  53
+REMARK   3                                                              1TPO  54
+REMARK   3 REFINEMENT. J. DEISENHOFER*S VERSION OF THE JACK AND         1TPO  55
+REMARK   3  LEVITT REFINEMENT PROCEDURE COMBINING CRYSTALLOGRAPHIC AND  1TPO  56
+REMARK   3  ENERGY REFINEMENT. (A.JACK,M.LEVITT, ACTA CRYSTALLOGR.,     1TPO  57
+REMARK   3  A34, 931-935, 1978).  THE R-VALUE FOR REFLECTIONS WITHIN    1TPO  58
+REMARK   3  THE SHELL 1.7 TO 7.0 ANGSTROMS AND WITH                     1TPO  59
+REMARK   3  2*(ABS(FO)-ABS(FC))/(ABS(FO)+ABS(FC)) LESS THAN 1.2 IS      1TPO  60
+REMARK   3  0.180.                                                      1TPO  61
+REMARK   4                                                              1TPO  62
+REMARK   4 AN OCCUPANCY OF 0.0 INDICATES THAT NO SIGNIFICANT ELECTRON   1TPO  63
+REMARK   4 DENSITY WAS FOUND IN THE FINAL FOURIER MAP.                  1TPO  64
+REMARK   5                                                              1TPO  65
+REMARK   5 THE NOMENCLATURE OF THE WATER MOLECULES IS THAT OF THE       1TPO  66
+REMARK   5 DEPOSITORS.                                                  1TPO  67
+REMARK   6                                                              1TPO  68
+REMARK   6 THIS COORDINATE SET IS DESIGNATED DEBB BY THE DEPOSITORS.    1TPO  69
+REMARK   7                                                              1TPOA  3
+REMARK   7 CORRECTION. INSERT REVDAT RECORDS. 30-SEP-83.                1TPOA  4
+REMARK   8                                                              1TPOB  4
+REMARK   8 CORRECTION. UPDATE JRNL REFERENCE TO REFLECT PUBLICATION.    1TPOB  5
+REMARK   8  23-FEB-84.                                                  1TPOB  6
+REMARK   9                                                              1TPOC  2
+REMARK   9 CORRECTION. CHANGE RESIDUE 165 FROM ASN TO ASP AND CHANGE    1TPOC  3
+REMARK   9  RESIDUE 186 FROM GLN TO GLU, UPON DEPOSITORS INSTRUCTIONS.  1TPOC  4
+REMARK   9  REVISE ATOM AND SEQRES RECORDS ACCORDINGLY.  14-MAR-85.     1TPOC  5
+SEQRES   1    223  ILE VAL GLY GLY TYR THR CYS GLY ALA ASN THR VAL PRO  1TPO  70
+SEQRES   2    223  TYR GLN VAL SER LEU ASN SER GLY TYR HIS PHE CYS GLY  1TPO  71
+SEQRES   3    223  GLY SER LEU ILE ASN SER GLN TRP VAL VAL SER ALA ALA  1TPO  72
+SEQRES   4    223  HIS CYS TYR LYS SER GLY ILE GLN VAL ARG LEU GLY GLU  1TPO  73
+SEQRES   5    223  ASP ASN ILE ASN VAL VAL GLU GLY ASN GLU GLN PHE ILE  1TPO  74
+SEQRES   6    223  SER ALA SER LYS SER ILE VAL HIS PRO SER TYR ASN SER  1TPO  75
+SEQRES   7    223  ASN THR LEU ASN ASN ASP ILE MET LEU ILE LYS LEU LYS  1TPO  76
+SEQRES   8    223  SER ALA ALA SER LEU ASN SER ARG VAL ALA SER ILE SER  1TPO  77
+SEQRES   9    223  LEU PRO THR SER CYS ALA SER ALA GLY THR GLN CYS LEU  1TPO  78
+SEQRES  10    223  ILE SER GLY TRP GLY ASN THR LYS SER SER GLY THR SER  1TPO  79
+SEQRES  11    223  TYR PRO ASP VAL LEU LYS CYS LEU LYS ALA PRO ILE LEU  1TPO  80
+SEQRES  12    223  SER ASP SER SER CYS LYS SER ALA TYR PRO GLY GLN ILE  1TPOC  6
+SEQRES  13    223  THR SER ASN MET PHE CYS ALA GLY TYR LEU GLU GLY GLY  1TPOC  7
+SEQRES  14    223  LYS ASP SER CYS GLN GLY ASP SER GLY GLY PRO VAL VAL  1TPO  83
+SEQRES  15    223  CYS SER GLY LYS LEU GLN GLY ILE VAL SER TRP GLY SER  1TPO  84
+SEQRES  16    223  GLY CYS ALA GLN LYS ASN LYS PRO GLY VAL TYR THR LYS  1TPO  85
+SEQRES  17    223  VAL CYS ASN TYR VAL SER TRP ILE LYS GLN THR ILE ALA  1TPO  86
+SEQRES  18    223  SER ASN                                              1TPO  87
+FTNOTE   1                                                              1TPO  88
+FTNOTE   1 SEE REMARK 4.                                                1TPO  89
+<a href="/pdb-bin/send-het?CA">HET     CA</a>    480       1     CALCIUM (II) ION                          1TPO  90
+FORMUL   2   CA    CA1 ++                                               1TPO  91
+FORMUL   3  HOH   *84(H2 O1)                                            1TPO  92
+HELIX    1  H1 SER    164  ILE    176  1 SNGL ALPHA TURN,REST IRREG.    1TPO  93
+HELIX    2  H2 LYS    230  VAL    235  5 CONTIGUOUS WITH H3             1TPO  94
+HELIX    3  H3 SER    236  ASN    245  1 CONTIGUOUS WITH H2             1TPO  95
+SSBOND   1 CYS     22    CYS    157                                     1TPO  96
+SSBOND   2 CYS     42    CYS     58                                     1TPO  97
+SSBOND   3 CYS    128    CYS    232                                     1TPO  98
+SSBOND   4 CYS    136    CYS    201                                     1TPO  99
+SSBOND   5 CYS    168    CYS    182                                     1TPO 100
+SSBOND   6 CYS    191    CYS    220                                     1TPO 101
+CRYST1   54.890   58.520   67.630  90.00  90.00  90.00 P 21 21 21    4  1TPO 102
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 1TPO 103
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 1TPO 104
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 1TPO 105
+SCALE1       .018218  0.000000  0.000000        0.00000                 1TPO 106
+SCALE2      0.000000   .017088  0.000000        0.00000                 1TPO 107
+SCALE3      0.000000  0.000000   .014786        0.00000                 1TPO 108
+ATOM      1  N   ILE    16      -8.124   9.603  20.387  1.00 14.54      1TPO 109
+ATOM      2  CA  ILE    16      -8.108   8.694  19.218  1.00 14.54      1TPO 110
+ATOM      3  C   ILE    16      -9.353   8.964  18.373  1.00 14.54      1TPO 111
+ATOM      4  O   ILE    16     -10.473   8.908  18.912  1.00 14.54      1TPO 112
+ATOM      5  CB  ILE    16      -7.991   7.183  19.640  1.00 14.54      1TPO 113
+ATOM      6  CG1 ILE    16      -6.799   6.833  20.554  1.00 11.38      1TPO 114
+ATOM      7  CG2 ILE    16      -8.012   6.216  18.417  1.00 11.38      1TPO 115
+ATOM      8  CD1 ILE    16      -5.437   6.982  19.875  1.00 11.38      1TPO 116
+ATOM      9  N   VAL    17      -9.171   9.263  17.111  1.00 11.60      1TPO 117
+ATOM     10  CA  VAL    17     -10.335   9.462  16.248  1.00 11.60      1TPO 118
+ATOM     11  C   VAL    17     -10.535   8.206  15.413  1.00 11.60      1TPO 119
+ATOM     12  O   VAL    17      -9.576   7.695  14.812  1.00 11.60      1TPO 120
+ATOM     13  CB  VAL    17     -10.134  10.673  15.297  1.00 11.60      1TPO 121
+ATOM     14  CG1 VAL    17     -11.376  10.936  14.421  1.00 11.18      1TPO 122
+ATOM     15  CG2 VAL    17      -9.575  11.971  15.953  1.00 11.18      1TPO 123
+ATOM     16  N   GLY    18     -11.707   7.703  15.296  1.00 15.70      1TPO 124
+ATOM     17  CA  GLY    18     -11.841   6.657  14.315  1.00 15.70      1TPO 125
+ATOM     18  C   GLY    18     -11.470   5.287  14.873  1.00 15.70      1TPO 126
+ATOM     19  O   GLY    18     -11.224   4.390  14.024  1.00 15.70      1TPO 127
+ATOM     20  N   GLY    19     -11.304   5.139  16.191  1.00 16.71      1TPO 128
+ATOM     21  CA  GLY    19     -10.871   3.840  16.697  1.00 16.71      1TPO 129
+ATOM     22  C   GLY    19     -12.001   3.168  17.461  1.00 16.71      1TPO 130
+ATOM     23  O   GLY    19     -13.169   3.279  17.013  1.00 16.71      1TPO 131
+ATOM     24  N   TYR    20     -11.693   2.280  18.398  1.00  8.89      1TPO 132
+ATOM     25  CA  TYR    20     -12.668   1.419  19.042  1.00  8.89      1TPO 133
+ATOM     26  C   TYR    20     -12.317   1.434  20.506  1.00  8.89      1TPO 134
+ATOM     27  O   TYR    20     -11.171   1.789  20.831  1.00  8.89      1TPO 135
+ATOM     28  CB  TYR    20     -12.681   -.031  18.481  1.00  8.89      1TPO 136
+ATOM     29  CG  TYR    20     -11.320   -.767  18.568  1.00 15.07      1TPO 137
+ATOM     30  CD1 TYR    20     -11.095  -1.742  19.514  1.00 15.07      1TPO 138
+ATOM     31  CD2 TYR    20     -10.344   -.476  17.660  1.00 15.07      1TPO 139
+ATOM     32  CE1 TYR    20      -9.894  -2.412  19.541  1.00 15.07      1TPO 140
+ATOM     33  CE2 TYR    20      -9.133  -1.130  17.690  1.00 15.07      1TPO 141
+ATOM     34  CZ  TYR    20      -8.923  -2.107  18.609  1.00 15.07      1TPO 142
+ATOM     35  OH  TYR    20      -7.659  -2.752  18.635  1.00 15.07      1TPO 143
+ATOM     36  N   THR    21     -13.221   1.039  21.325  1.00 15.50      1TPO 144
+ATOM     37  CA  THR    21     -12.968    .932  22.741  1.00 15.50      1TPO 145
+ATOM     38  C   THR    21     -12.155   -.322  23.073  1.00 15.50      1TPO 146
+ATOM     39  O   THR    21     -12.555  -1.437  22.645  1.00 15.50      1TPO 147
+ATOM     40  CB  THR    21     -14.330    .740  23.440  1.00 15.50      1TPO 148
+ATOM     41  OG1 THR    21     -15.166   1.837  23.125  1.00 20.63      1TPO 149
+ATOM     42  CG2 THR    21     -14.186    .600  24.983  1.00 20.63      1TPO 150
+ATOM     43  N   CYS    22     -10.952   -.137  23.518  1.00 15.32      1TPO 151
+ATOM     44  CA  CYS    22     -10.014  -1.212  23.768  1.00 15.32      1TPO 152
+ATOM     45  C   CYS    22     -10.617  -2.338  24.612  1.00 15.32      1TPO 153
+ATOM     46  O   CYS    22     -10.403  -3.527  24.307  1.00 15.32      1TPO 154
+ATOM     47  CB  CYS    22      -8.872   -.636  24.598  1.00 15.32      1TPO 155
+ATOM     48  SG  CYS    22      -7.886    .657  23.841  1.00 14.47      1TPO 156
+ATOM     49  N   GLY    23     -11.235  -2.000  25.725  1.00 15.11      1TPO 157
+ATOM     50  CA  GLY    23     -11.746  -2.922  26.712  1.00 15.11      1TPO 158
+ATOM     51  C   GLY    23     -10.834  -2.863  27.923  1.00 15.11      1TPO 159
+ATOM     52  O   GLY    23      -9.634  -2.496  27.807  1.00 15.11      1TPO 160
+ATOM     53  N   ALA    24     -11.456  -2.926  29.083  1.00 22.47      1TPO 161
+ATOM     54  CA  ALA    24     -10.703  -2.702  30.322  1.00 22.47      1TPO 162
+ATOM     55  C   ALA    24      -9.465  -3.615  30.514  1.00 22.47      1TPO 163
+ATOM     56  O   ALA    24      -9.511  -4.877  30.438  1.00 22.47      1TPO 164
+ATOM     57  CB  ALA    24     -11.665  -2.691  31.539  1.00 22.47      1TPO 165
+ATOM     58  N   ASN    25      -8.337  -2.962  30.677  1.00 18.53      1TPO 166
+ATOM     59  CA  ASN    25      -7.033  -3.498  30.968  1.00 18.53      1TPO 167
+ATOM     60  C   ASN    25      -6.609  -4.438  29.890  1.00 18.53      1TPO 168
+ATOM     61  O   ASN    25      -5.756  -5.312  30.148  1.00 18.53      1TPO 169
+ATOM     62  CB  ASN    25      -7.026  -4.205  32.324  1.00 18.53      1TPO 170
+ATOM     63  CG  ASN    25      -7.508  -3.263  33.437  1.00 24.19      1TPO 171
+ATOM     64  OD1 ASN    25      -6.988  -2.126  33.611  1.00 24.19      1TPO 172
+ATOM     65  ND2 ASN    25      -8.595  -3.652  34.052  1.00 24.19      1TPO 173
+ATOM     66  N   THR    26      -7.067  -4.174  28.684  1.00 16.18      1TPO 174
+ATOM     67  CA  THR    26      -6.499  -4.950  27.618  1.00 16.18      1TPO 175
+ATOM     68  C   THR    26      -5.206  -4.332  27.139  1.00 16.18      1TPO 176
+ATOM     69  O   THR    26      -4.524  -4.971  26.331  1.00 16.18      1TPO 177
+ATOM     70  CB  THR    26      -7.461  -5.091  26.425  1.00 16.18      1TPO 178
+ATOM     71  OG1 THR    26      -7.669  -3.774  25.934  1.00 16.09      1TPO 179
+ATOM     72  CG2 THR    26      -8.829  -5.642  26.847  1.00 16.09      1TPO 180
+ATOM     73  N   VAL    27      -4.844  -3.129  27.553  1.00 16.23      1TPO 181
+ATOM     74  CA  VAL    27      -3.555  -2.524  27.172  1.00 16.23      1TPO 182
+ATOM     75  C   VAL    27      -2.725  -2.183  28.424  1.00 16.23      1TPO 183
+ATOM     76  O   VAL    27      -2.860  -1.063  28.972  1.00 16.23      1TPO 184
+ATOM     77  CB  VAL    27      -3.813  -1.227  26.348  1.00 16.23      1TPO 185
+ATOM     78  CG1 VAL    27      -2.512   -.724  25.727  1.00 12.86      1TPO 186
+ATOM     79  CG2 VAL    27      -4.880  -1.397  25.243  1.00 12.86      1TPO 187
+ATOM     80  N   PRO    28      -2.239  -3.191  29.105  1.00 13.75      1TPO 188
+ATOM     81  CA  PRO    28      -1.828  -3.114  30.553  1.00 13.75      1TPO 189
+ATOM     82  C   PRO    28       -.611  -2.221  30.796  1.00 13.75      1TPO 190
+ATOM     83  O   PRO    28       -.383  -1.834  31.946  1.00 13.75      1TPO 191
+ATOM     84  CB  PRO    28      -1.347  -4.545  30.901  1.00 13.75      1TPO 192
+ATOM     85  CG  PRO    28      -1.372  -5.393  29.654  1.00 16.26      1TPO 193
+ATOM     86  CD  PRO    28      -1.986  -4.537  28.530  1.00 16.26      1TPO 194
+ATOM     87  N   TYR    29        .154  -1.867  29.779  1.00 12.93      1TPO 195
+ATOM     88  CA  TYR    29       1.297   -.958  29.841  1.00 12.93      1TPO 196
+ATOM     89  C   TYR    29        .916    .526  29.690  1.00 12.93      1TPO 197
+ATOM     90  O   TYR    29       1.819   1.412  29.797  1.00 12.93      1TPO 198
+ATOM     91  CB  TYR    29       2.352  -1.341  28.770  1.00 12.93      1TPO 199
+ATOM     92  CG  TYR    29       1.737  -1.449  27.350  1.00 16.93      1TPO 200
+ATOM     93  CD1 TYR    29       1.516   -.322  26.580  1.00 16.93      1TPO 201
+ATOM     94  CD2 TYR    29       1.332  -2.679  26.902  1.00 16.93      1TPO 202
+ATOM     95  CE1 TYR    29        .869   -.413  25.351  1.00 16.93      1TPO 203
+ATOM     96  CE2 TYR    29        .683  -2.799  25.662  1.00 16.93      1TPO 204
+ATOM     97  CZ  TYR    29        .458  -1.661  24.898  1.00 16.93      1TPO 205
+ATOM     98  OH  TYR    29       -.096  -1.832  23.616  1.00 16.93      1TPO 206
+ATOM     99  N   GLN    30       -.357    .814  29.443  1.00 12.44      1TPO 207
+ATOM    100  CA  GLN    30       -.796   2.196  29.183  1.00 12.44      1TPO 208
+ATOM    101  C   GLN    30       -.956   2.960  30.483  1.00 12.44      1TPO 209
+ATOM    102  O   GLN    30      -1.569   2.431  31.440  1.00 12.44      1TPO 210
+ATOM    103  CB  GLN    30      -2.152   2.244  28.459  1.00 12.44      1TPO 211
+ATOM    104  CG  GLN    30      -2.807   3.653  28.388  1.00 14.72      1TPO 212
+ATOM    105  CD  GLN    30      -2.274   4.490  27.210  1.00 14.72      1TPO 213
+ATOM    106  OE1 GLN    30      -1.984   5.698  27.381  1.00 14.72      1TPO 214
+ATOM    107  NE2 GLN    30      -2.362   3.988  26.035  1.00 14.72      1TPO 215
+ATOM    108  N   VAL    31       -.330   4.098  30.567  1.00 13.31      1TPO 216
+ATOM    109  CA  VAL    31       -.497   4.922  31.777  1.00 13.31      1TPO 217
+ATOM    110  C   VAL    31      -1.222   6.231  31.454  1.00 13.31      1TPO 218
+ATOM    111  O   VAL    31      -1.185   6.711  30.280  1.00 13.31      1TPO 219
+ATOM    112  CB  VAL    31        .873   5.178  32.493  1.00 13.31      1TPO 220
+ATOM    113  CG1 VAL    31       1.883   4.028  32.518  1.00 13.51      1TPO 221
+ATOM    114  CG2 VAL    31       1.571   6.525  32.332  1.00 13.51      1TPO 222
+ATOM    115  N   SER    32      -1.700   6.891  32.488  1.00 13.38      1TPO 223
+ATOM    116  CA  SER    32      -2.186   8.268  32.339  1.00 13.38      1TPO 224
+ATOM    117  C   SER    32      -1.351   9.162  33.245  1.00 13.38      1TPO 225
+ATOM    118  O   SER    32       -.951   8.725  34.357  1.00 13.38      1TPO 226
+ATOM    119  CB  SER    32      -3.676   8.316  32.699  1.00 13.38      1TPO 227
+ATOM    120  OG  SER    32      -4.175   9.639  33.011  1.00 14.74      1TPO 228
+ATOM    121  N   LEU    33       -.896  10.298  32.697  1.00 10.68      1TPO 229
+ATOM    122  CA  LEU    33       -.163  11.283  33.449  1.00 10.68      1TPO 230
+ATOM    123  C   LEU    33      -1.180  12.319  33.902  1.00 10.68      1TPO 231
+ATOM    124  O   LEU    33      -1.940  12.879  33.056  1.00 10.68      1TPO 232
+ATOM    125  CB  LEU    33        .883  11.986  32.573  1.00 10.68      1TPO 233
+ATOM    126  CG  LEU    33       1.956  11.046  31.988  1.00 14.87      1TPO 234
+ATOM    127  CD1 LEU    33       3.089  11.896  31.367  1.00 14.87      1TPO 235
+ATOM    128  CD2 LEU    33       2.477  10.037  33.039  1.00 14.87      1TPO 236
+ATOM    129  N   ASN    34      -1.251  12.444  35.223  1.00 12.59      1TPO 237
+ATOM    130  CA  ASN    34      -2.251  13.240  35.935  1.00 12.59      1TPO 238
+ATOM    131  C   ASN    34      -1.612  14.367  36.740  1.00 12.59      1TPO 239
+ATOM    132  O   ASN    34       -.677  14.113  37.524  1.00 12.59      1TPO 240
+ATOM    133  CB  ASN    34      -3.197  12.339  36.776  1.00 12.59      1TPO 241
+ATOM    134  CG  ASN    34      -4.362  13.120  37.373  1.00 19.05      1TPO 242
+ATOM    135  OD1 ASN    34      -4.160  13.996  38.278  1.00 19.05      1TPO 243
+ATOM    136  ND2 ASN    34      -5.553  12.754  36.939  1.00 19.05      1TPO 244
+ATOM    137  N   SER    37      -2.115  15.551  36.543  1.00 16.41      1TPO 245
+ATOM    138  CA  SER    37      -1.700  16.650  37.381  1.00 16.41      1TPO 246
+ATOM    139  C   SER    37      -2.915  17.369  37.922  1.00 16.41      1TPO 247
+ATOM    140  O   SER    37      -3.008  18.598  37.731  1.00 16.41      1TPO 248
+ATOM    141  CB  SER    37       -.734  17.612  36.623  1.00 16.41      1TPO 249
+ATOM    142  OG  SER    37      -1.358  18.268  35.526  1.00 23.23      1TPO 250
+ATOM    143  N   GLY    38      -3.918  16.635  38.316  1.00 13.76      1TPO 251
+ATOM    144  CA  GLY    38      -5.229  17.151  38.743  1.00 13.76      1TPO 252
+ATOM    145  C   GLY    38      -6.227  16.831  37.667  1.00 13.76      1TPO 253
+ATOM    146  O   GLY    38      -7.456  16.909  37.886  1.00 13.76      1TPO 254
+ATOM    147  N   TYR    39      -5.672  16.361  36.583  1.00 13.51      1TPO 255
+ATOM    148  CA  TYR    39      -6.431  15.941  35.390  1.00 13.51      1TPO 256
+ATOM    149  C   TYR    39      -5.533  15.230  34.409  1.00 13.51      1TPO 257
+ATOM    150  O   TYR    39      -4.297  15.347  34.574  1.00 13.51      1TPO 258
+ATOM    151  CB  TYR    39      -7.067  17.145  34.651  1.00 13.51      1TPO 259
+ATOM    152  CG  TYR    39      -6.007  18.229  34.335  1.00 16.86      1TPO 260
+ATOM    153  CD1 TYR    39      -5.799  19.221  35.275  1.00 16.86      1TPO 261
+ATOM    154  CD2 TYR    39      -5.287  18.217  33.160  1.00 16.86      1TPO 262
+ATOM    155  CE1 TYR    39      -4.817  20.143  35.085  1.00 16.86      1TPO 263
+ATOM    156  CE2 TYR    39      -4.301  19.145  32.965  1.00 16.86      1TPO 264
+ATOM    157  CZ  TYR    39      -4.056  20.069  33.928  1.00 16.86      1TPO 265
+ATOM    158  OH  TYR    39      -2.972  21.003  33.792  1.00 16.86      1TPO 266
+ATOM    159  N   HIS    40      -6.146  14.412  33.578  1.00 14.08      1TPO 267
+ATOM    160  CA  HIS    40      -5.409  13.646  32.604  1.00 14.08      1TPO 268
+ATOM    161  C   HIS    40      -4.884  14.649  31.563  1.00 14.08      1TPO 269
+ATOM    162  O   HIS    40      -5.691  15.425  30.968  1.00 14.08      1TPO 270
+ATOM    163  CB  HIS    40      -6.336  12.592  31.901  1.00 14.08      1TPO 271
+ATOM    164  CG  HIS    40      -5.655  12.012  30.625  1.00 14.52      1TPO 272
+ATOM    165  ND1 HIS    40      -4.594  11.034  30.671  1.00 14.52      1TPO 273
+ATOM    166  CD2 HIS    40      -5.813  12.404  29.333  1.00 14.52      1TPO 274
+ATOM    167  CE1 HIS    40      -4.151  10.883  29.372  1.00 14.52      1TPO 275
+ATOM    168  NE2 HIS    40      -4.893  11.738  28.563  1.00 14.52      1TPO 276
+ATOM    169  N   PHE    41      -3.602  14.616  31.327  1.00 19.47      1TPO 277
+ATOM    170  CA  PHE    41      -3.069  15.495  30.290  1.00 19.47      1TPO 278
+ATOM    171  C   PHE    41      -2.286  14.765  29.196  1.00 19.47      1TPO 279
+ATOM    172  O   PHE    41      -2.127  15.356  28.106  1.00 19.47      1TPO 280
+ATOM    173  CB  PHE    41      -2.298  16.725  30.813  1.00 19.47      1TPO 281
+ATOM    174  CG  PHE    41       -.976  16.378  31.518  1.00 14.72      1TPO 282
+ATOM    175  CD1 PHE    41        .202  16.382  30.835  1.00 14.72      1TPO 283
+ATOM    176  CD2 PHE    41       -.983  15.996  32.822  1.00 14.72      1TPO 284
+ATOM    177  CE1 PHE    41       1.375  15.961  31.434  1.00 14.72      1TPO 285
+ATOM    178  CE2 PHE    41        .198  15.597  33.447  1.00 14.72      1TPO 286
+ATOM    179  CZ  PHE    41       1.383  15.561  32.755  1.00 14.72      1TPO 287
+ATOM    180  N   CYS    42      -1.667  13.622  29.472  1.00 15.38      1TPO 288
+ATOM    181  CA  CYS    42       -.903  12.962  28.419  1.00 15.38      1TPO 289
+ATOM    182  C   CYS    42       -.872  11.482  28.734  1.00 15.38      1TPO 290
+ATOM    183  O   CYS    42      -1.160  11.144  29.904  1.00 15.38      1TPO 291
+ATOM    184  CB  CYS    42        .550  13.492  28.475  1.00 15.38      1TPO 292
+ATOM    185  SG  CYS    42        .971  14.839  27.360  1.00 11.87      1TPO 293
+ATOM    186  N   GLY    43       -.605  10.643  27.758  1.00 14.69      1TPO 294
+ATOM    187  CA  GLY    43       -.448   9.239  28.083  1.00 14.69      1TPO 295
+ATOM    188  C   GLY    43       1.005   8.888  28.356  1.00 14.69      1TPO 296
+ATOM    189  O   GLY    43       1.868   9.796  28.278  1.00 14.69      1TPO 297
+ATOM    190  N   GLY    44       1.286   7.574  28.424  1.00 15.40      1TPO 298
+ATOM    191  CA  GLY    44       2.651   7.076  28.594  1.00 15.40      1TPO 299
+ATOM    192  C   GLY    44       2.655   5.563  28.588  1.00 15.40      1TPO 300
+ATOM    193  O   GLY    44       1.547   4.977  28.537  1.00 15.40      1TPO 301
+ATOM    194  N   SER    45       3.858   4.991  28.682  1.00 17.83      1TPO 302
+ATOM    195  CA  SER    45       4.075   3.550  28.639  1.00 17.83      1TPO 303
+ATOM    196  C   SER    45       4.950   3.083  29.773  1.00 17.83      1TPO 304
+ATOM    197  O   SER    45       6.100   3.608  29.863  1.00 17.83      1TPO 305
+ATOM    198  CB  SER    45       4.833   3.159  27.352  1.00 17.83      1TPO 306
+ATOM    199  OG  SER    45       3.932   3.274  26.285  1.00 15.84      1TPO 307
+ATOM    200  N   LEU    46       4.456   2.048  30.463  1.00 13.60      1TPO 308
+ATOM    201  CA  LEU    46       5.236   1.388  31.519  1.00 13.60      1TPO 309
+ATOM    202  C   LEU    46       6.303    .435  30.962  1.00 13.60      1TPO 310
+ATOM    203  O   LEU    46       5.941   -.491  30.193  1.00 13.60      1TPO 311
+ATOM    204  CB  LEU    46       4.257    .654  32.474  1.00 13.60      1TPO 312
+ATOM    205  CG  LEU    46       4.958    .174  33.767  1.00 15.84      1TPO 313
+ATOM    206  CD1 LEU    46       5.391   1.386  34.627  1.00 15.84      1TPO 314
+ATOM    207  CD2 LEU    46       4.019   -.776  34.594  1.00 15.84      1TPO 315
+ATOM    208  N   ILE    47       7.580    .765  31.124  1.00 19.95      1TPO 316
+ATOM    209  CA  ILE    47       8.713   -.003  30.575  1.00 19.95      1TPO 317
+ATOM    210  C   ILE    47       9.459   -.850  31.590  1.00 19.95      1TPO 318
+ATOM    211  O   ILE    47      10.111  -1.830  31.191  1.00 19.95      1TPO 319
+ATOM    212  CB  ILE    47       9.698    .827  29.754  1.00 19.95      1TPO 320
+ATOM    213  CG1 ILE    47      10.443   1.858  30.618  1.00 14.60      1TPO 321
+ATOM    214  CG2 ILE    47       8.963   1.451  28.554  1.00 14.60      1TPO 322
+ATOM    215  CD1 ILE    47      11.514   2.645  29.854  1.00 14.60      1TPO 323
+ATOM    216  N   ASN    48       9.233   -.628  32.850  1.00 18.64      1TPO 324
+ATOM    217  CA  ASN    48       9.581  -1.636  33.871  1.00 18.64      1TPO 325
+ATOM    218  C   ASN    48       8.839  -1.193  35.110  1.00 18.64      1TPO 326
+ATOM    219  O   ASN    48       8.182   -.130  34.995  1.00 18.64      1TPO 327
+ATOM    220  CB  ASN    48      11.109  -1.799  34.124  1.00 18.64      1TPO 328
+ATOM    221  CG  ASN    48      11.833   -.503  34.513  1.00 20.27      1TPO 329
+ATOM    222  OD1 ASN    48      12.854   -.163  33.874  1.00 20.27      1TPO 330
+ATOM    223  ND2 ASN    48      11.387    .210  35.489  1.00 20.27      1TPO 331
+ATOM    224  N   SER    49       9.050  -1.825  36.235  1.00 17.28      1TPO 332
+ATOM    225  CA  SER    49       8.279  -1.494  37.463  1.00 17.28      1TPO 333
+ATOM    226  C   SER    49       8.441   -.092  38.000  1.00 17.28      1TPO 334
+ATOM    227  O   SER    49       7.486    .425  38.599  1.00 17.28      1TPO 335
+ATOM    228  CB  SER    49       8.450  -2.512  38.610  1.00 17.28      1TPO 336
+ATOM    229  OG  SER    49       9.798  -2.375  39.080  1.00 23.13      1TPO 337
+ATOM    230  N   GLN    50       9.501    .603  37.673  1.00 17.55      1TPO 338
+ATOM    231  CA  GLN    50       9.658   1.971  38.229  1.00 17.55      1TPO 339
+ATOM    232  C   GLN    50       9.846   3.082  37.181  1.00 17.55      1TPO 340
+ATOM    233  O   GLN    50      10.068   4.263  37.560  1.00 17.55      1TPO 341
+ATOM    234  CB  GLN    50      10.934   1.977  39.103  1.00 17.55      1TPO 342
+ATOM    235  CG  GLN    50      10.546   1.894  40.597  1.00 30.29      1TPO 343
+ATOM    236  CD  GLN    50      11.629   2.441  41.517  1.00 30.29      1TPO 344
+ATOM    237  OE1 GLN    50      11.330   3.426  42.268  1.00 30.29      1TPO 345
+ATOM    238  NE2 GLN    50      12.771   1.750  41.478  1.00 30.29      1TPO 346
+ATOM    239  N   TRP    51       9.800   2.749  35.881  1.00  9.71      1TPO 347
+ATOM    240  CA  TRP    51      10.026   3.753  34.827  1.00  9.71      1TPO 348
+ATOM    241  C   TRP    51       8.920   3.829  33.779  1.00  9.71      1TPO 349
+ATOM    242  O   TRP    51       8.425   2.783  33.291  1.00  9.71      1TPO 350
+ATOM    243  CB  TRP    51      11.350   3.495  34.155  1.00  9.71      1TPO 351
+ATOM    244  CG  TRP    51      12.558   3.863  35.058  1.00 15.74      1TPO 352
+ATOM    245  CD1 TRP    51      13.222   3.037  35.920  1.00 15.74      1TPO 353
+ATOM    246  CD2 TRP    51      13.237   5.095  35.122  1.00 15.74      1TPO 354
+ATOM    247  NE1 TRP    51      14.308   3.738  36.476  1.00 15.74      1TPO 355
+ATOM    248  CE2 TRP    51      14.330   4.935  36.006  1.00 15.74      1TPO 356
+ATOM    249  CE3 TRP    51      13.006   6.307  34.484  1.00 15.74      1TPO 357
+ATOM    250  CZ2 TRP    51      15.239   5.957  36.282  1.00 15.74      1TPO 358
+ATOM    251  CZ3 TRP    51      13.910   7.347  34.781  1.00 15.74      1TPO 359
+ATOM    252  CH2 TRP    51      15.001   7.186  35.643  1.00 15.74      1TPO 360
+ATOM    253  N   VAL    52       8.564   5.051  33.386  1.00 11.60      1TPO 361
+ATOM    254  CA  VAL    52       7.588   5.319  32.312  1.00 11.60      1TPO 362
+ATOM    255  C   VAL    52       8.195   6.115  31.158  1.00 11.60      1TPO 363
+ATOM    256  O   VAL    52       9.023   7.022  31.424  1.00 11.60      1TPO 364
+ATOM    257  CB  VAL    52       6.374   6.048  32.933  1.00 11.60      1TPO 365
+ATOM    258  CG1 VAL    52       5.543   6.986  31.996  1.00 11.91      1TPO 366
+ATOM    259  CG2 VAL    52       5.502   5.066  33.775  1.00 11.91      1TPO 367
+ATOM    260  N   VAL    53       7.906   5.743  29.906  1.00 14.44      1TPO 368
+ATOM    261  CA  VAL    53       8.364   6.617  28.805  1.00 14.44      1TPO 369
+ATOM    262  C   VAL    53       7.204   7.414  28.152  1.00 14.44      1TPO 370
+ATOM    263  O   VAL    53       6.031   6.955  28.215  1.00 14.44      1TPO 371
+ATOM    264  CB  VAL    53       9.258   5.848  27.797  1.00 14.44      1TPO 372
+ATOM    265  CG1 VAL    53       8.458   4.751  27.102  1.00 16.75      1TPO 373
+ATOM    266  CG2 VAL    53       9.904   6.810  26.807  1.00 16.75      1TPO 374
+ATOM    267  N   SER    54       7.390   8.739  27.983  1.00 11.34      1TPO 375
+ATOM    268  CA  SER    54       6.398   9.688  27.466  1.00 11.34      1TPO 376
+ATOM    269  C   SER    54       7.018  10.631  26.427  1.00 11.34      1TPO 377
+ATOM    270  O   SER    54       8.197  10.438  26.075  1.00 11.34      1TPO 378
+ATOM    271  CB  SER    54       5.664  10.482  28.590  1.00 11.34      1TPO 379
+ATOM    272  OG  SER    54       4.429  11.103  28.105  1.00 10.92      1TPO 380
+ATOM    273  N   ALA    55       6.281  11.637  26.036  1.00 10.72      1TPO 381
+ATOM    274  CA  ALA    55       6.729  12.713  25.118  1.00 10.72      1TPO 382
+ATOM    275  C   ALA    55       7.320  13.882  25.939  1.00 10.72      1TPO 383
+ATOM    276  O   ALA    55       6.712  14.207  26.989  1.00 10.72      1TPO 384
+ATOM    277  CB  ALA    55       5.484  13.210  24.326  1.00 10.72      1TPO 385
+ATOM    278  N   ALA    56       8.481  14.377  25.564  1.00  9.82      1TPO 386
+ATOM    279  CA  ALA    56       9.124  15.500  26.192  1.00  9.82      1TPO 387
+ATOM    280  C   ALA    56       8.177  16.716  26.197  1.00  9.82      1TPO 388
+ATOM    281  O   ALA    56       8.189  17.480  27.204  1.00  9.82      1TPO 389
+ATOM    282  CB  ALA    56      10.459  15.863  25.521  1.00  9.82      1TPO 390
+ATOM    283  N   HIS    57       7.320  16.855  25.138  1.00 14.67      1TPO 391
+ATOM    284  CA  HIS    57       6.308  17.934  25.127  1.00 14.67      1TPO 392
+ATOM    285  C   HIS    57       5.161  17.805  26.148  1.00 14.67      1TPO 393
+ATOM    286  O   HIS    57       4.477  18.777  26.532  1.00 14.67      1TPO 394
+ATOM    287  CB  HIS    57       5.829  18.181  23.682  1.00 14.67      1TPO 395
+ATOM    288  CG  HIS    57       4.618  17.339  23.238  1.00 13.68      1TPO 396
+ATOM    289  ND1 HIS    57       4.725  16.293  22.365  1.00 13.68      1TPO 397
+ATOM    290  CD2 HIS    57       3.306  17.505  23.511  1.00 13.68      1TPO 398
+ATOM    291  CE1 HIS    57       3.500  15.732  22.180  1.00 13.68      1TPO 399
+ATOM    292  NE2 HIS    57       2.606  16.496  22.876  1.00 13.68      1TPO 400
+ATOM    293  N   CYS    58       5.109  16.708  26.881  1.00 12.67      1TPO 401
+ATOM    294  CA  CYS    58       4.210  16.564  28.012  1.00 12.67      1TPO 402
+ATOM    295  C   CYS    58       4.831  17.009  29.332  1.00 12.67      1TPO 403
+ATOM    296  O   CYS    58       4.246  16.595  30.370  1.00 12.67      1TPO 404
+ATOM    297  CB  CYS    58       3.896  15.068  28.119  1.00 12.67      1TPO 405
+ATOM    298  SG  CYS    58       2.822  14.452  26.766  1.00 11.92      1TPO 406
+ATOM    299  N   TYR    59       6.108  17.365  29.333  1.00 14.62      1TPO 407
+ATOM    300  CA  TYR    59       6.792  17.697  30.584  1.00 14.62      1TPO 408
+ATOM    301  C   TYR    59       5.990  18.726  31.389  1.00 14.62      1TPO 409
+ATOM    302  O   TYR    59       5.628  19.808  30.867  1.00 14.62      1TPO 410
+ATOM    303  CB  TYR    59       8.256  18.167  30.371  1.00 14.62      1TPO 411
+ATOM    304  CG  TYR    59       8.922  18.731  31.648  1.00 17.23      1TPO 412
+ATOM    305  CD1 TYR    59       8.856  20.077  31.831  1.00 17.23      1TPO 413
+ATOM    306  CD2 TYR    59       9.465  17.930  32.644  1.00 17.23      1TPO 414
+ATOM    307  CE1 TYR    59       9.308  20.658  33.021  1.00 17.23      1TPO 415
+ATOM    308  CE2 TYR    59       9.926  18.491  33.832  1.00 17.23      1TPO 416
+ATOM    309  CZ  TYR    59       9.837  19.857  34.006  1.00 17.23      1TPO 417
+ATOM    310  OH  TYR    59      10.257  20.502  35.211  1.00 17.23      1TPO 418
+ATOM    311  N   LYS    60       5.840  18.420  32.672  1.00 18.19      1TPO 419
+ATOM    312  CA  LYS    60       5.237  19.272  33.707  1.00 18.19      1TPO 420
+ATOM    313  C   LYS    60       5.998  18.935  34.973  1.00 18.19      1TPO 421
+ATOM    314  O   LYS    60       6.311  17.733  35.212  1.00 18.19      1TPO 422
+ATOM    315  CB  LYS    60       3.813  18.751  34.060  1.00 18.19      1TPO 423
+ATOM    316  CG  LYS    60       2.679  19.154  33.147  1.00 18.81      1TPO 424
+ATOM    317  CD  LYS    60       1.422  19.532  33.946  1.00 18.81      1TPO 425
+ATOM    318  CE  LYS    60        .162  19.789  33.068  1.00 18.81      1TPO 426
+ATOM    319  NZ  LYS    60        .384  20.922  32.160  0.00  0.00   1  1TPO 427
+ATOM    320  N   SER    61       5.930  19.840  35.945  1.00 25.56      1TPO 428
+ATOM    321  CA  SER    61       6.245  19.458  37.346  1.00 25.56      1TPO 429
+ATOM    322  C   SER    61       5.029  18.914  38.117  1.00 25.56      1TPO 430
+ATOM    323  O   SER    61       3.842  19.138  37.759  1.00 25.56      1TPO 431
+ATOM    324  CB  SER    61       6.882  20.654  38.079  1.00 25.56      1TPO 432
+ATOM    325  OG  SER    61       7.141  20.297  39.445  0.00  0.00   1  1TPO 433
+ATOM    326  N   GLY    62       5.242  18.100  39.109  1.00 25.48      1TPO 434
+ATOM    327  CA  GLY    62       4.036  17.657  39.831  1.00 25.48      1TPO 435
+ATOM    328  C   GLY    62       3.167  16.625  39.098  1.00 25.48      1TPO 436
+ATOM    329  O   GLY    62       1.906  16.652  39.162  1.00 25.48      1TPO 437
+ATOM    330  N   ILE    63       3.781  15.720  38.389  1.00 21.76      1TPO 438
+ATOM    331  CA  ILE    63       3.038  14.608  37.744  1.00 21.76      1TPO 439
+ATOM    332  C   ILE    63       2.741  13.450  38.715  1.00 21.76      1TPO 440
+ATOM    333  O   ILE    63       3.661  12.878  39.343  1.00 21.76      1TPO 441
+ATOM    334  CB  ILE    63       3.906  14.071  36.560  1.00 21.76      1TPO 442
+ATOM    335  CG1 ILE    63       4.228  15.182  35.542  1.00 19.30      1TPO 443
+ATOM    336  CG2 ILE    63       3.328  12.812  35.855  1.00 19.30      1TPO 444
+ATOM    337  CD1 ILE    63       5.138  14.661  34.389  1.00 19.30      1TPO 445
+ATOM    338  N   GLN    64       1.543  12.952  38.683  1.00 16.28      1TPO 446
+ATOM    339  CA  GLN    64       1.245  11.637  39.257  1.00 16.28      1TPO 447
+ATOM    340  C   GLN    64        .993  10.607  38.166  1.00 16.28      1TPO 448
+ATOM    341  O   GLN    64        .077  10.848  37.347  1.00 16.28      1TPO 449
+ATOM    342  CB  GLN    64       -.028  11.695  40.111  1.00 16.28      1TPO 450
+ATOM    343  CG  GLN    64       -.310  10.341  40.794  1.00 20.09      1TPO 451
+ATOM    344  CD  GLN    64      -1.605  10.414  41.595  1.00 20.09      1TPO 452
+ATOM    345  OE1 GLN    64      -1.566  10.345  42.862  1.00 20.09      1TPO 453
+ATOM    346  NE2 GLN    64      -2.641  10.804  40.936  1.00 20.09      1TPO 454
+ATOM    347  N   VAL    65       1.592   9.457  38.288  1.00 14.63      1TPO 455
+ATOM    348  CA  VAL    65       1.334   8.370  37.287  1.00 14.63      1TPO 456
+ATOM    349  C   VAL    65        .136   7.453  37.671  1.00 14.63      1TPO 457
+ATOM    350  O   VAL    65        .042   6.903  38.805  1.00 14.63      1TPO 458
+ATOM    351  CB  VAL    65       2.655   7.644  36.920  1.00 14.63      1TPO 459
+ATOM    352  CG1 VAL    65       2.462   6.495  35.874  1.00 14.30      1TPO 460
+ATOM    353  CG2 VAL    65       3.788   8.627  36.556  1.00 14.30      1TPO 461
+ATOM    354  N   ARG    66       -.828   7.298  36.726  1.00 17.27      1TPO 462
+ATOM    355  CA  ARG    66      -1.974   6.395  36.964  1.00 17.27      1TPO 463
+ATOM    356  C   ARG    66      -1.977   5.115  36.126  1.00 17.27      1TPO 464
+ATOM    357  O   ARG    66      -2.018   5.202  34.881  1.00 17.27      1TPO 465
+ATOM    358  CB  ARG    66      -3.286   7.188  36.804  1.00 17.27      1TPO 466
+ATOM    359  CG  ARG    66      -3.210   8.405  37.748  1.00 16.52      1TPO 467
+ATOM    360  CD  ARG    66      -4.599   9.045  37.809  1.00 16.52      1TPO 468
+ATOM    361  NE  ARG    66      -4.734   9.823  39.063  1.00 16.52      1TPO 469
+ATOM    362  CZ  ARG    66      -5.875  10.089  39.668  1.00 16.52      1TPO 470
+ATOM    363  NH1 ARG    66      -7.057   9.696  39.196  1.00 16.52      1TPO 471
+ATOM    364  NH2 ARG    66      -5.850  10.735  40.820  1.00 16.52      1TPO 472
+ATOM    365  N   LEU    67      -1.806   3.975  36.806  1.00 14.59      1TPO 473
+ATOM    366  CA  LEU    67      -1.660   2.628  36.193  1.00 14.59      1TPO 474
+ATOM    367  C   LEU    67      -2.971   1.873  36.334  1.00 14.59      1TPO 475
+ATOM    368  O   LEU    67      -3.733   2.153  37.273  1.00 14.59      1TPO 476
+ATOM    369  CB  LEU    67       -.505   1.853  36.851  1.00 14.59      1TPO 477
+ATOM    370  CG  LEU    67        .851   2.645  36.861  1.00 21.00      1TPO 478
+ATOM    371  CD1 LEU    67       2.016   1.868  37.469  1.00 21.00      1TPO 479
+ATOM    372  CD2 LEU    67       1.352   2.938  35.446  1.00 21.00      1TPO 480
+ATOM    373  N   GLY    69      -3.218    .853  35.537  1.00 18.24      1TPO 481
+ATOM    374  CA  GLY    69      -4.408    .050  35.793  1.00 18.24      1TPO 482
+ATOM    375  C   GLY    69      -5.721    .748  35.427  1.00 18.24      1TPO 483
+ATOM    376  O   GLY    69      -6.812    .239  35.776  1.00 18.24      1TPO 484
+ATOM    377  N   GLU    70      -5.645   1.847  34.659  1.00 19.46      1TPO 485
+ATOM    378  CA  GLU    70      -6.877   2.603  34.363  1.00 19.46      1TPO 486
+ATOM    379  C   GLU    70      -7.644   2.065  33.158  1.00 19.46      1TPO 487
+ATOM    380  O   GLU    70      -7.006   1.675  32.152  1.00 19.46      1TPO 488
+ATOM    381  CB  GLU    70      -6.584   4.102  34.143  1.00 19.46      1TPO 489
+ATOM    382  CG  GLU    70      -6.015   4.848  35.382  1.00 17.50      1TPO 490
+ATOM    383  CD  GLU    70      -7.213   5.276  36.199  1.00 17.50      1TPO 491
+ATOM    384  OE1 GLU    70      -8.354   4.883  35.820  1.00 17.50      1TPO 492
+ATOM    385  OE2 GLU    70      -7.146   6.385  36.761  1.00 17.50      1TPO 493
+ATOM    386  N   ASP    71      -8.961   2.201  33.214  1.00 13.08      1TPO 494
+ATOM    387  CA  ASP    71      -9.810   2.121  32.046  1.00 13.08      1TPO 495
+ATOM    388  C   ASP    71     -10.644   3.394  31.950  1.00 13.08      1TPO 496
+ATOM    389  O   ASP    71     -10.246   4.291  31.169  1.00 13.08      1TPO 497
+ATOM    390  CB  ASP    71     -10.707    .865  32.058  1.00 13.08      1TPO 498
+ATOM    391  CG  ASP    71     -11.344    .678  30.685  1.00 17.41      1TPO 499
+ATOM    392  OD1 ASP    71     -10.711    .914  29.620  1.00 17.41      1TPO 500
+ATOM    393  OD2 ASP    71     -12.582    .507  30.615  1.00 17.41      1TPO 501
+ATOM    394  N   ASN    72     -11.591   3.586  32.829  1.00 13.03      1TPO 502
+ATOM    395  CA  ASN    72     -12.337   4.821  32.961  1.00 13.03      1TPO 503
+ATOM    396  C   ASN    72     -11.608   5.808  33.885  1.00 13.03      1TPO 504
+ATOM    397  O   ASN    72     -11.329   5.474  35.063  1.00 13.03      1TPO 505
+ATOM    398  CB  ASN    72     -13.757   4.592  33.461  1.00 13.03      1TPO 506
+ATOM    399  CG  ASN    72     -14.567   5.896  33.353  1.00 16.14      1TPO 507
+ATOM    400  OD1 ASN    72     -14.141   7.013  33.728  1.00 16.14      1TPO 508
+ATOM    401  ND2 ASN    72     -15.783   5.755  32.898  1.00 16.14      1TPO 509
+ATOM    402  N   ILE    73     -10.949   6.777  33.294  1.00 16.73      1TPO 510
+ATOM    403  CA  ILE    73     -10.152   7.706  34.112  1.00 16.73      1TPO 511
+ATOM    404  C   ILE    73     -10.974   8.561  35.086  1.00 16.73      1TPO 512
+ATOM    405  O   ILE    73     -10.388   9.348  35.895  1.00 16.73      1TPO 513
+ATOM    406  CB  ILE    73      -9.335   8.689  33.242  1.00 16.73      1TPO 514
+ATOM    407  CG1 ILE    73     -10.277   9.564  32.376  1.00 16.09      1TPO 515
+ATOM    408  CG2 ILE    73      -8.134   8.012  32.525  1.00 16.09      1TPO 516
+ATOM    409  CD1 ILE    73      -9.404  10.528  31.575  1.00 16.09      1TPO 517
+ATOM    410  N   ASN    74     -12.291   8.421  35.048  1.00 11.31      1TPO 518
+ATOM    411  CA  ASN    74     -13.092   9.284  35.893  1.00 11.31      1TPO 519
+ATOM    412  C   ASN    74     -13.710   8.387  36.941  1.00 11.31      1TPO 520
+ATOM    413  O   ASN    74     -14.389   8.954  37.818  1.00 11.31      1TPO 521
+ATOM    414  CB  ASN    74     -14.212  10.073  35.166  1.00 11.31      1TPO 522
+ATOM    415  CG  ASN    74     -13.680  11.410  34.636  1.00 11.01      1TPO 523
+ATOM    416  OD1 ASN    74     -12.813  12.059  35.273  1.00 11.01      1TPO 524
+ATOM    417  ND2 ASN    74     -14.166  11.867  33.504  1.00 11.01      1TPO 525
+ATOM    418  N   VAL    75     -13.525   7.075  36.881  1.00 15.32      1TPO 526
+ATOM    419  CA  VAL    75     -14.120   6.159  37.911  1.00 15.32      1TPO 527
+ATOM    420  C   VAL    75     -13.093   5.240  38.550  1.00 15.32      1TPO 528
+ATOM    421  O   VAL    75     -12.280   4.666  37.823  1.00 15.32      1TPO 529
+ATOM    422  CB  VAL    75     -15.241   5.296  37.256  1.00 15.32      1TPO 530
+ATOM    423  CG1 VAL    75     -16.004   4.332  38.187  1.00 16.06      1TPO 531
+ATOM    424  CG2 VAL    75     -16.258   6.155  36.497  1.00 16.06      1TPO 532
+ATOM    425  N   VAL    76     -13.106   5.057  39.840  1.00 24.48      1TPO 533
+ATOM    426  CA  VAL    76     -12.234   4.064  40.467  1.00 24.48      1TPO 534
+ATOM    427  C   VAL    76     -12.863   2.657  40.460  1.00 24.48      1TPO 535
+ATOM    428  O   VAL    76     -14.036   2.501  40.898  1.00 24.48      1TPO 536
+ATOM    429  CB  VAL    76     -11.879   4.521  41.883  1.00 24.48      1TPO 537
+ATOM    430  CG1 VAL    76     -11.240   3.363  42.673  1.00 16.67      1TPO 538
+ATOM    431  CG2 VAL    76     -10.996   5.777  41.821  1.00 16.67      1TPO 539
+ATOM    432  N   GLU    77     -12.273   1.774  39.641  1.00 24.96      1TPO 540
+ATOM    433  CA  GLU    77     -12.910    .518  39.268  1.00 24.96      1TPO 541
+ATOM    434  C   GLU    77     -12.216   -.665  39.881  1.00 24.96      1TPO 542
+ATOM    435  O   GLU    77     -12.678  -1.804  39.630  1.00 24.96      1TPO 543
+ATOM    436  CB  GLU    77     -12.871    .297  37.750  1.00 24.96      1TPO 544
+ATOM    437  CG  GLU    77     -13.669   1.380  37.026  1.00 28.66      1TPO 545
+ATOM    438  CD  GLU    77     -13.639   1.058  35.552  1.00 28.66      1TPO 546
+ATOM    439  OE1 GLU    77     -12.638   1.389  34.867  1.00 28.66      1TPO 547
+ATOM    440  OE2 GLU    77     -14.760    .944  34.992  1.00 28.66      1TPO 548
+ATOM    441  N   GLY    78     -11.118   -.460  40.561  1.00 27.11      1TPO 549
+ATOM    442  CA  GLY    78     -10.463  -1.602  41.225  1.00 27.11      1TPO 550
+ATOM    443  C   GLY    78      -9.050  -1.947  40.789  1.00 27.11      1TPO 551
+ATOM    444  O   GLY    78      -8.405  -2.753  41.502  1.00 27.11      1TPO 552
+ATOM    445  N   ASN    79      -8.632  -1.618  39.584  1.00 24.86      1TPO 553
+ATOM    446  CA  ASN    79      -7.302  -2.138  39.218  1.00 24.86      1TPO 554
+ATOM    447  C   ASN    79      -6.153  -1.123  39.310  1.00 24.86      1TPO 555
+ATOM    448  O   ASN    79      -5.065  -1.349  38.701  1.00 24.86      1TPO 556
+ATOM    449  CB  ASN    79      -7.311  -2.792  37.821  1.00 24.86      1TPO 557
+ATOM    450  CG  ASN    79      -8.209  -4.013  37.946  1.00 30.09      1TPO 558
+ATOM    451  OD1 ASN    79      -7.736  -4.950  38.642  1.00 30.09      1TPO 559
+ATOM    452  ND2 ASN    79      -9.522  -3.723  37.905  1.00 30.09      1TPO 560
+ATOM    453  N   GLU    80      -6.494    .060  39.804  1.00 21.40      1TPO 561
+ATOM    454  CA  GLU    80      -5.614   1.245  39.691  1.00 21.40      1TPO 562
+ATOM    455  C   GLU    80      -4.457   1.224  40.677  1.00 21.40      1TPO 563
+ATOM    456  O   GLU    80      -4.700    .845  41.847  1.00 21.40      1TPO 564
+ATOM    457  CB  GLU    80      -6.403   2.557  39.823  1.00 21.40      1TPO 565
+ATOM    458  CG  GLU    80      -7.466   2.735  38.727  1.00 16.43      1TPO 566
+ATOM    459  CD  GLU    80      -8.835   2.287  39.210  1.00 16.43      1TPO 567
+ATOM    460  OE1 GLU    80      -8.973   1.626  40.268  1.00 16.43      1TPO 568
+ATOM    461  OE2 GLU    80      -9.844   2.835  38.735  1.00 16.43      1TPO 569
+ATOM    462  N   GLN    81      -3.343   1.783  40.286  1.00 15.75      1TPO 570
+ATOM    463  CA  GLN    81      -2.178   2.200  41.085  1.00 15.75      1TPO 571
+ATOM    464  C   GLN    81      -1.778   3.641  40.760  1.00 15.75      1TPO 572
+ATOM    465  O   GLN    81      -1.445   3.982  39.593  1.00 15.75      1TPO 573
+ATOM    466  CB  GLN    81       -.945   1.317  40.847  1.00 15.75      1TPO 574
+ATOM    467  CG  GLN    81      -1.282   -.167  41.070  1.00 20.57      1TPO 575
+ATOM    468  CD  GLN    81       -.086  -1.019  40.706  1.00 20.57      1TPO 576
+ATOM    469  OE1 GLN    81        .993   -.831  41.314  1.00 20.57      1TPO 577
+ATOM    470  NE2 GLN    81       -.426  -2.170  40.194  1.00 20.57      1TPO 578
+ATOM    471  N   PHE    82      -1.824   4.509  41.743  1.00 19.05      1TPO 579
+ATOM    472  CA  PHE    82      -1.495   5.935  41.539  1.00 19.05      1TPO 580
+ATOM    473  C   PHE    82       -.209   6.273  42.290  1.00 19.05      1TPO 581
+ATOM    474  O   PHE    82       -.165   6.016  43.513  1.00 19.05      1TPO 582
+ATOM    475  CB  PHE    82      -2.590   6.882  42.117  1.00 19.05      1TPO 583
+ATOM    476  CG  PHE    82      -4.002   6.671  41.543  1.00 18.58      1TPO 584
+ATOM    477  CD1 PHE    82      -5.081   7.113  42.262  1.00 18.58      1TPO 585
+ATOM    478  CD2 PHE    82      -4.198   6.077  40.294  1.00 18.58      1TPO 586
+ATOM    479  CE1 PHE    82      -6.356   6.983  41.734  1.00 18.58      1TPO 587
+ATOM    480  CE2 PHE    82      -5.480   5.927  39.769  1.00 18.58      1TPO 588
+ATOM    481  CZ  PHE    82      -6.561   6.389  40.493  1.00 18.58      1TPO 589
+ATOM    482  N   ILE    83        .843   6.492  41.585  1.00 15.36      1TPO 590
+ATOM    483  CA  ILE    83       2.161   6.639  42.172  1.00 15.36      1TPO 591
+ATOM    484  C   ILE    83       2.757   7.945  41.663  1.00 15.36      1TPO 592
+ATOM    485  O   ILE    83       2.797   8.193  40.421  1.00 15.36      1TPO 593
+ATOM    486  CB  ILE    83       3.052   5.464  41.681  1.00 15.36      1TPO 594
+ATOM    487  CG1 ILE    83       2.390   4.101  41.961  1.00 18.01      1TPO 595
+ATOM    488  CG2 ILE    83       4.480   5.536  42.220  1.00 18.01      1TPO 596
+ATOM    489  CD1 ILE    83       3.035   2.891  41.219  1.00 18.01      1TPO 597
+ATOM    490  N   SER    84       3.230   8.799  42.571  1.00 17.82      1TPO 598
+ATOM    491  CA  SER    84       3.876  10.056  42.138  1.00 17.82      1TPO 599
+ATOM    492  C   SER    84       5.209   9.876  41.421  1.00 17.82      1TPO 600
+ATOM    493  O   SER    84       5.876   8.830  41.579  1.00 17.82      1TPO 601
+ATOM    494  CB  SER    84       3.992  11.094  43.306  1.00 17.82      1TPO 602
+ATOM    495  OG  SER    84       2.693  11.342  43.860  0.00  0.00   1  1TPO 603
+ATOM    496  N   ALA    85       5.568  10.792  40.543  1.00 15.04      1TPO 604
+ATOM    497  CA  ALA    85       6.892  10.719  39.951  1.00 15.04      1TPO 605
+ATOM    498  C   ALA    85       7.960  11.297  40.883  1.00 15.04      1TPO 606
+ATOM    499  O   ALA    85       7.711  12.279  41.623  1.00 15.04      1TPO 607
+ATOM    500  CB  ALA    85       6.871  11.550  38.675  1.00 15.04      1TPO 608
+ATOM    501  N   SER    86       9.115  10.656  40.976  1.00 15.37      1TPO 609
+ATOM    502  CA  SER    86      10.255  11.118  41.794  1.00 15.37      1TPO 610
+ATOM    503  C   SER    86      11.152  12.033  40.954  1.00 15.37      1TPO 611
+ATOM    504  O   SER    86      11.736  13.027  41.471  1.00 15.37      1TPO 612
+ATOM    505  CB  SER    86      11.075   9.848  42.126  1.00 15.37      1TPO 613
+ATOM    506  OG  SER    86      12.316  10.234  42.731  0.00  0.00   1  1TPO 614
+ATOM    507  N   LYS    87      11.272  11.721  39.655  1.00 16.75      1TPO 615
+ATOM    508  CA  LYS    87      12.238  12.419  38.754  1.00 16.75      1TPO 616
+ATOM    509  C   LYS    87      11.709  12.309  37.332  1.00 16.75      1TPO 617
+ATOM    510  O   LYS    87      11.083  11.274  36.966  1.00 16.75      1TPO 618
+ATOM    511  CB  LYS    87      13.578  11.620  38.882  1.00 16.75      1TPO 619
+ATOM    512  CG  LYS    87      14.779  12.114  38.080  1.00 23.44      1TPO 620
+ATOM    513  CD  LYS    87      16.115  11.463  38.483  0.00  0.00   1  1TPO 621
+ATOM    514  CE  LYS    87      16.084   9.930  38.381  0.00  0.00   1  1TPO 622
+ATOM    515  NZ  LYS    87      16.088   9.336  39.723  0.00  0.00   1  1TPO 623
+ATOM    516  N   SER    88      11.882  13.393  36.587  1.00 17.15      1TPO 624
+ATOM    517  CA  SER    88      11.571  13.410  35.172  1.00 17.15      1TPO 625
+ATOM    518  C   SER    88      12.791  13.892  34.393  1.00 17.15      1TPO 626
+ATOM    519  O   SER    88      13.601  14.655  34.993  1.00 17.15      1TPO 627
+ATOM    520  CB  SER    88      10.231  14.170  34.909  1.00 17.15      1TPO 628
+ATOM    521  OG  SER    88       9.889  13.999  33.530  0.00  0.00   1  1TPO 629
+ATOM    522  N   ILE    89      13.148  13.138  33.337  1.00 16.47      1TPO 630
+ATOM    523  CA  ILE    89      14.308  13.413  32.487  1.00 16.47      1TPO 631
+ATOM    524  C   ILE    89      13.878  13.679  31.037  1.00 16.47      1TPO 632
+ATOM    525  O   ILE    89      13.594  12.721  30.276  1.00 16.47      1TPO 633
+ATOM    526  CB  ILE    89      15.380  12.304  32.524  1.00 16.47      1TPO 634
+ATOM    527  CG1 ILE    89      15.803  12.084  33.989  1.00 14.86      1TPO 635
+ATOM    528  CG2 ILE    89      16.614  12.575  31.626  1.00 14.86      1TPO 636
+ATOM    529  CD1 ILE    89      16.546  10.762  34.205  1.00 14.86      1TPO 637
+ATOM    530  N   VAL    90      14.057  14.878  30.585  1.00 15.44      1TPO 638
+ATOM    531  CA  VAL    90      13.801  15.151  29.176  1.00 15.44      1TPO 639
+ATOM    532  C   VAL    90      15.056  14.887  28.381  1.00 15.44      1TPO 640
+ATOM    533  O   VAL    90      16.152  15.101  28.953  1.00 15.44      1TPO 641
+ATOM    534  CB  VAL    90      13.353  16.623  29.050  1.00 15.44      1TPO 642
+ATOM    535  CG1 VAL    90      13.341  17.145  27.605  1.00 10.26      1TPO 643
+ATOM    536  CG2 VAL    90      11.995  16.813  29.770  1.00 10.26      1TPO 644
+ATOM    537  N   HIS    91      14.899  14.266  27.207  1.00 13.85      1TPO 645
+ATOM    538  CA  HIS    91      16.048  13.981  26.301  1.00 13.85      1TPO 646
+ATOM    539  C   HIS    91      16.944  15.209  26.121  1.00 13.85      1TPO 647
+ATOM    540  O   HIS    91      16.436  16.360  26.040  1.00 13.85      1TPO 648
+ATOM    541  CB  HIS    91      15.491  13.570  24.909  1.00 13.85      1TPO 649
+ATOM    542  CG  HIS    91      16.599  12.940  24.055  1.00 14.56      1TPO 650
+ATOM    543  ND1 HIS    91      17.456  13.726  23.318  1.00 14.56      1TPO 651
+ATOM    544  CD2 HIS    91      16.995  11.657  23.961  1.00 14.56      1TPO 652
+ATOM    545  CE1 HIS    91      18.426  12.916  22.759  1.00 14.56      1TPO 653
+ATOM    546  NE2 HIS    91      18.131  11.609  23.168  1.00 14.56      1TPO 654
+ATOM    547  N   PRO    92      18.221  15.029  26.210  1.00 14.41      1TPO 655
+ATOM    548  CA  PRO    92      19.137  16.133  26.230  1.00 14.41      1TPO 656
+ATOM    549  C   PRO    92      18.949  16.990  25.005  1.00 14.41      1TPO 657
+ATOM    550  O   PRO    92      19.382  18.154  25.085  1.00 14.41      1TPO 658
+ATOM    551  CB  PRO    92      20.565  15.587  26.211  1.00 14.41      1TPO 659
+ATOM    552  CG  PRO    92      20.418  14.062  26.258  1.00 14.72      1TPO 660
+ATOM    553  CD  PRO    92      18.928  13.758  26.404  1.00 14.72      1TPO 661
+ATOM    554  N   SER    93      18.506  16.369  23.905  1.00 12.68      1TPO 662
+ATOM    555  CA  SER    93      18.467  17.129  22.636  1.00 12.68      1TPO 663
+ATOM    556  C   SER    93      17.077  17.501  22.221  1.00 12.68      1TPO 664
+ATOM    557  O   SER    93      16.836  17.712  21.020  1.00 12.68      1TPO 665
+ATOM    558  CB  SER    93      19.187  16.401  21.507  1.00 12.68      1TPO 666
+ATOM    559  OG  SER    93      20.589  16.413  21.820  1.00 25.27      1TPO 667
+ATOM    560  N   TYR    94      16.203  17.519  23.129  1.00 11.40      1TPO 668
+ATOM    561  CA  TYR    94      14.837  17.834  22.765  1.00 11.40      1TPO 669
+ATOM    562  C   TYR    94      14.684  19.286  22.289  1.00 11.40      1TPO 670
+ATOM    563  O   TYR    94      15.137  20.231  22.990  1.00 11.40      1TPO 671
+ATOM    564  CB  TYR    94      13.935  17.650  23.988  1.00 11.40      1TPO 672
+ATOM    565  CG  TYR    94      12.495  18.187  23.786  1.00 11.21      1TPO 673
+ATOM    566  CD1 TYR    94      12.039  19.192  24.598  1.00 11.21      1TPO 674
+ATOM    567  CD2 TYR    94      11.688  17.701  22.758  1.00 11.21      1TPO 675
+ATOM    568  CE1 TYR    94      10.759  19.694  24.381  1.00 11.21      1TPO 676
+ATOM    569  CE2 TYR    94      10.426  18.187  22.548  1.00 11.21      1TPO 677
+ATOM    570  CZ  TYR    94       9.950  19.188  23.367  1.00 11.21      1TPO 678
+ATOM    571  OH  TYR    94       8.644  19.712  23.167  1.00 11.21      1TPO 679
+ATOM    572  N   ASN    95      14.051  19.440  21.126  1.00 13.77      1TPO 680
+ATOM    573  CA  ASN    95      13.790  20.771  20.567  1.00 13.77      1TPO 681
+ATOM    574  C   ASN    95      12.302  21.084  20.450  1.00 13.77      1TPO 682
+ATOM    575  O   ASN    95      11.575  20.452  19.647  1.00 13.77      1TPO 683
+ATOM    576  CB  ASN    95      14.494  20.874  19.193  1.00 13.77      1TPO 684
+ATOM    577  CG  ASN    95      14.392  22.315  18.665  1.00 26.47      1TPO 685
+ATOM    578  OD1 ASN    95      13.301  22.936  18.647  1.00 26.47      1TPO 686
+ATOM    579  ND2 ASN    95      15.306  22.582  17.783  1.00 26.47      1TPO 687
+ATOM    580  N   SER    96      11.852  21.963  21.294  1.00 10.11      1TPO 688
+ATOM    581  CA  SER    96      10.420  22.155  21.356  1.00 10.11      1TPO 689
+ATOM    582  C   SER    96       9.847  22.839  20.134  1.00 10.11      1TPO 690
+ATOM    583  O   SER    96       8.613  22.842  19.981  1.00 10.11      1TPO 691
+ATOM    584  CB  SER    96      10.070  22.997  22.582  1.00 10.11      1TPO 692
+ATOM    585  OG  SER    96      10.718  24.271  22.483  1.00 24.79      1TPO 693
+ATOM    586  N   ASN    97      10.643  23.445  19.327  1.00 13.50      1TPO 694
+ATOM    587  CA  ASN    97      10.070  24.115  18.145  1.00 13.50      1TPO 695
+ATOM    588  C   ASN    97       9.878  23.142  17.009  1.00 13.50      1TPO 696
+ATOM    589  O   ASN    97       8.786  23.210  16.372  1.00 13.50      1TPO 697
+ATOM    590  CB  ASN    97      10.984  25.235  17.630  1.00 13.50      1TPO 698
+ATOM    591  CG  ASN    97      10.928  26.436  18.572  1.00 19.48      1TPO 699
+ATOM    592  OD1 ASN    97      12.037  26.882  18.924  1.00 19.48      1TPO 700
+ATOM    593  ND2 ASN    97       9.816  26.679  19.240  1.00 19.48      1TPO 701
+ATOM    594  N   THR    98      10.783  22.176  16.883  1.00 14.63      1TPO 702
+ATOM    595  CA  THR    98      10.704  21.132  15.855  1.00 14.63      1TPO 703
+ATOM    596  C   THR    98      10.103  19.798  16.287  1.00 14.63      1TPO 704
+ATOM    597  O   THR    98       9.665  18.981  15.438  1.00 14.63      1TPO 705
+ATOM    598  CB  THR    98      12.076  20.890  15.220  1.00 14.63      1TPO 706
+ATOM    599  OG1 THR    98      12.908  20.253  16.185  1.00 13.78      1TPO 707
+ATOM    600  CG2 THR    98      12.731  22.207  14.722  1.00 13.78      1TPO 708
+ATOM    601  N   LEU    99      10.007  19.646  17.572  1.00 15.91      1TPO 709
+ATOM    602  CA  LEU    99       9.633  18.399  18.230  1.00 15.91      1TPO 710
+ATOM    603  C   LEU    99      10.610  17.265  17.980  1.00 15.91      1TPO 711
+ATOM    604  O   LEU    99      10.294  16.102  18.328  1.00 15.91      1TPO 712
+ATOM    605  CB  LEU    99       8.189  17.974  17.923  1.00 15.91      1TPO 713
+ATOM    606  CG  LEU    99       7.186  18.975  18.511  1.00 18.38      1TPO 714
+ATOM    607  CD1 LEU    99       5.738  18.522  18.226  1.00 18.38      1TPO 715
+ATOM    608  CD2 LEU    99       7.348  19.071  20.036  1.00 18.38      1TPO 716
+ATOM    609  N   ASN   100      11.786  17.576  17.498  1.00 16.07      1TPO 717
+ATOM    610  CA  ASN   100      12.789  16.549  17.299  1.00 16.07      1TPO 718
+ATOM    611  C   ASN   100      13.253  16.010  18.635  1.00 16.07      1TPO 719
+ATOM    612  O   ASN   100      13.396  16.852  19.533  1.00 16.07      1TPO 720
+ATOM    613  CB  ASN   100      13.970  17.108  16.519  1.00 16.07      1TPO 721
+ATOM    614  CG  ASN   100      14.867  15.994  15.958  1.00 16.32      1TPO 722
+ATOM    615  OD1 ASN   100      16.088  16.249  15.873  1.00 16.32      1TPO 723
+ATOM    616  ND2 ASN   100      14.393  14.794  15.852  1.00 16.32      1TPO 724
+ATOM    617  N   ASN   101      13.414  14.681  18.791  1.00 14.45      1TPO 725
+ATOM    618  CA  ASN   101      13.745  14.037  20.083  1.00 14.45      1TPO 726
+ATOM    619  C   ASN   101      12.661  14.231  21.150  1.00 14.45      1TPO 727
+ATOM    620  O   ASN   101      13.011  14.483  22.316  1.00 14.45      1TPO 728
+ATOM    621  CB  ASN   101      15.122  14.491  20.677  1.00 14.45      1TPO 729
+ATOM    622  CG  ASN   101      16.230  14.372  19.625  1.00 11.53      1TPO 730
+ATOM    623  OD1 ASN   101      16.782  15.457  19.283  1.00 11.53      1TPO 731
+ATOM    624  ND2 ASN   101      16.501  13.185  19.145  1.00 11.53      1TPO 732
+ATOM    625  N   ASP   102      11.419  14.076  20.804  1.00 11.86      1TPO 733
+ATOM    626  CA  ASP   102      10.238  14.245  21.668  1.00 11.86      1TPO 734
+ATOM    627  C   ASP   102       9.920  13.011  22.543  1.00 11.86      1TPO 735
+ATOM    628  O   ASP   102       9.100  12.115  22.201  1.00 11.86      1TPO 736
+ATOM    629  CB  ASP   102       8.986  14.666  20.842  1.00 11.86      1TPO 737
+ATOM    630  CG  ASP   102       7.787  14.988  21.696  1.00  9.17      1TPO 738
+ATOM    631  OD1 ASP   102       7.918  15.435  22.856  1.00  9.17      1TPO 739
+ATOM    632  OD2 ASP   102       6.658  15.055  21.198  1.00  9.17      1TPO 740
+ATOM    633  N   ILE   103      10.751  12.923  23.525  1.00 15.10      1TPO 741
+ATOM    634  CA  ILE   103      10.868  11.780  24.424  1.00 15.10      1TPO 742
+ATOM    635  C   ILE   103      11.421  12.160  25.807  1.00 15.10      1TPO 743
+ATOM    636  O   ILE   103      12.343  13.002  25.945  1.00 15.10      1TPO 744
+ATOM    637  CB  ILE   103      11.641  10.578  23.761  1.00 15.10      1TPO 745
+ATOM    638  CG1 ILE   103      11.379   9.278  24.568  1.00 13.23      1TPO 746
+ATOM    639  CG2 ILE   103      13.120  10.911  23.489  1.00 13.23      1TPO 747
+ATOM    640  CD1 ILE   103      12.175   8.049  24.110  1.00 13.23      1TPO 748
+ATOM    641  N   MET   104      10.778  11.580  26.785  1.00 12.76      1TPO 749
+ATOM    642  CA  MET   104      10.988  11.802  28.210  1.00 12.76      1TPO 750
+ATOM    643  C   MET   104      10.835  10.517  29.042  1.00 12.76      1TPO 751
+ATOM    644  O   MET   104       9.817   9.806  28.875  1.00 12.76      1TPO 752
+ATOM    645  CB  MET   104       9.884  12.781  28.604  1.00 12.76      1TPO 753
+ATOM    646  CG  MET   104       9.793  13.014  30.118  1.00 22.78      1TPO 754
+ATOM    647  SD  MET   104       8.676  14.369  30.525  1.00 22.78      1TPO 755
+ATOM    648  CE  MET   104       7.174  13.706  29.888  1.00 22.78      1TPO 756
+ATOM    649  N   LEU   105      11.701  10.399  30.073  1.00 11.10      1TPO 757
+ATOM    650  CA  LEU   105      11.701   9.365  31.137  1.00 11.10      1TPO 758
+ATOM    651  C   LEU   105      11.174   9.938  32.443  1.00 11.10      1TPO 759
+ATOM    652  O   LEU   105      11.681  10.985  32.863  1.00 11.10      1TPO 760
+ATOM    653  CB  LEU   105      13.086   8.753  31.370  1.00 11.10      1TPO 761
+ATOM    654  CG  LEU   105      13.464   7.762  30.228  1.00 15.81      1TPO 762
+ATOM    655  CD1 LEU   105      14.939   7.338  30.200  1.00 15.81      1TPO 763
+ATOM    656  CD2 LEU   105      12.431   6.658  29.894  1.00 15.81      1TPO 764
+ATOM    657  N   ILE   106      10.251   9.198  33.070  1.00 11.65      1TPO 765
+ATOM    658  CA  ILE   106       9.700   9.465  34.419  1.00 11.65      1TPO 766
+ATOM    659  C   ILE   106       9.925   8.284  35.344  1.00 11.65      1TPO 767
+ATOM    660  O   ILE   106       9.420   7.173  35.089  1.00 11.65      1TPO 768
+ATOM    661  CB  ILE   106       8.219   9.700  34.296  1.00 11.65      1TPO 769
+ATOM    662  CG1 ILE   106       8.025  10.894  33.336  1.00 15.87      1TPO 770
+ATOM    663  CG2 ILE   106       7.574   9.948  35.684  1.00 15.87      1TPO 771
+ATOM    664  CD1 ILE   106       6.593  10.988  32.782  1.00 15.87      1TPO 772
+ATOM    665  N   LYS   107      10.715   8.472  36.373  1.00 15.56      1TPO 773
+ATOM    666  CA  LYS   107      10.848   7.495  37.481  1.00 15.56      1TPO 774
+ATOM    667  C   LYS   107       9.766   7.619  38.558  1.00 15.56      1TPO 775
+ATOM    668  O   LYS   107       9.443   8.740  39.053  1.00 15.56      1TPO 776
+ATOM    669  CB  LYS   107      12.246   7.586  38.115  1.00 15.56      1TPO 777
+ATOM    670  CG  LYS   107      12.494   6.441  39.127  1.00 13.16      1TPO 778
+ATOM    671  CD  LYS   107      13.955   6.394  39.552  1.00 13.16      1TPO 779
+ATOM    672  CE  LYS   107      14.236   5.196  40.465  1.00 13.16      1TPO 780
+ATOM    673  NZ  LYS   107      15.626   5.331  40.933  1.00 13.16      1TPO 781
+ATOM    674  N   LEU   108       9.170   6.512  38.903  1.00 17.95      1TPO 782
+ATOM    675  CA  LEU   108       8.144   6.417  39.961  1.00 17.95      1TPO 783
+ATOM    676  C   LEU   108       8.793   6.438  41.343  1.00 17.95      1TPO 784
+ATOM    677  O   LEU   108       9.865   5.814  41.519  1.00 17.95      1TPO 785
+ATOM    678  CB  LEU   108       7.377   5.071  39.853  1.00 17.95      1TPO 786
+ATOM    679  CG  LEU   108       6.672   4.859  38.496  1.00 17.01      1TPO 787
+ATOM    680  CD1 LEU   108       5.946   3.531  38.436  1.00 17.01      1TPO 788
+ATOM    681  CD2 LEU   108       5.661   5.963  38.240  1.00 17.01      1TPO 789
+ATOM    682  N   LYS   109       8.143   7.058  42.301  1.00 23.63      1TPO 790
+ATOM    683  CA  LYS   109       8.608   7.086  43.713  1.00 23.63      1TPO 791
+ATOM    684  C   LYS   109       8.699   5.692  44.345  1.00 23.63      1TPO 792
+ATOM    685  O   LYS   109       9.648   5.420  45.118  1.00 23.63      1TPO 793
+ATOM    686  CB  LYS   109       7.625   7.872  44.588  1.00 23.63      1TPO 794
+ATOM    687  CG  LYS   109       7.836   9.366  44.352  1.00 30.72      1TPO 795
+ATOM    688  CD  LYS   109       6.952  10.224  45.275  0.00  0.00   1  1TPO 796
+ATOM    689  CE  LYS   109       7.203  11.730  45.075  0.00  0.00   1  1TPO 797
+ATOM    690  NZ  LYS   109       6.359  12.508  45.991  0.00  0.00   1  1TPO 798
+ATOM    691  N   SER   110       7.782   4.841  43.934  1.00 19.19      1TPO 799
+ATOM    692  CA  SER   110       7.720   3.443  44.356  1.00 19.19      1TPO 800
+ATOM    693  C   SER   110       7.523   2.593  43.109  1.00 19.19      1TPO 801
+ATOM    694  O   SER   110       6.875   3.067  42.160  1.00 19.19      1TPO 802
+ATOM    695  CB  SER   110       6.483   3.356  45.272  1.00 19.19      1TPO 803
+ATOM    696  OG  SER   110       6.688   4.164  46.440  0.00  0.00   1  1TPO 804
+ATOM    697  N   ALA   111       8.059   1.393  43.093  1.00 16.79      1TPO 805
+ATOM    698  CA  ALA   111       7.843    .402  42.060  1.00 16.79      1TPO 806
+ATOM    699  C   ALA   111       6.388   -.050  42.014  1.00 16.79      1TPO 807
+ATOM    700  O   ALA   111       5.758   -.290  43.081  1.00 16.79      1TPO 808
+ATOM    701  CB  ALA   111       8.810   -.795  42.253  1.00 16.79      1TPO 809
+ATOM    702  N   ALA   112       5.850   -.140  40.804  1.00 15.10      1TPO 810
+ATOM    703  CA  ALA   112       4.502   -.641  40.542  1.00 15.10      1TPO 811
+ATOM    704  C   ALA   112       4.399  -2.155  40.807  1.00 15.10      1TPO 812
+ATOM    705  O   ALA   112       5.418  -2.872  40.705  1.00 15.10      1TPO 813
+ATOM    706  CB  ALA   112       4.010   -.332  39.096  1.00 15.10      1TPO 814
+ATOM    707  N   SER   113       3.245  -2.650  41.159  1.00 21.03      1TPO 815
+ATOM    708  CA  SER   113       3.020  -4.089  41.337  1.00 21.03      1TPO 816
+ATOM    709  C   SER   113       2.439  -4.711  40.058  1.00 21.03      1TPO 817
+ATOM    710  O   SER   113       1.330  -4.289  39.619  1.00 21.03      1TPO 818
+ATOM    711  CB  SER   113       2.019  -4.326  42.501  1.00 21.03      1TPO 819
+ATOM    712  OG  SER   113       2.494  -3.667  43.682  0.00  0.00   1  1TPO 820
+ATOM    713  N   LEU   114       3.279  -5.474  39.375  1.00 22.49      1TPO 821
+ATOM    714  CA  LEU   114       2.997  -5.897  38.006  1.00 22.49      1TPO 822
+ATOM    715  C   LEU   114       2.238  -7.199  37.932  1.00 22.49      1TPO 823
+ATOM    716  O   LEU   114       2.765  -8.194  38.491  1.00 22.49      1TPO 824
+ATOM    717  CB  LEU   114       4.305  -6.052  37.227  1.00 22.49      1TPO 825
+ATOM    718  CG  LEU   114       5.030  -4.710  37.099  1.00 15.56      1TPO 826
+ATOM    719  CD1 LEU   114       6.281  -4.906  36.279  1.00 15.56      1TPO 827
+ATOM    720  CD2 LEU   114       4.179  -3.692  36.386  1.00 15.56      1TPO 828
+ATOM    721  N   ASN   115       1.056  -7.197  37.315  1.00 30.72      1TPO 829
+ATOM    722  CA  ASN   115        .184  -8.393  37.063  1.00 30.72      1TPO 830
+ATOM    723  C   ASN   115       -.233  -8.612  35.603  1.00 30.72      1TPO 831
+ATOM    724  O   ASN   115        .439  -8.131  34.655  1.00 30.72      1TPO 832
+ATOM    725  CB  ASN   115      -1.101  -8.309  37.918  1.00 30.72      1TPO 833
+ATOM    726  CG  ASN   115      -1.988  -7.148  37.495  0.00  0.00   1  1TPO 834
+ATOM    727  OD1 ASN   115      -1.498  -5.993  37.515  0.00  0.00   1  1TPO 835
+ATOM    728  ND2 ASN   115      -3.255  -7.369  37.771  0.00  0.00   1  1TPO 836
+ATOM    729  N   SER   116      -1.326  -9.295  35.384  1.00 29.00      1TPO 837
+ATOM    730  CA  SER   116      -1.858  -9.411  33.998  1.00 29.00      1TPO 838
+ATOM    731  C   SER   116      -2.442  -8.089  33.471  1.00 29.00      1TPO 839
+ATOM    732  O   SER   116      -2.415  -7.819  32.238  1.00 29.00      1TPO 840
+ATOM    733  CB  SER   116      -2.959 -10.516  33.930  1.00 29.00      1TPO 841
+ATOM    734  OG  SER   116      -4.030 -10.201  34.875  1.00 29.14      1TPO 842
+ATOM    735  N   ARG   117      -3.036  -7.347  34.387  1.00 24.07      1TPO 843
+ATOM    736  CA  ARG   117      -3.641  -6.045  34.100  1.00 24.07      1TPO 844
+ATOM    737  C   ARG   117      -2.744  -4.825  34.252  1.00 24.07      1TPO 845
+ATOM    738  O   ARG   117      -2.981  -3.838  33.516  1.00 24.07      1TPO 846
+ATOM    739  CB  ARG   117      -4.822  -5.859  35.013  1.00 24.07      1TPO 847
+ATOM    740  CG  ARG   117      -5.904  -6.886  34.653  1.00 34.88      1TPO 848
+ATOM    741  CD  ARG   117      -7.106  -6.831  35.614  1.00 34.88      1TPO 849
+ATOM    742  NE  ARG   117      -8.115  -7.744  35.053  1.00 34.88      1TPO 850
+ATOM    743  CZ  ARG   117      -9.127  -8.210  35.742  1.00 34.88      1TPO 851
+ATOM    744  NH1 ARG   117      -9.281  -7.835  36.998  0.00  0.00   1  1TPO 852
+ATOM    745  NH2 ARG   117      -9.998  -9.023  35.179  0.00  0.00   1  1TPO 853
+ATOM    746  N   VAL   118      -1.611  -4.959  34.936  1.00 17.46      1TPO 854
+ATOM    747  CA  VAL   118       -.566  -3.940  34.948  1.00 17.46      1TPO 855
+ATOM    748  C   VAL   118        .763  -4.594  34.614  1.00 17.46      1TPO 856
+ATOM    749  O   VAL   118       1.268  -5.396  35.428  1.00 17.46      1TPO 857
+ATOM    750  CB  VAL   118       -.476  -3.095  36.255  1.00 17.46      1TPO 858
+ATOM    751  CG1 VAL   118        .677  -2.058  36.217  1.00 21.97      1TPO 859
+ATOM    752  CG2 VAL   118      -1.767  -2.385  36.710  1.00 21.97      1TPO 860
+ATOM    753  N   ALA   119       1.239  -4.352  33.418  1.00 15.87      1TPO 861
+ATOM    754  CA  ALA   119       2.423  -5.002  32.921  1.00 15.87      1TPO 862
+ATOM    755  C   ALA   119       3.382  -4.078  32.210  1.00 15.87      1TPO 863
+ATOM    756  O   ALA   119       2.928  -3.004  31.777  1.00 15.87      1TPO 864
+ATOM    757  CB  ALA   119       1.941  -6.128  31.996  1.00 15.87      1TPO 865
+ATOM    758  N   SER   120       4.645  -4.373  32.054  1.00 16.43      1TPO 866
+ATOM    759  CA  SER   120       5.480  -3.466  31.233  1.00 16.43      1TPO 867
+ATOM    760  C   SER   120       5.581  -3.875  29.770  1.00 16.43      1TPO 868
+ATOM    761  O   SER   120       5.185  -4.994  29.417  1.00 16.43      1TPO 869
+ATOM    762  CB  SER   120       6.898  -3.432  31.804  1.00 16.43      1TPO 870
+ATOM    763  OG  SER   120       7.303  -4.778  31.851  1.00 21.56      1TPO 871
+ATOM    764  N   ILE   121       5.882  -2.976  28.903  1.00 15.57      1TPO 872
+ATOM    765  CA  ILE   121       6.029  -3.274  27.481  1.00 15.57      1TPO 873
+ATOM    766  C   ILE   121       7.518  -3.317  27.155  1.00 15.57      1TPO 874
+ATOM    767  O   ILE   121       8.264  -2.453  27.701  1.00 15.57      1TPO 875
+ATOM    768  CB  ILE   121       5.285  -2.202  26.647  1.00 15.57      1TPO 876
+ATOM    769  CG1 ILE   121       5.267  -2.555  25.169  1.00 13.80      1TPO 877
+ATOM    770  CG2 ILE   121       5.792   -.754  26.939  1.00 13.80      1TPO 878
+ATOM    771  CD1 ILE   121       4.509  -3.872  24.896  1.00 13.80      1TPO 879
+ATOM    772  N   SER   122       7.935  -4.306  26.352  1.00 14.99      1TPO 880
+ATOM    773  CA  SER   122       9.326  -4.434  25.911  1.00 14.99      1TPO 881
+ATOM    774  C   SER   122       9.787  -3.323  24.960  1.00 14.99      1TPO 882
+ATOM    775  O   SER   122       9.007  -2.874  24.100  1.00 14.99      1TPO 883
+ATOM    776  CB  SER   122       9.594  -5.794  25.200  1.00 14.99      1TPO 884
+ATOM    777  OG  SER   122       9.287  -6.878  26.084  0.00  0.00   1  1TPO 885
+ATOM    778  N   LEU   123      11.019  -2.924  25.153  1.00 17.46      1TPO 886
+ATOM    779  CA  LEU   123      11.721  -1.998  24.276  1.00 17.46      1TPO 887
+ATOM    780  C   LEU   123      12.157  -2.780  23.044  1.00 17.46      1TPO 888
+ATOM    781  O   LEU   123      12.233  -4.029  23.084  1.00 17.46      1TPO 889
+ATOM    782  CB  LEU   123      12.988  -1.549  25.011  1.00 17.46      1TPO 890
+ATOM    783  CG  LEU   123      12.900   -.146  25.612  1.00 19.27      1TPO 891
+ATOM    784  CD1 LEU   123      11.545    .576  25.532  1.00 19.27      1TPO 892
+ATOM    785  CD2 LEU   123      13.535   -.109  26.986  1.00 19.27      1TPO 893
+ATOM    786  N   PRO   124      12.252  -2.142  21.908  1.00 15.34      1TPO 894
+ATOM    787  CA  PRO   124      12.505  -2.881  20.676  1.00 15.34      1TPO 895
+ATOM    788  C   PRO   124      13.975  -3.282  20.533  1.00 15.34      1TPO 896
+ATOM    789  O   PRO   124      14.793  -2.594  21.142  1.00 15.34      1TPO 897
+ATOM    790  CB  PRO   124      12.086  -1.944  19.539  1.00 15.34      1TPO 898
+ATOM    791  CG  PRO   124      11.952   -.575  20.201  1.00  9.66      1TPO 899
+ATOM    792  CD  PRO   124      11.940   -.725  21.708  1.00  9.66      1TPO 900
+ATOM    793  N   THR   125      14.328  -4.292  19.756  1.00 22.30      1TPO 901
+ATOM    794  CA  THR   125      15.669  -4.645  19.380  1.00 22.30      1TPO 902
+ATOM    795  C   THR   125      15.953  -4.067  18.000  1.00 22.30      1TPO 903
+ATOM    796  O   THR   125      17.161  -3.910  17.710  1.00 22.30      1TPO 904
+ATOM    797  CB  THR   125      15.838  -6.178  19.210  1.00 22.30      1TPO 905
+ATOM    798  OG1 THR   125      15.028  -6.632  18.116  0.00  0.00   1  1TPO 906
+ATOM    799  CG2 THR   125      15.397  -6.864  20.515  1.00 19.43      1TPO 907
+ATOM    800  N   SER   127      14.909  -3.936  17.174  1.00 20.34      1TPO 908
+ATOM    801  CA  SER   127      15.033  -3.522  15.757  1.00 20.34      1TPO 909
+ATOM    802  C   SER   127      14.042  -2.408  15.519  1.00 20.34      1TPO 910
+ATOM    803  O   SER   127      12.957  -2.457  16.132  1.00 20.34      1TPO 911
+ATOM    804  CB  SER   127      14.621  -4.724  14.859  1.00 20.34      1TPO 912
+ATOM    805  OG  SER   127      13.297  -5.152  15.207  0.00  0.00   1  1TPO 913
+ATOM    806  N   CYS   128      14.230  -1.603  14.492  1.00 19.82      1TPO 914
+ATOM    807  CA  CYS   128      13.209   -.624  14.085  1.00 19.82      1TPO 915
+ATOM    808  C   CYS   128      12.195  -1.312  13.214  1.00 19.82      1TPO 916
+ATOM    809  O   CYS   128      12.596  -2.141  12.368  1.00 19.82      1TPO 917
+ATOM    810  CB  CYS   128      13.863    .525  13.306  1.00 19.82      1TPO 918
+ATOM    811  SG  CYS   128      15.103   1.452  14.237  1.00 19.66      1TPO 919
+ATOM    812  N   ALA   129      10.965  -1.034  13.411  1.00 17.32      1TPO 920
+ATOM    813  CA  ALA   129       9.912  -1.627  12.630  1.00 17.32      1TPO 921
+ATOM    814  C   ALA   129       9.826   -.903  11.275  1.00 17.32      1TPO 922
+ATOM    815  O   ALA   129      10.285    .258  11.109  1.00 17.32      1TPO 923
+ATOM    816  CB  ALA   129       8.598  -1.487  13.406  1.00 17.32      1TPO 924
+ATOM    817  N   SER   130       9.421  -1.613  10.280  1.00 20.79      1TPO 925
+ATOM    818  CA  SER   130       9.401  -1.151   8.884  1.00 20.79      1TPO 926
+ATOM    819  C   SER   130       8.005   -.691   8.496  1.00 20.79      1TPO 927
+ATOM    820  O   SER   130       7.005  -1.216   9.046  1.00 20.79      1TPO 928
+ATOM    821  CB  SER   130       9.785  -2.366   7.970  1.00 20.79      1TPO 929
+ATOM    822  OG  SER   130      11.215  -2.657   8.083  1.00 29.81      1TPO 930
+ATOM    823  N   ALA   132       7.970    .242   7.541  1.00 18.77      1TPO 931
+ATOM    824  CA  ALA   132       6.761    .632   6.817  1.00 18.77      1TPO 932
+ATOM    825  C   ALA   132       5.890   -.572   6.439  1.00 18.77      1TPO 933
+ATOM    826  O   ALA   132       6.430  -1.621   5.991  1.00 18.77      1TPO 934
+ATOM    827  CB  ALA   132       7.247   1.236   5.495  1.00 18.77      1TPO 935
+ATOM    828  N   GLY   133       4.608   -.513   6.707  1.00 14.84      1TPO 936
+ATOM    829  CA  GLY   133       3.820  -1.640   6.327  1.00 14.84      1TPO 937
+ATOM    830  C   GLY   133       3.487  -2.472   7.538  1.00 14.84      1TPO 938
+ATOM    831  O   GLY   133       2.395  -3.086   7.554  1.00 14.84      1TPO 939
+ATOM    832  N   THR   134       4.218  -2.319   8.605  1.00 21.22      1TPO 940
+ATOM    833  CA  THR   134       3.852  -3.033   9.870  1.00 21.22      1TPO 941
+ATOM    834  C   THR   134       2.604  -2.432  10.532  1.00 21.22      1TPO 942
+ATOM    835  O   THR   134       2.486  -1.185  10.591  1.00 21.22      1TPO 943
+ATOM    836  CB  THR   134       5.047  -2.984  10.862  1.00 21.22      1TPO 944
+ATOM    837  OG1 THR   134       6.307  -3.447  10.302  1.00 23.28      1TPO 945
+ATOM    838  CG2 THR   134       4.812  -3.740  12.182  1.00 23.28      1TPO 946
+ATOM    839  N   GLN   135       1.719  -3.248  11.024  1.00 17.03      1TPO 947
+ATOM    840  CA  GLN   135        .517  -2.778  11.653  1.00 17.03      1TPO 948
+ATOM    841  C   GLN   135        .742  -2.607  13.153  1.00 17.03      1TPO 949
+ATOM    842  O   GLN   135       1.401  -3.457  13.774  1.00 17.03      1TPO 950
+ATOM    843  CB  GLN   135       -.574  -3.844  11.459  1.00 17.03      1TPO 951
+ATOM    844  CG  GLN   135      -2.024  -3.354  11.775  1.00 26.03      1TPO 952
+ATOM    845  CD  GLN   135      -3.000  -4.536  11.934  1.00 26.03      1TPO 953
+ATOM    846  OE1 GLN   135      -2.938  -5.257  12.962  0.00  0.00   1  1TPO 954
+ATOM    847  NE2 GLN   135      -4.012  -4.543  11.089  0.00  0.00   1  1TPO 955
+ATOM    848  N   CYS   136        .327  -1.518  13.755  1.00 14.48      1TPO 956
+ATOM    849  CA  CYS   136        .621  -1.255  15.168  1.00 14.48      1TPO 957
+ATOM    850  C   CYS   136       -.655   -.940  15.922  1.00 14.48      1TPO 958
+ATOM    851  O   CYS   136      -1.657   -.603  15.271  1.00 14.48      1TPO 959
+ATOM    852  CB  CYS   136       1.606   -.064  15.250  1.00 14.48      1TPO 960
+ATOM    853  SG  CYS   136       3.144   -.362  14.370  1.00 17.54      1TPO 961
+ATOM    854  N   LEU   137       -.628   -.889  17.232  1.00  9.49      1TPO 962
+ATOM    855  CA  LEU   137      -1.771   -.471  18.001  1.00  9.49      1TPO 963
+ATOM    856  C   LEU   137      -1.411    .815  18.762  1.00  9.49      1TPO 964
+ATOM    857  O   LEU   137       -.366    .849  19.490  1.00  9.49      1TPO 965
+ATOM    858  CB  LEU   137      -1.952  -1.531  19.097  1.00  9.49      1TPO 966
+ATOM    859  CG  LEU   137      -3.163  -1.227  19.994  1.00 18.47      1TPO 967
+ATOM    860  CD1 LEU   137      -4.478  -1.425  19.237  1.00 18.47      1TPO 968
+ATOM    861  CD2 LEU   137      -3.134  -2.046  21.314  1.00 18.47      1TPO 969
+ATOM    862  N   ILE   138      -2.272   1.801  18.587  1.00 13.99      1TPO 970
+ATOM    863  CA  ILE   138      -2.141   3.111  19.228  1.00 13.99      1TPO 971
+ATOM    864  C   ILE   138      -3.266   3.289  20.218  1.00 13.99      1TPO 972
+ATOM    865  O   ILE   138      -4.406   2.894  19.937  1.00 13.99      1TPO 973
+ATOM    866  CB  ILE   138      -2.115   4.270  18.171  1.00 13.99      1TPO 974
+ATOM    867  CG1 ILE   138       -.908   4.115  17.194  1.00 17.36      1TPO 975
+ATOM    868  CG2 ILE   138      -2.132   5.669  18.865  1.00 17.36      1TPO 976
+ATOM    869  CD1 ILE   138      -1.122   4.753  15.787  1.00 17.36      1TPO 977
+ATOM    870  N   SER   139      -3.042   3.777  21.416  1.00 13.21      1TPO 978
+ATOM    871  CA  SER   139      -4.181   3.901  22.385  1.00 13.21      1TPO 979
+ATOM    872  C   SER   139      -4.078   5.164  23.244  1.00 13.21      1TPO 980
+ATOM    873  O   SER   139      -3.006   5.791  23.302  1.00 13.21      1TPO 981
+ATOM    874  CB  SER   139      -4.208   2.682  23.357  1.00 13.21      1TPO 982
+ATOM    875  OG  SER   139      -2.875   2.400  23.750  1.00  6.27      1TPO 983
+ATOM    876  N   GLY   140      -5.195   5.620  23.750  1.00  8.87      1TPO 984
+ATOM    877  CA  GLY   140      -5.208   6.778  24.602  1.00  8.87      1TPO 985
+ATOM    878  C   GLY   140      -6.624   7.280  24.825  1.00  8.87      1TPO 986
+ATOM    879  O   GLY   140      -7.617   6.800  24.234  1.00  8.87      1TPO 987
+ATOM    880  N   TRP   141      -6.671   8.305  25.680  1.00 19.14      1TPO 988
+ATOM    881  CA  TRP   141      -7.884   8.992  26.128  1.00 19.14      1TPO 989
+ATOM    882  C   TRP   141      -8.052  10.361  25.450  1.00 19.14      1TPO 990
+ATOM    883  O   TRP   141      -8.821  11.211  25.983  1.00 19.14      1TPO 991
+ATOM    884  CB  TRP   141      -7.877   9.196  27.689  1.00 19.14      1TPO 992
+ATOM    885  CG  TRP   141      -8.008   7.853  28.445  1.00 12.38      1TPO 993
+ATOM    886  CD1 TRP   141      -9.143   7.231  28.767  1.00 12.38      1TPO 994
+ATOM    887  CD2 TRP   141      -6.981   7.092  29.019  1.00 12.38      1TPO 995
+ATOM    888  NE1 TRP   141      -8.852   6.060  29.514  1.00 12.38      1TPO 996
+ATOM    889  CE2 TRP   141      -7.589   5.977  29.643  1.00 12.38      1TPO 997
+ATOM    890  CE3 TRP   141      -5.603   7.337  29.101  1.00 12.38      1TPO 998
+ATOM    891  CZ2 TRP   141      -6.845   5.018  30.330  1.00 12.38      1TPO 999
+ATOM    892  CZ3 TRP   141      -4.869   6.428  29.831  1.00 12.38      1TPO1000
+ATOM    893  CH2 TRP   141      -5.466   5.288  30.429  1.00 12.38      1TPO1001
+ATOM    894  N   GLY   142      -7.388  10.572  24.323  1.00 13.59      1TPO1002
+ATOM    895  CA  GLY   142      -7.516  11.917  23.646  1.00 13.59      1TPO1003
+ATOM    896  C   GLY   142      -8.847  12.179  22.955  1.00 13.59      1TPO1004
+ATOM    897  O   GLY   142      -9.702  11.278  22.874  1.00 13.59      1TPO1005
+ATOM    898  N   ASN   143      -8.963  13.348  22.341  1.00 13.03      1TPO1006
+ATOM    899  CA  ASN   143     -10.163  13.742  21.580  1.00 13.03      1TPO1007
+ATOM    900  C   ASN   143     -10.552  12.734  20.487  1.00 13.03      1TPO1008
+ATOM    901  O   ASN   143      -9.646  12.127  19.876  1.00 13.03      1TPO1009
+ATOM    902  CB  ASN   143      -9.830  15.148  21.012  1.00 13.03      1TPO1010
+ATOM    903  CG  ASN   143     -11.000  15.770  20.269  1.00 16.45      1TPO1011
+ATOM    904  OD1 ASN   143     -12.170  15.470  20.543  1.00 16.45      1TPO1012
+ATOM    905  ND2 ASN   143     -10.732  16.943  19.762  1.00 16.45      1TPO1013
+ATOM    906  N   THR   144     -11.821  12.448  20.355  1.00 13.89      1TPO1014
+ATOM    907  CA  THR   144     -12.285  11.471  19.397  1.00 13.89      1TPO1015
+ATOM    908  C   THR   144     -12.896  12.119  18.141  1.00 13.89      1TPO1016
+ATOM    909  O   THR   144     -13.415  11.396  17.235  1.00 13.89      1TPO1017
+ATOM    910  CB  THR   144     -13.278  10.498  20.006  1.00 13.89      1TPO1018
+ATOM    911  OG1 THR   144     -14.369  11.218  20.499  1.00 12.78      1TPO1019
+ATOM    912  CG2 THR   144     -12.721   9.596  21.135  1.00 12.78      1TPO1020
+ATOM    913  N   LYS   145     -12.841  13.448  18.079  1.00 21.90      1TPO1021
+ATOM    914  CA  LYS   145     -13.388  14.134  16.884  1.00 21.90      1TPO1022
+ATOM    915  C   LYS   145     -12.360  14.937  16.075  1.00 21.90      1TPO1023
+ATOM    916  O   LYS   145     -11.494  15.621  16.672  1.00 21.90      1TPO1024
+ATOM    917  CB  LYS   145     -14.559  15.073  17.295  1.00 21.90      1TPO1025
+ATOM    918  CG  LYS   145     -15.745  14.262  17.878  1.00 21.27      1TPO1026
+ATOM    919  CD  LYS   145     -16.186  13.107  16.961  0.00  0.00   1  1TPO1027
+ATOM    920  CE  LYS   145     -17.069  12.099  17.717  0.00  0.00   1  1TPO1028
+ATOM    921  NZ  LYS   145     -17.255  10.890  16.906  0.00  0.00   1  1TPO1029
+ATOM    922  N   SER   146     -12.521  14.938  14.736  1.00 23.51      1TPO1030
+ATOM    923  CA  SER   146     -11.660  15.678  13.798  1.00 23.51      1TPO1031
+ATOM    924  C   SER   146     -12.071  17.147  13.734  1.00 23.51      1TPO1032
+ATOM    925  O   SER   146     -11.228  18.054  13.576  1.00 23.51      1TPO1033
+ATOM    926  CB  SER   146     -11.778  15.090  12.369  1.00 23.51      1TPO1034
+ATOM    927  OG  SER   146     -13.077  15.395  11.841  0.00  0.00   1  1TPO1035
+ATOM    928  N   SER   147     -13.306  17.385  14.012  1.00 28.87      1TPO1036
+ATOM    929  CA  SER   147     -13.810  18.759  14.156  1.00 28.87      1TPO1037
+ATOM    930  C   SER   147     -14.600  18.926  15.463  1.00 28.87      1TPO1038
+ATOM    931  O   SER   147     -15.316  17.988  15.888  1.00 28.87      1TPO1039
+ATOM    932  CB  SER   147     -14.677  19.066  12.912  1.00 28.87      1TPO1040
+ATOM    933  OG  SER   147     -13.907  18.842  11.722  0.00  0.00   1  1TPO1041
+ATOM    934  N   GLY   148     -14.228  19.879  16.276  1.00 26.85      1TPO1042
+ATOM    935  CA  GLY   148     -14.799  19.907  17.647  1.00 26.85      1TPO1043
+ATOM    936  C   GLY   148     -14.164  18.899  18.614  1.00 26.85      1TPO1044
+ATOM    937  O   GLY   148     -13.004  18.473  18.370  1.00 26.85      1TPO1045
+ATOM    938  N   THR   149     -14.733  18.863  19.830  1.00 22.37      1TPO1046
+ATOM    939  CA  THR   149     -14.151  18.358  21.107  1.00 22.37      1TPO1047
+ATOM    940  C   THR   149     -15.066  17.329  21.755  1.00 22.37      1TPO1048
+ATOM    941  O   THR   149     -16.276  17.575  21.995  1.00 22.37      1TPO1049
+ATOM    942  CB  THR   149     -14.033  19.576  22.035  1.00 22.37      1TPO1050
+ATOM    943  OG1 THR   149     -13.212  20.574  21.413  0.00  0.00   1  1TPO1051
+ATOM    944  CG2 THR   149     -13.468  19.220  23.422  0.00  0.00   1  1TPO1052
+ATOM    945  N   SER   150     -14.578  16.139  21.925  1.00 19.09      1TPO1053
+ATOM    946  CA  SER   150     -15.302  15.155  22.759  1.00 19.09      1TPO1054
+ATOM    947  C   SER   150     -14.366  14.118  23.385  1.00 19.09      1TPO1055
+ATOM    948  O   SER   150     -13.664  13.398  22.646  1.00 19.09      1TPO1056
+ATOM    949  CB  SER   150     -16.282  14.358  21.904  1.00 19.09      1TPO1057
+ATOM    950  OG  SER   150     -16.990  13.505  22.797  1.00 24.79      1TPO1058
+ATOM    951  N   TYR   151     -14.156  14.209  24.681  1.00 14.90      1TPO1059
+ATOM    952  CA  TYR   151     -13.146  13.392  25.279  1.00 14.90      1TPO1060
+ATOM    953  C   TYR   151     -13.833  12.175  25.858  1.00 14.90      1TPO1061
+ATOM    954  O   TYR   151     -14.899  12.369  26.488  1.00 14.90      1TPO1062
+ATOM    955  CB  TYR   151     -12.407  14.179  26.355  1.00 14.90      1TPO1063
+ATOM    956  CG  TYR   151     -11.361  15.100  25.702  1.00 22.32      1TPO1064
+ATOM    957  CD1 TYR   151     -10.011  14.796  25.789  1.00 22.32      1TPO1065
+ATOM    958  CD2 TYR   151     -11.757  16.257  25.102  1.00 22.32      1TPO1066
+ATOM    959  CE1 TYR   151      -9.050  15.616  25.186  1.00 22.32      1TPO1067
+ATOM    960  CE2 TYR   151     -10.817  17.088  24.501  1.00 22.32      1TPO1068
+ATOM    961  CZ  TYR   151      -9.477  16.758  24.513  1.00 22.32      1TPO1069
+ATOM    962  OH  TYR   151      -8.516  17.676  23.914  1.00 22.32      1TPO1070
+ATOM    963  N   PRO   152     -13.334  10.971  25.571  1.00 16.93      1TPO1071
+ATOM    964  CA  PRO   152     -13.892   9.740  26.085  1.00 16.93      1TPO1072
+ATOM    965  C   PRO   152     -13.434   9.579  27.539  1.00 16.93      1TPO1073
+ATOM    966  O   PRO   152     -12.327  10.053  27.958  1.00 16.93      1TPO1074
+ATOM    967  CB  PRO   152     -13.232   8.630  25.251  1.00 16.93      1TPO1075
+ATOM    968  CG  PRO   152     -11.927   9.225  24.731  1.00 17.70      1TPO1076
+ATOM    969  CD  PRO   152     -12.036  10.720  24.962  1.00 17.70      1TPO1077
+ATOM    970  N   ASP   153     -14.166   8.866  28.275  1.00 19.06      1TPO1078
+ATOM    971  CA  ASP   153     -13.633   8.561  29.590  1.00 19.06      1TPO1079
+ATOM    972  C   ASP   153     -12.912   7.210  29.647  1.00 19.06      1TPO1080
+ATOM    973  O   ASP   153     -12.021   7.058  30.519  1.00 19.06      1TPO1081
+ATOM    974  CB  ASP   153     -14.741   8.606  30.668  1.00 19.06      1TPO1082
+ATOM    975  CG  ASP   153     -15.235  10.034  30.896  1.00 27.47      1TPO1083
+ATOM    976  OD1 ASP   153     -14.461  10.993  30.685  1.00 27.47      1TPO1084
+ATOM    977  OD2 ASP   153     -16.476  10.256  30.940  1.00 27.47      1TPO1085
+ATOM    978  N   VAL   154     -13.221   6.315  28.697  1.00 14.54      1TPO1086
+ATOM    979  CA  VAL   154     -12.556   5.008  28.600  1.00 14.54      1TPO1087
+ATOM    980  C   VAL   154     -11.533   4.927  27.483  1.00 14.54      1TPO1088
+ATOM    981  O   VAL   154     -11.570   5.789  26.573  1.00 14.54      1TPO1089
+ATOM    982  CB  VAL   154     -13.586   3.879  28.456  1.00 14.54      1TPO1090
+ATOM    983  CG1 VAL   154     -14.557   3.741  29.650  1.00 16.15      1TPO1091
+ATOM    984  CG2 VAL   154     -14.362   4.039  27.142  1.00 16.15      1TPO1092
+ATOM    985  N   LEU   155     -10.635   3.995  27.591  1.00 14.87      1TPO1093
+ATOM    986  CA  LEU   155      -9.477   3.893  26.724  1.00 14.87      1TPO1094
+ATOM    987  C   LEU   155      -9.855   3.428  25.307  1.00 14.87      1TPO1095
+ATOM    988  O   LEU   155     -10.716   2.513  25.142  1.00 14.87      1TPO1096
+ATOM    989  CB  LEU   155      -8.394   2.996  27.411  1.00 14.87      1TPO1097
+ATOM    990  CG  LEU   155      -7.027   2.980  26.672  1.00 14.73      1TPO1098
+ATOM    991  CD1 LEU   155      -6.291   4.325  26.659  1.00 14.73      1TPO1099
+ATOM    992  CD2 LEU   155      -6.092   1.866  27.136  1.00 14.73      1TPO1100
+ATOM    993  N   LYS   156      -9.335   4.162  24.333  1.00 14.48      1TPO1101
+ATOM    994  CA  LYS   156      -9.641   3.957  22.894  1.00 14.48      1TPO1102
+ATOM    995  C   LYS   156      -8.431   3.461  22.132  1.00 14.48      1TPO1103
+ATOM    996  O   LYS   156      -7.290   3.680  22.590  1.00 14.48      1TPO1104
+ATOM    997  CB  LYS   156     -10.125   5.280  22.242  1.00 14.48      1TPO1105
+ATOM    998  CG  LYS   156     -11.441   5.808  22.814  1.00 18.68      1TPO1106
+ATOM    999  CD  LYS   156     -12.571   5.043  22.170  1.00 18.68      1TPO1107
+ATOM   1000  CE  LYS   156     -13.902   5.307  22.864  1.00 18.68      1TPO1108
+ATOM   1001  NZ  LYS   156     -14.964   4.526  22.166  1.00 18.68      1TPO1109
+ATOM   1002  N   CYS   157      -8.638   2.567  21.187  1.00 14.62      1TPO1110
+ATOM   1003  CA  CYS   157      -7.520   1.886  20.501  1.00 14.62      1TPO1111
+ATOM   1004  C   CYS   157      -7.623   2.114  19.004  1.00 14.62      1TPO1112
+ATOM   1005  O   CYS   157      -8.757   2.386  18.585  1.00 14.62      1TPO1113
+ATOM   1006  CB  CYS   157      -7.651    .355  20.723  1.00 14.62      1TPO1114
+ATOM   1007  SG  CYS   157      -6.888   -.179  22.270  1.00 14.05      1TPO1115
+ATOM   1008  N   LEU   158      -6.523   2.081  18.248  1.00 11.17      1TPO1116
+ATOM   1009  CA  LEU   158      -6.550   2.250  16.774  1.00 11.17      1TPO1117
+ATOM   1010  C   LEU   158      -5.488   1.287  16.316  1.00 11.17      1TPO1118
+ATOM   1011  O   LEU   158      -4.323   1.510  16.696  1.00 11.17      1TPO1119
+ATOM   1012  CB  LEU   158      -6.148   3.702  16.390  1.00 11.17      1TPO1120
+ATOM   1013  CG  LEU   158      -6.093   4.024  14.865  1.00 17.15      1TPO1121
+ATOM   1014  CD1 LEU   158      -7.335   3.554  14.060  1.00 17.15      1TPO1122
+ATOM   1015  CD2 LEU   158      -5.683   5.482  14.567  1.00 17.15      1TPO1123
+ATOM   1016  N   LYS   159      -5.805    .418  15.389  1.00 16.72      1TPO1124
+ATOM   1017  CA  LYS   159      -4.723   -.220  14.596  1.00 16.72      1TPO1125
+ATOM   1018  C   LYS   159      -4.380    .568  13.343  1.00 16.72      1TPO1126
+ATOM   1019  O   LYS   159      -5.297    .983  12.591  1.00 16.72      1TPO1127
+ATOM   1020  CB  LYS   159      -5.153  -1.619  14.156  1.00 16.72      1TPO1128
+ATOM   1021  CG  LYS   159      -5.380  -2.443  15.442  1.00 19.60      1TPO1129
+ATOM   1022  CD  LYS   159      -5.922  -3.832  15.058  1.00 19.60      1TPO1130
+ATOM   1023  CE  LYS   159      -5.971  -4.759  16.296  1.00 19.60      1TPO1131
+ATOM   1024  NZ  LYS   159      -6.301  -6.120  15.808  1.00 19.60      1TPO1132
+ATOM   1025  N   ALA   160      -3.116    .766  13.132  1.00 17.52      1TPO1133
+ATOM   1026  CA  ALA   160      -2.691   1.599  11.997  1.00 17.52      1TPO1134
+ATOM   1027  C   ALA   160      -1.342   1.132  11.477  1.00 17.52      1TPO1135
+ATOM   1028  O   ALA   160       -.491    .711  12.291  1.00 17.52      1TPO1136
+ATOM   1029  CB  ALA   160      -2.549   3.017  12.568  1.00 17.52      1TPO1137
+ATOM   1030  N   PRO   161      -1.093   1.234  10.195  1.00 15.24      1TPO1138
+ATOM   1031  CA  PRO   161        .214    .848   9.630  1.00 15.24      1TPO1139
+ATOM   1032  C   PRO   161       1.293   1.924   9.792  1.00 15.24      1TPO1140
+ATOM   1033  O   PRO   161        .999   3.123   9.576  1.00 15.24      1TPO1141
+ATOM   1034  CB  PRO   161       -.055    .636   8.118  1.00 15.24      1TPO1142
+ATOM   1035  CG  PRO   161      -1.365   1.393   7.786  1.00 18.72      1TPO1143
+ATOM   1036  CD  PRO   161      -2.047   1.700   9.152  1.00 18.72      1TPO1144
+ATOM   1037  N   ILE   162       2.525   1.559   9.886  1.00 16.07      1TPO1145
+ATOM   1038  CA  ILE   162       3.613   2.508   9.648  1.00 16.07      1TPO1146
+ATOM   1039  C   ILE   162       3.704   2.820   8.147  1.00 16.07      1TPO1147
+ATOM   1040  O   ILE   162       3.750   1.883   7.310  1.00 16.07      1TPO1148
+ATOM   1041  CB  ILE   162       4.969   1.975  10.199  1.00 16.07      1TPO1149
+ATOM   1042  CG1 ILE   162       4.867   1.654  11.707  1.00 15.46      1TPO1150
+ATOM   1043  CG2 ILE   162       6.171   2.935   9.987  1.00 15.46      1TPO1151
+ATOM   1044  CD1 ILE   162       6.155    .994  12.218  1.00 15.46      1TPO1152
+ATOM   1045  N   LEU   163       3.669   4.098   7.783  1.00 15.67      1TPO1153
+ATOM   1046  CA  LEU   163       3.842   4.558   6.404  1.00 15.67      1TPO1154
+ATOM   1047  C   LEU   163       5.294   4.652   6.003  1.00 15.67      1TPO1155
+ATOM   1048  O   LEU   163       6.205   4.814   6.865  1.00 15.67      1TPO1156
+ATOM   1049  CB  LEU   163       3.252   5.981   6.282  1.00 15.67      1TPO1157
+ATOM   1050  CG  LEU   163       1.730   5.915   6.571  1.00 19.13      1TPO1158
+ATOM   1051  CD1 LEU   163       1.131   7.311   6.683  1.00 19.13      1TPO1159
+ATOM   1052  CD2 LEU   163        .968   5.170   5.476  1.00 19.13      1TPO1160
+ATOM   1053  N   SER   164       5.538   4.654   4.729  1.00 19.72      1TPO1161
+ATOM   1054  CA  SER   164       6.899   4.862   4.298  1.00 19.72      1TPO1162
+ATOM   1055  C   SER   164       7.430   6.274   4.577  1.00 19.72      1TPO1163
+ATOM   1056  O   SER   164       6.657   7.254   4.766  1.00 19.72      1TPO1164
+ATOM   1057  CB  SER   164       6.959   4.669   2.783  1.00 19.72      1TPO1165
+ATOM   1058  OG  SER   164       6.192   5.720   2.190  1.00 25.07      1TPO1166
+ATOM   1059  N   ASP   165       8.735   6.352   4.706  1.00 20.94      1TPOC  8
+ATOM   1060  CA  ASP   165       9.384   7.617   5.002  1.00 20.94      1TPOC  9
+ATOM   1061  C   ASP   165       9.175   8.610   3.881  1.00 20.94      1TPOC 10
+ATOM   1062  O   ASP   165       8.963   9.812   4.159  1.00 20.94      1TPOC 11
+ATOM   1063  CB  ASP   165      10.876   7.299   5.158  1.00 20.94      1TPOC 12
+ATOM   1064  CG  ASP   165      11.739   8.536   4.955  0.00  0.00   1  1TPOC 13
+ATOM   1065  OD1 ASP   165      12.459   8.914   5.912  0.00  0.00   1  1TPOC 14
+ATOM   1066  OD2 ASP   165      12.065   8.746   3.694  0.00  0.00   1  1TPOC 15
+ATOM   1067  N   SER   166       8.937   8.096   2.694  1.00 21.12      1TPO1175
+ATOM   1068  CA  SER   166       8.667   8.904   1.486  1.00 21.12      1TPO1176
+ATOM   1069  C   SER   166       7.313   9.587   1.536  1.00 21.12      1TPO1177
+ATOM   1070  O   SER   166       7.213  10.797   1.221  1.00 21.12      1TPO1178
+ATOM   1071  CB  SER   166       8.744   7.993    .217  1.00 21.12      1TPO1179
+ATOM   1072  OG  SER   166      10.018   7.338    .174  0.00  0.00   1  1TPO1180
+ATOM   1073  N   SER   167       6.334   8.822   1.918  1.00 18.38      1TPO1181
+ATOM   1074  CA  SER   167       4.962   9.259   2.079  1.00 18.38      1TPO1182
+ATOM   1075  C   SER   167       4.871  10.196   3.279  1.00 18.38      1TPO1183
+ATOM   1076  O   SER   167       4.279  11.295   3.180  1.00 18.38      1TPO1184
+ATOM   1077  CB  SER   167       3.963   8.067   2.238  1.00 18.38      1TPO1185
+ATOM   1078  OG  SER   167       4.228   7.353   3.450  0.00  0.00   1  1TPO1186
+ATOM   1079  N   CYS   168       5.670   9.927   4.278  1.00 15.87      1TPO1187
+ATOM   1080  CA  CYS   168       5.726  10.834   5.423  1.00 15.87      1TPO1188
+ATOM   1081  C   CYS   168       6.312  12.236   5.124  1.00 15.87      1TPO1189
+ATOM   1082  O   CYS   168       5.743  13.282   5.543  1.00 15.87      1TPO1190
+ATOM   1083  CB  CYS   168       6.497  10.099   6.550  1.00 15.87      1TPO1191
+ATOM   1084  SG  CYS   168       6.400  10.882   8.203  1.00 17.52      1TPO1192
+ATOM   1085  N   LYS   169       7.483  12.273   4.562  1.00 18.54      1TPO1193
+ATOM   1086  CA  LYS   169       8.204  13.465   4.192  1.00 18.54      1TPO1194
+ATOM   1087  C   LYS   169       7.401  14.206   3.146  1.00 18.54      1TPO1195
+ATOM   1088  O   LYS   169       7.446  15.456   3.102  1.00 18.54      1TPO1196
+ATOM   1089  CB  LYS   169       9.628  13.133   3.611  1.00 18.54      1TPO1197
+ATOM   1090  CG  LYS   169      10.572  12.605   4.694  1.00 16.59      1TPO1198
+ATOM   1091  CD  LYS   169      12.077  12.539   4.368  1.00 16.59      1TPO1199
+ATOM   1092  CE  LYS   169      12.933  12.027   5.540  0.00  0.00   1  1TPO1200
+ATOM   1093  NZ  LYS   169      12.812  12.911   6.701  0.00  0.00   1  1TPO1201
+ATOM   1094  N   SER   170       6.612  13.515   2.395  1.00 18.47      1TPO1202
+ATOM   1095  CA  SER   170       5.883  14.195   1.388  1.00 18.47      1TPO1203
+ATOM   1096  C   SER   170       4.559  14.762   1.856  1.00 18.47      1TPO1204
+ATOM   1097  O   SER   170       4.215  15.906   1.452  1.00 18.47      1TPO1205
+ATOM   1098  CB  SER   170       5.706  13.229    .191  1.00 18.47      1TPO1206
+ATOM   1099  OG  SER   170       4.782  12.195    .546  0.00  0.00   1  1TPO1207
+ATOM   1100  N   ALA   171       4.100  14.252   2.973  1.00 18.29      1TPO1208
+ATOM   1101  CA  ALA   171       2.993  14.911   3.699  1.00 18.29      1TPO1209
+ATOM   1102  C   ALA   171       3.497  16.086   4.518  1.00 18.29      1TPO1210
+ATOM   1103  O   ALA   171       2.682  16.958   4.852  1.00 18.29      1TPO1211
+ATOM   1104  CB  ALA   171       2.268  13.969   4.673  1.00 18.29      1TPO1212
+ATOM   1105  N   TYR   172       4.703  16.042   4.998  1.00 13.89      1TPO1213
+ATOM   1106  CA  TYR   172       5.185  17.071   5.963  1.00 13.89      1TPO1214
+ATOM   1107  C   TYR   172       6.541  17.573   5.517  1.00 13.89      1TPO1215
+ATOM   1108  O   TYR   172       7.564  17.319   6.214  1.00 13.89      1TPO1216
+ATOM   1109  CB  TYR   172       5.403  16.485   7.365  1.00 13.89      1TPO1217
+ATOM   1110  CG  TYR   172       4.054  16.143   8.010  1.00 12.69      1TPO1218
+ATOM   1111  CD1 TYR   172       3.613  14.840   8.146  1.00 12.69      1TPO1219
+ATOM   1112  CD2 TYR   172       3.259  17.193   8.426  1.00 12.69      1TPO1220
+ATOM   1113  CE1 TYR   172       2.398  14.596   8.777  1.00 12.69      1TPO1221
+ATOM   1114  CE2 TYR   172       2.051  16.951   9.031  1.00 12.69      1TPO1222
+ATOM   1115  CZ  TYR   172       1.655  15.652   9.255  1.00 12.69      1TPO1223
+ATOM   1116  OH  TYR   172        .504  15.444  10.047  1.00 12.69      1TPO1224
+ATOM   1117  N   PRO   173       6.578  18.189   4.317  1.00 19.90      1TPO1225
+ATOM   1118  CA  PRO   173       7.826  18.637   3.745  1.00 19.90      1TPO1226
+ATOM   1119  C   PRO   173       8.649  19.477   4.724  1.00 19.90      1TPO1227
+ATOM   1120  O   PRO   173       8.046  20.399   5.319  1.00 19.90      1TPO1228
+ATOM   1121  CB  PRO   173       7.457  19.465   2.489  1.00 19.90      1TPO1229
+ATOM   1122  CG  PRO   173       5.950  19.459   2.322  1.00 20.32      1TPO1230
+ATOM   1123  CD  PRO   173       5.413  18.604   3.469  1.00 20.32      1TPO1231
+ATOM   1124  N   GLY   174       9.938  19.171   4.878  1.00 23.84      1TPO1232
+ATOM   1125  CA  GLY   174      10.810  19.994   5.726  1.00 23.84      1TPO1233
+ATOM   1126  C   GLY   174      10.772  19.709   7.230  1.00 23.84      1TPO1234
+ATOM   1127  O   GLY   174      11.434  20.460   7.990  1.00 23.84      1TPO1235
+ATOM   1128  N   GLN   175       9.800  18.918   7.668  1.00 13.74      1TPO1236
+ATOM   1129  CA  GLN   175       9.559  18.736   9.085  1.00 13.74      1TPO1237
+ATOM   1130  C   GLN   175       9.895  17.341   9.520  1.00 13.74      1TPO1238
+ATOM   1131  O   GLN   175      10.036  17.132  10.739  1.00 13.74      1TPO1239
+ATOM   1132  CB  GLN   175       8.091  19.032   9.410  1.00 13.74      1TPO1240
+ATOM   1133  CG  GLN   175       7.710  20.478   8.920  1.00 21.44      1TPO1241
+ATOM   1134  CD  GLN   175       6.244  20.629   8.521  1.00 21.44      1TPO1242
+ATOM   1135  OE1 GLN   175       5.906  20.555   7.296  1.00 21.44      1TPO1243
+ATOM   1136  NE2 GLN   175       5.385  20.582   9.489  1.00 21.44      1TPO1244
+ATOM   1137  N   ILE   176      10.068  16.363   8.653  1.00 14.45      1TPO1245
+ATOM   1138  CA  ILE   176      10.350  15.049   9.275  1.00 14.45      1TPO1246
+ATOM   1139  C   ILE   176      11.823  14.719   9.493  1.00 14.45      1TPO1247
+ATOM   1140  O   ILE   176      12.655  14.933   8.583  1.00 14.45      1TPO1248
+ATOM   1141  CB  ILE   176       9.752  13.923   8.488  1.00 14.45      1TPO1249
+ATOM   1142  CG1 ILE   176       8.246  14.178   8.325  1.00 12.14      1TPO1250
+ATOM   1143  CG2 ILE   176      10.091  12.536   9.087  1.00 12.14      1TPO1251
+ATOM   1144  CD1 ILE   176       7.418  14.178   9.627  1.00 12.14      1TPO1252
+ATOM   1145  N   THR   177      12.245  14.367  10.690  1.00 11.63      1TPO1253
+ATOM   1146  CA  THR   177      13.653  14.000  10.916  1.00 11.63      1TPO1254
+ATOM   1147  C   THR   177      13.801  12.476  10.963  1.00 11.63      1TPO1255
+ATOM   1148  O   THR   177      12.781  11.734  10.936  1.00 11.63      1TPO1256
+ATOM   1149  CB  THR   177      14.152  14.586  12.245  1.00 11.63      1TPO1257
+ATOM   1150  OG1 THR   177      13.687  13.828  13.407  1.00 11.72      1TPO1258
+ATOM   1151  CG2 THR   177      13.816  16.079  12.407  1.00 11.72      1TPO1259
+ATOM   1152  N   SER   178      14.983  12.017  11.130  1.00 14.61      1TPO1260
+ATOM   1153  CA  SER   178      15.261  10.601  11.275  1.00 14.61      1TPO1261
+ATOM   1154  C   SER   178      14.624   9.964  12.514  1.00 14.61      1TPO1262
+ATOM   1155  O   SER   178      14.711   8.726  12.691  1.00 14.61      1TPO1263
+ATOM   1156  CB  SER   178      16.800  10.485  11.452  1.00 14.61      1TPO1264
+ATOM   1157  OG  SER   178      17.151  11.015  12.740  0.00  0.00   1  1TPO1265
+ATOM   1158  N   ASN   179      14.242  10.793  13.494  1.00 12.17      1TPO1266
+ATOM   1159  CA  ASN   179      13.794  10.276  14.753  1.00 12.17      1TPO1267
+ATOM   1160  C   ASN   179      12.301  10.322  14.794  1.00 12.17      1TPO1268
+ATOM   1161  O   ASN   179      11.718  10.128  15.888  1.00 12.17      1TPO1269
+ATOM   1162  CB  ASN   179      14.297  11.160  15.868  1.00 12.17      1TPO1270
+ATOM   1163  CG  ASN   179      15.809  11.146  15.794  1.00 22.11      1TPO1271
+ATOM   1164  OD1 ASN   179      16.377  10.043  15.907  1.00 22.11      1TPO1272
+ATOM   1165  ND2 ASN   179      16.405  12.317  15.946  1.00 22.11      1TPO1273
+ATOM   1166  N   MET   180      11.699  10.436  13.632  1.00 13.29      1TPO1274
+ATOM   1167  CA  MET   180      10.228  10.416  13.560  1.00 13.29      1TPO1275
+ATOM   1168  C   MET   180       9.775   9.313  12.606  1.00 13.29      1TPO1276
+ATOM   1169  O   MET   180      10.435   9.124  11.536  1.00 13.29      1TPO1277
+ATOM   1170  CB  MET   180       9.720  11.756  13.007  1.00 13.29      1TPO1278
+ATOM   1171  CG  MET   180      10.146  12.909  13.911  1.00 10.21      1TPO1279
+ATOM   1172  SD  MET   180       9.713  14.518  13.252  1.00 10.21      1TPO1280
+ATOM   1173  CE  MET   180      10.518  15.560  14.480  1.00 10.21      1TPO1281
+ATOM   1174  N   PHE   181       8.536   8.962  12.760  1.00 14.77      1TPO1282
+ATOM   1175  CA  PHE   181       7.871   8.243  11.661  1.00 14.77      1TPO1283
+ATOM   1176  C   PHE   181       6.400   8.620  11.575  1.00 14.77      1TPO1284
+ATOM   1177  O   PHE   181       5.820   9.046  12.597  1.00 14.77      1TPO1285
+ATOM   1178  CB  PHE   181       8.084   6.695  11.739  1.00 14.77      1TPO1286
+ATOM   1179  CG  PHE   181       7.403   5.990  12.939  1.00 12.51      1TPO1287
+ATOM   1180  CD1 PHE   181       6.095   5.568  12.840  1.00 12.51      1TPO1288
+ATOM   1181  CD2 PHE   181       8.132   5.719  14.074  1.00 12.51      1TPO1289
+ATOM   1182  CE1 PHE   181       5.490   4.904  13.882  1.00 12.51      1TPO1290
+ATOM   1183  CE2 PHE   181       7.528   5.038  15.116  1.00 12.51      1TPO1291
+ATOM   1184  CZ  PHE   181       6.218   4.637  15.027  1.00 12.51      1TPO1292
+ATOM   1185  N   CYS   182       5.778   8.320  10.414  1.00 11.94      1TPO1293
+ATOM   1186  CA  CYS   182       4.353   8.522  10.254  1.00 11.94      1TPO1294
+ATOM   1187  C   CYS   182       3.653   7.194  10.407  1.00 11.94      1TPO1295
+ATOM   1188  O   CYS   182       4.204   6.162   9.988  1.00 11.94      1TPO1296
+ATOM   1189  CB  CYS   182       3.978   9.176   8.909  1.00 11.94      1TPO1297
+ATOM   1190  SG  CYS   182       4.475  10.917   8.696  1.00 15.45      1TPO1298
+ATOM   1191  N   ALA   183       2.414   7.236  10.808  1.00 15.17      1TPO1299
+ATOM   1192  CA  ALA   183       1.600   6.018  10.826  1.00 15.17      1TPO1300
+ATOM   1193  C   ALA   183        .145   6.432  10.786  1.00 15.17      1TPO1301
+ATOM   1194  O   ALA   183       -.175   7.531  11.313  1.00 15.17      1TPO1302
+ATOM   1195  CB  ALA   183       1.899   5.126  12.042  1.00 15.17      1TPO1303
+ATOM   1196  N   GLY   184A      -.646   5.684  10.049  1.00 12.84      1TPO1304
+ATOM   1197  CA  GLY   184A     -2.029   6.027   9.907  1.00 12.84      1TPO1305
+ATOM   1198  C   GLY   184A     -2.390   5.951   8.449  1.00 12.84      1TPO1306
+ATOM   1199  O   GLY   184A     -2.009   4.936   7.823  1.00 12.84      1TPO1307
+ATOM   1200  N   TYR   184      -3.335   6.750   8.081  1.00 19.54      1TPO1308
+ATOM   1201  CA  TYR   184      -4.054   6.672   6.806  1.00 19.54      1TPO1309
+ATOM   1202  C   TYR   184      -4.031   8.052   6.144  1.00 19.54      1TPO1310
+ATOM   1203  O   TYR   184      -4.575   9.042   6.691  1.00 19.54      1TPO1311
+ATOM   1204  CB  TYR   184      -5.529   6.270   7.088  1.00 19.54      1TPO1312
+ATOM   1205  CG  TYR   184      -5.668   4.934   7.857  1.00 21.95      1TPO1313
+ATOM   1206  CD1 TYR   184      -5.646   4.891   9.243  1.00 21.95      1TPO1314
+ATOM   1207  CD2 TYR   184      -5.707   3.762   7.145  1.00 21.95      1TPO1315
+ATOM   1208  CE1 TYR   184      -5.637   3.665   9.913  1.00 21.95      1TPO1316
+ATOM   1209  CE2 TYR   184      -5.719   2.533   7.800  1.00 21.95      1TPO1317
+ATOM   1210  CZ  TYR   184      -5.654   2.487   9.179  1.00 21.95      1TPO1318
+ATOM   1211  OH  TYR   184      -5.702   1.208   9.830  1.00 21.95      1TPO1319
+ATOM   1212  N   LEU   185      -3.491   8.136   4.963  1.00 21.74      1TPO1320
+ATOM   1213  CA  LEU   185      -3.429   9.376   4.165  1.00 21.74      1TPO1321
+ATOM   1214  C   LEU   185      -4.814   9.858   3.736  1.00 21.74      1TPO1322
+ATOM   1215  O   LEU   185      -5.057  11.082   3.537  1.00 21.74      1TPO1323
+ATOM   1216  CB  LEU   185      -2.601   9.060   2.906  1.00 21.74      1TPO1324
+ATOM   1217  CG  LEU   185      -1.099   8.854   3.156  1.00 14.71      1TPO1325
+ATOM   1218  CD1 LEU   185       -.365   8.377   1.889  0.00  0.00   1  1TPO1326
+ATOM   1219  CD2 LEU   185       -.441  10.114   3.750  0.00  0.00   1  1TPO1327
+ATOM   1220  N   GLU   186      -5.765   8.945   3.736  1.00 22.88      1TPOC 16
+ATOM   1221  CA  GLU   186      -7.183   9.232   3.458  1.00 22.88      1TPOC 17
+ATOM   1222  C   GLU   186      -7.863   9.927   4.641  1.00 22.88      1TPOC 18
+ATOM   1223  O   GLU   186      -8.916  10.604   4.492  1.00 22.88      1TPOC 19
+ATOM   1224  CB  GLU   186      -7.839   7.864   3.215  1.00 22.88      1TPOC 20
+ATOM   1225  CG  GLU   186      -9.294   7.979   2.760  1.00 40.25      1TPOC 21
+ATOM   1226  CD  GLU   186      -9.743   6.651   2.137  1.00 40.25      1TPOC 22
+ATOM   1227  OE1 GLU   186      -9.065   6.128   1.217  0.00  0.00   1  1TPOC 23
+ATOM   1228  OE2 GLU   186     -10.940   6.236   2.501  0.00  0.00   1  1TPOC 24
+ATOM   1229  N   GLY   187      -7.194   9.874   5.787  1.00 25.80      1TPO1337
+ATOM   1230  CA  GLY   187      -7.715  10.526   7.027  1.00 25.80      1TPO1338
+ATOM   1231  C   GLY   187      -8.756   9.661   7.746  1.00 25.80      1TPO1339
+ATOM   1232  O   GLY   187      -8.917   8.468   7.393  1.00 25.80      1TPO1340
+ATOM   1233  N   GLY   188A     -9.545  10.264   8.634  1.00 20.42      1TPO1341
+ATOM   1234  CA  GLY   188A    -10.636   9.548   9.310  1.00 20.42      1TPO1342
+ATOM   1235  C   GLY   188A    -10.279   8.864  10.636  1.00 20.42      1TPO1343
+ATOM   1236  O   GLY   188A    -11.190   8.531  11.424  1.00 20.42      1TPO1344
+ATOM   1237  N   LYS   188      -9.037   8.470  10.759  1.00 19.51      1TPO1345
+ATOM   1238  CA  LYS   188      -8.499   7.638  11.861  1.00 19.51      1TPO1346
+ATOM   1239  C   LYS   188      -7.115   8.149  12.238  1.00 19.51      1TPO1347
+ATOM   1240  O   LYS   188      -6.198   8.172  11.380  1.00 19.51      1TPO1348
+ATOM   1241  CB  LYS   188      -8.321   6.154  11.419  1.00 19.51      1TPO1349
+ATOM   1242  CG  LYS   188      -9.601   5.438  10.906  1.00 20.83      1TPO1350
+ATOM   1243  CD  LYS   188      -9.366   3.909  10.779  1.00 20.83      1TPO1351
+ATOM   1244  CE  LYS   188     -10.617   3.149  10.306  0.00  0.00   1  1TPO1352
+ATOM   1245  NZ  LYS   188     -10.321   1.713  10.232  0.00  0.00   1  1TPO1353
+ATOM   1246  N   ASP   189      -6.913   8.512  13.479  1.00 16.28      1TPO1354
+ATOM   1247  CA  ASP   189      -5.611   9.004  13.870  1.00 16.28      1TPO1355
+ATOM   1248  C   ASP   189      -5.522   9.061  15.401  1.00 16.28      1TPO1356
+ATOM   1249  O   ASP   189      -6.569   9.075  16.069  1.00 16.28      1TPO1357
+ATOM   1250  CB  ASP   189      -5.629  10.454  13.312  1.00 16.28      1TPO1358
+ATOM   1251  CG  ASP   189      -4.288  11.118  13.080  1.00 14.16      1TPO1359
+ATOM   1252  OD1 ASP   189      -4.318  12.328  12.780  1.00 14.16      1TPO1360
+ATOM   1253  OD2 ASP   189      -3.205  10.667  13.499  1.00 14.16      1TPO1361
+ATOM   1254  N   SER   190      -4.419   9.455  15.916  1.00 13.13      1TPO1362
+ATOM   1255  CA  SER   190      -4.375   9.987  17.266  1.00 13.13      1TPO1363
+ATOM   1256  C   SER   190      -4.705  11.496  17.330  1.00 13.13      1TPO1364
+ATOM   1257  O   SER   190      -4.770  12.232  16.291  1.00 13.13      1TPO1365
+ATOM   1258  CB  SER   190      -3.000   9.668  17.847  1.00 13.13      1TPO1366
+ATOM   1259  OG  SER   190      -1.987  10.326  17.052  1.00 17.26      1TPO1367
+ATOM   1260  N   CYS   191      -4.961  11.977  18.529  1.00 15.88      1TPO1368
+ATOM   1261  CA  CYS   191      -5.418  13.370  18.658  1.00 15.88      1TPO1369
+ATOM   1262  C   CYS   191      -4.988  14.015  19.981  1.00 15.88      1TPO1370
+ATOM   1263  O   CYS   191      -4.248  13.379  20.772  1.00 15.88      1TPO1371
+ATOM   1264  CB  CYS   191      -6.942  13.414  18.424  1.00 15.88      1TPO1372
+ATOM   1265  SG  CYS   191      -7.653  15.026  17.877  1.00 20.93      1TPO1373
+ATOM   1266  N   GLN   192      -5.390  15.249  20.267  1.00 15.09      1TPO1374
+ATOM   1267  CA  GLN   192      -5.025  15.953  21.508  1.00 15.09      1TPO1375
+ATOM   1268  C   GLN   192      -5.442  15.115  22.722  1.00 15.09      1TPO1376
+ATOM   1269  O   GLN   192      -6.594  14.636  22.816  1.00 15.09      1TPO1377
+ATOM   1270  CB  GLN   192      -5.871  17.273  21.505  1.00 15.09      1TPO1378
+ATOM   1271  CG  GLN   192      -5.642  18.098  20.190  1.00 27.68      1TPO1379
+ATOM   1272  CD  GLN   192      -6.936  18.244  19.362  1.00 27.68      1TPO1380
+ATOM   1273  OE1 GLN   192      -6.849  18.480  18.132  0.00  0.00   1  1TPO1381
+ATOM   1274  NE2 GLN   192      -7.994  18.552  20.086  0.00  0.00   1  1TPO1382
+ATOM   1275  N   GLY   193      -4.513  14.944  23.590  1.00 12.82      1TPO1383
+ATOM   1276  CA  GLY   193      -4.644  14.165  24.818  1.00 12.82      1TPO1384
+ATOM   1277  C   GLY   193      -4.060  12.775  24.669  1.00 12.82      1TPO1385
+ATOM   1278  O   GLY   193      -3.911  12.051  25.686  1.00 12.82      1TPO1386
+ATOM   1279  N   ASP   194      -3.796  12.350  23.445  1.00 11.50      1TPO1387
+ATOM   1280  CA  ASP   194      -3.208  11.013  23.177  1.00 11.50      1TPO1388
+ATOM   1281  C   ASP   194      -1.705  11.120  23.245  1.00 11.50      1TPO1389
+ATOM   1282  O   ASP   194      -1.026  10.082  23.429  1.00 11.50      1TPO1390
+ATOM   1283  CB  ASP   194      -3.470  10.545  21.732  1.00 11.50      1TPO1391
+ATOM   1284  CG  ASP   194      -4.878  10.022  21.610  1.00 11.13      1TPO1392
+ATOM   1285  OD1 ASP   194      -5.587  10.378  20.641  1.00 11.13      1TPO1393
+ATOM   1286  OD2 ASP   194      -5.422   9.675  22.672  1.00 11.13      1TPO1394
+ATOM   1287  N   SER   195      -1.173  12.328  23.242  1.00 11.81      1TPO1395
+ATOM   1288  CA  SER   195        .330  12.527  23.242  1.00 11.81      1TPO1396
+ATOM   1289  C   SER   195       1.061  11.755  24.337  1.00 11.81      1TPO1397
+ATOM   1290  O   SER   195        .618  11.840  25.500  1.00 11.81      1TPO1398
+ATOM   1291  CB  SER   195        .650  13.996  23.567  1.00 11.81      1TPO1399
+ATOM   1292  OG  SER   195        .416  14.764  22.413  1.00 23.79      1TPO1400
+ATOM   1293  N   GLY   196       2.280  11.374  24.096  1.00  9.44      1TPO1401
+ATOM   1294  CA  GLY   196       3.098  10.599  25.055  1.00  9.44      1TPO1402
+ATOM   1295  C   GLY   196       2.676   9.133  25.110  1.00  9.44      1TPO1403
+ATOM   1296  O   GLY   196       3.456   8.305  25.599  1.00  9.44      1TPO1404
+ATOM   1297  N   GLY   197       1.539   8.755  24.537  1.00 13.65      1TPO1405
+ATOM   1298  CA  GLY   197       1.069   7.343  24.543  1.00 13.65      1TPO1406
+ATOM   1299  C   GLY   197       1.815   6.392  23.598  1.00 13.65      1TPO1407
+ATOM   1300  O   GLY   197       2.714   6.786  22.811  1.00 13.65      1TPO1408
+ATOM   1301  N   PRO   198       1.543   5.129  23.735  1.00 15.92      1TPO1409
+ATOM   1302  CA  PRO   198       2.317   4.065  23.027  1.00 15.92      1TPO1410
+ATOM   1303  C   PRO   198       1.910   3.830  21.567  1.00 15.92      1TPO1411
+ATOM   1304  O   PRO   198        .706   3.769  21.262  1.00 15.92      1TPO1412
+ATOM   1305  CB  PRO   198       1.973   2.757  23.780  1.00 15.92      1TPO1413
+ATOM   1306  CG  PRO   198        .792   3.054  24.709  1.00 11.79      1TPO1414
+ATOM   1307  CD  PRO   198        .562   4.586  24.675  1.00 11.79      1TPO1415
+ATOM   1308  N   VAL   199       2.850   3.439  20.773  1.00 13.47      1TPO1416
+ATOM   1309  CA  VAL   199       2.569   2.781  19.514  1.00 13.47      1TPO1417
+ATOM   1310  C   VAL   199       3.329   1.461  19.518  1.00 13.47      1TPO1418
+ATOM   1311  O   VAL   199       4.575   1.458  19.679  1.00 13.47      1TPO1419
+ATOM   1312  CB  VAL   199       2.964   3.582  18.237  1.00 13.47      1TPO1420
+ATOM   1313  CG1 VAL   199       2.534   2.879  16.917  1.00  6.51      1TPO1421
+ATOM   1314  CG2 VAL   199       2.609   5.071  18.284  1.00  6.51      1TPO1422
+ATOM   1315  N   VAL   200       2.599    .377  19.601  1.00 12.49      1TPO1423
+ATOM   1316  CA  VAL   200       3.241   -.923  19.890  1.00 12.49      1TPO1424
+ATOM   1317  C   VAL   200       3.080  -1.811  18.700  1.00 12.49      1TPO1425
+ATOM   1318  O   VAL   200       1.940  -1.873  18.226  1.00 12.49      1TPO1426
+ATOM   1319  CB  VAL   200       2.458  -1.590  21.020  1.00 12.49      1TPO1427
+ATOM   1320  CG1 VAL   200       2.752  -3.112  21.244  1.00  9.58      1TPO1428
+ATOM   1321  CG2 VAL   200       2.788   -.779  22.279  1.00  9.58      1TPO1429
+ATOM   1322  N   CYS   201       4.143  -2.357  18.193  1.00 13.82      1TPO1430
+ATOM   1323  CA  CYS   201       4.082  -3.213  17.021  1.00 13.82      1TPO1431
+ATOM   1324  C   CYS   201       4.725  -4.525  17.349  1.00 13.82      1TPO1432
+ATOM   1325  O   CYS   201       5.891  -4.518  17.807  1.00 13.82      1TPO1433
+ATOM   1326  CB  CYS   201       4.877  -2.553  15.873  1.00 13.82      1TPO1434
+ATOM   1327  SG  CYS   201       4.635   -.758  15.715  1.00 16.55      1TPO1435
+ATOM   1328  N   SER   202       4.066  -5.583  16.954  1.00 19.02      1TPO1436
+ATOM   1329  CA  SER   202       4.604  -6.903  17.311  1.00 19.02      1TPO1437
+ATOM   1330  C   SER   202       5.039  -7.031  18.773  1.00 19.02      1TPO1438
+ATOM   1331  O   SER   202       6.113  -7.606  19.033  1.00 19.02      1TPO1439
+ATOM   1332  CB  SER   202       5.824  -7.285  16.439  1.00 19.02      1TPO1440
+ATOM   1333  OG  SER   202       5.605  -7.040  15.015  1.00 29.86      1TPO1441
+ATOM   1334  N   GLY   203       4.262  -6.534  19.675  1.00 16.85      1TPO1442
+ATOM   1335  CA  GLY   203       4.552  -6.656  21.101  1.00 16.85      1TPO1443
+ATOM   1336  C   GLY   203       5.737  -5.817  21.555  1.00 16.85      1TPO1444
+ATOM   1337  O   GLY   203       6.197  -5.963  22.722  1.00 16.85      1TPO1445
+ATOM   1338  N   LYS   204       6.214  -4.892  20.753  1.00 13.90      1TPO1446
+ATOM   1339  CA  LYS   204       7.295  -4.008  21.278  1.00 13.90      1TPO1447
+ATOM   1340  C   LYS   204       6.857  -2.550  21.230  1.00 13.90      1TPO1448
+ATOM   1341  O   LYS   204       6.206  -2.191  20.217  1.00 13.90      1TPO1449
+ATOM   1342  CB  LYS   204       8.568  -4.058  20.407  1.00 13.90      1TPO1450
+ATOM   1343  CG  LYS   204       9.215  -5.485  20.365  1.00 27.38      1TPO1451
+ATOM   1344  CD  LYS   204       9.735  -6.032  21.733  1.00 27.38      1TPO1452
+ATOM   1345  CE  LYS   204      10.526  -7.388  21.631  1.00 27.38      1TPO1453
+ATOM   1346  NZ  LYS   204      11.203  -7.696  22.895  0.00  0.00   1  1TPO1454
+ATOM   1347  N   LEU   209       7.431  -1.709  22.093  1.00 14.78      1TPO1455
+ATOM   1348  CA  LEU   209       7.199   -.260  21.964  1.00 14.78      1TPO1456
+ATOM   1349  C   LEU   209       7.982    .358  20.786  1.00 14.78      1TPO1457
+ATOM   1350  O   LEU   209       9.231    .500  20.852  1.00 14.78      1TPO1458
+ATOM   1351  CB  LEU   209       7.507    .430  23.311  1.00 14.78      1TPO1459
+ATOM   1352  CG  LEU   209       7.173   1.947  23.344  1.00  9.58      1TPO1460
+ATOM   1353  CD1 LEU   209       5.677   2.232  23.256  1.00  9.58      1TPO1461
+ATOM   1354  CD2 LEU   209       7.795   2.534  24.632  1.00  9.58      1TPO1462
+ATOM   1355  N   GLN   210       7.320    .703  19.704  1.00 13.05      1TPO1463
+ATOM   1356  CA  GLN   210       8.013   1.345  18.552  1.00 13.05      1TPO1464
+ATOM   1357  C   GLN   210       7.825   2.861  18.460  1.00 13.05      1TPO1465
+ATOM   1358  O   GLN   210       8.725   3.533  17.880  1.00 13.05      1TPO1466
+ATOM   1359  CB  GLN   210       7.676    .726  17.160  1.00 13.05      1TPO1467
+ATOM   1360  CG  GLN   210       8.164   -.725  16.999  1.00 14.91      1TPO1468
+ATOM   1361  CD  GLN   210       9.683   -.880  16.901  1.00 14.91      1TPO1469
+ATOM   1362  OE1 GLN   210      10.136  -2.040  16.795  1.00 14.91      1TPO1470
+ATOM   1363  NE2 GLN   210      10.340    .086  16.359  1.00 14.91      1TPO1471
+ATOM   1364  N   GLY   211       6.710   3.358  19.007  1.00 11.71      1TPO1472
+ATOM   1365  CA  GLY   211       6.465   4.788  18.867  1.00 11.71      1TPO1473
+ATOM   1366  C   GLY   211       6.042   5.463  20.154  1.00 11.71      1TPO1474
+ATOM   1367  O   GLY   211       5.361   4.810  20.976  1.00 11.71      1TPO1475
+ATOM   1368  N   ILE   212       6.031   6.773  20.104  1.00 13.07      1TPO1476
+ATOM   1369  CA  ILE   212       5.361   7.627  21.087  1.00 13.07      1TPO1477
+ATOM   1370  C   ILE   212       4.522   8.662  20.360  1.00 13.07      1TPO1478
+ATOM   1371  O   ILE   212       5.010   9.288  19.393  1.00 13.07      1TPO1479
+ATOM   1372  CB  ILE   212       6.415   8.302  22.017  1.00 13.07      1TPO1480
+ATOM   1373  CG1 ILE   212       7.396   7.308  22.702  1.00 13.77      1TPO1481
+ATOM   1374  CG2 ILE   212       5.748   9.241  23.034  1.00 13.77      1TPO1482
+ATOM   1375  CD1 ILE   212       8.578   8.121  23.255  1.00 13.77      1TPO1483
+ATOM   1376  N   VAL   213       3.266   8.759  20.678  1.00 11.96      1TPO1484
+ATOM   1377  CA  VAL   213       2.433   9.816  20.019  1.00 11.96      1TPO1485
+ATOM   1378  C   VAL   213       2.958  11.246  20.238  1.00 11.96      1TPO1486
+ATOM   1379  O   VAL   213       3.227  11.654  21.401  1.00 11.96      1TPO1487
+ATOM   1380  CB  VAL   213       1.044   9.749  20.628  1.00 11.96      1TPO1488
+ATOM   1381  CG1 VAL   213        .210  10.820  19.914  1.00  9.40      1TPO1489
+ATOM   1382  CG2 VAL   213        .416   8.321  20.580  1.00  9.40      1TPO1490
+ATOM   1383  N   SER   214       3.351  11.893  19.143  1.00 14.22      1TPO1491
+ATOM   1384  CA  SER   214       4.114  13.125  19.276  1.00 14.22      1TPO1492
+ATOM   1385  C   SER   214       3.402  14.313  18.628  1.00 14.22      1TPO1493
+ATOM   1386  O   SER   214       3.106  15.310  19.328  1.00 14.22      1TPO1494
+ATOM   1387  CB  SER   214       5.530  12.899  18.726  1.00 14.22      1TPO1495
+ATOM   1388  OG  SER   214       6.268  14.108  18.671  1.00 16.82      1TPO1496
+ATOM   1389  N   TRP   215       3.212  14.326  17.322  1.00 14.52      1TPO1497
+ATOM   1390  CA  TRP   215       2.495  15.480  16.728  1.00 14.52      1TPO1498
+ATOM   1391  C   TRP   215       1.801  15.204  15.389  1.00 14.52      1TPO1499
+ATOM   1392  O   TRP   215       1.640  14.043  14.931  1.00 14.52      1TPO1500
+ATOM   1393  CB  TRP   215       3.444  16.700  16.546  1.00 14.52      1TPO1501
+ATOM   1394  CG  TRP   215       4.600  16.450  15.565  1.00 16.70      1TPO1502
+ATOM   1395  CD1 TRP   215       5.772  15.864  15.819  1.00 16.70      1TPO1503
+ATOM   1396  CD2 TRP   215       4.707  16.880  14.229  1.00 16.70      1TPO1504
+ATOM   1397  NE1 TRP   215       6.600  15.917  14.732  1.00 16.70      1TPO1505
+ATOM   1398  CE2 TRP   215       5.983  16.509  13.800  1.00 16.70      1TPO1506
+ATOM   1399  CE3 TRP   215       3.813  17.531  13.381  1.00 16.70      1TPO1507
+ATOM   1400  CZ2 TRP   215       6.435  16.754  12.507  1.00 16.70      1TPO1508
+ATOM   1401  CZ3 TRP   215       4.275  17.769  12.082  1.00 16.70      1TPO1509
+ATOM   1402  CH2 TRP   215       5.541  17.389  11.668  1.00 16.70      1TPO1510
+ATOM   1403  N   GLY   216       1.165  16.236  14.828  1.00 19.81      1TPO1511
+ATOM   1404  CA  GLY   216        .460  16.042  13.556  1.00 19.81      1TPO1512
+ATOM   1405  C   GLY   216       -.206  17.358  13.220  1.00 19.81      1TPO1513
+ATOM   1406  O   GLY   216       -.033  18.331  14.001  1.00 19.81      1TPO1514
+ATOM   1407  N   SER   217       -.812  17.468  12.082  1.00 16.10      1TPO1515
+ATOM   1408  CA  SER   217      -1.395  18.768  11.779  1.00 16.10      1TPO1516
+ATOM   1409  C   SER   217      -2.894  18.669  11.986  1.00 16.10      1TPO1517
+ATOM   1410  O   SER   217      -3.474  17.889  11.220  1.00 16.10      1TPO1518
+ATOM   1411  CB  SER   217      -1.115  19.099  10.291  1.00 16.10      1TPO1519
+ATOM   1412  OG  SER   217      -1.523  20.441  10.132  1.00 27.91      1TPO1520
+ATOM   1413  N   GLY   219      -3.476  19.082  13.075  1.00 15.35      1TPO1521
+ATOM   1414  CA  GLY   219      -4.881  18.683  13.291  1.00 15.35      1TPO1522
+ATOM   1415  C   GLY   219      -4.978  17.161  13.556  1.00 15.35      1TPO1523
+ATOM   1416  O   GLY   219      -3.939  16.526  13.790  1.00 15.35      1TPO1524
+ATOM   1417  N   CYS   220      -6.119  16.535  13.466  1.00 13.73      1TPO1525
+ATOM   1418  CA  CYS   220      -6.293  15.060  13.614  1.00 13.73      1TPO1526
+ATOM   1419  C   CYS   220      -7.092  14.534  12.450  1.00 13.73      1TPO1527
+ATOM   1420  O   CYS   220      -8.238  15.021  12.290  1.00 13.73      1TPO1528
+ATOM   1421  CB  CYS   220      -7.135  14.842  14.893  1.00 13.73      1TPO1529
+ATOM   1422  SG  CYS   220      -6.448  15.685  16.365  1.00 20.54      1TPO1530
+ATOM   1423  N   ALA   221A     -6.721  13.358  11.976  1.00 15.44      1TPO1531
+ATOM   1424  CA  ALA   221A     -7.527  12.507  11.097  1.00 15.44      1TPO1532
+ATOM   1425  C   ALA   221A     -7.842  13.290   9.822  1.00 15.44      1TPO1533
+ATOM   1426  O   ALA   221A     -8.900  13.073   9.177  1.00 15.44      1TPO1534
+ATOM   1427  CB  ALA   221A     -8.852  12.106  11.769  1.00 15.44      1TPO1535
+ATOM   1428  N   GLN   221      -7.029  14.305   9.521  1.00 20.84      1TPO1536
+ATOM   1429  CA  GLN   221      -7.260  15.016   8.244  1.00 20.84      1TPO1537
+ATOM   1430  C   GLN   221      -6.599  14.257   7.055  1.00 20.84      1TPO1538
+ATOM   1431  O   GLN   221      -5.572  13.542   7.212  1.00 20.84      1TPO1539
+ATOM   1432  CB  GLN   221      -6.652  16.460   8.434  1.00 20.84      1TPO1540
+ATOM   1433  CG  GLN   221      -7.632  17.613   8.884  1.00 30.22      1TPO1541
+ATOM   1434  CD  GLN   221      -8.722  17.188   9.886  1.00 30.22      1TPO1542
+ATOM   1435  OE1 GLN   221      -9.793  16.675   9.472  0.00  0.00   1  1TPO1543
+ATOM   1436  NE2 GLN   221      -8.510  17.551  11.136  0.00  0.00   1  1TPO1544
+ATOM   1437  N   LYS   222      -7.104  14.496   5.864  1.00 16.51      1TPO1545
+ATOM   1438  CA  LYS   222      -6.621  13.939   4.597  1.00 16.51      1TPO1546
+ATOM   1439  C   LYS   222      -5.208  14.386   4.382  1.00 16.51      1TPO1547
+ATOM   1440  O   LYS   222      -4.921  15.607   4.521  1.00 16.51      1TPO1548
+ATOM   1441  CB  LYS   222      -7.417  14.587   3.414  1.00 16.51      1TPO1549
+ATOM   1442  CG  LYS   222      -7.205  13.794   2.101  1.00 26.33      1TPO1550
+ATOM   1443  CD  LYS   222      -7.941  14.448    .917  0.00  0.00   1  1TPO1551
+ATOM   1444  CE  LYS   222      -7.718  13.673   -.394  0.00  0.00   1  1TPO1552
+ATOM   1445  NZ  LYS   222      -8.413  14.342  -1.499  0.00  0.00   1  1TPO1553
+ATOM   1446  N   ASN   223      -4.349  13.457   4.167  1.00 19.25      1TPO1554
+ATOM   1447  CA  ASN   223      -2.892  13.674   3.953  1.00 19.25      1TPO1555
+ATOM   1448  C   ASN   223      -2.132  14.327   5.104  1.00 19.25      1TPO1556
+ATOM   1449  O   ASN   223      -1.046  14.926   4.931  1.00 19.25      1TPO1557
+ATOM   1450  CB  ASN   223      -2.635  14.415   2.627  1.00 19.25      1TPO1558
+ATOM   1451  CG  ASN   223      -2.889  13.485   1.425  1.00 24.30      1TPO1559
+ATOM   1452  OD1 ASN   223      -2.124  12.508   1.228  0.00  0.00   1  1TPO1560
+ATOM   1453  ND2 ASN   223      -3.735  13.952    .533  0.00  0.00   1  1TPO1561
+ATOM   1454  N   LYS   224      -2.607  14.146   6.294  1.00 16.25      1TPO1562
+ATOM   1455  CA  LYS   224      -1.867  14.646   7.430  1.00 16.25      1TPO1563
+ATOM   1456  C   LYS   224      -1.898  13.594   8.534  1.00 16.25      1TPO1564
+ATOM   1457  O   LYS   224      -2.609  13.813   9.534  1.00 16.25      1TPO1565
+ATOM   1458  CB  LYS   224      -2.567  15.928   7.926  1.00 16.25      1TPO1566
+ATOM   1459  CG  LYS   224      -2.400  17.128   6.967  1.00 23.95      1TPO1567
+ATOM   1460  CD  LYS   224       -.902  17.520   6.883  1.00 23.95      1TPO1568
+ATOM   1461  CE  LYS   224       -.644  18.630   5.816  1.00 23.95      1TPO1569
+ATOM   1462  NZ  LYS   224        .760  19.108   5.787  1.00 23.95      1TPO1570
+ATOM   1463  N   PRO   225      -1.182  12.486   8.315  1.00 18.43      1TPO1571
+ATOM   1464  CA  PRO   225      -1.083  11.389   9.284  1.00 18.43      1TPO1572
+ATOM   1465  C   PRO   225       -.489  11.896  10.606  1.00 18.43      1TPO1573
+ATOM   1466  O   PRO   225        .254  12.898  10.590  1.00 18.43      1TPO1574
+ATOM   1467  CB  PRO   225       -.104  10.363   8.703  1.00 18.43      1TPO1575
+ATOM   1468  CG  PRO   225        .523  11.010   7.459  1.00 18.34      1TPO1576
+ATOM   1469  CD  PRO   225       -.208  12.329   7.229  1.00 18.34      1TPO1577
+ATOM   1470  N   GLY   226       -.577  11.095  11.665  1.00  9.78      1TPO1578
+ATOM   1471  CA  GLY   226        .091  11.288  12.927  1.00  9.78      1TPO1579
+ATOM   1472  C   GLY   226       1.570  11.053  12.775  1.00  9.78      1TPO1580
+ATOM   1473  O   GLY   226       1.941  10.152  11.994  1.00  9.78      1TPO1581
+ATOM   1474  N   VAL   227       2.368  11.849  13.479  1.00 12.33      1TPO1582
+ATOM   1475  CA  VAL   227       3.837  11.736  13.551  1.00 12.33      1TPO1583
+ATOM   1476  C   VAL   227       4.308  11.286  14.941  1.00 12.33      1TPO1584
+ATOM   1477  O   VAL   227       3.631  11.631  15.934  1.00 12.33      1TPO1585
+ATOM   1478  CB  VAL   227       4.515  13.058  13.144  1.00 12.33      1TPO1586
+ATOM   1479  CG1 VAL   227       6.077  13.014  13.083  1.00 12.08      1TPO1587
+ATOM   1480  CG2 VAL   227       3.854  13.616  11.878  1.00 12.08      1TPO1588
+ATOM   1481  N   TYR   228       5.204  10.316  14.987  1.00 10.83      1TPO1589
+ATOM   1482  CA  TYR   228       5.498   9.548  16.222  1.00 10.83      1TPO1590
+ATOM   1483  C   TYR   228       6.989   9.539  16.469  1.00 10.83      1TPO1591
+ATOM   1484  O   TYR   228       7.738   9.464  15.469  1.00 10.83      1TPO1592
+ATOM   1485  CB  TYR   228       4.994   8.071  16.020  1.00 10.83      1TPO1593
+ATOM   1486  CG  TYR   228       3.456   8.038  15.872  1.00  9.12      1TPO1594
+ATOM   1487  CD1 TYR   228       2.675   8.036  17.021  1.00  9.12      1TPO1595
+ATOM   1488  CD2 TYR   228       2.853   8.060  14.629  1.00  9.12      1TPO1596
+ATOM   1489  CE1 TYR   228       1.302   8.068  16.948  1.00  9.12      1TPO1597
+ATOM   1490  CE2 TYR   228       1.440   8.122  14.545  1.00  9.12      1TPO1598
+ATOM   1491  CZ  TYR   228        .688   8.143  15.709  1.00  9.12      1TPO1599
+ATOM   1492  OH  TYR   228       -.725   8.202  15.649  1.00  9.12      1TPO1600
+ATOM   1493  N   THR   229       7.436   9.632  17.674  1.00 10.62      1TPO1601
+ATOM   1494  CA  THR   229       8.875   9.498  17.986  1.00 10.62      1TPO1602
+ATOM   1495  C   THR   229       9.328   8.070  17.712  1.00 10.62      1TPO1603
+ATOM   1496  O   THR   229       8.590   7.148  18.086  1.00 10.62      1TPO1604
+ATOM   1497  CB  THR   229       9.182   9.863  19.500  1.00 10.62      1TPO1605
+ATOM   1498  OG1 THR   229       8.587  11.146  19.777  1.00 10.73      1TPO1606
+ATOM   1499  CG2 THR   229      10.678   9.969  19.817  1.00 10.73      1TPO1607
+ATOM   1500  N   LYS   230      10.429   7.868  16.993  1.00 10.03      1TPO1608
+ATOM   1501  CA  LYS   230      11.025   6.534  16.675  1.00 10.03      1TPO1609
+ATOM   1502  C   LYS   230      11.875   6.009  17.841  1.00 10.03      1TPO1610
+ATOM   1503  O   LYS   230      13.097   6.278  17.958  1.00 10.03      1TPO1611
+ATOM   1504  CB  LYS   230      11.864   6.676  15.411  1.00 10.03      1TPO1612
+ATOM   1505  CG  LYS   230      12.102   5.375  14.617  1.00 14.57      1TPO1613
+ATOM   1506  CD  LYS   230      12.677   5.865  13.285  1.00 14.57      1TPO1614
+ATOM   1507  CE  LYS   230      12.791   4.797  12.197  1.00 14.57      1TPO1615
+ATOM   1508  NZ  LYS   230      13.332   5.396  10.971  0.00  0.00   1  1TPO1616
+ATOM   1509  N   VAL   231      11.194   5.265  18.706  1.00 12.59      1TPO1617
+ATOM   1510  CA  VAL   231      11.756   4.709  19.961  1.00 12.59      1TPO1618
+ATOM   1511  C   VAL   231      13.019   3.873  19.720  1.00 12.59      1TPO1619
+ATOM   1512  O   VAL   231      13.939   3.875  20.562  1.00 12.59      1TPO1620
+ATOM   1513  CB  VAL   231      10.664   3.963  20.801  1.00 12.59      1TPO1621
+ATOM   1514  CG1 VAL   231      11.222   3.301  22.092  1.00 13.00      1TPO1622
+ATOM   1515  CG2 VAL   231       9.492   4.868  21.220  1.00 13.00      1TPO1623
+ATOM   1516  N   CYS   232      13.075   3.114  18.627  1.00 15.53      1TPO1624
+ATOM   1517  CA  CYS   232      14.260   2.286  18.420  1.00 15.53      1TPO1625
+ATOM   1518  C   CYS   232      15.527   3.117  18.333  1.00 15.53      1TPO1626
+ATOM   1519  O   CYS   232      16.587   2.526  18.594  1.00 15.53      1TPO1627
+ATOM   1520  CB  CYS   232      14.166   1.415  17.139  1.00 15.53      1TPO1628
+ATOM   1521  SG  CYS   232      14.030   2.401  15.638  1.00 17.59      1TPO1629
+ATOM   1522  N   ASN   233      15.492   4.454  18.113  1.00 11.28      1TPO1630
+ATOM   1523  CA  ASN   233      16.686   5.284  18.071  1.00 11.28      1TPO1631
+ATOM   1524  C   ASN   233      17.252   5.666  19.456  1.00 11.28      1TPO1632
+ATOM   1525  O   ASN   233      18.431   6.125  19.562  1.00 11.28      1TPO1633
+ATOM   1526  CB  ASN   233      16.363   6.585  17.278  1.00 11.28      1TPO1634
+ATOM   1527  CG  ASN   233      16.172   6.367  15.782  1.00 16.80      1TPO1635
+ATOM   1528  OD1 ASN   233      16.474   5.270  15.294  1.00 16.80      1TPO1636
+ATOM   1529  ND2 ASN   233      16.152   7.458  15.053  1.00 16.80      1TPO1637
+ATOM   1530  N   TYR   234      16.439   5.434  20.473  1.00 14.61      1TPO1638
+ATOM   1531  CA  TYR   234      16.668   5.907  21.852  1.00 14.61      1TPO1639
+ATOM   1532  C   TYR   234      16.964   4.814  22.878  1.00 14.61      1TPO1640
+ATOM   1533  O   TYR   234      17.043   5.084  24.104  1.00 14.61      1TPO1641
+ATOM   1534  CB  TYR   234      15.437   6.707  22.326  1.00 14.61      1TPO1642
+ATOM   1535  CG  TYR   234      15.205   7.971  21.455  1.00 12.03      1TPO1643
+ATOM   1536  CD1 TYR   234      16.050   9.040  21.565  1.00 12.03      1TPO1644
+ATOM   1537  CD2 TYR   234      14.207   7.969  20.505  1.00 12.03      1TPO1645
+ATOM   1538  CE1 TYR   234      15.910  10.146  20.726  1.00 12.03      1TPO1646
+ATOM   1539  CE2 TYR   234      14.075   9.068  19.643  1.00 12.03      1TPO1647
+ATOM   1540  CZ  TYR   234      14.928  10.133  19.757  1.00 12.03      1TPO1648
+ATOM   1541  OH  TYR   234      14.810  11.186  18.834  1.00 12.03      1TPO1649
+ATOM   1542  N   VAL   235      16.987   3.577  22.416  1.00 15.62      1TPO1650
+ATOM   1543  CA  VAL   235      17.111   2.416  23.323  1.00 15.62      1TPO1651
+ATOM   1544  C   VAL   235      18.354   2.461  24.209  1.00 15.62      1TPO1652
+ATOM   1545  O   VAL   235      18.249   2.217  25.439  1.00 15.62      1TPO1653
+ATOM   1546  CB  VAL   235      16.936   1.071  22.535  1.00 15.62      1TPO1654
+ATOM   1547  CG1 VAL   235      17.316   -.124  23.431  1.00 17.46      1TPO1655
+ATOM   1548  CG2 VAL   235      15.468    .907  21.993  1.00 17.46      1TPO1656
+ATOM   1549  N   SER   236      19.480   2.790  23.629  1.00 15.56      1TPO1657
+ATOM   1550  CA  SER   236      20.761   2.937  24.322  1.00 15.56      1TPO1658
+ATOM   1551  C   SER   236      20.687   4.089  25.308  1.00 15.56      1TPO1659
+ATOM   1552  O   SER   236      21.122   3.868  26.466  1.00 15.56      1TPO1660
+ATOM   1553  CB  SER   236      21.965   3.143  23.381  1.00 15.56      1TPO1661
+ATOM   1554  OG  SER   236      22.054   2.035  22.473  0.00  0.00   1  1TPO1662
+ATOM   1555  N   TRP   237      19.997   5.161  24.940  1.00 14.66      1TPO1663
+ATOM   1556  CA  TRP   237      19.768   6.260  25.885  1.00 14.66      1TPO1664
+ATOM   1557  C   TRP   237      18.873   5.852  27.048  1.00 14.66      1TPO1665
+ATOM   1558  O   TRP   237      19.184   6.242  28.195  1.00 14.66      1TPO1666
+ATOM   1559  CB  TRP   237      19.208   7.525  25.234  1.00 14.66      1TPO1667
+ATOM   1560  CG  TRP   237      18.855   8.617  26.258  1.00 12.74      1TPO1668
+ATOM   1561  CD1 TRP   237      19.682   9.433  26.945  1.00 12.74      1TPO1669
+ATOM   1562  CD2 TRP   237      17.570   9.008  26.604  1.00 12.74      1TPO1670
+ATOM   1563  NE1 TRP   237      18.922  10.319  27.698  1.00 12.74      1TPO1671
+ATOM   1564  CE2 TRP   237      17.693  10.065  27.531  1.00 12.74      1TPO1672
+ATOM   1565  CE3 TRP   237      16.344   8.539  26.197  1.00 12.74      1TPO1673
+ATOM   1566  CZ2 TRP   237      16.611  10.683  28.113  1.00 12.74      1TPO1674
+ATOM   1567  CZ3 TRP   237      15.244   9.178  26.781  1.00 12.74      1TPO1675
+ATOM   1568  CH2 TRP   237      15.380  10.227  27.718  1.00 12.74      1TPO1676
+ATOM   1569  N   ILE   238      17.810   5.182  26.755  1.00 13.64      1TPO1677
+ATOM   1570  CA  ILE   238      16.894   4.704  27.776  1.00 13.64      1TPO1678
+ATOM   1571  C   ILE   238      17.626   3.774  28.738  1.00 13.64      1TPO1679
+ATOM   1572  O   ILE   238      17.492   3.924  29.979  1.00 13.64      1TPO1680
+ATOM   1573  CB  ILE   238      15.669   4.006  27.152  1.00 13.64      1TPO1681
+ATOM   1574  CG1 ILE   238      14.725   5.042  26.503  1.00 13.30      1TPO1682
+ATOM   1575  CG2 ILE   238      14.895   3.185  28.158  1.00 13.30      1TPO1683
+ATOM   1576  CD1 ILE   238      13.625   4.412  25.658  1.00 13.30      1TPO1684
+ATOM   1577  N   LYS   239      18.297   2.821  28.182  1.00 16.36      1TPO1685
+ATOM   1578  CA  LYS   239      18.899   1.840  29.046  1.00 16.36      1TPO1686
+ATOM   1579  C   LYS   239      19.999   2.413  29.932  1.00 16.36      1TPO1687
+ATOM   1580  O   LYS   239      20.043   2.070  31.158  1.00 16.36      1TPO1688
+ATOM   1581  CB  LYS   239      19.472    .676  28.217  1.00 16.36      1TPO1689
+ATOM   1582  CG  LYS   239      18.407   -.173  27.488  1.00 21.37      1TPO1690
+ATOM   1583  CD  LYS   239      19.029  -1.461  26.911  0.00  0.00   1  1TPO1691
+ATOM   1584  CE  LYS   239      20.377  -1.209  26.204  0.00  0.00   1  1TPO1692
+ATOM   1585  NZ  LYS   239      20.217   -.329  25.041  0.00  0.00   1  1TPO1693
+ATOM   1586  N   GLN   240      20.784   3.315  29.365  1.00 17.49      1TPO1694
+ATOM   1587  CA  GLN   240      21.863   3.955  30.160  1.00 17.49      1TPO1695
+ATOM   1588  C   GLN   240      21.328   4.821  31.318  1.00 17.49      1TPO1696
+ATOM   1589  O   GLN   240      21.972   4.921  32.396  1.00 17.49      1TPO1697
+ATOM   1590  CB  GLN   240      22.785   4.776  29.231  1.00 17.49      1TPO1698
+ATOM   1591  CG  GLN   240      23.810   5.697  29.933  0.00  0.00   1  1TPO1699
+ATOM   1592  CD  GLN   240      24.850   4.884  30.698  0.00  0.00   1  1TPO1700
+ATOM   1593  OE1 GLN   240      25.600   4.084  30.086  0.00  0.00   1  1TPO1701
+ATOM   1594  NE2 GLN   240      24.839   5.055  32.007  0.00  0.00   1  1TPO1702
+ATOM   1595  N   THR   241      20.225   5.512  31.045  1.00 14.91      1TPO1703
+ATOM   1596  CA  THR   241      19.604   6.462  32.002  1.00 14.91      1TPO1704
+ATOM   1597  C   THR   241      19.015   5.637  33.113  1.00 14.91      1TPO1705
+ATOM   1598  O   THR   241      19.190   6.025  34.294  1.00 14.91      1TPO1706
+ATOM   1599  CB  THR   241      18.503   7.347  31.344  1.00 14.91      1TPO1707
+ATOM   1600  OG1 THR   241      19.103   8.118  30.343  1.00 11.47      1TPO1708
+ATOM   1601  CG2 THR   241      17.946   8.444  32.194  1.00 11.47      1TPO1709
+ATOM   1602  N   ILE   242      18.289   4.608  32.727  1.00 15.60      1TPO1710
+ATOM   1603  CA  ILE   242      17.652   3.795  33.757  1.00 15.60      1TPO1711
+ATOM   1604  C   ILE   242      18.737   3.171  34.616  1.00 15.60      1TPO1712
+ATOM   1605  O   ILE   242      18.588   3.146  35.865  1.00 15.60      1TPO1713
+ATOM   1606  CB  ILE   242      16.791   2.626  33.233  1.00 15.60      1TPO1714
+ATOM   1607  CG1 ILE   242      15.382   3.032  32.873  1.00 24.33      1TPO1715
+ATOM   1608  CG2 ILE   242      16.607   1.545  34.331  1.00 24.33      1TPO1716
+ATOM   1609  CD1 ILE   242      15.311   4.502  32.528  1.00 24.33      1TPO1717
+ATOM   1610  N   ALA   243      19.854   2.786  34.036  1.00 20.89      1TPO1718
+ATOM   1611  CA  ALA   243      20.925   2.143  34.836  1.00 20.89      1TPO1719
+ATOM   1612  C   ALA   243      21.584   3.047  35.882  1.00 20.89      1TPO1720
+ATOM   1613  O   ALA   243      22.279   2.528  36.795  1.00 20.89      1TPO1721
+ATOM   1614  CB  ALA   243      22.048   1.610  33.926  1.00 20.89      1TPO1722
+ATOM   1615  N   SER   244      21.462   4.349  35.689  1.00 21.66      1TPO1723
+ATOM   1616  CA  SER   244      22.218   5.309  36.456  1.00 21.66      1TPO1724
+ATOM   1617  C   SER   244      21.382   6.207  37.329  1.00 21.66      1TPO1725
+ATOM   1618  O   SER   244      21.965   7.117  37.957  1.00 21.66      1TPO1726
+ATOM   1619  CB  SER   244      23.051   6.185  35.517  1.00 21.66      1TPO1727
+ATOM   1620  OG  SER   244      24.034   5.312  34.966  1.00 26.91      1TPO1728
+ATOM   1621  N   ASN   245      20.079   6.045  37.337  1.00 19.77      1TPO1729
+ATOM   1622  CA  ASN   245      19.214   6.979  38.041  1.00 19.77      1TPO1730
+ATOM   1623  C   ASN   245      18.238   6.191  38.885  1.00 19.77      1TPO1731
+ATOM   1624  O   ASN   245      17.249   6.772  39.389  1.00 19.77      1TPO1732
+ATOM   1625  CB  ASN   245      18.429   7.831  37.035  1.00 19.77      1TPO1733
+ATOM   1626  CG  ASN   245      19.350   8.853  36.397  1.00 18.71      1TPO1734
+ATOM   1627  OD1 ASN   245      19.604   9.846  37.103  1.00 18.71      1TPO1735
+ATOM   1628  ND2 ASN   245      20.040   8.538  35.312  1.00 18.71      1TPO1736
+ATOM   1629  OXT ASN   245      18.140   4.965  38.706  1.00 18.71      1TPO1737
+TER    1630      ASN   245                                              1TPO1738
+HETATM 1631  O   HOH   406       4.869   5.864  25.368  1.00 15.04      1TPO1739
+HETATM 1632  O   HOH   408       8.788  13.772  17.171  1.00 14.71      1TPO1740
+HETATM 1633  O   HOH   410      -3.911   9.401  26.513  1.00 12.80      1TPO1741
+HETATM 1634  O   HOH   412     -11.394    .607  27.037  1.00 11.88      1TPO1742
+HETATM 1635  O   HOH   414      -2.421  14.469  12.558  1.00 26.13      1TPO1743
+HETATM 1636  O   HOH   415      -4.519  15.367  10.767  1.00 19.16      1TPO1744
+HETATM 1637  O   HOH   416        .786  11.566  16.534  1.00 20.76      1TPO1745
+HETATM 1638  O   HOH   429     -12.251   6.580  18.478  1.00 22.52      1TPO1746
+HETATM 1639  O   HOH   430      -9.333   8.442  22.643  1.00 11.05      1TPO1747
+HETATM 1640  O   HOH   439      17.550   -.452  12.014  1.00 29.36      1TPO1748
+HETATM 1641  O   HOH   457      -5.972  10.594  34.942  1.00 14.62      1TPO1749
+HETATM 1642  O   HOH   470      -8.709    .085  14.449  1.00 15.50      1TPO1750
+HETATM 1643  O   HOH   473       7.216   7.226   8.160  1.00 16.57      1TPO1751
+HETATM 1644 CA    CA   480     -10.357   4.304  36.826   .70 18.77      1TPO1752
+HETATM 1645  O   HOH   482      15.082  19.365  13.874  1.00 29.46      1TPO1753
+HETATM 1646  O   HOH   516      -4.392  -1.629  32.441  1.00 22.35      1TPO1754
+HETATM 1647  O   HOH   530       2.059  11.726   1.448  1.00 29.56      1TPO1755
+HETATM 1648  O   HOH   562      -4.759  11.582   9.264  1.00 21.03      1TPO1756
+HETATM 1649  O   HOH   583     -16.544    .662  27.969  1.00 29.67      1TPO1757
+HETATM 1650  O   HOH   604      -8.090   -.011  29.937  1.00 19.39      1TPO1758
+HETATM 1651  O   HOH   700      -8.230  13.922  37.943  1.00 15.96      1TPO1759
+HETATM 1652  O   HOH   701      -2.056   7.991  24.751  1.00  8.33      1TPO1760
+HETATM 1653  O   HOH   702      -1.285  17.711  22.853  1.00 14.43      1TPO1761
+HETATM 1654  O   HOH   703      11.456  12.880  17.571  1.00 11.07      1TPO1762
+HETATM 1655  O   HOH   704      -1.900   8.070  13.361  1.00 12.03      1TPO1763
+HETATM 1656  O   HOH   705      -3.941   8.907  10.116  1.00 15.07      1TPO1764
+HETATM 1657  O   HOH   706      -9.250   -.015  36.775  1.00 22.66      1TPO1765
+HETATM 1658  O   HOH   707      -7.607   9.058  36.470  1.00 14.66      1TPO1766
+HETATM 1659  O   HOH   708      -3.447   3.430  33.225  1.00 15.21      1TPO1767
+HETATM 1660  O   HOH   709      -4.461    .802  31.112  1.00 17.07      1TPO1768
+HETATM 1661  O   HOH   710       1.842  17.973  19.646  1.00 22.10      1TPO1769
+HETATM 1662  O   HOH   711      -9.451   6.388  38.099  1.00 26.41      1TPO1770
+HETATM 1663  O   HOH   712      12.724  15.813  38.308  1.00 25.07      1TPO1771
+HETATM 1664  O   HOH   713      16.438   2.881  38.226  1.00 23.31      1TPO1772
+HETATM 1665  O   HOH   714     -10.363   2.510  35.595  1.00 22.70      1TPO1773
+HETATM 1666  O   HOH   715      -9.030  13.723  33.925  1.00 20.43      1TPO1774
+HETATM 1667  O   HOH   716      -1.480    .381  33.024  1.00 14.51      1TPO1775
+HETATM 1668  O   HOH   717      -5.809  -1.130  29.403  1.00 20.74      1TPO1776
+HETATM 1669  O   HOH   718     -13.666    .040  28.286  1.00 16.48      1TPO1777
+HETATM 1670  O   HOH   719      12.329  22.791  25.956  1.00 24.29      1TPO1778
+HETATM 1671  O   HOH   720      13.687  22.573  23.417  1.00 24.58      1TPO1779
+HETATM 1672  O   HOH   721       -.858    .428  22.387  1.00 15.96      1TPO1780
+HETATM 1673  O   HOH   722      11.053   2.637  16.669  1.00 14.69      1TPO1781
+HETATM 1674  O   HOH   723      10.262  19.262  12.436  1.00 20.46      1TPO1782
+HETATM 1675  O   HOH   724      13.850  18.336   9.200  1.00 28.66      1TPO1783
+HETATM 1676  O   HOH   725      10.214  16.187   5.758  1.00 20.05      1TPO1784
+HETATM 1677  O   HOH   726       2.461   1.555   4.754  1.00 20.07      1TPO1785
+HETATM 1678  O   HOH   727       3.254   3.937   3.008  1.00 23.67      1TPO1786
+HETATM 1679  O   HOH   728     -14.076   8.902  16.781  1.00 23.52      1TPO1787
+HETATM 1680  O   HOH   729       8.309  -4.329  16.714  1.00 26.78      1TPO1788
+HETATM 1681  O   HOH   730     -11.156   1.501  14.522  1.00 26.44      1TPO1789
+HETATM 1682  O   HOH   731       4.070  21.881   4.253  1.00 24.35      1TPO1790
+HETATM 1683  O   HOH   732      18.771   1.468  37.781  1.00 24.41      1TPO1791
+HETATM 1684  O   HOH   733     -10.320   8.348  39.635  1.00 30.13      1TPO1792
+HETATM 1685  O   HOH   734     -10.514  12.126  36.721  1.00 31.70      1TPO1793
+HETATM 1686  O   HOH   735     -10.366  -2.180  35.562  1.00 26.91      1TPO1794
+HETATM 1687  O   HOH   736     -16.062    .632  20.252  1.00 29.38      1TPO1795
+HETATM 1688  O   HOH   737      -2.805  13.974  40.877  1.00 22.54      1TPO1796
+HETATM 1689  O   HOH   738     -10.351  10.986  39.347  1.00 26.47      1TPO1797
+HETATM 1690  O   HOH   739     -16.236   8.402  40.026  1.00 25.24      1TPO1798
+HETATM 1691  O   HOH   740     -10.203   8.851  42.983  1.00 20.63      1TPO1799
+HETATM 1692  O   HOH   741      -3.301  -3.082  40.004  1.00 26.83      1TPO1800
+HETATM 1693  O   HOH   742       5.404  -7.015  33.123  1.00 26.11      1TPO1801
+HETATM 1694  O   HOH   743       3.046  -8.393  34.698  1.00 30.01      1TPO1802
+HETATM 1695  O   HOH   744      16.662  19.945  15.829  1.00 21.32      1TPO1803
+HETATM 1696  O   HOH   745     -11.835  22.467  15.893  1.00 13.10      1TPO1804
+HETATM 1697  O   HOH   746      -2.365   3.434   5.381  1.00 24.08      1TPO1805
+HETATM 1698  O   HOH   747       7.426  21.347  25.078  1.00 24.02      1TPO1806
+HETATM 1699  O   HOH   748       1.643  -6.285  19.337  1.00 24.87      1TPO1807
+HETATM 1700  O   HOH   749      -6.110  18.084   4.685  1.00 24.02      1TPO1808
+HETATM 1701  O   HOH   750      19.279   9.153  19.432  1.00 31.60      1TPO1809
+HETATM 1702  O   HOH   751      19.993   6.253  21.917  1.00 23.67      1TPO1810
+HETATM 1703  O   HOH   752      19.669   9.555  22.198  1.00 21.14      1TPO1811
+HETATM 1704  O   HOH   753      22.443  18.203  23.713  1.00 26.95      1TPO1812
+HETATM 1705  O   HOH   754      12.755  -4.299  27.225  1.00 27.48      1TPO1813
+HETATM 1706  O   HOH   755      10.789   2.124  13.916  1.00 26.30      1TPO1814
+HETATM 1707  O   HOH   800      23.218   -.126  37.109  1.00 25.57      1TPO1815
+HETATM 1708  O   HOH   801      10.722  -2.848  28.804  1.00 29.05      1TPO1816
+HETATM 1709  O   HOH   802       8.400  20.392  27.644  1.00 26.60      1TPO1817
+HETATM 1710  O   HOH   803      14.699  24.566  21.586  1.00 28.36      1TPO1818
+HETATM 1711  O   HOH   804       2.219  -8.792  18.855  1.00 29.40      1TPO1819
+HETATM 1712  O   HOH   805      -2.245  13.421  15.310  1.00 26.78      1TPO1820
+HETATM 1713  O   HOH   806      -8.031    .405  11.631  1.00 30.53      1TPO1821
+HETATM 1714  O   HOH   807      -8.836  24.706  22.773  1.00 27.07      1TPO1822
+HETATM 1715  O   HOH   808      -1.994  23.013  23.083  1.00 25.86      1TPO1823
+CONECT   48   47 1007                                                   1TPO1824
+CONECT  185  184  298                                                   1TPO1825
+CONECT  298  185  297                                                   1TPO1826
+CONECT  811  810 1521                                                   1TPO1827
+CONECT  853  852 1327                                                   1TPO1828
+CONECT 1007   48 1006                                                   1TPO1829
+CONECT 1084 1083 1190                                                   1TPO1830
+CONECT 1190 1084 1189                                                   1TPO1831
+CONECT 1265 1264 1422                                                   1TPO1832
+CONECT 1327  853 1326                                                   1TPO1833
+CONECT 1422 1265 1421                                                   1TPO1834
+CONECT 1521  811 1520                                                   1TPO1835
+MASTER       66    2    1    3    0    0    0    6 1714    1   12   18  1TPOC 25
+END                                                                     1TPO1837
+</pre></BODY></HTML>

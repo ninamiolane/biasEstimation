@@ -1,0 +1,94 @@
+#!rasmol -script
+# File: 1PLR.pdb.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1PLR.pdb"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ASN27 
+color atoms [255,165,0]
+select PHE28 
+color atoms [255,165,0]
+select GLN29 
+color atoms [255,165,0]
+select CYS30 
+color atoms [255,165,0]
+select ILE35 
+color atoms [255,165,0]
+select ILE36 
+color atoms [255,165,0]
+select ALA37 
+color atoms [255,165,0]
+select GLN38 
+color atoms [255,165,0]
+select ALA39 
+color atoms [255,165,0]
+select VAL40 
+color atoms [255,165,0]
+select ASP41 
+color atoms [255,165,0]
+select ASP42 
+color atoms [255,165,0]
+select LEU47 
+color atoms [255,165,0]
+select VAL48 
+color atoms [255,165,0]
+select SER49 
+color atoms [255,165,0]
+select LEU50 
+color atoms [255,165,0]
+select GLU51 
+color atoms [255,165,0]
+select ILE52 
+color atoms [255,165,0]
+select GLY53 
+color atoms [255,165,0]
+select GLY226 
+color atoms [255,165,0]
+select ILE227 
+color atoms [255,165,0]
+select ARG228 
+color atoms [255,165,0]
+select PHE237 
+color atoms [255,165,0]
+select GLN238 
+color atoms [255,165,0]
+select PHE239 
+color atoms [255,165,0]
+select ASP240 
+color atoms [255,165,0]
+select PHE245 
+color atoms [255,165,0]
+select LEU246 
+color atoms [255,165,0]
+select GLN247 
+color atoms [255,165,0]
+select PHE248 
+color atoms [255,165,0]
+select all

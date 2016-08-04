@@ -1,0 +1,14 @@
+#!/bin/csh
+# computation of all the geometric transforms
+
+
+
+set i=8
+\rm tmp.stat
+
+while( $i <= 58 )
+CrestRegister -m HEME_4A_4B_{$i}.CKeys1 -s HEME_4A_4B_{$i}.CKeys2 -type 0 -e HEME.error
+
+set i=`expr $i + 1`
+end
+

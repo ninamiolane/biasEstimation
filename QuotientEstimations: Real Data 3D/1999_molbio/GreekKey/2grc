@@ -1,0 +1,1682 @@
+HEADER    EYE LENS PROTEIN                        23-MAY-89   2GCR      2GCR   2
+COMPND    GAMMA /IV$A-CRYSTALLIN                                        2GCR   3
+SOURCE    BOVINE LENS (BOS $TAURUS)                                     2GCR   4
+AUTHOR    H.E.WHITE,H.P.C.DRIESSEN,C.SLINGSBY,D.S.MOSS,P.F.LINDLEY      2GCR   5
+REVDAT   1   15-JUL-90 2GCR    0                                        2GCR   6
+JRNL        AUTH   H.E.WHITE,H.P.C.DRIESSEN,C.SLINGSBY,D.S.MOSS,        2GCR   7
+JRNL        AUTH   P.F.LINDLEY                                          2GCR   8
+JRNL        TITL   PACKING INTERACTIONS IN THE EYE-LENS. STRUCTURAL     2GCR   9
+JRNL        TITL 2 ANALYSIS, INTERNAL SYMMETRY AND LATTICE              2GCR  10
+JRNL        TITL 3 INTERACTIONS OF BOVINE GAMMA/IV$A-CRYSTALLIN         2GCR  11
+JRNL        REF    J.MOL.BIOL.                   V. 207   217 1989      2GCR  12
+JRNL        REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  2GCR  13
+REMARK   1                                                              2GCR  14
+REMARK   1 REFERENCE 1                                                  2GCR  15
+REMARK   1  AUTH   H.E.WHITE,H.P.C.DRIESSEN,C.SLINGSBY,D.S.MOSS,        2GCR  16
+REMARK   1  AUTH 2 W.G.TURNELL,P.F.LINDLEY                              2GCR  17
+REMARK   1  TITL   THE USE OF PSEUDOSYMMETRY IN THE ROTATION FUNCTION   2GCR  18
+REMARK   1  TITL 2 OF GAMMA/IV$A-*CRYSTALLIN                            2GCR  19
+REMARK   1  REF    ACTA CRYSTALLOGR.,SECT.B      V.  44   172 1988      2GCR  20
+REMARK   1  REFN   ASTM ASBSDK  DK ISSN 0108-7681                  622  2GCR  21
+REMARK   1 REFERENCE 2                                                  2GCR  22
+REMARK   1  AUTH   C.SLINGSBY,L.R.MILLER                                2GCR  23
+REMARK   1  TITL   PURIFICATION AND CRYSTALLIZATION OF MAMMALIAN LENS   2GCR  24
+REMARK   1  TITL   GAMMA-*CRYSTALLINS                                   2GCR  25
+REMARK   1  REF    EXP.EYE RES.                  V.  37   517 1983      2GCR  26
+REMARK   1  REFN   ASTM EXERA6  UK ISSN 0014-4835                  827  2GCR  27
+REMARK   1 REFERENCE 3                                                  2GCR  28
+REMARK   1  AUTH   T.L.BLUNDELL,P.F.LINDLEY,D.S.MOSS,C.SLINGSBY,        2GCR  29
+REMARK   1  AUTH 2 I.J.TICKLE,W.G.TURNELL                               2GCR  30
+REMARK   1  TITL   THE LOW-*RESOLUTION STRUCTURE ANALYSIS OF THE LENS   2GCR  31
+REMARK   1  TITL   PROTEIN GAMMA-*CRYSTALLIN                            2GCR  32
+REMARK   1  REF    ACTA CRYSTALLOGR.,SECT.B      V.  34  3653 1978      2GCR  33
+REMARK   1  REFN   ASTM ACBCAR  DK ISSN 0567-7408                  107  2GCR  34
+REMARK   2                                                              2GCR  35
+REMARK   2 RESOLUTION. 2.3 ANGSTROMS.                                   2GCR  36
+REMARK   3                                                              2GCR  37
+REMARK   3 REFINEMENT. BY THE RESTRAINED LEAST-SQUARES PROCEDURE OF I.  2GCR  38
+REMARK   3  HANEEF,D.S.MOSS,M.J.STANFORD,N.BORKAKOTI (PROGRAM           2GCR  39
+REMARK   3  *RESTRAIN*) DESCRIBED IN ACTA CRYSTALLOGR., SECT.A, V. 41,  2GCR  40
+REMARK   3  426 (1985).  THE R VALUE IS 0.1433 FOR 5572 REFLECTIONS IN  2GCR  41
+REMARK   3  THE RESOLUTION RANGE 5.0 TO 2.3 ANGSTROMS.  THE RMS         2GCR  42
+REMARK   3  DEVIATION FROM IDEALITY OF THE BOND LENGTHS IS 0.025        2GCR  43
+REMARK   3  ANGSTROMS.  THE RMS DEVIATION FROM IDEALITY OF THE BOND     2GCR  44
+REMARK   3  ANGLES IS 3.3 DEGREES.  THE RMS DEVIATION FROM IDEALITY OF  2GCR  45
+REMARK   3  THE CALPHA - CALPHA VIRTUAL BONDS IS 0.070 ANGSTROMS.  THE  2GCR  46
+REMARK   3  ESTIMATED ERROR IS 0.15 ANGSTROMS.                          2GCR  47
+REMARK   4                                                              2GCR  48
+REMARK   4 THE QUANTITY PRESENTED IN THE TEMPERATURE FACTOR FIELD ON    2GCR  49
+REMARK   4 THE *ATOM* AND *HETATM* RECORDS BELOW IS THE U VALUE, WHERE  2GCR  50
+REMARK   4 B = 8.0*(PI**2)*U.                                           2GCR  51
+REMARK   5                                                              2GCR  52
+REMARK   5 THE RESIDUES HAVE BEEN NUMBERED ACCORDING TO THE HOMOLOGY    2GCR  53
+REMARK   5 WITH BOVINE LENS GAMMA II-CRYSTALLIN.  THEREFORE, THERE IS   2GCR  54
+REMARK   5 A GAP AT RESIDUE 84.  FOR MORE DETAILS ON THE SEQUENCE SEE   2GCR  55
+REMARK   5 THE PAPER CITED ON THE *JRNL* RECORDS ABOVE.                 2GCR  56
+REMARK   6                                                              2GCR  57
+REMARK   6 THERE IS DISORDER IN THE MAIN CHAIN BETWEEN RESIDUES         2GCR  58
+REMARK   6 120 - 121 AND BETWEEN RESIDUES 173 - 174.                    2GCR  59
+SEQRES   1    173  GLY LYS ILE THR PHE TYR GLU ASP ARG GLY PHE GLN GLY  2GCR  60
+SEQRES   2    173  ARG HIS TYR GLU CYS SER SER ASP HIS SER ASN LEU GLN  2GCR  61
+SEQRES   3    173  PRO TYR PHE SER ARG CYS ASN SER ILE ARG VAL ASP SER  2GCR  62
+SEQRES   4    173  GLY CYS TRP MET LEU TYR GLU GLN PRO ASN PHE THR GLY  2GCR  63
+SEQRES   5    173  CYS GLN TYR PHE LEU ARG ARG GLY ASP TYR PRO ASP TYR  2GCR  64
+SEQRES   6    173  GLN GLN TRP MET GLY PHE SER ASP SER VAL ARG SER CYS  2GCR  65
+SEQRES   7    173  ARG LEU ILE PRO HIS THR SER SER HIS ARG LEU ARG ILE  2GCR  66
+SEQRES   8    173  TYR GLU ARG GLU ASP TYR ARG GLY GLN MET VAL GLU ILE  2GCR  67
+SEQRES   9    173  THR GLU ASP CYS SER SER LEU GLN ASP ARG PHE HIS PHE  2GCR  68
+SEQRES  10    173  SER ASP ILE HIS SER PHE HIS VAL MET GLU GLY TYR TRP  2GCR  69
+SEQRES  11    173  VAL LEU TYR GLU MET PRO ASN TYR ARG GLY ARG GLN TYR  2GCR  70
+SEQRES  12    173  LEU LEU ARG PRO GLY ASP TYR ARG ARG TYR LEU ASP TRP  2GCR  71
+SEQRES  13    173  GLY ALA ALA ASN ALA ARG VAL GLY SER LEU ARG ARG ALA  2GCR  72
+SEQRES  14    173  VAL ASP PHE TYR                                      2GCR  73
+FTNOTE   1                                                              2GCR  74
+FTNOTE   1 THERE IS DISORDER IN THE MAIN CHAIN BETWEEN RESIDUES         2GCR  75
+FTNOTE   1 120 - 121 AND BETWEEN RESIDUES 173 - 174.                    2GCR  76
+FORMUL   2  HOH   *122(H2 O1)                                           2GCR  77
+CRYST1   35.100   46.200  186.200  90.00  90.00  90.00 C 2 2 21      8  2GCR  78
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 2GCR  79
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 2GCR  80
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 2GCR  81
+SCALE1      0.028490  0.000000  0.000000        0.00000                 2GCR  82
+SCALE2      0.000000  0.021645  0.000000        0.00000                 2GCR  83
+SCALE3      0.000000  0.000000  0.005371        0.00000                 2GCR  84
+ATOM      1  N   GLY     1       7.544  26.184  79.390  1.00  0.74      2GCR  85
+ATOM      2  CA  GLY     1       7.048  27.504  79.788  1.00  0.13      2GCR  86
+ATOM      3  C   GLY     1       6.514  27.447  81.231  1.00  0.44      2GCR  87
+ATOM      4  O   GLY     1       6.778  26.422  81.842  1.00  0.32      2GCR  88
+ATOM      5  N   LYS     2       5.895  28.506  81.685  1.00  0.63      2GCR  89
+ATOM      6  CA  LYS     2       5.300  28.671  83.022  1.00  0.66      2GCR  90
+ATOM      7  C   LYS     2       4.242  29.754  83.021  1.00  0.18      2GCR  91
+ATOM      8  O   LYS     2       4.511  30.917  82.646  1.00  0.15      2GCR  92
+ATOM      9  CB  LYS     2       6.452  29.087  83.964  1.00  0.72      2GCR  93
+ATOM     10  CG  LYS     2       6.058  28.838  85.406  1.00  0.34      2GCR  94
+ATOM     11  CD  LYS     2       6.636  29.848  86.341  1.00  0.14      2GCR  95
+ATOM     12  CE  LYS     2       7.126  29.242  87.630  1.00  0.37      2GCR  96
+ATOM     13  NZ  LYS     2       8.548  29.650  87.863  1.00  0.48      2GCR  97
+ATOM     14  N   ILE     3       3.046  29.510  83.578  1.00  0.26      2GCR  98
+ATOM     15  CA  ILE     3       2.181  30.742  83.732  1.00  0.21      2GCR  99
+ATOM     16  C   ILE     3       1.670  31.017  85.114  1.00  0.97      2GCR 100
+ATOM     17  O   ILE     3       1.383  30.169  85.984  1.00  0.24      2GCR 101
+ATOM     18  CB  ILE     3       1.172  30.810  82.644  1.00  0.08      2GCR 102
+ATOM     19  CG1 ILE     3       0.408  32.142  82.586  1.00  0.07      2GCR 103
+ATOM     20  CG2 ILE     3       0.181  29.636  82.641  1.00  0.16      2GCR 104
+ATOM     21  CD1 ILE     3       0.048  32.493  81.148  1.00  0.28      2GCR 105
+ATOM     22  N   THR     4       1.476  32.312  85.481  1.00  0.27      2GCR 106
+ATOM     23  CA  THR     4       0.827  32.520  86.795  1.00  0.44      2GCR 107
+ATOM     24  C   THR     4      -0.316  33.543  86.603  1.00  0.26      2GCR 108
+ATOM     25  O   THR     4       0.040  34.686  86.313  1.00  0.33      2GCR 109
+ATOM     26  CB  THR     4       1.713  32.928  87.909  1.00  0.26      2GCR 110
+ATOM     27  OG1 THR     4       2.952  32.228  88.002  1.00  0.23      2GCR 111
+ATOM     28  CG2 THR     4       1.009  32.814  89.256  1.00  0.11      2GCR 112
+ATOM     29  N   PHE     5      -1.532  33.149  86.857  1.00  0.43      2GCR 113
+ATOM     30  CA  PHE     5      -2.796  33.884  86.991  1.00  0.18      2GCR 114
+ATOM     31  C   PHE     5      -3.004  34.567  88.331  1.00  0.44      2GCR 115
+ATOM     32  O   PHE     5      -2.664  34.004  89.375  1.00  0.49      2GCR 116
+ATOM     33  CB  PHE     5      -3.986  32.930  86.795  1.00  0.18      2GCR 117
+ATOM     34  CG  PHE     5      -3.813  32.194  85.460  1.00  0.11      2GCR 118
+ATOM     35  CD1 PHE     5      -4.424  32.677  84.310  1.00  0.26      2GCR 119
+ATOM     36  CD2 PHE     5      -3.081  31.010  85.435  1.00  0.95      2GCR 120
+ATOM     37  CE1 PHE     5      -4.282  31.986  83.118  1.00  0.34      2GCR 121
+ATOM     38  CE2 PHE     5      -2.923  30.315  84.240  1.00  0.35      2GCR 122
+ATOM     39  CZ  PHE     5      -3.521  30.841  83.092  1.00  0.06      2GCR 123
+ATOM     40  N   TYR     6      -3.605  35.754  88.318  1.00  0.00      2GCR 124
+ATOM     41  CA  TYR     6      -3.940  36.429  89.551  1.00  0.16      2GCR 125
+ATOM     42  C   TYR     6      -5.368  36.804  89.635  1.00  0.05      2GCR 126
+ATOM     43  O   TYR     6      -6.076  36.912  88.621  1.00  0.35      2GCR 127
+ATOM     44  CB  TYR     6      -2.976  37.289  90.227  1.00  0.63      2GCR 128
+ATOM     45  CG  TYR     6      -1.486  37.050  90.272  1.00  0.23      2GCR 129
+ATOM     46  CD1 TYR     6      -0.851  36.922  91.473  1.00  0.24      2GCR 130
+ATOM     47  CD2 TYR     6      -0.676  37.030  89.110  1.00  0.19      2GCR 131
+ATOM     48  CE1 TYR     6       0.520  36.737  91.657  1.00  0.35      2GCR 132
+ATOM     49  CE2 TYR     6       0.677  36.829  89.301  1.00  0.14      2GCR 133
+ATOM     50  CZ  TYR     6       1.312  36.686  90.527  1.00  0.59      2GCR 134
+ATOM     51  OH  TYR     6       2.685  36.515  90.677  1.00  0.27      2GCR 135
+ATOM     52  N   GLU     7      -5.946  36.956  90.844  1.00  0.38      2GCR 136
+ATOM     53  CA  GLU     7      -7.446  37.220  90.749  1.00  0.00      2GCR 137
+ATOM     54  C   GLU     7      -7.531  38.769  90.738  1.00  0.92      2GCR 138
+ATOM     55  O   GLU     7      -8.442  39.274  90.113  1.00  0.34      2GCR 139
+ATOM     56  CB  GLU     7      -8.101  36.761  92.035  1.00  0.79      2GCR 140
+ATOM     57  CG  GLU     7      -8.927  35.506  91.846  1.00  0.86      2GCR 141
+ATOM     58  CD  GLU     7      -9.230  34.915  93.226  1.00  0.78      2GCR 142
+ATOM     59  OE1 GLU     7      -8.674  33.862  93.545  1.00  0.43      2GCR 143
+ATOM     60  OE2 GLU     7     -10.012  35.506  93.997  1.00  0.52      2GCR 144
+ATOM     61  N   ASP     8      -6.567  39.329  91.445  1.00  0.05      2GCR 145
+ATOM     62  CA  ASP     8      -6.391  40.744  91.693  1.00  0.49      2GCR 146
+ATOM     63  C   ASP     8      -5.374  41.367  90.779  1.00  0.96      2GCR 147
+ATOM     64  O   ASP     8      -4.421  40.709  90.332  1.00  0.40      2GCR 148
+ATOM     65  CB  ASP     8      -6.190  41.053  93.173  1.00  0.28      2GCR 149
+ATOM     66  CG  ASP     8      -7.397  40.439  93.932  1.00  0.19      2GCR 150
+ATOM     67  OD1 ASP     8      -7.288  40.053  95.084  1.00  0.29      2GCR 151
+ATOM     68  OD2 ASP     8      -8.485  40.302  93.326  1.00  0.29      2GCR 152
+ATOM     69  N   ARG     9      -5.668  42.620  90.441  1.00  0.38      2GCR 153
+ATOM     70  CA  ARG     9      -4.801  43.402  89.571  1.00  0.34      2GCR 154
+ATOM     71  C   ARG     9      -3.403  43.569  90.072  1.00  0.27      2GCR 155
+ATOM     72  O   ARG     9      -3.156  43.500  91.273  1.00  0.47      2GCR 156
+ATOM     73  CB  ARG     9      -5.389  44.550  88.871  1.00  0.30      2GCR 157
+ATOM     74  CG  ARG     9      -6.938  44.544  88.803  1.00  0.12      2GCR 158
+ATOM     75  CD  ARG     9      -7.342  46.056  88.853  1.00  0.28      2GCR 159
+ATOM     76  NE  ARG     9      -7.472  46.529  87.471  1.00  0.38      2GCR 160
+ATOM     77  CZ  ARG     9      -8.662  46.583  86.832  1.00  0.84      2GCR 161
+ATOM     78  NH1 ARG     9      -9.822  46.180  87.369  1.00  0.05      2GCR 162
+ATOM     79  NH2 ARG     9      -8.681  47.059  85.575  1.00  0.00      2GCR 163
+ATOM     80  N   GLY    10      -2.423  43.703  89.192  1.00  0.41      2GCR 164
+ATOM     81  CA  GLY    10      -1.092  44.182  89.638  1.00  0.00      2GCR 165
+ATOM     82  C   GLY    10      -0.504  43.161  90.576  1.00  0.35      2GCR 166
+ATOM     83  O   GLY    10       0.456  43.343  91.312  1.00  0.49      2GCR 167
+ATOM     84  N   PHE    11      -1.108  41.998  90.488  1.00  0.10      2GCR 168
+ATOM     85  CA  PHE    11      -0.425  40.746  90.918  1.00  0.22      2GCR 169
+ATOM     86  C   PHE    11      -0.901  40.459  92.312  1.00  0.43      2GCR 170
+ATOM     87  O   PHE    11      -0.323  39.738  93.095  1.00  0.38      2GCR 171
+ATOM     88  CB  PHE    11       1.055  40.766  90.614  1.00  0.50      2GCR 172
+ATOM     89  CG  PHE    11       1.203  41.374  89.196  1.00  0.13      2GCR 173
+ATOM     90  CD1 PHE    11       0.623  40.727  88.123  1.00  0.31      2GCR 174
+ATOM     91  CD2 PHE    11       1.877  42.586  89.053  1.00  0.28      2GCR 175
+ATOM     92  CE1 PHE    11       0.647  41.223  86.815  1.00  0.24      2GCR 176
+ATOM     93  CE2 PHE    11       1.898  43.043  87.747  1.00  0.89      2GCR 177
+ATOM     94  CZ  PHE    11       1.316  42.439  86.643  1.00  0.33      2GCR 178
+ATOM     95  N   GLN    12      -2.106  41.047  92.575  1.00  0.02      2GCR 179
+ATOM     96  CA  GLN    12      -2.764  40.621  93.825  1.00  0.73      2GCR 180
+ATOM     97  C   GLN    12      -3.750  39.497  93.752  1.00  0.52      2GCR 181
+ATOM     98  O   GLN    12      -4.319  39.111  92.747  1.00  0.29      2GCR 182
+ATOM     99  CB  GLN    12      -3.330  41.763  94.651  1.00  0.45      2GCR 183
+ATOM    100  CG  GLN    12      -2.432  42.105  95.835  1.00  0.62      2GCR 184
+ATOM    101  CD  GLN    12      -1.583  43.344  95.517  1.00  0.89      2GCR 185
+ATOM    102  OE1 GLN    12      -1.167  44.092  96.537  1.00  0.36      2GCR 186
+ATOM    103  NE2 GLN    12      -1.241  43.659  94.266  1.00  0.17      2GCR 187
+ATOM    104  N   GLY    13      -4.044  38.846  94.882  1.00  0.60      2GCR 188
+ATOM    105  CA  GLY    13      -5.226  37.935  94.880  1.00  0.03      2GCR 189
+ATOM    106  C   GLY    13      -4.735  36.521  95.223  1.00  0.27      2GCR 190
+ATOM    107  O   GLY    13      -3.537  36.397  95.496  1.00  0.52      2GCR 191
+ATOM    108  N   ARG    14      -5.639  35.561  95.224  1.00  0.49      2GCR 192
+ATOM    109  CA  ARG    14      -5.257  34.128  95.219  1.00  0.72      2GCR 193
+ATOM    110  C   ARG    14      -4.540  33.838  93.930  1.00  0.44      2GCR 194
+ATOM    111  O   ARG    14      -4.881  34.266  92.811  1.00  0.31      2GCR 195
+ATOM    112  CB  ARG    14      -6.454  33.209  95.449  1.00  0.28      2GCR 196
+ATOM    113  CG  ARG    14      -6.388  32.391  96.719  1.00  0.69      2GCR 197
+ATOM    114  CD  ARG    14      -7.756  32.244  97.423  1.00  0.42      2GCR 198
+ATOM    115  NE  ARG    14      -8.107  33.514  98.048  1.00  0.62      2GCR 199
+ATOM    116  CZ  ARG    14      -9.200  34.260  97.916  1.00  0.57      2GCR 200
+ATOM    117  NH1 ARG    14     -10.444  33.847  97.645  1.00  0.08      2GCR 201
+ATOM    118  NH2 ARG    14      -9.006  35.599  98.078  1.00  0.72      2GCR 202
+ATOM    119  N   HIS    15      -3.443  33.086  93.976  1.00  0.31      2GCR 203
+ATOM    120  CA  HIS    15      -2.896  32.781  92.626  1.00  0.38      2GCR 204
+ATOM    121  C   HIS    15      -2.511  31.300  92.487  1.00  0.06      2GCR 205
+ATOM    122  O   HIS    15      -2.591  30.526  93.421  1.00  0.54      2GCR 206
+ATOM    123  CB  HIS    15      -1.649  33.668  92.453  1.00  0.63      2GCR 207
+ATOM    124  CG  HIS    15      -0.625  33.403  93.563  1.00  0.77      2GCR 208
+ATOM    125  ND1 HIS    15      -0.553  32.271  94.377  1.00  0.46      2GCR 209
+ATOM    126  CD2 HIS    15       0.396  34.262  93.951  1.00  0.61      2GCR 210
+ATOM    127  CE1 HIS    15       0.521  32.421  95.248  1.00  0.89      2GCR 211
+ATOM    128  NE2 HIS    15       1.121  33.651  94.983  1.00  0.53      2GCR 212
+ATOM    129  N   TYR    16      -2.017  30.992  91.298  1.00  0.35      2GCR 213
+ATOM    130  CA  TYR    16      -1.996  29.744  90.592  1.00  0.18      2GCR 214
+ATOM    131  C   TYR    16      -1.073  29.623  89.401  1.00  0.27      2GCR 215
+ATOM    132  O   TYR    16      -1.031  30.371  88.420  1.00  0.20      2GCR 216
+ATOM    133  CB  TYR    16      -3.356  29.106  90.426  1.00  0.58      2GCR 217
+ATOM    134  CG  TYR    16      -3.181  27.647  90.030  1.00  0.53      2GCR 218
+ATOM    135  CD1 TYR    16      -3.214  26.684  91.023  1.00  0.43      2GCR 219
+ATOM    136  CD2 TYR    16      -2.972  27.325  88.683  1.00  0.24      2GCR 220
+ATOM    137  CE1 TYR    16      -3.039  25.342  90.698  1.00  0.42      2GCR 221
+ATOM    138  CE2 TYR    16      -2.785  25.984  88.384  1.00  0.64      2GCR 222
+ATOM    139  CZ  TYR    16      -2.823  25.007  89.369  1.00  0.49      2GCR 223
+ATOM    140  OH  TYR    16      -2.633  23.679  89.032  1.00  0.42      2GCR 224
+ATOM    141  N   GLU    17      -0.163  28.670  89.481  1.00  0.43      2GCR 225
+ATOM    142  CA  GLU    17       0.881  28.417  88.440  1.00  0.06      2GCR 226
+ATOM    143  C   GLU    17       0.509  27.088  87.756  1.00  0.56      2GCR 227
+ATOM    144  O   GLU    17       0.166  26.195  88.549  1.00  0.26      2GCR 228
+ATOM    145  CB  GLU    17       2.158  28.141  89.306  1.00  0.12      2GCR 229
+ATOM    146  CG  GLU    17       2.893  26.944  88.727  1.00  0.56      2GCR 230
+ATOM    147  CD  GLU    17       4.387  27.217  88.818  1.00  0.35      2GCR 231
+ATOM    148  OE1 GLU    17       5.098  27.226  87.802  1.00  0.56      2GCR 232
+ATOM    149  OE2 GLU    17       4.866  27.513  89.930  1.00  0.52      2GCR 233
+ATOM    150  N   CYS    18       0.447  27.021  86.445  1.00  0.43      2GCR 234
+ATOM    151  CA  CYS    18       0.591  25.772  85.662  1.00  0.39      2GCR 235
+ATOM    152  C   CYS    18       1.875  25.690  84.870  1.00  0.43      2GCR 236
+ATOM    153  O   CYS    18       2.578  26.671  84.571  1.00  0.73      2GCR 237
+ATOM    154  CB  CYS    18      -0.578  25.662  84.665  1.00  0.32      2GCR 238
+ATOM    155  SG  CYS    18      -2.087  25.079  85.515  1.00  0.64      2GCR 239
+ATOM    156  N   SER    19       2.245  24.507  84.351  1.00  0.07      2GCR 240
+ATOM    157  CA  SER    19       3.480  24.625  83.435  1.00  0.06      2GCR 241
+ATOM    158  C   SER    19       3.282  23.577  82.353  1.00  0.00      2GCR 242
+ATOM    159  O   SER    19       4.143  23.153  81.609  1.00  0.59      2GCR 243
+ATOM    160  CB  SER    19       4.676  24.435  84.310  1.00  0.62      2GCR 244
+ATOM    161  OG  SER    19       4.345  24.799  85.677  1.00  0.34      2GCR 245
+ATOM    162  N   SER    20       2.019  23.231  82.238  1.00  0.38      2GCR 246
+ATOM    163  CA  SER    20       1.402  22.275  81.353  1.00  0.15      2GCR 247
+ATOM    164  C   SER    20       0.041  22.842  80.995  1.00  0.59      2GCR 248
+ATOM    165  O   SER    20      -0.293  23.974  81.384  1.00  0.31      2GCR 249
+ATOM    166  CB  SER    20       1.215  20.932  82.060  1.00  0.12      2GCR 250
+ATOM    167  OG  SER    20      -0.169  20.714  82.318  1.00  0.37      2GCR 251
+ATOM    168  N   ASP    21      -0.657  22.028  80.286  1.00  0.52      2GCR 252
+ATOM    169  CA  ASP    21      -2.013  22.274  79.834  1.00  0.52      2GCR 253
+ATOM    170  C   ASP    21      -3.033  21.848  80.933  1.00  0.26      2GCR 254
+ATOM    171  O   ASP    21      -2.813  20.842  81.640  1.00  0.08      2GCR 255
+ATOM    172  CB  ASP    21      -2.316  21.272  78.765  1.00  0.76      2GCR 256
+ATOM    173  CG  ASP    21      -1.918  21.525  77.306  1.00  0.49      2GCR 257
+ATOM    174  OD1 ASP    21      -0.900  22.269  76.900  1.00  0.21      2GCR 258
+ATOM    175  OD2 ASP    21      -2.608  20.919  76.467  1.00  0.32      2GCR 259
+ATOM    176  N   HIS    22      -4.138  22.596  81.009  1.00  0.19      2GCR 260
+ATOM    177  CA  HIS    22      -5.287  22.343  81.938  1.00  0.26      2GCR 261
+ATOM    178  C   HIS    22      -6.594  22.452  81.183  1.00  0.00      2GCR 262
+ATOM    179  O   HIS    22      -6.937  23.468  80.556  1.00  0.19      2GCR 263
+ATOM    180  CB  HIS    22      -5.333  23.395  83.047  1.00  0.00      2GCR 264
+ATOM    181  CG  HIS    22      -4.829  22.862  84.378  1.00  0.12      2GCR 265
+ATOM    182  ND1 HIS    22      -3.475  22.840  84.682  1.00  0.35      2GCR 266
+ATOM    183  CD2 HIS    22      -5.478  22.340  85.452  1.00  0.12      2GCR 267
+ATOM    184  CE1 HIS    22      -3.335  22.320  85.887  1.00  0.34      2GCR 268
+ATOM    185  NE2 HIS    22      -4.520  22.015  86.361  1.00  0.47      2GCR 269
+ATOM    186  N   SER    23      -7.520  21.586  81.437  1.00  0.14      2GCR 270
+ATOM    187  CA  SER    23      -8.904  21.835  80.993  1.00  0.20      2GCR 271
+ATOM    188  C   SER    23      -9.782  22.552  81.963  1.00  0.40      2GCR 272
+ATOM    189  O   SER    23     -10.693  23.347  81.638  1.00  0.43      2GCR 273
+ATOM    190  CB  SER    23      -9.423  20.463  80.552  1.00  0.31      2GCR 274
+ATOM    191  OG  SER    23      -9.420  19.566  81.690  1.00  0.45      2GCR 275
+ATOM    192  N   ASN    24      -9.629  22.425  83.288  1.00  0.19      2GCR 276
+ATOM    193  CA  ASN    24     -10.462  23.308  84.130  1.00  0.23      2GCR 277
+ATOM    194  C   ASN    24      -9.672  23.875  85.300  1.00  0.41      2GCR 278
+ATOM    195  O   ASN    24      -9.441  23.167  86.283  1.00  0.32      2GCR 279
+ATOM    196  CB  ASN    24     -11.560  22.452  84.734  1.00  0.04      2GCR 280
+ATOM    197  CG  ASN    24     -12.564  23.265  85.502  1.00  0.06      2GCR 281
+ATOM    198  OD1 ASN    24     -12.409  24.572  85.673  1.00  0.71      2GCR 282
+ATOM    199  ND2 ASN    24     -13.634  22.677  85.991  1.00  0.26      2GCR 283
+ATOM    200  N   LEU    25      -9.345  25.155  85.268  1.00  0.10      2GCR 284
+ATOM    201  CA  LEU    25      -8.618  25.751  86.400  1.00  0.33      2GCR 285
+ATOM    202  C   LEU    25      -9.525  26.569  87.326  1.00  0.83      2GCR 286
+ATOM    203  O   LEU    25      -9.052  27.492  88.004  1.00  0.00      2GCR 287
+ATOM    204  CB  LEU    25      -7.379  26.466  86.004  1.00  0.27      2GCR 288
+ATOM    205  CG  LEU    25      -7.173  26.713  84.530  1.00  0.51      2GCR 289
+ATOM    206  CD1 LEU    25      -7.118  28.208  84.163  1.00  0.08      2GCR 290
+ATOM    207  CD2 LEU    25      -5.930  26.009  83.979  1.00  0.55      2GCR 291
+ATOM    208  N   GLN    26     -10.797  26.235  87.354  1.00  0.20      2GCR 292
+ATOM    209  CA  GLN    26     -11.843  26.752  88.227  1.00  0.10      2GCR 293
+ATOM    210  C   GLN    26     -11.507  26.437  89.677  1.00  0.04      2GCR 294
+ATOM    211  O   GLN    26     -12.048  26.989  90.632  1.00  0.12      2GCR 295
+ATOM    212  CB  GLN    26     -13.177  26.066  87.890  1.00  0.05      2GCR 296
+ATOM    213  CG  GLN    26     -14.310  27.014  87.478  1.00  0.24      2GCR 297
+ATOM    214  CD  GLN    26     -15.342  26.218  86.638  1.00  0.49      2GCR 298
+ATOM    215  OE1 GLN    26     -15.485  26.534  85.350  1.00  0.58      2GCR 299
+ATOM    216  NE2 GLN    26     -16.064  25.202  87.122  1.00  0.39      2GCR 300
+ATOM    217  N   PRO    27     -10.818  25.289  89.904  1.00  0.08      2GCR 301
+ATOM    218  CA  PRO    27     -10.879  24.955  91.379  1.00  0.24      2GCR 302
+ATOM    219  C   PRO    27      -9.996  26.036  92.018  1.00  0.94      2GCR 303
+ATOM    220  O   PRO    27     -10.297  26.591  93.066  1.00  0.74      2GCR 304
+ATOM    221  CB  PRO    27     -10.207  23.616  91.421  1.00  0.30      2GCR 305
+ATOM    222  CG  PRO    27     -10.461  22.987  90.057  1.00  0.42      2GCR 306
+ATOM    223  CD  PRO    27     -10.388  24.141  89.083  1.00  0.47      2GCR 307
+ATOM    224  N   TYR    28      -9.006  26.402  91.212  1.00  0.43      2GCR 308
+ATOM    225  CA  TYR    28      -7.756  26.948  91.793  1.00  0.87      2GCR 309
+ATOM    226  C   TYR    28      -7.956  28.446  91.986  1.00  0.30      2GCR 310
+ATOM    227  O   TYR    28      -7.237  29.072  92.778  1.00  0.60      2GCR 311
+ATOM    228  CB  TYR    28      -6.622  26.665  90.797  1.00  0.00      2GCR 312
+ATOM    229  CG  TYR    28      -6.614  25.142  90.571  1.00  1.07      2GCR 313
+ATOM    230  CD1 TYR    28      -6.642  24.814  89.220  1.00  0.07      2GCR 314
+ATOM    231  CD2 TYR    28      -6.592  24.190  91.627  1.00  0.03      2GCR 315
+ATOM    232  CE1 TYR    28      -6.624  23.522  88.798  1.00  0.23      2GCR 316
+ATOM    233  CE2 TYR    28      -6.574  22.857  91.141  1.00  0.80      2GCR 317
+ATOM    234  CZ  TYR    28      -6.587  22.545  89.791  1.00  0.27      2GCR 318
+ATOM    235  OH  TYR    28      -6.599  21.234  89.316  1.00  0.54      2GCR 319
+ATOM    236  N   PHE    29      -8.879  28.960  91.195  1.00  0.06      2GCR 320
+ATOM    237  CA  PHE    29      -9.093  30.364  91.014  1.00  0.02      2GCR 321
+ATOM    238  C   PHE    29     -10.341  30.891  90.472  1.00  0.04      2GCR 322
+ATOM    239  O   PHE    29     -11.158  30.243  89.816  1.00  0.38      2GCR 323
+ATOM    240  CB  PHE    29      -7.873  31.275  90.903  1.00  0.76      2GCR 324
+ATOM    241  CG  PHE    29      -7.476  31.209  89.422  1.00  0.11      2GCR 325
+ATOM    242  CD1 PHE    29      -8.261  31.928  88.525  1.00  0.43      2GCR 326
+ATOM    243  CD2 PHE    29      -6.470  30.375  89.013  1.00  0.49      2GCR 327
+ATOM    244  CE1 PHE    29      -7.982  31.829  87.180  1.00  0.13      2GCR 328
+ATOM    245  CE2 PHE    29      -6.187  30.297  87.662  1.00  0.49      2GCR 329
+ATOM    246  CZ  PHE    29      -6.936  31.022  86.746  1.00  0.61      2GCR 330
+ATOM    247  N   SER    30     -10.730  32.147  90.839  1.00  0.39      2GCR 331
+ATOM    248  CA  SER    30     -12.126  32.418  90.491  1.00  0.11      2GCR 332
+ATOM    249  C   SER    30     -12.385  33.399  89.397  1.00  0.28      2GCR 333
+ATOM    250  O   SER    30     -13.571  33.758  89.270  1.00  0.20      2GCR 334
+ATOM    251  CB  SER    30     -13.036  32.464  91.668  1.00  0.32      2GCR 335
+ATOM    252  OG  SER    30     -12.290  31.997  92.828  1.00  0.45      2GCR 336
+ATOM    253  N   ARG    31     -11.440  33.751  88.543  1.00  0.29      2GCR 337
+ATOM    254  CA  ARG    31     -11.284  35.058  87.892  1.00  0.18      2GCR 338
+ATOM    255  C   ARG    31      -9.792  35.401  88.011  1.00  0.28      2GCR 339
+ATOM    256  O   ARG    31      -9.197  34.946  88.995  1.00  0.40      2GCR 340
+ATOM    257  CB  ARG    31     -12.081  36.223  88.527  1.00  0.04      2GCR 341
+ATOM    258  CG  ARG    31     -11.111  37.058  89.429  1.00  0.15      2GCR 342
+ATOM    259  CD  ARG    31     -11.886  37.709  90.564  1.00  1.09      2GCR 343
+ATOM    260  NE  ARG    31     -11.387  39.053  90.914  1.00  0.40      2GCR 344
+ATOM    261  CZ  ARG    31     -11.806  39.645  92.051  1.00  0.23      2GCR 345
+ATOM    262  NH1 ARG    31     -13.025  39.412  92.567  1.00  0.24      2GCR 346
+ATOM    263  NH2 ARG    31     -11.010  40.498  92.697  1.00  0.68      2GCR 347
+ATOM    264  N   CYS    32      -9.348  36.126  87.040  1.00  0.57      2GCR 348
+ATOM    265  CA  CYS    32      -7.988  36.386  86.606  1.00  0.54      2GCR 349
+ATOM    266  C   CYS    32      -7.874  37.817  86.155  1.00  0.75      2GCR 350
+ATOM    267  O   CYS    32      -8.398  38.352  85.157  1.00  0.27      2GCR 351
+ATOM    268  CB  CYS    32      -7.417  35.350  85.659  1.00  0.09      2GCR 352
+ATOM    269  SG  CYS    32      -5.655  35.549  85.334  1.00  0.23      2GCR 353
+ATOM    270  N   ASN    33      -7.225  38.594  87.035  1.00  0.07      2GCR 354
+ATOM    271  CA  ASN    33      -7.148  40.039  86.586  1.00  0.21      2GCR 355
+ATOM    272  C   ASN    33      -5.745  40.382  86.199  1.00  0.27      2GCR 356
+ATOM    273  O   ASN    33      -5.313  41.544  86.137  1.00  0.40      2GCR 357
+ATOM    274  CB  ASN    33      -7.662  40.931  87.725  1.00  0.62      2GCR 358
+ATOM    275  CG  ASN    33      -9.188  41.079  87.637  1.00  0.45      2GCR 359
+ATOM    276  OD1 ASN    33      -9.707  41.989  86.822  1.00  0.41      2GCR 360
+ATOM    277  ND2 ASN    33     -10.002  40.292  88.315  1.00  0.02      2GCR 361
+ATOM    278  N   SER    34      -4.932  39.365  85.954  1.00  0.13      2GCR 362
+ATOM    279  CA  SER    34      -3.532  39.794  85.421  1.00  0.01      2GCR 363
+ATOM    280  C   SER    34      -2.697  38.522  85.693  1.00  0.13      2GCR 364
+ATOM    281  O   SER    34      -3.006  37.801  86.665  1.00  0.21      2GCR 365
+ATOM    282  CB  SER    34      -3.169  40.917  86.390  1.00  0.38      2GCR 366
+ATOM    283  OG  SER    34      -3.167  40.449  87.759  1.00  0.55      2GCR 367
+ATOM    284  N   ILE    35      -1.698  38.287  84.903  1.00  1.29      2GCR 368
+ATOM    285  CA  ILE    35      -0.923  37.063  84.657  1.00  0.29      2GCR 369
+ATOM    286  C   ILE    35       0.485  37.522  84.182  1.00  0.52      2GCR 370
+ATOM    287  O   ILE    35       0.546  38.262  83.194  1.00  0.33      2GCR 371
+ATOM    288  CB  ILE    35      -1.680  36.596  83.409  1.00  0.15      2GCR 372
+ATOM    289  CG1 ILE    35      -2.727  35.536  83.651  1.00  0.06      2GCR 373
+ATOM    290  CG2 ILE    35      -0.790  36.162  82.274  1.00  0.39      2GCR 374
+ATOM    291  CD1 ILE    35      -3.576  35.244  82.408  1.00  0.14      2GCR 375
+ATOM    292  N   ARG    36       1.505  37.057  84.827  1.00  0.12      2GCR 376
+ATOM    293  CA  ARG    36       2.922  37.106  84.415  1.00  0.23      2GCR 377
+ATOM    294  C   ARG    36       3.340  35.734  83.855  1.00  0.38      2GCR 378
+ATOM    295  O   ARG    36       3.321  34.729  84.551  1.00  0.05      2GCR 379
+ATOM    296  CB  ARG    36       3.787  37.359  85.678  1.00  0.34      2GCR 380
+ATOM    297  CG  ARG    36       4.935  36.340  85.733  1.00  0.35      2GCR 381
+ATOM    298  CD  ARG    36       5.736  36.560  87.036  1.00  0.46      2GCR 382
+ATOM    299  NE  ARG    36       6.062  38.012  87.151  1.00  0.06      2GCR 383
+ATOM    300  CZ  ARG    36       5.219  38.822  87.816  1.00  0.45      2GCR 384
+ATOM    301  NH1 ARG    36       3.989  38.411  88.125  1.00  0.67      2GCR 385
+ATOM    302  NH2 ARG    36       5.617  40.035  88.198  1.00  0.37      2GCR 386
+ATOM    303  N   VAL    37       3.720  35.739  82.592  1.00  0.61      2GCR 387
+ATOM    304  CA  VAL    37       4.304  34.558  81.905  1.00  0.45      2GCR 388
+ATOM    305  C   VAL    37       5.821  34.746  81.841  1.00  0.27      2GCR 389
+ATOM    306  O   VAL    37       6.186  35.829  81.391  1.00  0.10      2GCR 390
+ATOM    307  CB  VAL    37       3.750  34.570  80.472  1.00  0.24      2GCR 391
+ATOM    308  CG1 VAL    37       4.548  33.706  79.537  1.00  0.23      2GCR 392
+ATOM    309  CG2 VAL    37       2.229  34.378  80.327  1.00  0.31      2GCR 393
+ATOM    310  N   ASP    38       6.561  33.796  82.352  1.00  0.07      2GCR 394
+ATOM    311  CA  ASP    38       8.002  33.654  82.413  1.00  0.12      2GCR 395
+ATOM    312  C   ASP    38       8.696  33.131  81.163  1.00  0.45      2GCR 396
+ATOM    313  O   ASP    38       9.294  33.964  80.467  1.00  0.36      2GCR 397
+ATOM    314  CB  ASP    38       8.462  32.863  83.630  1.00  0.25      2GCR 398
+ATOM    315  CG  ASP    38       8.505  33.796  84.845  1.00  0.23      2GCR 399
+ATOM    316  OD1 ASP    38       9.170  33.458  85.817  1.00  0.58      2GCR 400
+ATOM    317  OD2 ASP    38       7.875  34.883  84.839  1.00  0.39      2GCR 401
+ATOM    318  N   SER    39       8.550  31.870  80.891  1.00  0.78      2GCR 402
+ATOM    319  CA  SER    39       8.760  31.075  79.685  1.00  0.27      2GCR 403
+ATOM    320  C   SER    39       7.488  30.639  78.943  1.00  0.49      2GCR 404
+ATOM    321  O   SER    39       6.468  30.293  79.567  1.00  0.38      2GCR 405
+ATOM    322  CB  SER    39       9.437  29.765  80.164  1.00  0.57      2GCR 406
+ATOM    323  OG  SER    39       9.174  29.650  81.588  1.00  0.63      2GCR 407
+ATOM    324  N   GLY    40       7.552  30.574  77.638  1.00  0.37      2GCR 408
+ATOM    325  CA  GLY    40       6.710  29.822  76.705  1.00  0.30      2GCR 409
+ATOM    326  C   GLY    40       5.567  30.563  76.098  1.00  0.08      2GCR 410
+ATOM    327  O   GLY    40       5.047  31.564  76.628  1.00  0.27      2GCR 411
+ATOM    328  N   CYS    41       4.948  30.075  75.015  1.00  0.21      2GCR 412
+ATOM    329  CA  CYS    41       3.761  30.846  74.505  1.00  0.28      2GCR 413
+ATOM    330  C   CYS    41       2.527  30.060  74.899  1.00  0.25      2GCR 414
+ATOM    331  O   CYS    41       2.496  28.838  74.751  1.00  0.10      2GCR 415
+ATOM    332  CB  CYS    41       3.813  30.994  72.972  1.00  0.31      2GCR 416
+ATOM    333  SG  CYS    41       5.519  31.205  72.368  1.00  0.44      2GCR 417
+ATOM    334  N   TRP    42       1.525  30.713  75.477  1.00  0.29      2GCR 418
+ATOM    335  CA  TRP    42       0.298  30.003  75.868  1.00  0.18      2GCR 419
+ATOM    336  C   TRP    42      -0.958  30.673  75.255  1.00  0.35      2GCR 420
+ATOM    337  O   TRP    42      -0.938  31.858  74.972  1.00  0.05      2GCR 421
+ATOM    338  CB  TRP    42       0.111  30.057  77.379  1.00  0.33      2GCR 422
+ATOM    339  CG  TRP    42       1.407  29.713  78.087  1.00  0.12      2GCR 423
+ATOM    340  CD1 TRP    42       2.644  30.157  78.125  1.00  0.40      2GCR 424
+ATOM    341  CD2 TRP    42       1.343  28.600  78.955  1.00  0.39      2GCR 425
+ATOM    342  NE1 TRP    42       3.405  29.310  79.035  1.00  0.14      2GCR 426
+ATOM    343  CE2 TRP    42       2.602  28.400  79.499  1.00  0.47      2GCR 427
+ATOM    344  CE3 TRP    42       0.230  27.815  79.223  1.00  0.03      2GCR 428
+ATOM    345  CZ2 TRP    42       2.866  27.392  80.377  1.00  0.00      2GCR 429
+ATOM    346  CZ3 TRP    42       0.510  26.758  80.137  1.00  0.50      2GCR 430
+ATOM    347  CH2 TRP    42       1.753  26.575  80.679  1.00  0.11      2GCR 431
+ATOM    348  N   MET    43      -2.005  29.909  75.117  1.00  0.19      2GCR 432
+ATOM    349  CA  MET    43      -3.300  30.237  74.551  1.00  0.71      2GCR 433
+ATOM    350  C   MET    43      -4.415  30.145  75.580  1.00  0.00      2GCR 434
+ATOM    351  O   MET    43      -4.813  29.083  76.018  1.00  0.37      2GCR 435
+ATOM    352  CB  MET    43      -3.632  29.249  73.401  1.00  0.45      2GCR 436
+ATOM    353  CG  MET    43      -4.688  29.882  72.496  1.00  0.02      2GCR 437
+ATOM    354  SD  MET    43      -3.919  31.127  71.356  1.00  0.12      2GCR 438
+ATOM    355  CE  MET    43      -5.420  31.935  70.583  1.00  0.00      2GCR 439
+ATOM    356  N   LEU    44      -5.048  31.272  75.899  1.00  0.64      2GCR 440
+ATOM    357  CA  LEU    44      -5.960  31.199  77.079  1.00  0.07      2GCR 441
+ATOM    358  C   LEU    44      -7.405  31.240  76.518  1.00  0.29      2GCR 442
+ATOM    359  O   LEU    44      -7.567  31.677  75.375  1.00  0.05      2GCR 443
+ATOM    360  CB  LEU    44      -5.847  32.452  77.953  1.00  0.50      2GCR 444
+ATOM    361  CG  LEU    44      -4.519  32.582  78.671  1.00  0.81      2GCR 445
+ATOM    362  CD1 LEU    44      -4.391  33.943  79.375  1.00  0.21      2GCR 446
+ATOM    363  CD2 LEU    44      -4.204  31.431  79.605  1.00  0.30      2GCR 447
+ATOM    364  N   TYR    45      -8.249  30.798  77.399  1.00  0.09      2GCR 448
+ATOM    365  CA  TYR    45      -9.626  30.416  77.206  1.00  0.06      2GCR 449
+ATOM    366  C   TYR    45     -10.551  30.936  78.309  1.00  0.05      2GCR 450
+ATOM    367  O   TYR    45     -10.303  30.569  79.479  1.00  0.35      2GCR 451
+ATOM    368  CB  TYR    45      -9.608  28.908  77.330  1.00  0.06      2GCR 452
+ATOM    369  CG  TYR    45      -8.850  28.338  76.110  1.00  0.00      2GCR 453
+ATOM    370  CD1 TYR    45      -7.607  27.849  76.249  1.00  0.00      2GCR 454
+ATOM    371  CD2 TYR    45      -9.492  28.301  74.888  1.00  0.04      2GCR 455
+ATOM    372  CE1 TYR    45      -6.885  27.355  75.185  1.00  0.30      2GCR 456
+ATOM    373  CE2 TYR    45      -8.799  27.731  73.802  1.00  0.00      2GCR 457
+ATOM    374  CZ  TYR    45      -7.517  27.276  73.953  1.00  0.12      2GCR 458
+ATOM    375  OH  TYR    45      -6.830  26.699  72.919  1.00  0.28      2GCR 459
+ATOM    376  N   GLU    46     -11.568  31.630  77.930  1.00  0.32      2GCR 460
+ATOM    377  CA  GLU    46     -12.804  31.998  78.579  1.00  0.23      2GCR 461
+ATOM    378  C   GLU    46     -13.607  30.846  79.189  1.00  1.10      2GCR 462
+ATOM    379  O   GLU    46     -14.335  31.185  80.152  1.00  0.14      2GCR 463
+ATOM    380  CB  GLU    46     -13.725  32.766  77.642  1.00  0.49      2GCR 464
+ATOM    381  CG  GLU    46     -14.593  33.682  78.508  1.00  0.80      2GCR 465
+ATOM    382  CD  GLU    46     -16.055  33.433  78.125  1.00  0.46      2GCR 466
+ATOM    383  OE1 GLU    46     -16.335  33.476  76.918  1.00  0.27      2GCR 467
+ATOM    384  OE2 GLU    46     -16.871  33.216  79.039  1.00  0.50      2GCR 468
+ATOM    385  N   GLN    47     -13.539  29.640  78.657  1.00  0.28      2GCR 469
+ATOM    386  CA  GLN    47     -14.407  28.507  79.016  1.00  0.09      2GCR 470
+ATOM    387  C   GLN    47     -13.615  27.359  79.555  1.00  0.30      2GCR 471
+ATOM    388  O   GLN    47     -12.408  27.138  79.570  1.00  0.29      2GCR 472
+ATOM    389  CB  GLN    47     -15.432  28.064  77.960  1.00  0.04      2GCR 473
+ATOM    390  CG  GLN    47     -16.877  28.519  78.251  1.00  0.10      2GCR 474
+ATOM    391  CD  GLN    47     -17.571  29.213  77.085  1.00  0.82      2GCR 475
+ATOM    392  OE1 GLN    47     -18.369  28.579  76.185  1.00  0.34      2GCR 476
+ATOM    393  NE2 GLN    47     -17.423  30.536  76.910  1.00  0.31      2GCR 477
+ATOM    394  N   PRO    48     -14.292  26.401  80.263  1.00  0.33      2GCR 478
+ATOM    395  CA  PRO    48     -13.487  25.171  80.397  1.00  0.02      2GCR 479
+ATOM    396  C   PRO    48     -13.297  24.347  79.163  1.00  0.14      2GCR 480
+ATOM    397  O   PRO    48     -14.062  24.195  78.213  1.00  0.25      2GCR 481
+ATOM    398  CB  PRO    48     -14.289  24.433  81.463  1.00  0.33      2GCR 482
+ATOM    399  CG  PRO    48     -15.705  25.025  81.366  1.00  0.62      2GCR 483
+ATOM    400  CD  PRO    48     -15.313  26.534  81.338  1.00  0.18      2GCR 484
+ATOM    401  N   ASN    49     -12.129  23.684  79.042  1.00  0.50      2GCR 485
+ATOM    402  CA  ASN    49     -12.098  22.670  77.963  1.00  0.04      2GCR 486
+ATOM    403  C   ASN    49     -11.798  23.315  76.641  1.00  0.12      2GCR 487
+ATOM    404  O   ASN    49     -12.378  22.838  75.654  1.00  0.54      2GCR 488
+ATOM    405  CB  ASN    49     -13.461  22.013  77.816  1.00  0.39      2GCR 489
+ATOM    406  CG  ASN    49     -13.443  20.521  78.168  1.00  0.06      2GCR 490
+ATOM    407  OD1 ASN    49     -13.391  19.643  77.172  1.00  0.51      2GCR 491
+ATOM    408  ND2 ASN    49     -13.645  20.166  79.412  1.00  0.03      2GCR 492
+ATOM    409  N   PHE    50     -11.020  24.372  76.659  1.00  0.91      2GCR 493
+ATOM    410  CA  PHE    50     -10.547  25.093  75.480  1.00  0.75      2GCR 494
+ATOM    411  C   PHE    50     -11.699  25.633  74.657  1.00  0.12      2GCR 495
+ATOM    412  O   PHE    50     -11.660  25.554  73.415  1.00  0.45      2GCR 496
+ATOM    413  CB  PHE    50      -9.691  24.196  74.560  1.00  0.19      2GCR 497
+ATOM    414  CG  PHE    50      -8.820  23.286  75.428  1.00  0.09      2GCR 498
+ATOM    415  CD1 PHE    50      -8.061  23.856  76.438  1.00  0.01      2GCR 499
+ATOM    416  CD2 PHE    50      -8.794  21.909  75.241  1.00  0.05      2GCR 500
+ATOM    417  CE1 PHE    50      -7.249  23.074  77.252  1.00  0.00      2GCR 501
+ATOM    418  CE2 PHE    50      -7.993  21.110  76.071  1.00  0.06      2GCR 502
+ATOM    419  CZ  PHE    50      -7.205  21.678  77.060  1.00  0.13      2GCR 503
+ATOM    420  N   THR    51     -12.675  26.234  75.278  1.00  0.00      2GCR 504
+ATOM    421  CA  THR    51     -13.901  26.683  74.614  1.00  0.34      2GCR 505
+ATOM    422  C   THR    51     -14.168  28.139  74.865  1.00  0.66      2GCR 506
+ATOM    423  O   THR    51     -13.551  28.768  75.745  1.00  0.29      2GCR 507
+ATOM    424  CB  THR    51     -15.043  25.736  74.866  1.00  0.74      2GCR 508
+ATOM    425  OG1 THR    51     -15.544  25.798  76.211  1.00  0.47      2GCR 509
+ATOM    426  CG2 THR    51     -14.576  24.317  74.628  1.00  0.21      2GCR 510
+ATOM    427  N   GLY    52     -15.070  28.757  74.120  1.00  0.50      2GCR 511
+ATOM    428  CA  GLY    52     -15.261  30.233  74.251  1.00  0.00      2GCR 512
+ATOM    429  C   GLY    52     -14.020  30.951  73.714  1.00  1.02      2GCR 513
+ATOM    430  O   GLY    52     -13.051  30.332  73.235  1.00  0.38      2GCR 514
+ATOM    431  N   CYS    53     -14.028  32.277  73.797  1.00  0.61      2GCR 515
+ATOM    432  CA  CYS    53     -12.994  33.102  73.122  1.00  0.47      2GCR 516
+ATOM    433  C   CYS    53     -11.630  33.043  73.815  1.00  0.53      2GCR 517
+ATOM    434  O   CYS    53     -11.612  32.653  74.985  1.00  0.05      2GCR 518
+ATOM    435  CB  CYS    53     -13.492  34.509  72.943  1.00  0.17      2GCR 519
+ATOM    436  SG  CYS    53     -13.632  35.102  71.223  1.00  0.77      2GCR 520
+ATOM    437  N   GLN    54     -10.535  33.409  73.166  1.00  0.22      2GCR 521
+ATOM    438  CA  GLN    54      -9.201  32.803  73.175  1.00  0.09      2GCR 522
+ATOM    439  C   GLN    54      -8.169  33.925  73.101  1.00  0.00      2GCR 523
+ATOM    440  O   GLN    54      -8.486  34.958  72.520  1.00  0.41      2GCR 524
+ATOM    441  CB  GLN    54      -8.890  31.833  72.054  1.00  0.34      2GCR 525
+ATOM    442  CG  GLN    54      -9.763  30.640  71.778  1.00  0.57      2GCR 526
+ATOM    443  CD  GLN    54      -9.385  29.903  70.482  1.00  0.44      2GCR 527
+ATOM    444  OE1 GLN    54      -8.134  29.710  70.143  1.00  0.16      2GCR 528
+ATOM    445  NE2 GLN    54     -10.250  29.454  69.547  1.00  0.03      2GCR 529
+ATOM    446  N   TYR    55      -6.977  33.797  73.753  1.00  0.00      2GCR 530
+ATOM    447  CA  TYR    55      -6.027  34.933  73.728  1.00  0.00      2GCR 531
+ATOM    448  C   TYR    55      -4.601  34.372  73.726  1.00  0.04      2GCR 532
+ATOM    449  O   TYR    55      -4.355  33.478  74.601  1.00  0.18      2GCR 533
+ATOM    450  CB  TYR    55      -6.228  35.862  74.927  1.00  0.47      2GCR 534
+ATOM    451  CG  TYR    55      -7.683  36.066  75.325  1.00  0.01      2GCR 535
+ATOM    452  CD1 TYR    55      -8.361  35.203  76.191  1.00  0.81      2GCR 536
+ATOM    453  CD2 TYR    55      -8.433  37.138  74.778  1.00  0.35      2GCR 537
+ATOM    454  CE1 TYR    55      -9.719  35.368  76.531  1.00  0.10      2GCR 538
+ATOM    455  CE2 TYR    55      -9.787  37.321  75.101  1.00  0.00      2GCR 539
+ATOM    456  CZ  TYR    55     -10.446  36.435  75.971  1.00  0.23      2GCR 540
+ATOM    457  OH  TYR    55     -11.775  36.595  76.296  1.00  0.21      2GCR 541
+ATOM    458  N   PHE    56      -3.788  34.718  72.773  1.00  0.00      2GCR 542
+ATOM    459  CA  PHE    56      -2.325  34.222  72.748  1.00  0.00      2GCR 543
+ATOM    460  C   PHE    56      -1.556  35.215  73.642  1.00  0.23      2GCR 544
+ATOM    461  O   PHE    56      -2.037  36.348  73.694  1.00  0.16      2GCR 545
+ATOM    462  CB  PHE    56      -1.768  34.446  71.309  1.00  0.00      2GCR 546
+ATOM    463  CG  PHE    56      -0.308  34.215  71.036  1.00  0.00      2GCR 547
+ATOM    464  CD1 PHE    56       0.298  32.957  71.017  1.00  0.16      2GCR 548
+ATOM    465  CD2 PHE    56       0.574  35.277  70.753  1.00  0.10      2GCR 549
+ATOM    466  CE1 PHE    56       1.672  32.784  70.741  1.00  0.01      2GCR 550
+ATOM    467  CE2 PHE    56       1.937  35.126  70.488  1.00  0.17      2GCR 551
+ATOM    468  CZ  PHE    56       2.531  33.837  70.457  1.00  0.03      2GCR 552
+ATOM    469  N   LEU    57      -0.499  34.804  74.263  1.00  0.51      2GCR 553
+ATOM    470  CA  LEU    57       0.089  35.311  75.522  1.00  0.00      2GCR 554
+ATOM    471  C   LEU    57       1.555  34.800  75.575  1.00  0.23      2GCR 555
+ATOM    472  O   LEU    57       1.775  33.599  75.448  1.00  0.29      2GCR 556
+ATOM    473  CB  LEU    57      -0.675  34.787  76.726  1.00  0.49      2GCR 557
+ATOM    474  CG  LEU    57      -1.537  35.881  77.297  1.00  0.41      2GCR 558
+ATOM    475  CD1 LEU    57      -2.921  36.025  76.802  1.00  0.01      2GCR 559
+ATOM    476  CD2 LEU    57      -1.214  36.489  78.621  1.00  0.20      2GCR 560
+ATOM    477  N   ARG    58       2.487  35.720  75.432  1.00  0.27      2GCR 561
+ATOM    478  CA  ARG    58       3.926  35.560  75.296  1.00  0.09      2GCR 562
+ATOM    479  C   ARG    58       4.573  36.108  76.585  1.00  0.31      2GCR 563
+ATOM    480  O   ARG    58       3.882  36.898  77.241  1.00  0.01      2GCR 564
+ATOM    481  CB  ARG    58       4.552  36.259  74.118  1.00  0.20      2GCR 565
+ATOM    482  CG  ARG    58       4.114  35.768  72.722  1.00  0.28      2GCR 566
+ATOM    483  CD  ARG    58       3.642  36.995  71.935  1.00  1.01      2GCR 567
+ATOM    484  NE  ARG    58       4.030  37.106  70.532  1.00  0.26      2GCR 568
+ATOM    485  CZ  ARG    58       4.488  38.279  70.034  1.00  0.61      2GCR 569
+ATOM    486  NH1 ARG    58       4.297  39.408  70.733  1.00  0.81      2GCR 570
+ATOM    487  NH2 ARG    58       5.145  38.358  68.879  1.00  0.58      2GCR 571
+ATOM    488  N   ARG    59       5.781  35.748  76.941  1.00  0.28      2GCR 572
+ATOM    489  CA  ARG    59       6.477  36.303  78.089  1.00  0.44      2GCR 573
+ATOM    490  C   ARG    59       6.244  37.767  78.341  1.00  0.21      2GCR 574
+ATOM    491  O   ARG    59       6.515  38.659  77.531  1.00  0.43      2GCR 575
+ATOM    492  CB  ARG    59       7.878  35.826  78.334  1.00  0.50      2GCR 576
+ATOM    493  CG  ARG    59       9.000  36.391  77.460  1.00  0.23      2GCR 577
+ATOM    494  CD  ARG    59      10.390  35.913  77.866  1.00  0.57      2GCR 578
+ATOM    495  NE  ARG    59      10.586  34.519  78.184  1.00  0.64      2GCR 579
+ATOM    496  CZ  ARG    59      11.705  33.773  78.253  1.00  1.40      2GCR 580
+ATOM    497  NH1 ARG    59      12.988  34.203  78.239  1.00  0.34      2GCR 581
+ATOM    498  NH2 ARG    59      11.566  32.419  78.381  1.00  0.47      2GCR 582
+ATOM    499  N   GLY    60       5.829  38.100  79.544  1.00  0.14      2GCR 583
+ATOM    500  CA  GLY    60       5.744  39.448  80.050  1.00  0.50      2GCR 584
+ATOM    501  C   GLY    60       4.736  39.510  81.206  1.00  0.18      2GCR 585
+ATOM    502  O   GLY    60       4.549  38.550  81.921  1.00  0.34      2GCR 586
+ATOM    503  N   ASP    61       4.403  40.743  81.529  1.00  0.65      2GCR 587
+ATOM    504  CA  ASP    61       3.553  41.107  82.632  1.00  0.01      2GCR 588
+ATOM    505  C   ASP    61       2.382  41.948  82.145  1.00  0.21      2GCR 589
+ATOM    506  O   ASP    61       2.540  42.773  81.243  1.00  0.36      2GCR 590
+ATOM    507  CB  ASP    61       4.124  41.442  83.943  1.00  0.34      2GCR 591
+ATOM    508  CG  ASP    61       5.610  41.051  84.066  1.00  0.65      2GCR 592
+ATOM    509  OD1 ASP    61       5.980  40.463  85.098  1.00  0.36      2GCR 593
+ATOM    510  OD2 ASP    61       6.404  41.310  83.146  1.00  0.60      2GCR 594
+ATOM    511  N   TYR    62       1.270  41.508  82.642  1.00  0.03      2GCR 595
+ATOM    512  CA  TYR    62      -0.117  41.880  82.375  1.00  0.44      2GCR 596
+ATOM    513  C   TYR    62      -0.752  42.251  83.711  1.00  0.07      2GCR 597
+ATOM    514  O   TYR    62      -1.382  41.463  84.384  1.00  0.36      2GCR 598
+ATOM    515  CB  TYR    62      -0.704  40.581  81.807  1.00  0.00      2GCR 599
+ATOM    516  CG  TYR    62       0.122  40.146  80.575  1.00  0.42      2GCR 600
+ATOM    517  CD1 TYR    62       1.297  39.457  80.778  1.00  0.08      2GCR 601
+ATOM    518  CD2 TYR    62      -0.289  40.416  79.263  1.00  0.06      2GCR 602
+ATOM    519  CE1 TYR    62       2.087  39.081  79.720  1.00  0.19      2GCR 603
+ATOM    520  CE2 TYR    62       0.470  40.002  78.180  1.00  0.50      2GCR 604
+ATOM    521  CZ  TYR    62       1.662  39.321  78.417  1.00  0.32      2GCR 605
+ATOM    522  OH  TYR    62       2.443  38.889  77.378  1.00  0.31      2GCR 606
+ATOM    523  N   PRO    63      -0.433  43.496  84.200  1.00  0.50      2GCR 607
+ATOM    524  CA  PRO    63      -1.030  43.823  85.517  1.00  0.45      2GCR 608
+ATOM    525  C   PRO    63      -2.530  44.019  85.478  1.00  0.51      2GCR 609
+ATOM    526  O   PRO    63      -3.166  44.141  86.544  1.00  0.58      2GCR 610
+ATOM    527  CB  PRO    63      -0.394  45.171  85.826  1.00  0.77      2GCR 611
+ATOM    528  CG  PRO    63       0.289  45.646  84.536  1.00  0.24      2GCR 612
+ATOM    529  CD  PRO    63       0.860  44.292  84.063  1.00  0.35      2GCR 613
+ATOM    530  N   ASP    64      -3.098  44.186  84.307  1.00  0.83      2GCR 614
+ATOM    531  CA  ASP    64      -4.577  44.246  84.135  1.00  0.29      2GCR 615
+ATOM    532  C   ASP    64      -4.969  43.271  83.074  1.00  0.37      2GCR 616
+ATOM    533  O   ASP    64      -4.240  42.277  82.860  1.00  0.53      2GCR 617
+ATOM    534  CB  ASP    64      -5.113  45.590  84.228  1.00  0.26      2GCR 618
+ATOM    535  CG  ASP    64      -5.699  46.439  83.162  1.00  0.45      2GCR 619
+ATOM    536  OD1 ASP    64      -5.018  47.007  82.276  1.00  0.26      2GCR 620
+ATOM    537  OD2 ASP    64      -6.934  46.672  83.199  1.00  0.42      2GCR 621
+ATOM    538  N   TYR    65      -6.027  43.372  82.309  1.00  0.57      2GCR 622
+ATOM    539  CA  TYR    65      -6.393  42.193  81.506  1.00  0.47      2GCR 623
+ATOM    540  C   TYR    65      -6.959  42.638  80.183  1.00  0.42      2GCR 624
+ATOM    541  O   TYR    65      -6.943  41.906  79.185  1.00  0.13      2GCR 625
+ATOM    542  CB  TYR    65      -7.327  41.282  82.290  1.00  0.19      2GCR 626
+ATOM    543  CG  TYR    65      -8.755  41.810  82.282  1.00  0.46      2GCR 627
+ATOM    544  CD1 TYR    65      -9.284  42.477  83.390  1.00  0.44      2GCR 628
+ATOM    545  CD2 TYR    65      -9.508  41.638  81.145  1.00  0.20      2GCR 629
+ATOM    546  CE1 TYR    65     -10.584  42.952  83.329  1.00  0.24      2GCR 630
+ATOM    547  CE2 TYR    65     -10.829  42.088  81.088  1.00  0.18      2GCR 631
+ATOM    548  CZ  TYR    65     -11.351  42.745  82.182  1.00  0.20      2GCR 632
+ATOM    549  OH  TYR    65     -12.670  43.196  82.108  1.00  0.53      2GCR 633
+ATOM    550  N   GLN    66      -7.403  43.896  80.199  1.00  0.12      2GCR 634
+ATOM    551  CA  GLN    66      -7.440  44.634  78.922  1.00  0.36      2GCR 635
+ATOM    552  C   GLN    66      -6.145  44.532  78.124  1.00  0.58      2GCR 636
+ATOM    553  O   GLN    66      -6.102  44.863  76.927  1.00  0.86      2GCR 637
+ATOM    554  CB  GLN    66      -7.844  46.080  79.183  1.00  0.54      2GCR 638
+ATOM    555  CG  GLN    66      -9.136  46.178  80.016  1.00  0.02      2GCR 639
+ATOM    556  CD  GLN    66     -10.377  45.576  79.325  1.00  0.81      2GCR 640
+ATOM    557  OE1 GLN    66     -10.713  45.966  78.203  1.00  0.36      2GCR 641
+ATOM    558  NE2 GLN    66     -11.096  44.645  79.935  1.00  0.28      2GCR 642
+ATOM    559  N   GLN    67      -5.106  44.027  78.741  1.00  0.13      2GCR 643
+ATOM    560  CA  GLN    67      -3.815  44.026  78.084  1.00  0.20      2GCR 644
+ATOM    561  C   GLN    67      -3.453  42.666  77.423  1.00  0.83      2GCR 645
+ATOM    562  O   GLN    67      -2.322  42.473  76.964  1.00  0.35      2GCR 646
+ATOM    563  CB  GLN    67      -2.761  44.572  79.020  1.00  0.07      2GCR 647
+ATOM    564  CG  GLN    67      -3.256  45.482  80.182  1.00  0.64      2GCR 648
+ATOM    565  CD  GLN    67      -2.149  46.417  80.787  1.00  1.06      2GCR 649
+ATOM    566  OE1 GLN    67      -1.174  45.955  81.397  1.00  0.31      2GCR 650
+ATOM    567  NE2 GLN    67      -2.236  47.738  80.656  1.00  0.04      2GCR 651
+ATOM    568  N   TRP    68      -4.413  41.754  77.397  1.00  0.30      2GCR 652
+ATOM    569  CA  TRP    68      -4.373  40.573  76.485  1.00  0.41      2GCR 653
+ATOM    570  C   TRP    68      -5.717  40.672  75.741  1.00  0.30      2GCR 654
+ATOM    571  O   TRP    68      -6.126  39.652  75.207  1.00  0.39      2GCR 655
+ATOM    572  CB  TRP    68      -4.167  39.202  77.139  1.00  0.57      2GCR 656
+ATOM    573  CG  TRP    68      -5.301  38.693  78.021  1.00  0.19      2GCR 657
+ATOM    574  CD1 TRP    68      -6.531  38.248  77.673  1.00  0.00      2GCR 658
+ATOM    575  CD2 TRP    68      -5.184  38.608  79.407  1.00  0.28      2GCR 659
+ATOM    576  NE1 TRP    68      -7.197  37.884  78.899  1.00  0.38      2GCR 660
+ATOM    577  CE2 TRP    68      -6.381  38.111  79.902  1.00  0.00      2GCR 661
+ATOM    578  CE3 TRP    68      -4.150  38.931  80.278  1.00  0.63      2GCR 662
+ATOM    579  CZ2 TRP    68      -6.603  37.922  81.267  1.00  0.20      2GCR 663
+ATOM    580  CZ3 TRP    68      -4.384  38.740  81.647  1.00  0.47      2GCR 664
+ATOM    581  CH2 TRP    68      -5.554  38.260  82.119  1.00  0.29      2GCR 665
+ATOM    582  N   MET    69      -6.336  41.826  75.732  1.00  0.27      2GCR 666
+ATOM    583  CA  MET    69      -7.620  42.034  75.026  1.00  0.01      2GCR 667
+ATOM    584  C   MET    69      -8.669  41.103  75.614  1.00  0.36      2GCR 668
+ATOM    585  O   MET    69      -9.536  40.631  74.871  1.00  1.36      2GCR 669
+ATOM    586  CB  MET    69      -7.429  41.794  73.538  1.00  0.00      2GCR 670
+ATOM    587  CG  MET    69      -6.180  42.566  73.072  1.00  0.13      2GCR 671
+ATOM    588  SD  MET    69      -5.990  42.630  71.269  1.00  0.40      2GCR 672
+ATOM    589  CE  MET    69      -6.642  41.159  70.437  1.00  0.54      2GCR 673
+ATOM    590  N   GLY    70      -8.546  40.793  76.901  1.00  0.80      2GCR 674
+ATOM    591  CA  GLY    70      -9.653  40.199  77.683  1.00  0.18      2GCR 675
+ATOM    592  C   GLY    70     -10.979  40.735  77.193  1.00  0.64      2GCR 676
+ATOM    593  O   GLY    70     -11.144  41.871  76.754  1.00  0.24      2GCR 677
+ATOM    594  N   PHE    71     -12.031  39.924  77.222  1.00  0.29      2GCR 678
+ATOM    595  CA  PHE    71     -13.357  40.554  77.080  1.00  0.15      2GCR 679
+ATOM    596  C   PHE    71     -13.868  40.642  78.553  1.00  0.62      2GCR 680
+ATOM    597  O   PHE    71     -14.313  41.685  79.017  1.00  0.21      2GCR 681
+ATOM    598  CB  PHE    71     -14.326  39.875  76.204  1.00  0.16      2GCR 682
+ATOM    599  CG  PHE    71     -14.122  39.305  74.840  1.00  0.92      2GCR 683
+ATOM    600  CD1 PHE    71     -15.220  38.638  74.230  1.00  0.34      2GCR 684
+ATOM    601  CD2 PHE    71     -12.954  39.344  74.076  1.00  0.73      2GCR 685
+ATOM    602  CE1 PHE    71     -15.132  38.053  72.988  1.00  0.24      2GCR 686
+ATOM    603  CE2 PHE    71     -12.839  38.779  72.781  1.00  0.03      2GCR 687
+ATOM    604  CZ  PHE    71     -13.952  38.120  72.238  1.00  0.54      2GCR 688
+ATOM    605  N   SER    72     -13.612  39.604  79.296  1.00  0.32      2GCR 689
+ATOM    606  CA  SER    72     -14.141  39.246  80.632  1.00  0.06      2GCR 690
+ATOM    607  C   SER    72     -13.023  39.168  81.661  1.00  0.47      2GCR 691
+ATOM    608  O   SER    72     -11.849  39.424  81.435  1.00  0.27      2GCR 692
+ATOM    609  CB  SER    72     -14.574  37.737  80.405  1.00  0.01      2GCR 693
+ATOM    610  OG  SER    72     -15.770  37.853  79.655  1.00  0.11      2GCR 694
+ATOM    611  N   ASP    73     -13.257  38.669  82.877  1.00  0.10      2GCR 695
+ATOM    612  CA  ASP    73     -12.043  38.244  83.649  1.00  0.25      2GCR 696
+ATOM    613  C   ASP    73     -12.060  36.729  83.886  1.00  0.17      2GCR 697
+ATOM    614  O   ASP    73     -11.741  36.264  84.988  1.00  0.30      2GCR 698
+ATOM    615  CB  ASP    73     -12.038  38.925  85.022  1.00  0.31      2GCR 699
+ATOM    616  CG  ASP    73     -13.318  38.556  85.791  1.00  0.50      2GCR 700
+ATOM    617  OD1 ASP    73     -13.283  38.634  87.031  1.00  0.26      2GCR 701
+ATOM    618  OD2 ASP    73     -14.350  38.187  85.207  1.00  0.20      2GCR 702
+ATOM    619  N   SER    74     -12.408  35.992  82.853  1.00  0.48      2GCR 703
+ATOM    620  CA  SER    74     -12.593  34.550  82.920  1.00  0.06      2GCR 704
+ATOM    621  C   SER    74     -11.654  33.818  81.958  1.00  0.63      2GCR 705
+ATOM    622  O   SER    74     -11.776  34.113  80.765  1.00  0.35      2GCR 706
+ATOM    623  CB  SER    74     -14.019  34.114  82.843  1.00  0.25      2GCR 707
+ATOM    624  OG  SER    74     -14.100  32.766  82.329  1.00  0.47      2GCR 708
+ATOM    625  N   VAL    75     -10.740  33.039  82.461  1.00  0.00      2GCR 709
+ATOM    626  CA  VAL    75      -9.847  32.028  82.056  1.00  0.42      2GCR 710
+ATOM    627  C   VAL    75     -10.155  30.687  82.705  1.00  0.15      2GCR 711
+ATOM    628  O   VAL    75      -9.636  30.463  83.815  1.00  0.35      2GCR 712
+ATOM    629  CB  VAL    75      -8.390  32.398  82.306  1.00  0.17      2GCR 713
+ATOM    630  CG1 VAL    75      -8.239  33.518  83.274  1.00  0.25      2GCR 714
+ATOM    631  CG2 VAL    75      -7.176  31.452  82.182  1.00  0.00      2GCR 715
+ATOM    632  N   ARG    76     -10.655  29.750  81.939  1.00  0.51      2GCR 716
+ATOM    633  CA  ARG    76     -11.151  28.456  82.490  1.00  0.17      2GCR 717
+ATOM    634  C   ARG    76     -10.323  27.295  81.984  1.00  0.31      2GCR 718
+ATOM    635  O   ARG    76     -10.196  26.266  82.696  1.00  0.16      2GCR 719
+ATOM    636  CB  ARG    76     -12.612  28.360  82.091  1.00  0.29      2GCR 720
+ATOM    637  CG  ARG    76     -13.622  28.632  83.181  1.00  0.37      2GCR 721
+ATOM    638  CD  ARG    76     -13.367  29.801  84.087  1.00  0.22      2GCR 722
+ATOM    639  NE  ARG    76     -14.473  30.723  84.238  1.00  0.40      2GCR 723
+ATOM    640  CZ  ARG    76     -15.766  30.470  84.468  1.00  0.94      2GCR 724
+ATOM    641  NH1 ARG    76     -16.290  29.273  84.211  1.00  0.78      2GCR 725
+ATOM    642  NH2 ARG    76     -16.611  31.419  84.945  1.00  0.39      2GCR 726
+ATOM    643  N   SER    77      -9.606  27.454  80.865  1.00  0.15      2GCR 727
+ATOM    644  CA  SER    77      -8.543  26.535  80.464  1.00  0.00      2GCR 728
+ATOM    645  C   SER    77      -7.327  27.167  79.811  1.00  0.05      2GCR 729
+ATOM    646  O   SER    77      -7.362  28.250  79.222  1.00  0.33      2GCR 730
+ATOM    647  CB  SER    77      -9.040  25.452  79.546  1.00  0.19      2GCR 731
+ATOM    648  OG  SER    77      -9.987  25.913  78.600  1.00  0.22      2GCR 732
+ATOM    649  N   CYS    78      -6.202  26.404  79.792  1.00  0.00      2GCR 733
+ATOM    650  CA  CYS    78      -5.041  26.858  79.056  1.00  0.07      2GCR 734
+ATOM    651  C   CYS    78      -4.277  25.754  78.332  1.00  0.86      2GCR 735
+ATOM    652  O   CYS    78      -4.179  24.642  78.890  1.00  0.00      2GCR 736
+ATOM    653  CB  CYS    78      -4.157  27.618  80.060  1.00  0.21      2GCR 737
+ATOM    654  SG  CYS    78      -3.685  26.604  81.458  1.00  0.18      2GCR 738
+ATOM    655  N   ARG    79      -3.748  26.006  77.142  1.00  0.22      2GCR 739
+ATOM    656  CA  ARG    79      -2.679  25.314  76.450  1.00  0.74      2GCR 740
+ATOM    657  C   ARG    79      -1.346  26.082  76.454  1.00  0.25      2GCR 741
+ATOM    658  O   ARG    79      -1.331  27.290  76.250  1.00  0.37      2GCR 742
+ATOM    659  CB  ARG    79      -2.878  25.110  74.930  1.00  0.21      2GCR 743
+ATOM    660  CG  ARG    79      -4.239  24.650  74.565  1.00  0.09      2GCR 744
+ATOM    661  CD  ARG    79      -4.182  23.784  73.285  1.00  0.68      2GCR 745
+ATOM    662  NE  ARG    79      -4.853  22.468  73.654  1.00  0.32      2GCR 746
+ATOM    663  CZ  ARG    79      -5.999  22.305  73.004  1.00  0.00      2GCR 747
+ATOM    664  NH1 ARG    79      -6.511  23.426  72.450  1.00  0.19      2GCR 748
+ATOM    665  NH2 ARG    79      -6.566  21.122  72.862  1.00  0.79      2GCR 749
+ATOM    666  N   LEU    80      -0.285  25.314  76.556  1.00  0.36      2GCR 750
+ATOM    667  CA  LEU    80       1.086  25.709  76.156  1.00  0.20      2GCR 751
+ATOM    668  C   LEU    80       1.322  25.457  74.705  1.00  0.29      2GCR 752
+ATOM    669  O   LEU    80       1.110  24.417  74.068  1.00  0.20      2GCR 753
+ATOM    670  CB  LEU    80       2.126  25.022  77.016  1.00  0.44      2GCR 754
+ATOM    671  CG  LEU    80       3.490  25.575  76.918  1.00  0.51      2GCR 755
+ATOM    672  CD1 LEU    80       4.538  24.575  76.574  1.00  0.28      2GCR 756
+ATOM    673  CD2 LEU    80       3.837  27.028  77.012  1.00  0.01      2GCR 757
+ATOM    674  N   ILE    81       1.757  26.512  74.001  1.00  0.42      2GCR 758
+ATOM    675  CA  ILE    81       1.725  26.116  72.504  1.00  0.33      2GCR 759
+ATOM    676  C   ILE    81       3.090  25.511  72.249  1.00  0.16      2GCR 760
+ATOM    677  O   ILE    81       4.026  26.164  72.704  1.00  0.20      2GCR 761
+ATOM    678  CB  ILE    81       1.478  27.433  71.849  1.00  0.05      2GCR 762
+ATOM    679  CG1 ILE    81      -0.010  27.849  71.939  1.00  0.00      2GCR 763
+ATOM    680  CG2 ILE    81       2.065  27.577  70.488  1.00  0.13      2GCR 764
+ATOM    681  CD1 ILE    81      -0.254  29.337  71.747  1.00  0.08      2GCR 765
+ATOM    682  N   PRO    82       3.258  24.322  71.635  1.00  0.33      2GCR 766
+ATOM    683  CA  PRO    82       4.683  23.917  71.418  1.00  0.12      2GCR 767
+ATOM    684  C   PRO    82       5.410  24.950  70.576  1.00  0.28      2GCR 768
+ATOM    685  O   PRO    82       4.876  25.673  69.737  1.00  0.02      2GCR 769
+ATOM    686  CB  PRO    82       4.547  22.676  70.540  1.00  0.19      2GCR 770
+ATOM    687  CG  PRO    82       3.108  22.518  70.140  1.00  0.16      2GCR 771
+ATOM    688  CD  PRO    82       2.339  23.247  71.167  1.00  0.11      2GCR 772
+ATOM    689  N   HIS    83       6.711  24.978  70.791  1.00  0.25      2GCR 773
+ATOM    690  CA  HIS    83       7.541  25.711  69.800  1.00  0.61      2GCR 774
+ATOM    691  C   HIS    83       7.561  24.942  68.485  1.00  0.52      2GCR 775
+ATOM    692  O   HIS    83       7.736  23.726  68.557  1.00  0.72      2GCR 776
+ATOM    693  CB  HIS    83       8.955  25.843  70.301  1.00  0.34      2GCR 777
+ATOM    694  CG  HIS    83       9.042  25.408  71.734  1.00  0.27      2GCR 778
+ATOM    695  ND1 HIS    83       9.432  26.283  72.728  1.00  0.34      2GCR 779
+ATOM    696  CD2 HIS    83       8.779  24.220  72.317  1.00  0.32      2GCR 780
+ATOM    697  CE1 HIS    83       9.409  25.626  73.866  1.00  0.37      2GCR 781
+ATOM    698  NE2 HIS    83       9.024  24.391  73.639  1.00  0.34      2GCR 782
+ATOM    699  N   THR    85       7.482  25.636  67.357  1.00  0.12      2GCR 783
+ATOM    700  CA  THR    85       7.638  24.974  66.053  1.00  0.40      2GCR 784
+ATOM    701  C   THR    85       8.935  25.123  65.366  1.00  0.00      2GCR 785
+ATOM    702  O   THR    85       9.857  25.845  65.758  1.00  0.53      2GCR 786
+ATOM    703  CB  THR    85       6.445  25.432  65.203  1.00  0.32      2GCR 787
+ATOM    704  OG1 THR    85       6.482  26.876  65.161  1.00  0.49      2GCR 788
+ATOM    705  CG2 THR    85       5.206  25.080  66.030  1.00  0.18      2GCR 789
+ATOM    706  N   SER    86       9.182  24.368  64.254  1.00  0.17      2GCR 790
+ATOM    707  CA  SER    86      10.360  24.917  63.488  1.00  0.32      2GCR 791
+ATOM    708  C   SER    86       9.914  26.035  62.557  1.00  0.22      2GCR 792
+ATOM    709  O   SER    86       9.565  27.111  63.034  1.00  0.92      2GCR 793
+ATOM    710  CB  SER    86      11.079  23.840  62.739  1.00  0.31      2GCR 794
+ATOM    711  OG  SER    86      11.555  24.360  61.489  1.00  0.37      2GCR 795
+ATOM    712  N   SER    87       9.895  25.818  61.256  1.00  0.21      2GCR 796
+ATOM    713  CA  SER    87       9.433  26.869  60.315  1.00  0.27      2GCR 797
+ATOM    714  C   SER    87       7.900  26.845  60.257  1.00  0.01      2GCR 798
+ATOM    715  O   SER    87       7.293  25.865  60.720  1.00  0.26      2GCR 799
+ATOM    716  CB  SER    87       9.910  26.429  58.919  1.00  0.40      2GCR 800
+ATOM    717  OG  SER    87      11.338  26.389  58.817  1.00  0.26      2GCR 801
+ATOM    718  N   HIS    88       7.276  27.735  59.536  1.00  0.32      2GCR 802
+ATOM    719  CA  HIS    88       5.827  27.882  59.452  1.00  0.09      2GCR 803
+ATOM    720  C   HIS    88       5.319  28.089  58.021  1.00  0.00      2GCR 804
+ATOM    721  O   HIS    88       6.028  28.750  57.223  1.00  0.12      2GCR 805
+ATOM    722  CB  HIS    88       5.342  29.119  60.200  1.00  0.00      2GCR 806
+ATOM    723  CG  HIS    88       5.391  29.024  61.719  1.00  0.07      2GCR 807
+ATOM    724  ND1 HIS    88       4.290  29.150  62.549  1.00  0.09      2GCR 808
+ATOM    725  CD2 HIS    88       6.537  29.137  62.500  1.00  0.11      2GCR 809
+ATOM    726  CE1 HIS    88       4.748  29.175  63.865  1.00  0.04      2GCR 810
+ATOM    727  NE2 HIS    88       6.102  29.189  63.827  1.00  0.23      2GCR 811
+ATOM    728  N   ARG    89       4.140  27.542  57.762  1.00  0.04      2GCR 812
+ATOM    729  CA  ARG    89       3.754  27.251  56.385  1.00  0.08      2GCR 813
+ATOM    730  C   ARG    89       2.263  27.168  56.306  1.00  0.11      2GCR 814
+ATOM    731  O   ARG    89       1.688  26.141  56.630  1.00  0.03      2GCR 815
+ATOM    732  CB  ARG    89       4.409  26.091  55.675  1.00  0.00      2GCR 816
+ATOM    733  CG  ARG    89       3.886  25.854  54.278  1.00  0.24      2GCR 817
+ATOM    734  CD  ARG    89       4.441  26.737  53.194  1.00  0.27      2GCR 818
+ATOM    735  NE  ARG    89       5.546  26.124  52.466  1.00  0.26      2GCR 819
+ATOM    736  CZ  ARG    89       6.405  26.910  51.767  1.00  0.42      2GCR 820
+ATOM    737  NH1 ARG    89       6.088  28.168  51.504  1.00  0.27      2GCR 821
+ATOM    738  NH2 ARG    89       7.525  26.396  51.272  1.00  0.19      2GCR 822
+ATOM    739  N   LEU    90       1.673  28.310  55.944  1.00  0.13      2GCR 823
+ATOM    740  CA  LEU    90       0.249  28.265  55.752  1.00  0.06      2GCR 824
+ATOM    741  C   LEU    90      -0.237  28.566  54.377  1.00  0.45      2GCR 825
+ATOM    742  O   LEU    90       0.442  29.331  53.677  1.00  0.05      2GCR 826
+ATOM    743  CB  LEU    90      -0.626  28.463  56.922  1.00  0.00      2GCR 827
+ATOM    744  CG  LEU    90      -1.098  29.910  56.920  1.00  0.48      2GCR 828
+ATOM    745  CD1 LEU    90      -1.900  30.130  55.639  1.00  0.24      2GCR 829
+ATOM    746  CD2 LEU    90      -1.760  30.416  58.166  1.00  0.09      2GCR 830
+ATOM    747  N   ARG    91      -1.323  27.922  53.984  1.00  0.25      2GCR 831
+ATOM    748  CA  ARG    91      -2.005  28.235  52.731  1.00  0.38      2GCR 832
+ATOM    749  C   ARG    91      -3.383  28.876  52.964  1.00  0.00      2GCR 833
+ATOM    750  O   ARG    91      -4.163  28.526  53.821  1.00  0.13      2GCR 834
+ATOM    751  CB  ARG    91      -2.191  27.017  51.861  1.00  0.03      2GCR 835
+ATOM    752  CG  ARG    91      -0.895  26.293  51.525  1.00  0.26      2GCR 836
+ATOM    753  CD  ARG    91      -1.238  25.043  50.667  1.00  0.24      2GCR 837
+ATOM    754  NE  ARG    91      -0.013  24.667  49.990  1.00  0.29      2GCR 838
+ATOM    755  CZ  ARG    91       0.142  23.527  49.324  1.00  0.05      2GCR 839
+ATOM    756  NH1 ARG    91      -0.900  22.963  48.692  1.00  0.27      2GCR 840
+ATOM    757  NH2 ARG    91       1.336  22.956  49.276  1.00  0.13      2GCR 841
+ATOM    758  N   ILE    92      -3.548  29.975  52.269  1.00  0.12      2GCR 842
+ATOM    759  CA  ILE    92      -4.734  30.831  52.346  1.00  0.00      2GCR 843
+ATOM    760  C   ILE    92      -5.495  30.636  51.021  1.00  0.29      2GCR 844
+ATOM    761  O   ILE    92      -4.736  30.801  50.062  1.00  0.00      2GCR 845
+ATOM    762  CB  ILE    92      -4.297  32.270  52.477  1.00  0.51      2GCR 846
+ATOM    763  CG1 ILE    92      -3.380  32.413  53.701  1.00  0.03      2GCR 847
+ATOM    764  CG2 ILE    92      -5.456  33.245  52.498  1.00  0.01      2GCR 848
+ATOM    765  CD1 ILE    92      -3.070  33.897  53.954  1.00  0.02      2GCR 849
+ATOM    766  N   TYR    93      -6.760  30.268  51.026  1.00  0.01      2GCR 850
+ATOM    767  CA  TYR    93      -7.549  30.076  49.824  1.00  0.08      2GCR 851
+ATOM    768  C   TYR    93      -8.611  31.177  49.700  1.00  0.05      2GCR 852
+ATOM    769  O   TYR    93      -9.106  31.582  50.723  1.00  0.01      2GCR 853
+ATOM    770  CB  TYR    93      -8.225  28.725  49.653  1.00  0.00      2GCR 854
+ATOM    771  CG  TYR    93      -7.264  27.567  49.517  1.00  0.08      2GCR 855
+ATOM    772  CD1 TYR    93      -6.944  26.986  48.290  1.00  0.21      2GCR 856
+ATOM    773  CD2 TYR    93      -6.653  27.061  50.673  1.00  0.09      2GCR 857
+ATOM    774  CE1 TYR    93      -6.076  25.919  48.186  1.00  0.12      2GCR 858
+ATOM    775  CE2 TYR    93      -5.773  26.020  50.570  1.00  0.21      2GCR 859
+ATOM    776  CZ  TYR    93      -5.474  25.426  49.348  1.00  0.47      2GCR 860
+ATOM    777  OH  TYR    93      -4.574  24.375  49.334  1.00  0.05      2GCR 861
+ATOM    778  N   GLU    94      -8.949  31.523  48.456  1.00  0.00      2GCR 862
+ATOM    779  CA  GLU    94      -9.978  32.417  48.125  1.00  0.00      2GCR 863
+ATOM    780  C   GLU    94     -11.318  32.119  48.793  1.00  0.00      2GCR 864
+ATOM    781  O   GLU    94     -12.111  33.058  48.938  1.00  0.14      2GCR 865
+ATOM    782  CB  GLU    94     -10.242  32.642  46.667  1.00  0.01      2GCR 866
+ATOM    783  CG  GLU    94      -9.605  33.825  46.104  1.00  0.18      2GCR 867
+ATOM    784  CD  GLU    94     -10.033  34.004  44.642  1.00  0.13      2GCR 868
+ATOM    785  OE1 GLU    94      -9.418  33.419  43.753  1.00  0.15      2GCR 869
+ATOM    786  OE2 GLU    94     -10.889  34.816  44.406  1.00  0.18      2GCR 870
+ATOM    787  N   ARG    95     -11.584  30.833  48.935  1.00  0.08      2GCR 871
+ATOM    788  CA  ARG    95     -12.909  30.211  48.975  1.00  0.00      2GCR 872
+ATOM    789  C   ARG    95     -12.832  28.994  49.875  1.00  0.00      2GCR 873
+ATOM    790  O   ARG    95     -11.706  28.465  49.808  1.00  0.30      2GCR 874
+ATOM    791  CB  ARG    95     -13.270  29.614  47.598  1.00  0.40      2GCR 875
+ATOM    792  CG  ARG    95     -13.058  30.609  46.474  1.00  0.00      2GCR 876
+ATOM    793  CD  ARG    95     -14.335  30.847  45.780  1.00  0.03      2GCR 877
+ATOM    794  NE  ARG    95     -14.802  29.857  44.865  1.00  1.03      2GCR 878
+ATOM    795  CZ  ARG    95     -14.972  28.557  44.768  1.00  0.57      2GCR 879
+ATOM    796  NH1 ARG    95     -15.092  27.706  45.792  1.00  0.40      2GCR 880
+ATOM    797  NH2 ARG    95     -15.072  27.998  43.537  1.00  0.47      2GCR 881
+ATOM    798  N   GLU    96     -13.810  28.604  50.611  1.00  0.03      2GCR 882
+ATOM    799  CA  GLU    96     -13.977  27.289  51.211  1.00  0.15      2GCR 883
+ATOM    800  C   GLU    96     -13.776  26.065  50.351  1.00  0.12      2GCR 884
+ATOM    801  O   GLU    96     -13.683  26.122  49.131  1.00  0.00      2GCR 885
+ATOM    802  CB  GLU    96     -15.237  27.211  52.058  1.00  0.00      2GCR 886
+ATOM    803  CG  GLU    96     -15.810  28.651  52.000  1.00  0.32      2GCR 887
+ATOM    804  CD  GLU    96     -17.288  28.659  52.311  1.00  1.09      2GCR 888
+ATOM    805  OE1 GLU    96     -17.628  28.782  53.505  1.00  0.72      2GCR 889
+ATOM    806  OE2 GLU    96     -18.146  28.592  51.406  1.00  0.40      2GCR 890
+ATOM    807  N   ASP    97     -13.574  24.946  51.020  1.00  0.39      2GCR 891
+ATOM    808  CA  ASP    97     -13.061  23.662  50.613  1.00  0.26      2GCR 892
+ATOM    809  C   ASP    97     -11.812  23.752  49.787  1.00  0.08      2GCR 893
+ATOM    810  O   ASP    97     -11.411  22.916  48.948  1.00  0.21      2GCR 894
+ATOM    811  CB  ASP    97     -14.108  22.685  50.130  1.00  0.28      2GCR 895
+ATOM    812  CG  ASP    97     -15.288  22.678  51.111  1.00  0.10      2GCR 896
+ATOM    813  OD1 ASP    97     -16.429  22.189  50.873  1.00  0.21      2GCR 897
+ATOM    814  OD2 ASP    97     -15.018  23.039  52.270  1.00  0.41      2GCR 898
+ATOM    815  N   TYR    98     -11.111  24.847  50.037  1.00  0.05      2GCR 899
+ATOM    816  CA  TYR    98      -9.793  25.062  49.381  1.00  0.08      2GCR 900
+ATOM    817  C   TYR    98     -10.092  25.464  47.942  1.00  0.07      2GCR 901
+ATOM    818  O   TYR    98      -9.289  25.116  47.055  1.00  0.53      2GCR 902
+ATOM    819  CB  TYR    98      -9.137  23.654  49.170  1.00  0.02      2GCR 903
+ATOM    820  CG  TYR    98      -8.540  23.267  50.510  1.00  0.02      2GCR 904
+ATOM    821  CD1 TYR    98      -8.462  24.271  51.491  1.00  0.00      2GCR 905
+ATOM    822  CD2 TYR    98      -8.069  21.984  50.726  1.00  0.24      2GCR 906
+ATOM    823  CE1 TYR    98      -7.895  23.921  52.736  1.00  0.40      2GCR 907
+ATOM    824  CE2 TYR    98      -7.498  21.667  51.956  1.00  0.00      2GCR 908
+ATOM    825  CZ  TYR    98      -7.427  22.623  52.959  1.00  0.39      2GCR 909
+ATOM    826  OH  TYR    98      -6.870  22.242  54.167  1.00  0.21      2GCR 910
+ATOM    827  N   ARG    99     -11.187  26.159  47.677  1.00  0.38      2GCR 911
+ATOM    828  CA  ARG    99     -11.313  26.426  46.209  1.00  0.14      2GCR 912
+ATOM    829  C   ARG    99     -10.602  27.661  45.856  1.00  0.02      2GCR 913
+ATOM    830  O   ARG    99     -10.267  28.495  46.701  1.00  0.30      2GCR 914
+ATOM    831  CB  ARG    99     -12.747  26.389  45.774  1.00  0.11      2GCR 915
+ATOM    832  CG  ARG    99     -12.907  25.273  44.732  1.00  0.19      2GCR 916
+ATOM    833  CD  ARG    99     -13.972  24.286  45.197  1.00  0.18      2GCR 917
+ATOM    834  NE  ARG    99     -13.617  22.915  44.762  1.00  0.66      2GCR 918
+ATOM    835  CZ  ARG    99     -13.459  21.957  45.698  1.00  0.53      2GCR 919
+ATOM    836  NH1 ARG    99     -14.390  21.736  46.621  1.00  0.26      2GCR 920
+ATOM    837  NH2 ARG    99     -12.362  21.201  45.702  1.00  0.21      2GCR 921
+ATOM    838  N   GLY   100     -10.406  27.909  44.562  1.00  0.19      2GCR 922
+ATOM    839  CA  GLY   100     -10.176  29.370  44.305  1.00  0.03      2GCR 923
+ATOM    840  C   GLY   100      -8.657  29.544  44.163  1.00  0.16      2GCR 924
+ATOM    841  O   GLY   100      -7.984  28.502  44.036  1.00  0.20      2GCR 925
+ATOM    842  N   GLN   101      -8.242  30.791  44.178  1.00  0.17      2GCR 926
+ATOM    843  CA  GLN   101      -6.846  31.180  44.422  1.00  0.20      2GCR 927
+ATOM    844  C   GLN   101      -6.200  30.789  45.691  1.00  0.01      2GCR 928
+ATOM    845  O   GLN   101      -6.734  30.628  46.791  1.00  0.16      2GCR 929
+ATOM    846  CB  GLN   101      -6.367  32.443  43.846  1.00  0.28      2GCR 930
+ATOM    847  CG  GLN   101      -5.795  32.347  42.398  1.00  0.12      2GCR 931
+ATOM    848  CD  GLN   101      -6.152  33.708  41.747  1.00  0.32      2GCR 932
+ATOM    849  OE1 GLN   101      -5.453  34.263  40.764  1.00  0.41      2GCR 933
+ATOM    850  NE2 GLN   101      -7.184  34.339  42.311  1.00  0.12      2GCR 934
+ATOM    851  N   MET   102      -4.877  30.524  45.648  1.00  0.57      2GCR 935
+ATOM    852  CA  MET   102      -4.225  30.180  46.947  1.00  0.24      2GCR 936
+ATOM    853  C   MET   102      -2.909  30.891  47.037  1.00  0.56      2GCR 937
+ATOM    854  O   MET   102      -2.157  30.893  46.038  1.00  0.25      2GCR 938
+ATOM    855  CB  MET   102      -4.267  28.715  47.181  1.00  0.21      2GCR 939
+ATOM    856  CG  MET   102      -3.341  28.080  48.139  1.00  0.00      2GCR 940
+ATOM    857  SD  MET   102      -1.610  27.981  47.644  1.00  0.22      2GCR 941
+ATOM    858  CE  MET   102      -1.264  26.670  46.456  1.00  0.27      2GCR 942
+ATOM    859  N   VAL   103      -2.570  31.546  48.153  1.00  0.47      2GCR 943
+ATOM    860  CA  VAL   103      -1.151  31.749  48.487  1.00  0.96      2GCR 944
+ATOM    861  C   VAL   103      -0.531  30.774  49.406  1.00  0.07      2GCR 945
+ATOM    862  O   VAL   103      -1.070  30.234  50.374  1.00  0.23      2GCR 946
+ATOM    863  CB  VAL   103      -0.797  33.229  48.711  1.00  0.12      2GCR 947
+ATOM    864  CG1 VAL   103      -1.357  33.981  47.497  1.00  0.03      2GCR 948
+ATOM    865  CG2 VAL   103      -1.357  33.941  49.983  1.00  0.00      2GCR 949
+ATOM    866  N   GLU   104       0.756  30.440  49.282  1.00  0.25      2GCR 950
+ATOM    867  CA  GLU   104       1.297  29.895  50.567  1.00  0.11      2GCR 951
+ATOM    868  C   GLU   104       2.165  31.049  51.178  1.00  0.57      2GCR 952
+ATOM    869  O   GLU   104       3.012  31.560  50.442  1.00  0.12      2GCR 953
+ATOM    870  CB  GLU   104       2.245  28.750  50.335  1.00  0.36      2GCR 954
+ATOM    871  CG  GLU   104       1.602  27.459  49.822  1.00  0.12      2GCR 955
+ATOM    872  CD  GLU   104       2.718  26.390  49.957  1.00  0.21      2GCR 956
+ATOM    873  OE1 GLU   104       3.765  26.578  50.640  1.00  0.03      2GCR 957
+ATOM    874  OE2 GLU   104       2.554  25.328  49.391  1.00  0.48      2GCR 958
+ATOM    875  N   ILE   105       1.946  31.254  52.436  1.00  0.20      2GCR 959
+ATOM    876  CA  ILE   105       2.294  32.204  53.418  1.00  0.10      2GCR 960
+ATOM    877  C   ILE   105       3.344  31.778  54.393  1.00  0.14      2GCR 961
+ATOM    878  O   ILE   105       3.259  30.790  55.117  1.00  0.35      2GCR 962
+ATOM    879  CB  ILE   105       1.170  32.969  54.057  1.00  0.20      2GCR 963
+ATOM    880  CG1 ILE   105       1.617  33.655  55.348  1.00  0.19      2GCR 964
+ATOM    881  CG2 ILE   105      -0.001  32.040  54.436  1.00  0.28      2GCR 965
+ATOM    882  CD1 ILE   105       0.861  32.982  56.501  1.00  0.29      2GCR 966
+ATOM    883  N   THR   106       4.398  32.587  54.595  1.00  0.36      2GCR 967
+ATOM    884  CA  THR   106       5.446  31.983  55.436  1.00  0.00      2GCR 968
+ATOM    885  C   THR   106       5.939  32.906  56.521  1.00  0.22      2GCR 969
+ATOM    886  O   THR   106       6.937  32.567  57.160  1.00  0.14      2GCR 970
+ATOM    887  CB  THR   106       6.577  31.609  54.506  1.00  0.53      2GCR 971
+ATOM    888  OG1 THR   106       6.980  30.290  54.663  1.00  0.00      2GCR 972
+ATOM    889  CG2 THR   106       7.686  32.570  54.530  1.00  0.14      2GCR 973
+ATOM    890  N   GLU   107       5.305  34.031  56.711  1.00  0.08      2GCR 974
+ATOM    891  CA  GLU   107       5.552  34.956  57.835  1.00  0.29      2GCR 975
+ATOM    892  C   GLU   107       4.231  35.612  58.256  1.00  0.30      2GCR 976
+ATOM    893  O   GLU   107       3.173  35.219  57.771  1.00  0.08      2GCR 977
+ATOM    894  CB  GLU   107       6.551  36.020  57.480  1.00  0.49      2GCR 978
+ATOM    895  CG  GLU   107       7.285  35.750  56.203  1.00  0.20      2GCR 979
+ATOM    896  CD  GLU   107       6.618  36.397  54.992  1.00  0.25      2GCR 980
+ATOM    897  OE1 GLU   107       7.349  36.782  54.063  1.00  0.39      2GCR 981
+ATOM    898  OE2 GLU   107       5.411  36.588  54.883  1.00  0.32      2GCR 982
+ATOM    899  N   ASP   108       4.284  36.514  59.197  1.00  0.00      2GCR 983
+ATOM    900  CA  ASP   108       3.136  37.222  59.768  1.00  0.52      2GCR 984
+ATOM    901  C   ASP   108       2.546  38.180  58.709  1.00  0.09      2GCR 985
+ATOM    902  O   ASP   108       3.343  38.951  58.196  1.00  0.17      2GCR 986
+ATOM    903  CB  ASP   108       3.719  38.224  60.850  1.00  0.00      2GCR 987
+ATOM    904  CG  ASP   108       4.255  37.279  61.949  1.00  0.37      2GCR 988
+ATOM    905  OD1 ASP   108       3.641  36.213  62.126  1.00  0.40      2GCR 989
+ATOM    906  OD2 ASP   108       5.259  37.585  62.587  1.00  0.54      2GCR 990
+ATOM    907  N   CYS   109       1.230  38.275  58.737  1.00  0.27      2GCR 991
+ATOM    908  CA  CYS   109       0.542  39.251  57.915  1.00  0.14      2GCR 992
+ATOM    909  C   CYS   109      -0.355  40.181  58.725  1.00  0.00      2GCR 993
+ATOM    910  O   CYS   109      -1.444  39.740  58.984  1.00  0.00      2GCR 994
+ATOM    911  CB  CYS   109      -0.437  38.562  56.906  1.00  0.12      2GCR 995
+ATOM    912  SG  CYS   109       0.593  37.660  55.715  1.00  0.67      2GCR 996
+ATOM    913  N   SER   110      -0.013  41.399  58.837  1.00  0.12      2GCR 997
+ATOM    914  CA  SER   110      -0.731  42.449  59.642  1.00  0.08      2GCR 998
+ATOM    915  C   SER   110      -2.090  42.687  59.028  1.00  0.12      2GCR 999
+ATOM    916  O   SER   110      -3.098  42.856  59.684  1.00  0.42      2GCR1000
+ATOM    917  CB  SER   110       0.221  43.664  59.299  1.00  0.02      2GCR1001
+ATOM    918  OG  SER   110       1.088  43.860  60.382  1.00  0.37      2GCR1002
+ATOM    919  N   SER   111      -2.210  42.684  57.700  1.00  0.00      2GCR1003
+ATOM    920  CA  SER   111      -3.471  42.758  56.981  1.00  0.00      2GCR1004
+ATOM    921  C   SER   111      -3.471  41.731  55.821  1.00  0.45      2GCR1005
+ATOM    922  O   SER   111      -2.535  41.907  55.029  1.00  0.44      2GCR1006
+ATOM    923  CB  SER   111      -3.482  44.057  56.095  1.00  0.43      2GCR1007
+ATOM    924  OG  SER   111      -2.235  44.737  56.138  1.00  0.52      2GCR1008
+ATOM    925  N   LEU   112      -4.581  41.073  55.714  1.00  0.42      2GCR1009
+ATOM    926  CA  LEU   112      -4.943  40.114  54.685  1.00  0.42      2GCR1010
+ATOM    927  C   LEU   112      -5.454  40.555  53.348  1.00  0.37      2GCR1011
+ATOM    928  O   LEU   112      -5.024  39.938  52.343  1.00  0.21      2GCR1012
+ATOM    929  CB  LEU   112      -5.657  38.965  55.340  1.00  0.17      2GCR1013
+ATOM    930  CG  LEU   112      -4.826  37.825  55.793  1.00  0.32      2GCR1014
+ATOM    931  CD1 LEU   112      -5.276  36.896  56.879  1.00  0.00      2GCR1015
+ATOM    932  CD2 LEU   112      -3.595  37.503  55.031  1.00  0.24      2GCR1016
+ATOM    933  N   GLN   113      -6.321  41.535  53.073  1.00  0.21      2GCR1017
+ATOM    934  CA  GLN   113      -6.274  42.259  51.779  1.00  0.24      2GCR1018
+ATOM    935  C   GLN   113      -5.287  43.366  51.605  1.00  0.22      2GCR1019
+ATOM    936  O   GLN   113      -5.136  44.050  50.574  1.00  0.53      2GCR1020
+ATOM    937  CB  GLN   113      -7.607  42.705  51.216  1.00  0.36      2GCR1021
+ATOM    938  CG  GLN   113      -7.683  42.783  49.686  1.00  0.43      2GCR1022
+ATOM    939  CD  GLN   113      -8.262  44.117  49.180  1.00  0.33      2GCR1023
+ATOM    940  OE1 GLN   113      -7.507  45.171  48.875  1.00  0.33      2GCR1024
+ATOM    941  NE2 GLN   113      -9.565  44.289  49.019  1.00  0.52      2GCR1025
+ATOM    942  N   ASP   114      -4.508  43.783  52.608  1.00  0.98      2GCR1026
+ATOM    943  CA  ASP   114      -3.476  44.795  52.200  1.00  0.08      2GCR1027
+ATOM    944  C   ASP   114      -2.483  44.129  51.291  1.00  0.34      2GCR1028
+ATOM    945  O   ASP   114      -1.391  44.647  51.023  1.00  0.93      2GCR1029
+ATOM    946  CB  ASP   114      -2.968  45.466  53.432  1.00  0.48      2GCR1030
+ATOM    947  CG  ASP   114      -1.652  46.217  53.409  1.00  0.05      2GCR1031
+ATOM    948  OD1 ASP   114      -0.989  46.301  54.461  1.00  0.55      2GCR1032
+ATOM    949  OD2 ASP   114      -1.187  46.806  52.406  1.00  0.54      2GCR1033
+ATOM    950  N   ARG   115      -2.823  42.936  50.784  1.00  0.25      2GCR1034
+ATOM    951  CA  ARG   115      -1.749  41.986  50.348  1.00  0.14      2GCR1035
+ATOM    952  C   ARG   115      -2.304  40.914  49.447  1.00  0.43      2GCR1036
+ATOM    953  O   ARG   115      -2.049  40.863  48.234  1.00  0.27      2GCR1037
+ATOM    954  CB  ARG   115      -1.224  41.390  51.710  1.00  0.21      2GCR1038
+ATOM    955  CG  ARG   115       0.160  41.968  51.969  1.00  0.49      2GCR1039
+ATOM    956  CD  ARG   115       0.833  41.414  53.193  1.00  0.64      2GCR1040
+ATOM    957  NE  ARG   115       1.203  39.991  53.018  1.00  1.17      2GCR1041
+ATOM    958  CZ  ARG   115       1.854  39.419  54.071  1.00  0.35      2GCR1042
+ATOM    959  NH1 ARG   115       1.932  40.133  55.180  1.00  0.32      2GCR1043
+ATOM    960  NH2 ARG   115       2.451  38.247  54.026  1.00  0.48      2GCR1044
+ATOM    961  N   PHE   116      -3.177  39.991  49.906  1.00  0.50      2GCR1045
+ATOM    962  CA  PHE   116      -3.779  39.089  48.857  1.00  0.69      2GCR1046
+ATOM    963  C   PHE   116      -5.310  39.572  48.758  1.00  0.46      2GCR1047
+ATOM    964  O   PHE   116      -5.746  40.378  49.616  1.00  0.27      2GCR1048
+ATOM    965  CB  PHE   116      -3.701  37.617  49.252  1.00  0.82      2GCR1049
+ATOM    966  CG  PHE   116      -2.547  37.306  50.188  1.00  0.06      2GCR1050
+ATOM    967  CD1 PHE   116      -1.241  37.267  49.695  1.00  0.15      2GCR1051
+ATOM    968  CD2 PHE   116      -2.808  37.063  51.535  1.00  0.11      2GCR1052
+ATOM    969  CE1 PHE   116      -0.182  36.984  50.559  1.00  0.14      2GCR1053
+ATOM    970  CE2 PHE   116      -1.749  36.779  52.401  1.00  0.36      2GCR1054
+ATOM    971  CZ  PHE   116      -0.435  36.740  51.913  1.00  0.51      2GCR1055
+ATOM    972  N   HIS   117      -5.929  39.000  47.729  1.00  0.28      2GCR1056
+ATOM    973  CA  HIS   117      -7.308  39.123  47.047  1.00  0.00      2GCR1057
+ATOM    974  C   HIS   117      -8.557  39.221  47.990  1.00  0.07      2GCR1058
+ATOM    975  O   HIS   117      -8.819  40.288  48.561  1.00  0.25      2GCR1059
+ATOM    976  CB  HIS   117      -7.086  38.024  46.068  1.00  0.22      2GCR1060
+ATOM    977  CG  HIS   117      -5.635  38.327  45.678  1.00  0.00      2GCR1061
+ATOM    978  ND1 HIS   117      -5.274  38.652  44.381  1.00  0.26      2GCR1062
+ATOM    979  CD2 HIS   117      -4.492  38.440  46.432  1.00  0.18      2GCR1063
+ATOM    980  CE1 HIS   117      -3.982  38.953  44.372  1.00  0.60      2GCR1064
+ATOM    981  NE2 HIS   117      -3.504  38.832  45.587  1.00  0.14      2GCR1065
+ATOM    982  N   PHE   118      -9.482  38.218  48.121  1.00  0.17      2GCR1066
+ATOM    983  CA  PHE   118     -10.437  38.330  49.292  1.00  0.03      2GCR1067
+ATOM    984  C   PHE   118     -11.908  38.030  49.203  1.00  0.48      2GCR1068
+ATOM    985  O   PHE   118     -12.510  37.063  48.667  1.00  0.16      2GCR1069
+ATOM    986  CB  PHE   118     -10.341  39.771  49.884  1.00  0.07      2GCR1070
+ATOM    987  CG  PHE   118     -10.156  39.978  51.452  1.00  0.53      2GCR1071
+ATOM    988  CD1 PHE   118     -10.626  39.066  52.440  1.00  0.94      2GCR1072
+ATOM    989  CD2 PHE   118      -9.526  41.160  51.920  1.00  0.28      2GCR1073
+ATOM    990  CE1 PHE   118     -10.513  39.385  53.833  1.00  0.26      2GCR1074
+ATOM    991  CE2 PHE   118      -9.439  41.480  53.292  1.00  0.05      2GCR1075
+ATOM    992  CZ  PHE   118      -9.936  40.599  54.248  1.00  0.51      2GCR1076
+ATOM    993  N   SER   119     -12.731  38.869  49.840  1.00  0.48      2GCR1077
+ATOM    994  CA  SER   119     -14.115  38.486  50.183  1.00  0.55      2GCR1078
+ATOM    995  C   SER   119     -14.156  38.269  51.748  1.00  0.50      2GCR1079
+ATOM    996  O   SER   119     -15.245  37.995  52.314  1.00  0.28      2GCR1080
+ATOM    997  CB  SER   119     -14.501  37.196  49.457  1.00  0.07      2GCR1081
+ATOM    998  OG  SER   119     -15.914  37.045  49.444  1.00  0.66      2GCR1082
+ATOM    999  N   ASP   120     -12.907  38.410  52.283  1.00  0.36   1  2GCR1083
+ATOM   1000  CA  ASP   120     -12.420  38.360  53.731  1.00  0.46   1  2GCR1084
+ATOM   1001  C   ASP   120     -11.675  37.013  54.015  1.00  0.40   1  2GCR1085
+ATOM   1002  O   ASP   120     -11.404  36.663  55.199  1.00  0.69   1  2GCR1086
+ATOM   1003  CB  ASP   120     -13.544  38.753  54.680  1.00  0.44   1  2GCR1087
+ATOM   1004  CG  ASP   120     -13.188  38.767  56.175  1.00  0.95   1  2GCR1088
+ATOM   1005  OD1 ASP   120     -13.494  39.777  56.925  1.00  0.27   1  2GCR1089
+ATOM   1006  OD2 ASP   120     -12.636  37.729  56.690  1.00  1.13   1  2GCR1090
+ATOM   1007  N   ILE   121     -11.401  36.395  52.866  1.00  1.18   1  2GCR1091
+ATOM   1008  CA  ILE   121     -10.593  35.184  52.678  1.00  0.28   1  2GCR1092
+ATOM   1009  C   ILE   121     -11.302  33.961  53.165  1.00  0.00   1  2GCR1093
+ATOM   1010  O   ILE   121     -12.156  34.146  54.093  1.00  0.18   1  2GCR1094
+ATOM   1011  CB  ILE   121      -9.266  35.507  53.371  1.00  0.38   1  2GCR1095
+ATOM   1012  CG1 ILE   121      -8.049  35.306  52.470  1.00  0.38   1  2GCR1096
+ATOM   1013  CG2 ILE   121      -9.031  34.712  54.641  1.00  0.49   1  2GCR1097
+ATOM   1014  CD1 ILE   121      -7.480  36.618  51.911  1.00  0.00   1  2GCR1098
+ATOM   1015  N   HIS   122     -11.164  32.724  52.676  1.00  0.39      2GCR1099
+ATOM   1016  CA  HIS   122     -12.147  31.697  52.967  1.00  0.00      2GCR1100
+ATOM   1017  C   HIS   122     -11.748  30.417  53.564  1.00  0.00      2GCR1101
+ATOM   1018  O   HIS   122     -12.679  29.653  53.920  1.00  0.11      2GCR1102
+ATOM   1019  CB  HIS   122     -13.271  31.491  51.954  1.00  0.00      2GCR1103
+ATOM   1020  CG  HIS   122     -14.209  32.738  51.939  1.00  0.00      2GCR1104
+ATOM   1021  ND1 HIS   122     -14.322  33.652  50.937  1.00  0.04      2GCR1105
+ATOM   1022  CD2 HIS   122     -15.070  33.187  52.943  1.00  0.55      2GCR1106
+ATOM   1023  CE1 HIS   122     -15.235  34.659  51.260  1.00  0.45      2GCR1107
+ATOM   1024  NE2 HIS   122     -15.707  34.403  52.559  1.00  0.03      2GCR1108
+ATOM   1025  N   SER   123     -10.479  29.999  53.556  1.00  0.31      2GCR1109
+ATOM   1026  CA  SER   123     -10.174  28.688  54.229  1.00  0.58      2GCR1110
+ATOM   1027  C   SER   123      -8.657  28.521  54.294  1.00  0.00      2GCR1111
+ATOM   1028  O   SER   123      -8.009  29.321  53.594  1.00  0.07      2GCR1112
+ATOM   1029  CB  SER   123     -10.789  27.496  53.551  1.00  0.38      2GCR1113
+ATOM   1030  OG  SER   123     -10.210  27.288  52.240  1.00  0.20      2GCR1114
+ATOM   1031  N   PHE   124      -8.149  27.663  55.151  1.00  0.37      2GCR1115
+ATOM   1032  CA  PHE   124      -6.781  27.512  55.573  1.00  0.10      2GCR1116
+ATOM   1033  C   PHE   124      -6.158  26.195  55.435  1.00  0.29      2GCR1117
+ATOM   1034  O   PHE   124      -6.592  25.148  55.873  1.00  0.07      2GCR1118
+ATOM   1035  CB  PHE   124      -6.109  28.433  56.544  1.00  0.00      2GCR1119
+ATOM   1036  CG  PHE   124      -6.857  29.740  56.792  1.00  0.26      2GCR1120
+ATOM   1037  CD1 PHE   124      -7.977  29.797  57.634  1.00  0.40      2GCR1121
+ATOM   1038  CD2 PHE   124      -6.452  30.900  56.125  1.00  0.41      2GCR1122
+ATOM   1039  CE1 PHE   124      -8.647  31.014  57.816  1.00  0.32      2GCR1123
+ATOM   1040  CE2 PHE   124      -7.120  32.109  56.303  1.00  0.42      2GCR1124
+ATOM   1041  CZ  PHE   124      -8.231  32.182  57.152  1.00  0.19      2GCR1125
+ATOM   1042  N   HIS   125      -4.911  26.071  54.941  1.00  0.01      2GCR1126
+ATOM   1043  CA  HIS   125      -4.351  24.733  55.280  1.00  0.21      2GCR1127
+ATOM   1044  C   HIS   125      -3.039  24.830  56.025  1.00  0.19      2GCR1128
+ATOM   1045  O   HIS   125      -2.135  25.502  55.587  1.00  0.03      2GCR1129
+ATOM   1046  CB  HIS   125      -4.428  23.936  53.980  1.00  0.00      2GCR1130
+ATOM   1047  CG  HIS   125      -3.673  22.615  54.254  1.00  0.14      2GCR1131
+ATOM   1048  ND1 HIS   125      -3.319  21.641  53.343  1.00  0.72      2GCR1132
+ATOM   1049  CD2 HIS   125      -3.201  22.296  55.501  1.00  0.00      2GCR1133
+ATOM   1050  CE1 HIS   125      -2.636  20.651  54.041  1.00  0.65      2GCR1134
+ATOM   1051  NE2 HIS   125      -2.563  21.057  55.367  1.00  0.69      2GCR1135
+ATOM   1052  N   VAL   126      -2.951  24.455  57.314  1.00  0.31      2GCR1136
+ATOM   1053  CA  VAL   126      -1.855  24.640  58.215  1.00  0.15      2GCR1137
+ATOM   1054  C   VAL   126      -0.883  23.458  58.090  1.00  0.28      2GCR1138
+ATOM   1055  O   VAL   126      -1.146  22.462  58.725  1.00  0.18      2GCR1139
+ATOM   1056  CB  VAL   126      -2.039  24.854  59.737  1.00  0.00      2GCR1140
+ATOM   1057  CG1 VAL   126      -0.643  25.074  60.373  1.00  0.02      2GCR1141
+ATOM   1058  CG2 VAL   126      -2.886  26.060  60.201  1.00  0.15      2GCR1142
+ATOM   1059  N   MET   127       0.169  23.650  57.330  1.00  0.27      2GCR1143
+ATOM   1060  CA  MET   127       1.208  22.680  57.101  1.00  0.53      2GCR1144
+ATOM   1061  C   MET   127       2.127  22.464  58.288  1.00  0.40      2GCR1145
+ATOM   1062  O   MET   127       2.228  21.333  58.747  1.00  0.18      2GCR1146
+ATOM   1063  CB  MET   127       2.013  23.077  55.870  1.00  0.21      2GCR1147
+ATOM   1064  CG  MET   127       1.129  22.575  54.673  1.00  0.19      2GCR1148
+ATOM   1065  SD  MET   127       2.242  22.812  53.243  1.00  0.55      2GCR1149
+ATOM   1066  CE  MET   127       1.859  24.511  52.619  1.00  0.59      2GCR1150
+ATOM   1067  N   GLU   128       2.772  23.502  58.698  1.00  0.00      2GCR1151
+ATOM   1068  CA  GLU   128       3.864  23.619  59.628  1.00  0.18      2GCR1152
+ATOM   1069  C   GLU   128       3.636  24.856  60.490  1.00  0.19      2GCR1153
+ATOM   1070  O   GLU   128       3.416  25.960  60.006  1.00  0.33      2GCR1154
+ATOM   1071  CB  GLU   128       5.201  23.633  58.936  1.00  0.18      2GCR1155
+ATOM   1072  CG  GLU   128       5.358  22.417  58.057  1.00  0.44      2GCR1156
+ATOM   1073  CD  GLU   128       6.453  22.546  57.027  1.00  0.87      2GCR1157
+ATOM   1074  OE1 GLU   128       6.114  22.411  55.834  1.00  0.45      2GCR1158
+ATOM   1075  OE2 GLU   128       7.639  22.721  57.387  1.00  0.86      2GCR1159
+ATOM   1076  N   GLY   129       3.433  24.565  61.730  1.00  0.11      2GCR1160
+ATOM   1077  CA  GLY   129       3.596  25.314  62.922  1.00  0.08      2GCR1161
+ATOM   1078  C   GLY   129       2.223  25.844  63.372  1.00  0.00      2GCR1162
+ATOM   1079  O   GLY   129       1.235  25.588  62.742  1.00  0.00      2GCR1163
+ATOM   1080  N   TYR   130       2.328  26.540  64.521  1.00  0.04      2GCR1164
+ATOM   1081  CA  TYR   130       1.037  27.009  65.089  1.00  0.15      2GCR1165
+ATOM   1082  C   TYR   130       0.946  28.522  64.786  1.00  0.44      2GCR1166
+ATOM   1083  O   TYR   130       1.991  29.148  64.686  1.00  0.00      2GCR1167
+ATOM   1084  CB  TYR   130       0.920  26.820  66.544  1.00  0.18      2GCR1168
+ATOM   1085  CG  TYR   130       0.705  25.400  67.039  1.00  0.23      2GCR1169
+ATOM   1086  CD1 TYR   130       1.279  24.320  66.402  1.00  0.23      2GCR1170
+ATOM   1087  CD2 TYR   130      -0.072  25.230  68.202  1.00  0.42      2GCR1171
+ATOM   1088  CE1 TYR   130       1.072  23.051  66.930  1.00  0.04      2GCR1172
+ATOM   1089  CE2 TYR   130      -0.268  23.957  68.720  1.00  0.74      2GCR1173
+ATOM   1090  CZ  TYR   130       0.306  22.863  68.061  1.00  0.14      2GCR1174
+ATOM   1091  OH  TYR   130       0.090  21.589  68.557  1.00  0.65      2GCR1175
+ATOM   1092  N   TRP   131      -0.281  28.912  64.619  1.00  0.15      2GCR1176
+ATOM   1093  CA  TRP   131      -0.682  30.221  64.084  1.00  0.48      2GCR1177
+ATOM   1094  C   TRP   131      -1.757  30.819  65.003  1.00  0.00      2GCR1178
+ATOM   1095  O   TRP   131      -2.527  30.054  65.622  1.00  0.24      2GCR1179
+ATOM   1096  CB  TRP   131      -1.184  29.982  62.671  1.00  0.01      2GCR1180
+ATOM   1097  CG  TRP   131      -0.096  29.699  61.677  1.00  0.00      2GCR1181
+ATOM   1098  CD1 TRP   131       0.347  28.421  61.493  1.00  0.00      2GCR1182
+ATOM   1099  CD2 TRP   131       0.568  30.522  60.760  1.00  0.47      2GCR1183
+ATOM   1100  NE1 TRP   131       1.305  28.479  60.471  1.00  0.13      2GCR1184
+ATOM   1101  CE2 TRP   131       1.455  29.711  60.041  1.00  0.48      2GCR1185
+ATOM   1102  CE3 TRP   131       0.604  31.875  60.379  1.00  0.93      2GCR1186
+ATOM   1103  CZ2 TRP   131       2.282  30.165  59.075  1.00  0.76      2GCR1187
+ATOM   1104  CZ3 TRP   131       1.461  32.347  59.392  1.00  0.56      2GCR1188
+ATOM   1105  CH2 TRP   131       2.340  31.504  58.688  1.00  0.00      2GCR1189
+ATOM   1106  N   VAL   132      -1.752  32.096  65.204  1.00  0.18      2GCR1190
+ATOM   1107  CA  VAL   132      -2.900  32.888  65.575  1.00  0.34      2GCR1191
+ATOM   1108  C   VAL   132      -3.567  33.740  64.539  1.00  0.00      2GCR1192
+ATOM   1109  O   VAL   132      -2.988  34.574  63.812  1.00  0.10      2GCR1193
+ATOM   1110  CB  VAL   132      -2.607  33.610  66.908  1.00  0.00      2GCR1194
+ATOM   1111  CG1 VAL   132      -3.948  34.301  67.306  1.00  0.00      2GCR1195
+ATOM   1112  CG2 VAL   132      -2.260  32.653  68.095  1.00  0.00      2GCR1196
+ATOM   1113  N   LEU   133      -4.856  33.563  64.392  1.00  0.11      2GCR1197
+ATOM   1114  CA  LEU   133      -5.740  34.264  63.446  1.00  0.56      2GCR1198
+ATOM   1115  C   LEU   133      -6.489  35.350  64.255  1.00  0.12      2GCR1199
+ATOM   1116  O   LEU   133      -7.063  34.884  65.270  1.00  0.12      2GCR1200
+ATOM   1117  CB  LEU   133      -6.721  33.237  62.899  1.00  0.19      2GCR1201
+ATOM   1118  CG  LEU   133      -7.571  33.769  61.734  1.00  0.00      2GCR1202
+ATOM   1119  CD1 LEU   133      -6.826  33.531  60.419  1.00  0.50      2GCR1203
+ATOM   1120  CD2 LEU   133      -8.817  32.825  61.640  1.00  0.18      2GCR1204
+ATOM   1121  N   TYR   134      -6.386  36.576  63.837  1.00  0.33      2GCR1205
+ATOM   1122  CA  TYR   134      -7.117  37.784  64.216  1.00  0.05      2GCR1206
+ATOM   1123  C   TYR   134      -8.268  38.146  63.297  1.00  0.28      2GCR1207
+ATOM   1124  O   TYR   134      -8.035  38.007  62.097  1.00  0.22      2GCR1208
+ATOM   1125  CB  TYR   134      -6.189  39.002  64.261  1.00  0.10      2GCR1209
+ATOM   1126  CG  TYR   134      -5.090  38.596  65.266  1.00  0.21      2GCR1210
+ATOM   1127  CD1 TYR   134      -4.019  37.769  64.913  1.00  0.10      2GCR1211
+ATOM   1128  CD2 TYR   134      -5.305  39.070  66.558  1.00  0.00      2GCR1212
+ATOM   1129  CE1 TYR   134      -3.038  37.418  65.882  1.00  0.00      2GCR1213
+ATOM   1130  CE2 TYR   134      -4.337  38.741  67.519  1.00  0.00      2GCR1214
+ATOM   1131  CZ  TYR   134      -3.255  37.914  67.181  1.00  0.46      2GCR1215
+ATOM   1132  OH  TYR   134      -2.379  37.626  68.219  1.00  0.22      2GCR1216
+ATOM   1133  N   GLU   135      -9.317  38.636  63.932  1.00  0.19      2GCR1217
+ATOM   1134  CA  GLU   135     -10.619  39.013  63.292  1.00  0.20      2GCR1218
+ATOM   1135  C   GLU   135     -10.498  40.259  62.399  1.00  0.01      2GCR1219
+ATOM   1136  O   GLU   135     -11.249  40.320  61.431  1.00  0.91      2GCR1220
+ATOM   1137  CB  GLU   135     -11.564  39.343  64.430  1.00  0.07      2GCR1221
+ATOM   1138  CG  GLU   135     -12.354  40.612  64.147  1.00  0.12      2GCR1222
+ATOM   1139  CD  GLU   135     -13.694  40.477  64.855  1.00  0.14      2GCR1223
+ATOM   1140  OE1 GLU   135     -14.713  41.106  64.550  1.00  0.07      2GCR1224
+ATOM   1141  OE2 GLU   135     -13.697  39.643  65.774  1.00  0.24      2GCR1225
+ATOM   1142  N   MET   136      -9.570  41.137  62.677  1.00  0.11      2GCR1226
+ATOM   1143  CA  MET   136      -9.179  42.487  62.324  1.00  0.12      2GCR1227
+ATOM   1144  C   MET   136      -7.759  42.553  61.828  1.00  0.00      2GCR1228
+ATOM   1145  O   MET   136      -6.877  41.884  62.329  1.00  0.10      2GCR1229
+ATOM   1146  CB  MET   136      -9.415  43.359  63.604  1.00  0.07      2GCR1230
+ATOM   1147  CG  MET   136     -10.911  43.577  63.826  1.00  0.61      2GCR1231
+ATOM   1148  SD  MET   136     -11.376  44.894  65.018  1.00  0.38      2GCR1232
+ATOM   1149  CE  MET   136     -10.524  44.662  66.571  1.00  0.29      2GCR1233
+ATOM   1150  N   PRO   137      -7.305  43.470  60.894  1.00  0.11      2GCR1234
+ATOM   1151  CA  PRO   137      -5.824  43.541  60.852  1.00  0.00      2GCR1235
+ATOM   1152  C   PRO   137      -5.105  43.957  62.117  1.00  0.00      2GCR1236
+ATOM   1153  O   PRO   137      -5.699  44.504  63.045  1.00  0.34      2GCR1237
+ATOM   1154  CB  PRO   137      -5.607  44.867  59.978  1.00  0.09      2GCR1238
+ATOM   1155  CG  PRO   137      -6.737  44.963  59.101  1.00  0.00      2GCR1239
+ATOM   1156  CD  PRO   137      -7.896  44.174  59.724  1.00  0.54      2GCR1240
+ATOM   1157  N   ASN   138      -3.807  43.778  62.039  1.00  0.00      2GCR1241
+ATOM   1158  CA  ASN   138      -2.721  44.041  62.934  1.00  0.34      2GCR1242
+ATOM   1159  C   ASN   138      -3.127  43.493  64.290  1.00  0.69      2GCR1243
+ATOM   1160  O   ASN   138      -3.089  44.191  65.292  1.00  0.17      2GCR1244
+ATOM   1161  CB  ASN   138      -2.436  45.544  63.047  1.00  1.03      2GCR1245
+ATOM   1162  CG  ASN   138      -0.979  45.809  63.442  1.00  0.93      2GCR1246
+ATOM   1163  OD1 ASN   138       0.038  45.471  62.663  1.00  0.39      2GCR1247
+ATOM   1164  ND2 ASN   138      -0.775  46.415  64.610  1.00  0.25      2GCR1248
+ATOM   1165  N   TYR   139      -3.532  42.227  64.154  1.00  0.07      2GCR1249
+ATOM   1166  CA  TYR   139      -3.618  41.464  65.419  1.00  0.13      2GCR1250
+ATOM   1167  C   TYR   139      -4.525  42.131  66.434  1.00  0.63      2GCR1251
+ATOM   1168  O   TYR   139      -4.130  42.333  67.597  1.00  0.38      2GCR1252
+ATOM   1169  CB  TYR   139      -2.245  41.273  66.000  1.00  0.02      2GCR1253
+ATOM   1170  CG  TYR   139      -1.210  41.104  64.874  1.00  0.17      2GCR1254
+ATOM   1171  CD1 TYR   139      -1.351  40.057  63.966  1.00  0.78      2GCR1255
+ATOM   1172  CD2 TYR   139      -0.140  42.001  64.806  1.00  0.31      2GCR1256
+ATOM   1173  CE1 TYR   139      -0.398  39.908  62.954  1.00  0.02      2GCR1257
+ATOM   1174  CE2 TYR   139       0.833  41.860  63.826  1.00  0.13      2GCR1258
+ATOM   1175  CZ  TYR   139       0.653  40.789  62.898  1.00  0.00      2GCR1259
+ATOM   1176  OH  TYR   139       1.602  40.668  61.973  1.00  0.00      2GCR1260
+ATOM   1177  N   ARG   140      -5.760  42.424  66.033  1.00  0.00      2GCR1261
+ATOM   1178  CA  ARG   140      -6.715  42.908  67.077  1.00  0.67      2GCR1262
+ATOM   1179  C   ARG   140      -8.035  42.217  66.860  1.00  0.64      2GCR1263
+ATOM   1180  O   ARG   140      -8.176  41.474  65.878  1.00  0.13      2GCR1264
+ATOM   1181  CB  ARG   140      -6.795  44.427  66.978  1.00  0.10      2GCR1265
+ATOM   1182  CG  ARG   140      -5.518  45.069  67.487  1.00  0.54      2GCR1266
+ATOM   1183  CD  ARG   140      -5.598  45.689  68.870  1.00  0.20      2GCR1267
+ATOM   1184  NE  ARG   140      -4.299  46.263  69.251  1.00  0.66      2GCR1268
+ATOM   1185  CZ  ARG   140      -3.923  47.538  69.133  1.00  0.50      2GCR1269
+ATOM   1186  NH1 ARG   140      -4.782  48.539  69.293  1.00  0.45      2GCR1270
+ATOM   1187  NH2 ARG   140      -2.645  47.901  68.868  1.00  0.36      2GCR1271
+ATOM   1188  N   GLY   141      -9.037  42.338  67.709  1.00  0.09      2GCR1272
+ATOM   1189  CA  GLY   141     -10.334  41.686  67.266  1.00  0.00      2GCR1273
+ATOM   1190  C   GLY   141     -10.283  40.242  67.857  1.00  0.01      2GCR1274
+ATOM   1191  O   GLY   141      -9.374  40.001  68.675  1.00  0.13      2GCR1275
+ATOM   1192  N   ARG   142     -11.272  39.406  67.610  1.00  0.01      2GCR1276
+ATOM   1193  CA  ARG   142     -11.180  37.970  68.089  1.00  0.21      2GCR1277
+ATOM   1194  C   ARG   142      -9.951  37.223  67.544  1.00  0.14      2GCR1278
+ATOM   1195  O   ARG   142      -9.633  37.312  66.373  1.00  0.03      2GCR1279
+ATOM   1196  CB  ARG   142     -12.407  37.245  67.535  1.00  0.25      2GCR1280
+ATOM   1197  CG  ARG   142     -13.231  36.594  68.639  1.00  0.49      2GCR1281
+ATOM   1198  CD  ARG   142     -14.679  37.016  68.473  1.00  0.34      2GCR1282
+ATOM   1199  NE  ARG   142     -15.091  37.803  69.658  1.00  0.63      2GCR1283
+ATOM   1200  CZ  ARG   142     -16.430  37.945  69.809  1.00  0.45      2GCR1284
+ATOM   1201  NH1 ARG   142     -17.238  37.373  68.903  1.00  0.52      2GCR1285
+ATOM   1202  NH2 ARG   142     -16.874  38.673  70.816  1.00  0.44      2GCR1286
+ATOM   1203  N   GLN   143      -9.325  36.413  68.343  1.00  0.27      2GCR1287
+ATOM   1204  CA  GLN   143      -8.259  35.462  68.142  1.00  0.07      2GCR1288
+ATOM   1205  C   GLN   143      -8.727  33.995  68.089  1.00  0.32      2GCR1289
+ATOM   1206  O   GLN   143      -9.620  33.580  68.831  1.00  0.20      2GCR1290
+ATOM   1207  CB  GLN   143      -7.122  35.615  69.167  1.00  0.07      2GCR1291
+ATOM   1208  CG  GLN   143      -7.093  36.908  69.931  1.00  0.05      2GCR1292
+ATOM   1209  CD  GLN   143      -5.988  37.145  70.910  1.00  0.03      2GCR1293
+ATOM   1210  OE1 GLN   143      -4.787  36.509  70.820  1.00  0.03      2GCR1294
+ATOM   1211  NE2 GLN   143      -6.134  38.027  71.933  1.00  0.07      2GCR1295
+ATOM   1212  N   TYR   144      -8.152  33.166  67.262  1.00  0.00      2GCR1296
+ATOM   1213  CA  TYR   144      -8.396  31.746  66.990  1.00  0.15      2GCR1297
+ATOM   1214  C   TYR   144      -7.023  31.046  66.860  1.00  0.31      2GCR1298
+ATOM   1215  O   TYR   144      -6.281  31.450  65.946  1.00  0.10      2GCR1299
+ATOM   1216  CB  TYR   144      -9.192  31.614  65.735  1.00  0.01      2GCR1300
+ATOM   1217  CG  TYR   144     -10.508  32.449  65.682  1.00  0.00      2GCR1301
+ATOM   1218  CD1 TYR   144     -11.608  32.069  66.375  1.00  0.10      2GCR1302
+ATOM   1219  CD2 TYR   144     -10.603  33.601  64.951  1.00  0.06      2GCR1303
+ATOM   1220  CE1 TYR   144     -12.800  32.794  66.364  1.00  0.00      2GCR1304
+ATOM   1221  CE2 TYR   144     -11.760  34.366  64.891  1.00  0.24      2GCR1305
+ATOM   1222  CZ  TYR   144     -12.886  33.950  65.588  1.00  0.02      2GCR1306
+ATOM   1223  OH  TYR   144     -14.030  34.685  65.635  1.00  0.17      2GCR1307
+ATOM   1224  N   LEU   145      -6.576  30.224  67.796  1.00  0.00      2GCR1308
+ATOM   1225  CA  LEU   145      -5.307  29.395  67.549  1.00  0.00      2GCR1309
+ATOM   1226  C   LEU   145      -5.539  28.523  66.325  1.00  0.43      2GCR1310
+ATOM   1227  O   LEU   145      -6.427  27.665  66.214  1.00  0.16      2GCR1311
+ATOM   1228  CB  LEU   145      -5.146  28.557  68.788  1.00  0.58      2GCR1312
+ATOM   1229  CG  LEU   145      -4.004  27.679  69.072  1.00  0.02      2GCR1313
+ATOM   1230  CD1 LEU   145      -4.334  26.377  69.806  1.00  0.00      2GCR1314
+ATOM   1231  CD2 LEU   145      -2.759  27.731  68.335  1.00  0.00      2GCR1315
+ATOM   1232  N   LEU   146      -4.793  28.749  65.247  1.00  0.26      2GCR1316
+ATOM   1233  CA  LEU   146      -4.531  27.681  64.282  1.00  0.36      2GCR1317
+ATOM   1234  C   LEU   146      -3.463  26.713  64.655  1.00  0.02      2GCR1318
+ATOM   1235  O   LEU   146      -2.247  26.941  64.869  1.00  0.10      2GCR1319
+ATOM   1236  CB  LEU   146      -4.683  28.199  62.883  1.00  0.00      2GCR1320
+ATOM   1237  CG  LEU   146      -6.104  28.582  62.554  1.00  0.00      2GCR1321
+ATOM   1238  CD1 LEU   146      -7.333  28.376  63.311  1.00  0.07      2GCR1322
+ATOM   1239  CD2 LEU   146      -6.305  29.489  61.376  1.00  0.18      2GCR1323
+ATOM   1240  N   ARG   147      -3.743  25.404  64.783  1.00  0.29      2GCR1324
+ATOM   1241  CA  ARG   147      -2.573  24.496  64.664  1.00  0.40      2GCR1325
+ATOM   1242  C   ARG   147      -2.684  23.623  63.434  1.00  0.33      2GCR1326
+ATOM   1243  O   ARG   147      -3.556  23.768  62.602  1.00  0.30      2GCR1327
+ATOM   1244  CB  ARG   147      -2.506  23.526  65.852  1.00  0.31      2GCR1328
+ATOM   1245  CG  ARG   147      -2.522  24.441  67.119  1.00  0.13      2GCR1329
+ATOM   1246  CD  ARG   147      -3.042  23.577  68.288  1.00  0.99      2GCR1330
+ATOM   1247  NE  ARG   147      -4.494  23.617  68.462  1.00  0.17      2GCR1331
+ATOM   1248  CZ  ARG   147      -5.260  22.532  68.163  1.00  0.65      2GCR1332
+ATOM   1249  NH1 ARG   147      -4.629  21.682  67.364  1.00  0.05      2GCR1333
+ATOM   1250  NH2 ARG   147      -6.517  22.271  68.561  1.00  0.03      2GCR1334
+ATOM   1251  N   PRO   148      -1.669  22.735  63.359  1.00  0.00      2GCR1335
+ATOM   1252  CA  PRO   148      -1.647  22.022  62.031  1.00  0.00      2GCR1336
+ATOM   1253  C   PRO   148      -2.884  21.248  61.677  1.00  0.00      2GCR1337
+ATOM   1254  O   PRO   148      -3.546  20.643  62.518  1.00  0.10      2GCR1338
+ATOM   1255  CB  PRO   148      -0.472  21.193  62.078  1.00  0.00      2GCR1339
+ATOM   1256  CG  PRO   148       0.487  21.902  63.019  1.00  0.00      2GCR1340
+ATOM   1257  CD  PRO   148      -0.405  22.512  64.114  1.00  0.00      2GCR1341
+ATOM   1258  N   GLY   149      -3.304  21.408  60.412  1.00  0.13      2GCR1342
+ATOM   1259  CA  GLY   149      -4.645  20.867  60.125  1.00  0.00      2GCR1343
+ATOM   1260  C   GLY   149      -5.340  21.617  58.997  1.00  0.43      2GCR1344
+ATOM   1261  O   GLY   149      -4.731  22.459  58.350  1.00  0.03      2GCR1345
+ATOM   1262  N   ASP   150      -6.561  21.178  58.845  1.00  0.01      2GCR1346
+ATOM   1263  CA  ASP   150      -7.524  21.396  57.806  1.00  0.00      2GCR1347
+ATOM   1264  C   ASP   150      -8.585  22.349  58.335  1.00  0.03      2GCR1348
+ATOM   1265  O   ASP   150      -9.026  22.364  59.463  1.00  0.33      2GCR1349
+ATOM   1266  CB  ASP   150      -8.116  20.166  57.148  1.00  0.75      2GCR1350
+ATOM   1267  CG  ASP   150      -7.090  19.413  56.261  1.00  0.04      2GCR1351
+ATOM   1268  OD1 ASP   150      -6.939  18.198  56.439  1.00  0.51      2GCR1352
+ATOM   1269  OD2 ASP   150      -6.416  20.036  55.453  1.00  0.40      2GCR1353
+ATOM   1270  N   TYR   151      -8.684  23.462  57.630  1.00  0.06      2GCR1354
+ATOM   1271  CA  TYR   151      -9.605  24.471  58.104  1.00  0.02      2GCR1355
+ATOM   1272  C   TYR   151     -10.439  24.803  56.854  1.00  0.07      2GCR1356
+ATOM   1273  O   TYR   151     -10.036  25.728  56.183  1.00  0.06      2GCR1357
+ATOM   1274  CB  TYR   151      -8.959  25.707  58.744  1.00  0.06      2GCR1358
+ATOM   1275  CG  TYR   151      -8.210  25.287  60.013  1.00  0.00      2GCR1359
+ATOM   1276  CD1 TYR   151      -6.826  25.057  59.979  1.00  0.17      2GCR1360
+ATOM   1277  CD2 TYR   151      -8.895  25.070  61.204  1.00  0.01      2GCR1361
+ATOM   1278  CE1 TYR   151      -6.100  24.645  61.075  1.00  0.10      2GCR1362
+ATOM   1279  CE2 TYR   151      -8.151  24.674  62.319  1.00  0.00      2GCR1363
+ATOM   1280  CZ  TYR   151      -6.803  24.457  62.294  1.00  0.22      2GCR1364
+ATOM   1281  OH  TYR   151      -6.179  24.090  63.478  1.00  0.10      2GCR1365
+ATOM   1282  N   ARG   152     -11.497  24.004  56.704  1.00  0.00      2GCR1366
+ATOM   1283  CA  ARG   152     -12.269  24.082  55.457  1.00  0.01      2GCR1367
+ATOM   1284  C   ARG   152     -13.382  25.048  55.424  1.00  0.00      2GCR1368
+ATOM   1285  O   ARG   152     -13.856  25.603  54.416  1.00  0.25      2GCR1369
+ATOM   1286  CB  ARG   152     -12.613  22.649  54.996  1.00  0.00      2GCR1370
+ATOM   1287  CG  ARG   152     -11.461  22.305  53.937  1.00  0.00      2GCR1371
+ATOM   1288  CD  ARG   152     -11.978  21.017  53.299  1.00  0.33      2GCR1372
+ATOM   1289  NE  ARG   152     -11.124  19.875  53.759  1.00  0.36      2GCR1373
+ATOM   1290  CZ  ARG   152     -11.107  18.849  52.850  1.00  0.80      2GCR1374
+ATOM   1291  NH1 ARG   152      -9.947  18.502  52.299  1.00  0.14      2GCR1375
+ATOM   1292  NH2 ARG   152     -12.315  18.340  52.542  1.00  0.34      2GCR1376
+ATOM   1293  N   ARG   153     -14.017  25.272  56.575  1.00  0.59      2GCR1377
+ATOM   1294  CA  ARG   153     -14.990  26.367  56.670  1.00  0.28      2GCR1378
+ATOM   1295  C   ARG   153     -14.640  27.154  57.914  1.00  0.00      2GCR1379
+ATOM   1296  O   ARG   153     -13.769  26.706  58.647  1.00  0.10      2GCR1380
+ATOM   1297  CB  ARG   153     -16.423  25.985  56.532  1.00  0.38      2GCR1381
+ATOM   1298  CG  ARG   153     -16.769  25.258  55.207  1.00  0.05      2GCR1382
+ATOM   1299  CD  ARG   153     -17.703  26.133  54.392  1.00  0.89      2GCR1383
+ATOM   1300  NE  ARG   153     -18.792  26.691  55.240  1.00  0.75      2GCR1384
+ATOM   1301  CZ  ARG   153     -19.759  27.338  54.527  1.00  0.84      2GCR1385
+ATOM   1302  NH1 ARG   153     -19.566  27.467  53.212  1.00  0.10      2GCR1386
+ATOM   1303  NH2 ARG   153     -20.842  27.837  55.088  1.00  0.25      2GCR1387
+ATOM   1304  N   TYR   154     -15.159  28.336  58.110  1.00  0.36      2GCR1388
+ATOM   1305  CA  TYR   154     -14.532  29.193  59.159  1.00  0.00      2GCR1389
+ATOM   1306  C   TYR   154     -14.932  28.563  60.484  1.00  0.05      2GCR1390
+ATOM   1307  O   TYR   154     -14.068  28.694  61.329  1.00  0.00      2GCR1391
+ATOM   1308  CB  TYR   154     -15.133  30.594  59.084  1.00  0.14      2GCR1392
+ATOM   1309  CG  TYR   154     -16.658  30.656  59.244  1.00  0.17      2GCR1393
+ATOM   1310  CD1 TYR   154     -17.370  30.504  60.436  1.00  0.08      2GCR1394
+ATOM   1311  CD2 TYR   154     -17.361  30.919  58.063  1.00  0.79      2GCR1395
+ATOM   1312  CE1 TYR   154     -18.782  30.591  60.469  1.00  0.00      2GCR1396
+ATOM   1313  CE2 TYR   154     -18.732  31.004  58.068  1.00  0.00      2GCR1397
+ATOM   1314  CZ  TYR   154     -19.428  30.861  59.267  1.00  0.01      2GCR1398
+ATOM   1315  OH  TYR   154     -20.772  30.993  59.115  1.00  0.10      2GCR1399
+ATOM   1316  N   LEU   155     -16.041  27.825  60.573  1.00  0.33      2GCR1400
+ATOM   1317  CA  LEU   155     -16.534  27.186  61.798  1.00  0.00      2GCR1401
+ATOM   1318  C   LEU   155     -15.712  26.054  62.342  1.00  0.04      2GCR1402
+ATOM   1319  O   LEU   155     -15.679  25.842  63.556  1.00  0.09      2GCR1403
+ATOM   1320  CB  LEU   155     -18.003  26.862  61.895  1.00  0.02      2GCR1404
+ATOM   1321  CG  LEU   155     -18.554  26.357  60.583  1.00  0.11      2GCR1405
+ATOM   1322  CD1 LEU   155     -18.769  24.847  60.595  1.00  0.35      2GCR1406
+ATOM   1323  CD2 LEU   155     -19.725  27.170  60.090  1.00  0.33      2GCR1407
+ATOM   1324  N   ASP   156     -14.889  25.508  61.481  1.00  0.42      2GCR1408
+ATOM   1325  CA  ASP   156     -13.701  24.697  61.727  1.00  0.00      2GCR1409
+ATOM   1326  C   ASP   156     -12.691  25.437  62.583  1.00  0.21      2GCR1410
+ATOM   1327  O   ASP   156     -12.047  24.857  63.426  1.00  0.04      2GCR1411
+ATOM   1328  CB  ASP   156     -13.073  24.370  60.365  1.00  0.07      2GCR1412
+ATOM   1329  CG  ASP   156     -13.760  23.196  59.684  1.00  0.16      2GCR1413
+ATOM   1330  OD1 ASP   156     -14.664  22.562  60.266  1.00  0.03      2GCR1414
+ATOM   1331  OD2 ASP   156     -13.287  22.892  58.588  1.00  0.26      2GCR1415
+ATOM   1332  N   TRP   157     -12.521  26.739  62.325  1.00  0.00      2GCR1416
+ATOM   1333  CA  TRP   157     -11.696  27.547  63.204  1.00  0.04      2GCR1417
+ATOM   1334  C   TRP   157     -12.266  27.977  64.516  1.00  0.00      2GCR1418
+ATOM   1335  O   TRP   157     -11.675  28.696  65.312  1.00  0.11      2GCR1419
+ATOM   1336  CB  TRP   157     -10.904  28.529  62.477  1.00  0.23      2GCR1420
+ATOM   1337  CG  TRP   157     -11.514  29.557  61.587  1.00  0.33      2GCR1421
+ATOM   1338  CD1 TRP   157     -12.218  30.620  62.051  1.00  0.85      2GCR1422
+ATOM   1339  CD2 TRP   157     -11.450  29.650  60.189  1.00  0.22      2GCR1423
+ATOM   1340  NE1 TRP   157     -12.595  31.375  60.910  1.00  0.36      2GCR1424
+ATOM   1341  CE2 TRP   157     -12.148  30.789  59.827  1.00  0.23      2GCR1425
+ATOM   1342  CE3 TRP   157     -10.889  28.893  59.156  1.00  0.36      2GCR1426
+ATOM   1343  CZ2 TRP   157     -12.321  31.204  58.549  1.00  0.11      2GCR1427
+ATOM   1344  CZ3 TRP   157     -11.045  29.338  57.843  1.00  0.00      2GCR1428
+ATOM   1345  CH2 TRP   157     -11.753  30.468  57.537  1.00  0.34      2GCR1429
+ATOM   1346  N   GLY   158     -13.500  27.604  64.831  1.00  0.10      2GCR1430
+ATOM   1347  CA  GLY   158     -14.245  28.138  65.960  1.00  0.37      2GCR1431
+ATOM   1348  C   GLY   158     -14.743  29.526  65.704  1.00  0.18      2GCR1432
+ATOM   1349  O   GLY   158     -15.426  30.145  66.513  1.00  0.39      2GCR1433
+ATOM   1350  N   ALA   159     -14.533  30.097  64.525  1.00  0.28      2GCR1434
+ATOM   1351  CA  ALA   159     -15.293  31.317  64.241  1.00  0.00      2GCR1435
+ATOM   1352  C   ALA   159     -16.765  31.192  64.459  1.00  0.15      2GCR1436
+ATOM   1353  O   ALA   159     -17.162  30.059  64.750  1.00  0.24      2GCR1437
+ATOM   1354  CB  ALA   159     -14.933  31.967  62.906  1.00  0.01      2GCR1438
+ATOM   1355  N   ALA   160     -17.464  32.334  64.347  1.00  0.00      2GCR1439
+ATOM   1356  CA  ALA   160     -18.900  32.306  64.025  1.00  0.00      2GCR1440
+ATOM   1357  C   ALA   160     -19.265  33.353  63.017  1.00  0.40      2GCR1441
+ATOM   1358  O   ALA   160     -20.397  33.524  62.541  1.00  0.41      2GCR1442
+ATOM   1359  CB  ALA   160     -19.657  32.570  65.423  1.00  0.13      2GCR1443
+ATOM   1360  N   ASN   161     -18.330  34.171  62.500  1.00  0.12      2GCR1444
+ATOM   1361  CA  ASN   161     -18.718  34.579  61.041  1.00  0.01      2GCR1445
+ATOM   1362  C   ASN   161     -17.330  34.370  60.385  1.00  0.59      2GCR1446
+ATOM   1363  O   ASN   161     -16.395  34.015  61.127  1.00  0.35      2GCR1447
+ATOM   1364  CB  ASN   161     -19.012  36.079  61.212  1.00  0.01      2GCR1448
+ATOM   1365  CG  ASN   161     -18.007  36.565  62.326  1.00  0.00      2GCR1449
+ATOM   1366  OD1 ASN   161     -16.740  36.738  62.070  1.00  0.32      2GCR1450
+ATOM   1367  ND2 ASN   161     -18.504  36.971  63.476  1.00  0.21      2GCR1451
+ATOM   1368  N   ALA   162     -17.166  34.527  59.117  1.00  0.03      2GCR1452
+ATOM   1369  CA  ALA   162     -15.946  34.443  58.344  1.00  0.00      2GCR1453
+ATOM   1370  C   ALA   162     -14.969  35.569  58.359  1.00  0.02      2GCR1454
+ATOM   1371  O   ALA   162     -13.990  35.565  57.619  1.00  0.35      2GCR1455
+ATOM   1372  CB  ALA   162     -16.372  34.097  56.904  1.00  0.17      2GCR1456
+ATOM   1373  N   ARG   163     -15.100  36.642  59.135  1.00  0.02      2GCR1457
+ATOM   1374  CA  ARG   163     -14.201  37.775  58.975  1.00  0.01      2GCR1458
+ATOM   1375  C   ARG   163     -12.882  37.582  59.664  1.00  0.47      2GCR1459
+ATOM   1376  O   ARG   163     -12.935  37.112  60.790  1.00  0.16      2GCR1460
+ATOM   1377  CB  ARG   163     -14.784  39.134  59.279  1.00  0.46      2GCR1461
+ATOM   1378  CG  ARG   163     -15.075  39.449  60.732  1.00  0.27      2GCR1462
+ATOM   1379  CD  ARG   163     -15.337  40.956  60.856  1.00  0.68      2GCR1463
+ATOM   1380  NE  ARG   163     -16.724  41.235  61.207  1.00  0.00      2GCR1464
+ATOM   1381  CZ  ARG   163     -17.352  40.516  62.174  1.00  0.78      2GCR1465
+ATOM   1382  NH1 ARG   163     -16.752  39.955  63.221  1.00  0.18      2GCR1466
+ATOM   1383  NH2 ARG   163     -18.675  40.319  62.155  1.00  0.29      2GCR1467
+ATOM   1384  N   VAL   164     -11.833  37.991  58.988  1.00  0.15      2GCR1468
+ATOM   1385  CA  VAL   164     -10.457  37.781  59.525  1.00  0.91      2GCR1469
+ATOM   1386  C   VAL   164      -9.592  38.937  59.077  1.00  0.16      2GCR1470
+ATOM   1387  O   VAL   164      -9.783  39.485  57.976  1.00  0.24      2GCR1471
+ATOM   1388  CB  VAL   164      -9.964  36.437  59.083  1.00  0.02      2GCR1472
+ATOM   1389  CG1 VAL   164     -10.504  35.030  59.401  1.00  0.02      2GCR1473
+ATOM   1390  CG2 VAL   164      -8.828  36.455  58.088  1.00  0.37      2GCR1474
+ATOM   1391  N   GLY   165      -8.630  39.467  59.800  1.00  0.04      2GCR1475
+ATOM   1392  CA  GLY   165      -7.765  40.403  58.986  1.00  0.08      2GCR1476
+ATOM   1393  C   GLY   165      -6.323  40.287  59.347  1.00  0.11      2GCR1477
+ATOM   1394  O   GLY   165      -5.418  40.897  58.823  1.00  0.02      2GCR1478
+ATOM   1395  N   SER   166      -5.966  39.397  60.298  1.00  0.20      2GCR1479
+ATOM   1396  CA  SER   166      -4.534  39.075  60.302  1.00  0.04      2GCR1480
+ATOM   1397  C   SER   166      -4.198  37.744  60.991  1.00  0.38      2GCR1481
+ATOM   1398  O   SER   166      -5.051  37.257  61.757  1.00  0.13      2GCR1482
+ATOM   1399  CB  SER   166      -3.793  40.251  60.863  1.00  0.33      2GCR1483
+ATOM   1400  OG  SER   166      -4.122  40.485  62.239  1.00  0.18      2GCR1484
+ATOM   1401  N   LEU   167      -3.036  37.209  60.808  1.00  0.13      2GCR1485
+ATOM   1402  CA  LEU   167      -2.379  35.912  61.080  1.00  0.08      2GCR1486
+ATOM   1403  C   LEU   167      -0.908  36.174  61.519  1.00  0.23      2GCR1487
+ATOM   1404  O   LEU   167      -0.191  37.073  60.996  1.00  0.09      2GCR1488
+ATOM   1405  CB  LEU   167      -2.297  35.149  59.745  1.00  0.37      2GCR1489
+ATOM   1406  CG  LEU   167      -3.280  34.022  59.541  1.00  0.11      2GCR1490
+ATOM   1407  CD1 LEU   167      -3.538  33.660  58.101  1.00  0.44      2GCR1491
+ATOM   1408  CD2 LEU   167      -2.998  32.734  60.306  1.00  0.16      2GCR1492
+ATOM   1409  N   ARG   168      -0.473  35.373  62.449  1.00  0.61      2GCR1493
+ATOM   1410  CA  ARG   168       0.746  35.499  63.287  1.00  0.47      2GCR1494
+ATOM   1411  C   ARG   168       1.072  34.105  63.804  1.00  0.00      2GCR1495
+ATOM   1412  O   ARG   168       0.364  33.596  64.694  1.00  0.06      2GCR1496
+ATOM   1413  CB  ARG   168       0.539  36.460  64.410  1.00  0.00      2GCR1497
+ATOM   1414  CG  ARG   168       1.581  37.096  65.235  1.00  0.53      2GCR1498
+ATOM   1415  CD  ARG   168       1.116  37.231  66.700  1.00  0.92      2GCR1499
+ATOM   1416  NE  ARG   168       0.374  38.497  66.876  1.00  0.54      2GCR1500
+ATOM   1417  CZ  ARG   168       1.051  39.519  67.446  1.00  0.64      2GCR1501
+ATOM   1418  NH1 ARG   168       2.372  39.580  67.222  1.00  0.73      2GCR1502
+ATOM   1419  NH2 ARG   168       0.411  40.423  68.173  1.00  0.31      2GCR1503
+ATOM   1420  N   ARG   169       2.153  33.523  63.312  1.00  0.28      2GCR1504
+ATOM   1421  CA  ARG   169       3.079  32.656  63.999  1.00  0.00      2GCR1505
+ATOM   1422  C   ARG   169       3.203  32.939  65.491  1.00  0.07      2GCR1506
+ATOM   1423  O   ARG   169       3.598  34.019  65.966  1.00  0.04      2GCR1507
+ATOM   1424  CB  ARG   169       4.438  32.421  63.395  1.00  0.00      2GCR1508
+ATOM   1425  CG  ARG   169       4.404  32.677  61.877  1.00  0.16      2GCR1509
+ATOM   1426  CD  ARG   169       5.797  33.077  61.309  1.00  0.00      2GCR1510
+ATOM   1427  NE  ARG   169       6.337  34.184  62.121  1.00  0.47      2GCR1511
+ATOM   1428  CZ  ARG   169       7.374  34.939  61.753  1.00  0.03      2GCR1512
+ATOM   1429  NH1 ARG   169       7.356  35.460  60.508  1.00  0.70      2GCR1513
+ATOM   1430  NH2 ARG   169       8.450  35.157  62.499  1.00  0.46      2GCR1514
+ATOM   1431  N   ALA   170       2.755  31.936  66.189  1.00  0.00      2GCR1515
+ATOM   1432  CA  ALA   170       2.923  31.567  67.579  1.00  0.18      2GCR1516
+ATOM   1433  C   ALA   170       4.395  31.385  67.835  1.00  0.32      2GCR1517
+ATOM   1434  O   ALA   170       4.979  30.333  67.681  1.00  0.06      2GCR1518
+ATOM   1435  CB  ALA   170       2.196  30.225  67.657  1.00  0.25      2GCR1519
+ATOM   1436  N   VAL   171       5.172  32.438  68.003  1.00  0.37      2GCR1520
+ATOM   1437  CA  VAL   171       6.657  32.125  67.955  1.00  0.07      2GCR1521
+ATOM   1438  C   VAL   171       7.178  32.725  69.275  1.00  0.16      2GCR1522
+ATOM   1439  O   VAL   171       6.429  33.536  69.868  1.00  0.28      2GCR1523
+ATOM   1440  CB  VAL   171       7.188  33.237  66.927  1.00  0.41      2GCR1524
+ATOM   1441  CG1 VAL   171       8.149  34.141  67.741  1.00  0.34      2GCR1525
+ATOM   1442  CG2 VAL   171       7.970  32.730  65.720  1.00  0.52      2GCR1526
+ATOM   1443  N   ASP   172       8.422  32.493  69.603  1.00  0.46      2GCR1527
+ATOM   1444  CA  ASP   172       8.902  32.920  70.920  1.00  0.94      2GCR1528
+ATOM   1445  C   ASP   172       9.166  34.389  71.045  1.00  0.52      2GCR1529
+ATOM   1446  O   ASP   172       9.943  35.007  70.295  1.00  0.26      2GCR1530
+ATOM   1447  CB  ASP   172      10.006  32.031  71.459  1.00  0.68      2GCR1531
+ATOM   1448  CG  ASP   172       9.837  31.923  72.987  1.00  0.67      2GCR1532
+ATOM   1449  OD1 ASP   172      10.582  32.578  73.723  1.00  0.51      2GCR1533
+ATOM   1450  OD2 ASP   172       8.936  31.219  73.436  1.00  0.15      2GCR1534
+ATOM   1451  N   PHE   173       8.483  35.045  71.991  1.00  0.69   1  2GCR1535
+ATOM   1452  CA  PHE   173       8.612  36.484  72.127  1.00  1.00   1  2GCR1536
+ATOM   1453  C   PHE   173       9.423  36.996  73.276  1.00  1.13   1  2GCR1537
+ATOM   1454  O   PHE   173       9.735  36.302  74.255  1.00  0.36   1  2GCR1538
+ATOM   1455  CB  PHE   173       7.322  37.257  71.932  1.00  0.34   1  2GCR1539
+ATOM   1456  CG  PHE   173       7.562  38.353  70.872  1.00  1.28   1  2GCR1540
+ATOM   1457  CD1 PHE   173       8.218  37.990  69.697  1.00  1.12   1  2GCR1541
+ATOM   1458  CD2 PHE   173       7.135  39.652  71.119  1.00  0.62   1  2GCR1542
+ATOM   1459  CE1 PHE   173       8.468  38.930  68.696  1.00  0.68   1  2GCR1543
+ATOM   1460  CE2 PHE   173       7.399  40.567  70.108  1.00  0.24   1  2GCR1544
+ATOM   1461  CZ  PHE   173       8.040  40.242  68.925  1.00  0.91   1  2GCR1545
+ATOM   1462  N   TYR   174       9.835  38.279  73.165  1.00  0.49   1  2GCR1546
+ATOM   1463  CA  TYR   174      10.592  38.828  74.278  1.00  0.57   1  2GCR1547
+ATOM   1464  C   TYR   174      10.363  40.299  74.493  1.00  0.54   1  2GCR1548
+ATOM   1465  O   TYR   174      10.340  40.738  75.645  1.00  0.45   1  2GCR1549
+ATOM   1466  CB  TYR   174      11.977  38.381  74.427  1.00  0.18   1  2GCR1550
+ATOM   1467  CG  TYR   174      12.554  38.382  75.844  1.00  0.76   1  2GCR1551
+ATOM   1468  CD1 TYR   174      12.910  39.561  76.490  1.00  0.69   1  2GCR1552
+ATOM   1469  CD2 TYR   174      12.750  37.162  76.503  1.00  0.49   1  2GCR1553
+ATOM   1470  CE1 TYR   174      13.448  39.563  77.788  1.00  0.26   1  2GCR1554
+ATOM   1471  CE2 TYR   174      13.286  37.170  77.791  1.00  0.90   1  2GCR1555
+ATOM   1472  CZ  TYR   174      13.637  38.348  78.448  1.00  0.89   1  2GCR1556
+ATOM   1473  OH  TYR   174      14.181  38.314  79.736  1.00  0.32   1  2GCR1557
+ATOM   1474  OXT TYR   174      10.130  40.990  73.413  1.00  0.42   1  2GCR1558
+TER    1475      TYR   174                                              2GCR1559
+HETATM 1476  O   HOH   200      -9.694  38.248  79.564  1.00  0.40      2GCR1560
+HETATM 1477  O   HOH   201     -13.579  33.916  61.014  1.00  0.19      2GCR1561
+HETATM 1478  O   HOH   202     -18.561  38.276  76.514  1.00  0.12      2GCR1562
+HETATM 1479  O   HOH   203     -17.709  30.742  81.112  1.00  0.29      2GCR1563
+HETATM 1480  O   HOH   204     -17.803  41.400  79.564  1.00  0.39      2GCR1564
+HETATM 1481  O   HOH   205       7.311  24.897  88.811  1.00  0.13      2GCR1565
+HETATM 1482  O   HOH   206      -8.716  24.173  71.151  1.00  0.52      2GCR1566
+HETATM 1483  O   HOH   207     -13.509  26.488  68.556  1.00  0.22      2GCR1567
+HETATM 1484  O   HOH   208     -12.442  24.271  67.212  1.00  0.23      2GCR1568
+HETATM 1485  O   HOH   209      -9.853  28.088  67.138  1.00  0.04      2GCR1569
+HETATM 1486  O   HOH   210     -12.388  32.154  70.022  1.00  0.32      2GCR1570
+HETATM 1487  O   HOH   211     -12.840  27.602  71.843  1.00  0.26      2GCR1571
+HETATM 1488  O   HOH   212     -17.293  23.701  67.829  1.00  0.44      2GCR1572
+HETATM 1489  O   HOH   213       1.058  21.009  74.819  1.00  0.42      2GCR1573
+HETATM 1490  O   HOH   214      -2.420  38.112  70.821  1.00  0.21      2GCR1574
+HETATM 1491  O   HOH   215      -3.152  35.009  99.446  1.00  0.29      2GCR1575
+HETATM 1492  O   HOH   216      -0.355  33.508  98.926  1.00  0.21      2GCR1576
+HETATM 1493  O   HOH   217      -4.480  38.998  99.776  1.00  0.54      2GCR1577
+HETATM 1494  O   HOH   218      -1.110  40.596  97.866  1.00  0.26      2GCR1578
+HETATM 1495  O   HOH   219      -6.992  41.873  96.988  1.00  0.60      2GCR1579
+HETATM 1496  O   HOH   220      -8.975  23.125  68.537  1.00  0.43      2GCR1580
+HETATM 1497  O   HOH   221      -5.486  35.862 100.893  1.00  0.36      2GCR1581
+HETATM 1498  O   HOH   222     -16.657  19.757  68.148  1.00  0.38      2GCR1582
+HETATM 1499  O   HOH   223      -5.916  15.232  63.704  1.00  0.50      2GCR1583
+HETATM 1500  O   HOH   224      -0.852  22.146  73.395  1.00  0.29      2GCR1584
+HETATM 1501  O   HOH   225      -3.312  30.972  96.418  1.00  0.27      2GCR1585
+HETATM 1502  O   HOH   226       0.033  19.119  71.451  1.00  0.32      2GCR1586
+HETATM 1503  O   HOH   227      -2.679  19.580  88.217  1.00  0.26      2GCR1587
+HETATM 1504  O   HOH   228       0.936  37.511  95.720  1.00  0.32      2GCR1588
+HETATM 1505  O   HOH   229       2.016  43.218  94.000  1.00  0.15      2GCR1589
+HETATM 1506  O   HOH   230     -11.730  37.074  41.246  1.00  0.47      2GCR1590
+HETATM 1507  O   HOH   231       9.058  30.394  61.895  1.00  0.00      2GCR1591
+HETATM 1508  O   HOH   232       9.654  29.697  58.825  1.00  0.38      2GCR1592
+HETATM 1509  O   HOH   233       8.300  26.612  56.043  1.00  0.33      2GCR1593
+HETATM 1510  O   HOH   234      10.577  28.407  65.057  1.00  0.25      2GCR1594
+HETATM 1511  O   HOH   235       3.013  22.214  46.284  1.00  0.35      2GCR1595
+HETATM 1512  O   HOH   236     -13.191  29.915  42.938  1.00  0.10      2GCR1596
+HETATM 1513  O   HOH   237      -2.849  21.603  50.021  1.00  0.55      2GCR1597
+HETATM 1514  O   HOH   238     -11.901  38.603  45.095  1.00  0.22      2GCR1598
+HETATM 1515  O   HOH   239     -16.762  25.630  47.424  1.00  0.30      2GCR1599
+HETATM 1516  O   HOH   240     -12.296  19.705  50.084  1.00  0.49      2GCR1600
+HETATM 1517  O   HOH   241     -10.088  18.280  62.317  1.00  0.63      2GCR1601
+HETATM 1518  O   HOH   242       2.383  41.101  70.325  1.00  0.32      2GCR1602
+HETATM 1519  O   HOH   243       7.098  37.997  59.739  1.00  0.26      2GCR1603
+HETATM 1520  O   HOH   244       7.666  37.199  65.318  1.00  0.43      2GCR1604
+HETATM 1521  O   HOH   245      -1.992  41.811  69.565  1.00  0.19      2GCR1605
+HETATM 1522  O   HOH   246       5.079  40.391  56.739  1.00  0.39      2GCR1606
+HETATM 1523  O   HOH   247      -5.519  12.982  59.615  1.00  0.93      2GCR1607
+HETATM 1524  O   HOH   248       0.607  19.077  52.383  1.00  0.23      2GCR1608
+HETATM 1525  O   HOH   249      -0.927  19.917  57.934  1.00  0.22      2GCR1609
+HETATM 1526  O   HOH   250       6.443  22.053  51.468  1.00  0.34      2GCR1610
+HETATM 1527  O   HOH   251     -13.845  43.791  66.025  1.00  0.60      2GCR1611
+HETATM 1528  O   HOH   252     -13.558  36.398  63.635  1.00  0.00      2GCR1612
+HETATM 1529  O   HOH   253     -17.487  36.141  77.906  1.00  0.43      2GCR1613
+HETATM 1530  O   HOH   254       9.404  24.310  91.755  1.00  0.29      2GCR1614
+HETATM 1531  O   HOH   255       4.292  30.969  90.386  1.00  0.18      2GCR1615
+HETATM 1532  O   HOH   256       4.211  33.698  91.409  1.00  0.26      2GCR1616
+HETATM 1533  O   HOH   257       2.998  39.505  92.972  1.00  0.52      2GCR1617
+HETATM 1534  O   HOH   258       5.790  20.623  46.876  1.00  0.54      2GCR1618
+HETATM 1535  O   HOH   259     -14.430  23.074  89.062  1.00  0.29      2GCR1619
+HETATM 1536  O   HOH   260      -6.206  28.963  97.955  1.00  0.64      2GCR1620
+HETATM 1537  O   HOH   261       9.281  41.024  86.564  1.00  0.44      2GCR1621
+HETATM 1538  O   HOH   262       9.439  39.223  81.996  1.00  0.35      2GCR1622
+HETATM 1539  O   HOH   263       7.056  28.699  73.218  1.00  0.14      2GCR1623
+HETATM 1540  O   HOH   264     -13.669  21.012  73.634  1.00  0.20      2GCR1624
+HETATM 1541  O   HOH   265      -3.941  38.613  73.911  1.00  0.13      2GCR1625
+HETATM 1542  O   HOH   266       5.359  42.330  69.336  1.00  0.23      2GCR1626
+HETATM 1543  O   HOH   267     -16.958  31.643  40.915  1.00  0.18      2GCR1627
+HETATM 1544  O   HOH   268       9.106  41.090  64.648  1.00  0.39      2GCR1628
+HETATM 1545  O   HOH   269      -1.600  49.105  83.167  1.00  0.16      2GCR1629
+HETATM 1546  O   HOH   270      -4.507  52.348  80.344  1.00  0.26      2GCR1630
+HETATM 1547  O   HOH   271      -3.070  14.407  55.183  1.00  0.50      2GCR1631
+HETATM 1548  O   HOH   272      -1.169  16.079  56.718  1.00  0.45      2GCR1632
+HETATM 1549  O   HOH   273     -12.474  35.978  79.361  1.00  0.36      2GCR1633
+HETATM 1550  O   HOH   274     -17.796  39.208  84.691  1.00  0.43      2GCR1634
+HETATM 1551  O   HOH   275      11.492  26.893  55.256  1.00  0.15      2GCR1635
+HETATM 1552  O   HOH   276     -20.844  27.748  73.182  1.00  0.53      2GCR1636
+HETATM 1553  O   HOH   277     -18.431  24.603  73.076  1.00  0.17      2GCR1637
+HETATM 1554  O   HOH   278     -13.545  23.995  70.451  1.00  0.27      2GCR1638
+HETATM 1555  O   HOH   279      15.347  32.241  81.706  1.00  0.27      2GCR1639
+HETATM 1556  O   HOH   280      11.211  38.160  55.887  1.00  0.44      2GCR1640
+HETATM 1557  O   HOH   281       9.307  21.941  52.656  1.00  0.31      2GCR1641
+HETATM 1558  O   HOH   282       4.721  41.480  63.673  1.00  0.19      2GCR1642
+HETATM 1559  O   HOH   283     -18.993  29.219  69.384  1.00  0.71      2GCR1643
+HETATM 1560  O   HOH   284      -6.172  34.516  47.641  1.00  0.14      2GCR1644
+HETATM 1561  O   HOH   285      -2.214  35.833  44.659  1.00  0.03      2GCR1645
+HETATM 1562  O   HOH   286     -21.108  36.419  64.926  1.00  0.09      2GCR1646
+HETATM 1563  O   HOH   287      -4.763  48.432  79.602  1.00  0.37      2GCR1647
+HETATM 1564  O   HOH   288      10.863  38.476  58.495  1.00  0.76      2GCR1648
+HETATM 1565  O   HOH   289      -6.107  23.612  46.568  1.00  0.45      2GCR1649
+HETATM 1566  O   HOH   290     -13.272  41.670  69.265  1.00  0.37      2GCR1650
+HETATM 1567  O   HOH   291       9.858  28.893  68.317  1.00  0.38      2GCR1651
+HETATM 1568  O   HOH   292     -13.522  34.937  41.068  1.00  0.20      2GCR1652
+HETATM 1569  O   HOH   293     -16.499  34.536  42.794  1.00  0.40      2GCR1653
+HETATM 1570  O   HOH   294     -16.225  34.222  70.416  1.00  0.39      2GCR1654
+HETATM 1571  O   HOH   295     -18.262  31.712  71.922  1.00  0.37      2GCR1655
+HETATM 1572  O   HOH   296      -8.350  22.155  65.230  1.00  0.67      2GCR1656
+HETATM 1573  O   HOH   297     -21.435  43.434  68.858  1.00  0.28      2GCR1657
+HETATM 1574  O   HOH   298     -12.435  31.890  38.931  1.00  0.36      2GCR1658
+HETATM 1575  O   HOH   299     -14.129  40.149  41.615  1.00  0.29      2GCR1659
+HETATM 1576  O   HOH   300     -11.784  39.921  41.736  1.00  0.37      2GCR1660
+HETATM 1577  O   HOH   301     -13.304  40.352  44.057  1.00  0.53      2GCR1661
+HETATM 1578  O   HOH   302      11.348  33.944  62.801  1.00  0.35      2GCR1662
+HETATM 1579  O   HOH   303      10.352  32.645  59.810  1.00  0.29      2GCR1663
+HETATM 1580  O   HOH   304      -0.099  27.580  94.389  1.00  0.29      2GCR1664
+HETATM 1581  O   HOH   305      13.078  29.777  55.834  1.00  0.50      2GCR1665
+HETATM 1582  O   HOH   306      12.791  24.249  57.285  1.00  0.49      2GCR1666
+HETATM 1583  O   HOH   307      12.172  33.534  70.102  1.00  0.35      2GCR1667
+HETATM 1584  O   HOH   308       4.602  23.593  47.761  1.00  0.79      2GCR1668
+HETATM 1585  O   HOH   309       7.666  25.452  47.417  1.00  0.37      2GCR1669
+HETATM 1586  O   HOH   310     -16.606  30.748  49.057  1.00  0.19      2GCR1670
+HETATM 1587  O   HOH   311       0.655  17.467  57.868  1.00  0.38      2GCR1671
+HETATM 1588  O   HOH   312       6.207  28.335  70.194  1.00  0.22      2GCR1672
+HETATM 1589  O   HOH   313       5.894  42.688  74.995  1.00  0.50      2GCR1673
+HETATM 1590  O   HOH   314       4.753  20.812  92.019  1.00  0.44      2GCR1674
+HETATM 1591  O   HOH   315      -0.659  19.418  67.387  1.00  0.51      2GCR1675
+HETATM 1592  O   HOH   316      -0.124  26.730  97.741  1.00  0.47      2GCR1676
+HETATM 1593  O   HOH   317       7.826  23.104  46.604  1.00  0.68      2GCR1677
+HETATM 1594  O   HOH   318     -10.064  20.891  47.681  1.00  0.33      2GCR1678
+HETATM 1595  O   HOH   319      -9.818  17.865  59.910  1.00  0.55      2GCR1679
+HETATM 1596  O   HOH   320       4.314  18.166  51.003  1.00  0.44      2GCR1680
+HETATM 1597  O   HOH   321      -1.980  18.014  53.381  1.00  0.35      2GCR1681
+MASTER       46    3    0    0    0    0    0    6 1596    1    0   14  2GCR1682
+END                                                                     2GCR1683

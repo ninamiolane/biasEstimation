@@ -1,0 +1,68 @@
+#!rasmol -script
+# File: 1lyz.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1lyz"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ASN27 
+color atoms [255,165,0]
+select TRP28 
+color atoms [255,165,0]
+select VAL29 
+color atoms [255,165,0]
+select CYS30 
+color atoms [255,165,0]
+select ALA31 
+color atoms [255,165,0]
+select ALA32 
+color atoms [255,165,0]
+select LYS33 
+color atoms [255,165,0]
+select PHE34 
+color atoms [255,165,0]
+select GLU35 
+color atoms [255,165,0]
+select ASP52 
+color atoms [255,165,0]
+select TYR53 
+color atoms [255,165,0]
+select GLY54 
+color atoms [255,165,0]
+select ILE58 
+color atoms [255,165,0]
+select ASN59 
+color atoms [255,165,0]
+select SER60 
+color atoms [255,165,0]
+select SER85 
+color atoms [255,165,0]
+select ASP87 
+color atoms [255,165,0]
+select all

@@ -1,0 +1,66 @@
+set.seed(1234)
+
+n = 100
+Nexp = 200
+conv = 0.5
+
+Parameters of the simulation, with Dirac distribution on orbits:
+y0 = 0, 
+phi0 =0,
+sigma =0.1
+## For Gaussian: eta=0.1
+
+Hyperparameters for:
+- GaussPrior_y0: bary0 = 0;  sigmay0=0.1
+- GaussPrior_phi0 : barphi0=0;  sigmaphi0=1
+- InvWishartPrior_phi0: barphi0=0; aphi0=1 #??
+- InvWishartPrior_sigma: barsigma=0.1; asigma=1 #??
+- InvWishartPrior_eta: bareta=0; aeta=1 #??
+
+Estimation Max Max Perfect: y0, phi's
+No parameter.
+
+Estimation MaxMax Usual: y0, phi's
+Initialization: phiaux = matrix(conv,n,1);  y0aux = atan2(x[1,1],x[1,2]);
+Condition de CV: while (abs(y0- y0aux) > 0.01)
+Opt. pour phi: lower= -conv; upper=Inf
+Opt pour y0: lower = -pi; upper =pi
+
+Estimation Max Max Regularization: y0, phi's
+Initialization: phiaux = matrix(conv,n,1);  y0aux = atan2(x[1,1],x[1,2]);
+Regularization: lambda = 1
+Condition de CV: while (abs(y0- y0aux) > 0.01)
+Opt. pour phi: lower= -conv; upper=Inf
+Opt pour y0: lower = -pi; upper =pi
+
+Estimation MLE Delta: y0, phi0,sigma
+Initialisation: v <- c(0,0,0.1)
+Lower bound: lower = c(-pi,-conv,0)
+Upper bound: upper = c(pi,Inf,Inf)
+
+Estimation MLE Gaussian: y0, phi0, sigma, eta
+Initialisation: v <- c(0,0,0.1,0.1)
+Lower bound: lower = c(-pi,-conv,0,-conv),
+Upper bound: upper = c(pi,Inf,Inf,Inf)
+
+Estimation MAP Delta: y0, phi0,sigma
+Initialisation: v <- c(0,0,0.1)
+Lower bound:  lower = c(-pi,-conv,0)
+Upper bound: upper= c(pi,Inf,Inf)
+Posterior: llf_delta(x,sim)+GaussPrior_y0(x[1])+GaussPrior_phi0(x[2])+InvWishartPrior_sigma(x[3])
+
+Estimation MAP Gaussian: y0, phi0, sigma, eta
+Initialisation: v <-c(0,0,0.1,0.1)
+Lower bound: lower = c(-pi,-conv,0,-conv)
+Upper bound: upper =  c(pi,Inf,Inf,Inf)
+Posterior: llf_gaussian(x,sim)+GaussPrior_y0(x[1])+GaussPrior_phi0(x[2])+InvWishartPrior_sigma(x[3])+InvWishartPrior_eta(x[4])
+
+
+
+
+
+
+
+
+
+

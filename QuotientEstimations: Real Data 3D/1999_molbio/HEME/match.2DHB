@@ -1,0 +1,139 @@
+Model : MOTIF
+Scene : 2DHB
+*** Frame parameters ***
+   Maximum error on Position for frames ( eps ) :   1.5000 
+   Variance on Positions for frames     :   1.0000 
+   Variance on Orientations for frames  :   0.4000 
+*** Geometric Hashing step ***
+   Minimal score for matches : 10
+   Hash factor :   4.0000
+   Hidden parameters : bounds
+   Global mode.
+*** Clustering ***
+   Threshold on Mahalanobis distance : Chi =   4.0000
+   Threshold on the number of matches : fixed to 3
+*** Verification ***
+   Threshold on Mahalanobis distance : Chi =   2.0000
+   Threshold on Euclidien distance : fixed to 10 *   1.5000 =  15.0000
+   Threshold on angular distance : fixed to PI/2
+   Threshold on the number of matches : fixed to 3
+
+** Reading and Translating model AminoAcids into Frames
+Reading : MOTIF 
+Reading : 2DHB 
+
+** Preprocessing model
+
+Preprocessing done :
+     210   Couples indexed
+     0   Couples rejected
+     1928   Entries in Htable
+
+** Recognition step using Geometric Hashing
+
+** Filtering Matches according to MinScore
+22 matches found :
+
+MOTIF - 2DHB
+A   61 LYS  -  B   66 LYS  :  18 - 1.279496
+A  101 LEU  -  A  101 LEU  :  18 - 1.361651
+A   91 LEU  -  A   91 LEU  :  16 - 1.310447
+A   98 PHE  -  A   98 PHE  :  15 - 1.425058
+A   58 HIS  -  B   63 HIS  :  15 - 1.387358
+A   43 PHE  -  A   43 PHE  :  15 - 1.269400
+A   87 HIS  -  B   92 HIS  :  15 - 1.337867
+A   66 LEU  -  A   66 LEU  :  14 - 1.317432
+A   97 ASN  -  A   97 ASN  :  14 - 1.381391
+A   93 VAL  -  A   93 VAL  :  14 - 1.377328
+A   98 PHE  -  B  103 PHE  :  13 - 1.434128
+A   42 TYR  -  B   41 PHE  :  13 - 1.384724
+A   97 ASN  -  B  102 ASN  :  13 - 1.486098
+A   61 LYS  -  A   61 LYS  :  13 - 1.356329
+A   83 LEU  -  B   88 LEU  :  13 - 1.424827
+A   58 HIS  -  A   58 HIS  :  13 - 1.486390
+A   86 LEU  -  A   86 LEU  :  13 - 1.365806
+A   42 TYR  -  A   42 TYR  :  12 - 1.423189
+A   87 HIS  -  A   87 HIS  :  12 - 1.510564
+A   43 PHE  -  B   42 PHE  :  12 - 1.547395
+A   62 VAL  -  A   62 VAL  :  12 - 1.569394
+A   86 LEU  -  B   91 LEU  :  11 - 1.525096
+
+** Clustering and filtering of matches
+2 Cluster found :
+
+MOTIF - 2DHB
+
+Cluster  :  13 - 0.382051
+  0.000253    0.027096    0.016190    0.645615    1.140254    0.224387  
+
+A   62 VAL  -  A   62 VAL
+A   87 HIS  -  A   87 HIS
+A   42 TYR  -  A   42 TYR
+A   86 LEU  -  A   86 LEU
+A   58 HIS  -  A   58 HIS
+A   61 LYS  -  A   61 LYS
+A   93 VAL  -  A   93 VAL
+A   97 ASN  -  A   97 ASN
+A   66 LEU  -  A   66 LEU
+A   43 PHE  -  A   43 PHE
+A   98 PHE  -  A   98 PHE
+A   91 LEU  -  A   91 LEU
+A  101 LEU  -  A  101 LEU
+
+Cluster  :  7 - 0.512397
+  3.124466   -0.112078   -0.209108   -0.537159    0.365395    2.633435  
+
+A   61 LYS  -  B   66 LYS
+A   58 HIS  -  B   63 HIS
+A   87 HIS  -  B   92 HIS
+A   98 PHE  -  B  103 PHE
+A   42 TYR  -  B   41 PHE
+A   83 LEU  -  B   88 LEU
+A   86 LEU  -  B   91 LEU
+
+** Verification step
+2 Remaining Clusters
+
+MOTIF - 2DHB
+
+Cluster 0  --- Score : 15
+  0.004192    0.033884   -0.012983    0.516155    1.348984    0.162423  
+
+A  101 LEU  -- A  101 LEU :   0.7935    0.4465  Pi/ 14.9009
+A   98 PHE  -- A   98 PHE :   0.4541    0.2418  Pi/ 18.2181
+A   97 ASN  -- A   97 ASN :   0.4090    0.3563  Pi/ 22.8215
+A   93 VAL  -- A   93 VAL :   0.3490    0.3238  Pi/ 18.9993
+A   91 LEU  -- A   91 LEU :   0.4931    0.3167  Pi/ 18.7989
+A   87 HIS  -- A   87 HIS :   0.8723    0.1931  Pi/  8.8352
+A   86 LEU  -- A   86 LEU :   0.5396    0.0735  Pi/ 16.6192
+A   83 LEU  -- A   83 LEU :   1.3011    0.2267  Pi/  6.8205
+A   66 LEU  -- A   66 LEU :   0.3673    0.3441  Pi/ 29.1420
+A   65 ALA  -- A   65 GLY :   1.1424    0.3723  Pi/  6.3417
+A   62 VAL  -- A   62 VAL :   0.7118    0.4222  Pi/ 13.9126
+A   61 LYS  -- A   61 LYS :   0.4051    0.4577  Pi/ 22.9174
+A   58 HIS  -- A   58 HIS :   0.7306    0.5711  Pi/ 11.1175
+A   43 PHE  -- A   43 PHE :   0.4083    0.0772  Pi/ 17.3327
+A   42 TYR  -- A   42 TYR :   0.6488    0.2132  Pi/ 15.0220
+   RMM :   0.6998 ---  RMS distance :   0.3373
+   Angular RMS : Pi /  12.1310 =   0.2590
+
+Cluster 1  --- Score : 15
+ -3.126074    0.045633    0.133999   -0.081114    0.016138    2.565159  
+
+A  101 LEU  -- B  106 LEU :   0.4614    1.0086  Pi/ 18.6849
+A   98 PHE  -- B  103 PHE :   0.6631    1.0690  Pi/ 18.3130
+A   97 ASN  -- B  102 ASN :   0.6635    0.9995  Pi/ 17.4635
+A   93 VAL  -- B   98 VAL :   1.2334    0.4591  Pi/  6.8876
+A   91 LEU  -- B   96 LEU :   1.0865    0.4063  Pi/  7.6638
+A   87 HIS  -- B   92 HIS :   0.9292    0.4790  Pi/  9.0030
+A   86 LEU  -- B   91 LEU :   1.1645    0.7385  Pi/  8.0475
+A   83 LEU  -- B   88 LEU :   0.6659    1.1809  Pi/ 11.5306
+A   66 LEU  -- B   71 PHE :   0.9536    0.8848  Pi/ 10.9894
+A   65 ALA  -- B   70 SER :   1.1026    0.6908  Pi/  6.6430
+A   62 VAL  -- B   67 VAL :   0.5392    0.8699  Pi/ 15.2646
+A   61 LYS  -- B   66 LYS :   0.7990    0.8591  Pi/ 11.3741
+A   58 HIS  -- B   63 HIS :   0.5882    1.0053  Pi/ 15.8087
+A   43 PHE  -- B   42 PHE :   1.0157    0.5404  Pi/  8.1742
+A   42 TYR  -- B   41 PHE :   0.6599    0.6615  Pi/ 18.3522
+   RMM :   0.8689 ---  RMS distance :   0.8246
+   Angular RMS : Pi /  10.0868 =   0.3115

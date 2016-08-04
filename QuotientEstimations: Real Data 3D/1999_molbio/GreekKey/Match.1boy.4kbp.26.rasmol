@@ -1,0 +1,114 @@
+#!rasmol -script
+# File: Match.1boy.4kbp.26.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.1boy.4kbp.26"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select LYS122 
+color atoms [255,165,0]
+select ARG113C
+color atoms [0,255,255]
+select VAL123 
+color atoms [255,165,0]
+select PHE114C
+color atoms [0,255,255]
+select ASN124 
+color atoms [255,165,0]
+select SER115C
+color atoms [0,255,255]
+select VAL125 
+color atoms [255,165,0]
+select PHE116C
+color atoms [0,255,255]
+select THR154 
+color atoms [255,165,0]
+select ALA41C
+color atoms [0,255,255]
+select LEU155 
+color atoms [255,165,0]
+select MET42C
+color atoms [0,255,255]
+select TYR156 
+color atoms [255,165,0]
+select ILE43C
+color atoms [0,255,255]
+select TYR157 
+color atoms [255,165,0]
+select ILE44C
+color atoms [0,255,255]
+select TRP158 
+color atoms [255,165,0]
+select SER45C
+color atoms [0,255,255]
+select LYS166 
+color atoms [255,165,0]
+select THR90C
+color atoms [0,255,255]
+select THR167 
+color atoms [255,165,0]
+select THR91C
+color atoms [0,255,255]
+select ALA168 
+color atoms [255,165,0]
+select ILE92C
+color atoms [0,255,255]
+select THR170 
+color atoms [255,165,0]
+select LEU95C
+color atoms [0,255,255]
+select LEU176 
+color atoms [255,165,0]
+select TYR102C
+color atoms [0,255,255]
+select ILE177 
+color atoms [255,165,0]
+select TYR103C
+color atoms [0,255,255]
+select ASP178 
+color atoms [255,165,0]
+select GLU104C
+color atoms [0,255,255]
+select TYR185 
+color atoms [255,165,0]
+select VAL30C
+color atoms [0,255,255]
+select CYS186 
+color atoms [255,165,0]
+select HIS31C
+color atoms [0,255,255]
+select PHE187 
+color atoms [255,165,0]
+select ILE32C
+color atoms [0,255,255]
+select SER188 
+color atoms [255,165,0]
+select THR33C
+color atoms [0,255,255]
+select all

@@ -1,0 +1,106 @@
+#!rasmol -script
+# File: Match.1EMA.3GBP.1.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.1EMA.3GBP.1"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select VAL16 
+color atoms [255,165,0]
+select VAL34 
+color atoms [0,255,255]
+select GLU17 
+color atoms [255,165,0]
+select GLN35 
+color atoms [0,255,255]
+select LEU18 
+color atoms [255,165,0]
+select LEU36 
+color atoms [0,255,255]
+select ASP19 
+color atoms [255,165,0]
+select LEU37 
+color atoms [0,255,255]
+select GLN94 
+color atoms [255,165,0]
+select PRO86 
+color atoms [0,255,255]
+select GLU95 
+color atoms [255,165,0]
+select VAL87 
+color atoms [0,255,255]
+select ARG96 
+color atoms [255,165,0]
+select VAL88 
+color atoms [0,255,255]
+select THR97 
+color atoms [255,165,0]
+select PHE89 
+color atoms [0,255,255]
+select ILE98 
+color atoms [255,165,0]
+select PHE90 
+color atoms [0,255,255]
+select ARG122 
+color atoms [255,165,0]
+select ARG4 
+color atoms [0,255,255]
+select ILE123 
+color atoms [255,165,0]
+select ILE5 
+color atoms [0,255,255]
+select GLU124 
+color atoms [255,165,0]
+select GLY6 
+color atoms [0,255,255]
+select LEU125 
+color atoms [255,165,0]
+select VAL7 
+color atoms [0,255,255]
+select LYS126 
+color atoms [255,165,0]
+select THR8 
+color atoms [0,255,255]
+select GLY127 
+color atoms [255,165,0]
+select ILE9 
+color atoms [0,255,255]
+select ASN149 
+color atoms [255,165,0]
+select LYS285 
+color atoms [0,255,255]
+select ASN164 
+color atoms [255,165,0]
+select ILE290 
+color atoms [0,255,255]
+select PHE165 
+color atoms [255,165,0]
+select VAL291 
+color atoms [0,255,255]
+select all

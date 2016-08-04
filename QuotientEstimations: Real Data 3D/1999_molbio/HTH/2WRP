@@ -1,0 +1,1070 @@
+HEADER    DNA BINDING REGULATORY PROTEIN          01-DEC-87   2WRP      2WRP   3
+COMPND    $TRP REPRESSOR (ORTHORHOMBIC FORM)                            2WRP   4
+SOURCE    (ESCHERICHIA $COLI)                                           2WRP   5
+AUTHOR    C.L.LAWSON,P.B.SIGLER                                         2WRP   6
+REVDAT   3   15-JUL-92 2WRPB   1       JRNL                             2WRPB  1
+REVDAT   2   15-JAN-91 2WRPA   1       HET                              2WRPA  1
+REVDAT   1   16-APR-88 2WRP    0                                        2WRP   7
+JRNL        AUTH   C.L.LAWSON,R.-G.ZHANG,R.W.SCHEVITZ,Z.OTWINOWSKI,     2WRP   8
+JRNL        AUTH 2 A.JOACHIMIAK,P.B.SIGLER                              2WRP   9
+JRNL        TITL   FLEXIBILITY OF THE /DNA$-*BINDING DOMAINS OF $TRP    2WRPB  2
+JRNL        TITL 2 REPRESSOR                                            2WRP  11
+JRNL        REF    PROTEINS.STRUCT.,FUNCT.,      V.   3    18 1988      2WRPB  3
+JRNL        REF  2 GENET.                                               2WRPB  4
+JRNL        REFN   ASTM PSFGEY  US ISSN 0887-3585                  867  2WRPB  5
+REMARK   1                                                              2WRP  14
+REMARK   1 REFERENCE 1                                                  2WRP  15
+REMARK   1  AUTH   R.-G.ZHANG,A.JOACHIMIAK,C.L.LAWSON,R.W.SCHEVITZ,     2WRP  16
+REMARK   1  AUTH 2 Z.OTWINOWSKI,P.B.SIGLER                              2WRP  17
+REMARK   1  TITL   THE CRYSTAL STRUCTURE OF $TRP APOREPRESSOR AT 1.8    2WRP  18
+REMARK   1  TITL 2 ANGSTROMS SHOWS HOW BINDING TRYPTOPHAN ENHANCES      2WRP  19
+REMARK   1  TITL 3 /DNA$ AFFINITY                                       2WRP  20
+REMARK   1  REF    NATURE                        V. 327   891 1987      2WRP  21
+REMARK   1  REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  2WRP  22
+REMARK   1 REFERENCE 2                                                  2WRP  23
+REMARK   1  AUTH   R.W.SCHEVITZ,Z.OTWINOWSKI,A.JOACHIMIAK,C.L.LAWSON,   2WRP  24
+REMARK   1  AUTH 2 P.B.SIGLER                                           2WRP  25
+REMARK   1  TITL   THE THREE-DIMENSIONAL STRUCTURE OF $TRP REPRESSOR    2WRP  26
+REMARK   1  REF    NATURE                        V. 317   782 1985      2WRP  27
+REMARK   1  REFN   ASTM NATUAS  UK ISSN 0028-0836                  006  2WRP  28
+REMARK   1 REFERENCE 3                                                  2WRP  29
+REMARK   1  AUTH   A.JOACHIMIAK,R.W.SCHEVITZ,R.L.KELLEY,C.YANOFSKY,     2WRP  30
+REMARK   1  AUTH 2 P.B.SIGLER                                           2WRP  31
+REMARK   1  TITL   FUNCTIONAL INFERENCES FROM CRYSTALS OF ESCHERICHIA   2WRP  32
+REMARK   1  TITL 2 $COLI $TRP REPRESSOR                                 2WRP  33
+REMARK   1  REF    J.BIOL.CHEM.                  V. 258 12641 1983      2WRP  34
+REMARK   1  REFN   ASTM JBCHA3  US ISSN 0021-9258                  071  2WRP  35
+REMARK   1 REFERENCE 4                                                  2WRP  36
+REMARK   1  AUTH   A.JOACHIMIAK,R.L.KELLEY,R.P.GUNSALUS,C.YANOFSKY,     2WRP  37
+REMARK   1  AUTH 2 P.B.SIGLER                                           2WRP  38
+REMARK   1  TITL   PURIFICATION AND CHARACTERIZATION OF $TRP REPRESSOR  2WRP  39
+REMARK   1  REF    PROC.NAT.ACAD.SCI.USA         V.  80   668 1983      2WRP  40
+REMARK   1  REFN   ASTM PNASA6  US ISSN 0027-8424                  040  2WRP  41
+REMARK   1 REFERENCE 5                                                  2WRP  42
+REMARK   1  AUTH   R.P.GUNSALUS,C.YANOFSKY                              2WRP  43
+REMARK   1  TITL   NUCLEOTIDE SEQUENCE AND EXPRESSION OF ESCHERICHIA    2WRP  44
+REMARK   1  TITL 2 $COLI $TRP*R, THE STRUCTURAL GENE FOR THE $TRP       2WRP  45
+REMARK   1  TITL 3 APOREPRESSOR                                         2WRP  46
+REMARK   1  REF    PROC.NAT.ACAD.SCI.USA         V.  77  7117 1980      2WRP  47
+REMARK   1  REFN   ASTM PNASA6  US ISSN 0027-8424                  040  2WRP  48
+REMARK   2                                                              2WRP  49
+REMARK   2 RESOLUTION. 1.65 ANGSTROMS.                                  2WRP  50
+REMARK   3                                                              2WRP  51
+REMARK   3 REFINEMENT. BY THE RESTRAINED LEAST-SQUARES PROCEDURE OF     2WRP  52
+REMARK   3  J. KONNERT AND W. HENDRICKSON (PROGRAM *PROLSQ*) AS         2WRP  53
+REMARK   3  MODIFIED BY B. FINZEL (PROGRAM *PROFFT*) AND USE OF         2WRP  54
+REMARK   3  PROGRAM *FRODO* OF T. A. JONES.  THE R VALUE IS 0.180.      2WRP  55
+REMARK   3  THE RMS DEVIATION FROM IDEALITY OF THE BOND LENGTHS IS      2WRP  56
+REMARK   3  0.012 ANGSTROMS.  THE RMS DEVIATION FROM IDEALITY OF THE    2WRP  57
+REMARK   3  BOND ANGLES IS 2.0 DEGREES.                                 2WRP  58
+REMARK   4                                                              2WRP  59
+REMARK   4 ----------------------------------------------------------   2WRP  60
+REMARK   4 TRP REPRESSOR IS A STABLE DIMERIC PROTEIN.  TO FOLLOW        2WRP  61
+REMARK   4 PROTEIN DATA BANK CONVENTIONS ONLY THE COORDINATES OF A      2WRP  62
+REMARK   4 MONOMER ARE PRESENTED IN THIS ENTRY.  ANY ANALYSIS OF THIS   2WRP  63
+REMARK   4 STRUCTURE REQUIRES THAT A FULL DIMER BE GENERATED AS         2WRP  64
+REMARK   4 DESCRIBED IN REMARK 5.                                       2WRP  65
+REMARK   4 ----------------------------------------------------------   2WRP  66
+REMARK   5                                                              2WRP  67
+REMARK   5 THE REPRESSOR MOLECULE CONSISTS OF A DIMER RELATED BY A      2WRP  68
+REMARK   5 CRYSTALLOGRAPHIC TRANSFORMATION.  COORDINATES FOR THE        2WRP  69
+REMARK   5 SYMMETRY RELATED CHAIN CAN BE GENERATED FROM THE CHAIN       2WRP  70
+REMARK   5 PRESENTED IN THIS ENTRY BY                                   2WRP  71
+REMARK   5      -1.0       0.0       0.0            0.0                 2WRP  72
+REMARK   5       0.0       1.0       0.0            0.0                 2WRP  73
+REMARK   5       0.0       0.0      -1.0            0.0                 2WRP  74
+REMARK   6                                                              2WRP  75
+REMARK   6 AMINO-TERMINAL SEQUENCE ANALYSIS SHOWS THAT THE CRYSTALLINE  2WRP  76
+REMARK   6 TRP REPRESSOR SUBUNIT STARTS WITH ALANINE AT POSITION 2 OF   2WRP  77
+REMARK   6 THE 108 AMINO-ACID POLYPEPTIDE PREDICTED FROM THE GENE       2WRP  78
+REMARK   6 SEQUENCE.  THE TRP REPRESSOR HAS BEEN ASSIGNED CHAIN         2WRP  79
+REMARK   6 IDENTIFIER *R* AND THE BOUND L-TRYPTOPHAN HAS BEEN ASSIGNED  2WRP  80
+REMARK   6 CHAIN IDENTIFIER *W*.  THE FIRST THREE RESIDUES OF THE TRP   2WRP  81
+REMARK   6 REPRESSOR ARE NOT WELL REPRESENTED IN THE CURRENT MAP AND    2WRP  82
+REMARK   6 COORDINATES FOR THESE RESIDUES ARE NOT INCLUDED IN THIS      2WRP  83
+REMARK   6 ENTRY.                                                       2WRP  84
+REMARK   7                                                              2WRP  85
+REMARK   7 SITE *HTH* PRESENTS THOSE RESIDUES COMPRISING THE            2WRP  86
+REMARK   7 HELIX-TURN-HELIX DNA BINDING MOTIF.                          2WRP  87
+REMARK   8                                                              2WRP  88
+REMARK   8 COORDINATES FOR THE TRIGONAL FORM OF TRP REPRESSOR (ENTRY    2WRP  89
+REMARK   8 1WRP) AND FOR TRP APOREPRESSOR (ENTRY 3WRP) ARE ALSO         2WRP  90
+REMARK   8 AVAILABLE FROM THE PROTEIN DATA BANK.                        2WRP  91
+REMARK   9                                                              2WRPA  2
+REMARK   9 CORRECTION. STANDARDIZE FORMAT OF HET RECORDS.  15-JAN-91.   2WRPA  3
+REMARK  10                                                              2WRPB  6
+REMARK  10 CORRECTION. UPDATE JRNL REFERENCE TO REPLECT PUBLICATION.    2WRPB  7
+REMARK  10  15-JUL-92.                                                  2WRPB  8
+SEQRES   1 R  107  ALA GLN GLN SER PRO TYR SER ALA ALA MET ALA GLU GLN  2WRP  92
+SEQRES   2 R  107  ARG HIS GLN GLU TRP LEU ARG PHE VAL ASP LEU LEU LYS  2WRP  93
+SEQRES   3 R  107  ASN ALA TYR GLN ASN ASP LEU HIS LEU PRO LEU LEU ASN  2WRP  94
+SEQRES   4 R  107  LEU MET LEU THR PRO ASP GLU ARG GLU ALA LEU GLY THR  2WRP  95
+SEQRES   5 R  107  ARG VAL ARG ILE VAL GLU GLU LEU LEU ARG GLY GLU MET  2WRP  96
+SEQRES   6 R  107  SER GLN ARG GLU LEU LYS ASN GLU LEU GLY ALA GLY ILE  2WRP  97
+SEQRES   7 R  107  ALA THR ILE THR ARG GLY SER ASN SER LEU LYS ALA ALA  2WRP  98
+SEQRES   8 R  107  PRO VAL GLU LEU ARG GLN TRP LEU GLU GLU VAL LEU LEU  2WRP  99
+SEQRES   9 R  107  LYS SER ASP                                          2WRP 100
+SEQRES   1 W    1  TRP                                                  2WRP 101
+HET     NA    601       1     SODIUM ION                                2WRPA  4
+HET    SUL    602       5     SULFATE                                   2WRPA  5
+FORMUL   3   NA    NA1 +                                                2WRP 104
+FORMUL   4  SUL    O4 S1                                                2WRP 105
+FORMUL   5  HOH   *85(H2 O1)                                            2WRP 106
+HELIX    1   A ALA R   12  GLN R   31  1                                2WRP 107
+HELIX    2   B HIS R   35  MET R   42  1                                2WRP 108
+HELIX    3   C ASP R   46  ARG R   63  1                                2WRP 109
+HELIX    4   D GLN R   68  GLU R   74  1                                2WRP 110
+HELIX    5   E ILE R   79  ALA R   91  1                                2WRP 111
+HELIX    6   F VAL R   94  LEU R  105  1                                2WRP 112
+SITE     1 HTH 24 GLN R  68  ARG R  69  GLU R  70  LEU R  71            2WRP 113
+SITE     2 HTH 24 LYS R  72  ASN R  73  GLU R  74  LEU R  75            2WRP 114
+SITE     3 HTH 24 GLY R  76  ALA R  77  GLY R  78  ILE R  79            2WRP 115
+SITE     4 HTH 24 ALA R  80  THR R  81  ILE R  82  THR R  83            2WRP 116
+SITE     5 HTH 24 ARG R  84  GLY R  85  SER R  86  ASN R  87            2WRP 117
+SITE     6 HTH 24 SER R  88  LEU R  89  LYS R  90  ALA R  91            2WRP 118
+CRYST1   53.600   33.100   53.300  90.00  90.00  90.00 P 21 2 21     4  2WRP 119
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 2WRP 120
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 2WRP 121
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 2WRP 122
+SCALE1      0.018657  0.000000  0.000000        0.00000                 2WRP 123
+SCALE2      0.000000  0.030211  0.000000        0.00000                 2WRP 124
+SCALE3      0.000000  0.000000  0.018762        0.00000                 2WRP 125
+ATOM     24  N   SER R   5      21.745  22.316   0.407  1.00 34.65      2WRP 126
+ATOM     25  CA  SER R   5      22.894  21.388   0.353  1.00 34.32      2WRP 127
+ATOM     26  C   SER R   5      22.801  20.561  -0.923  1.00 33.70      2WRP 128
+ATOM     27  O   SER R   5      21.703  20.366  -1.474  1.00 34.01      2WRP 129
+ATOM     28  CB  SER R   5      22.885  20.557   1.622  1.00 34.94      2WRP 130
+ATOM     29  OG  SER R   5      23.842  19.512   1.628  1.00 35.87      2WRP 131
+ATOM     30  N   PRO R   6      23.941  20.095  -1.402  1.00 32.82      2WRP 132
+ATOM     31  CA  PRO R   6      23.999  19.267  -2.610  1.00 32.09      2WRP 133
+ATOM     32  C   PRO R   6      23.330  17.913  -2.374  1.00 31.17      2WRP 134
+ATOM     33  O   PRO R   6      23.121  17.497  -1.219  1.00 31.17      2WRP 135
+ATOM     34  CB  PRO R   6      25.494  19.148  -2.887  1.00 32.51      2WRP 136
+ATOM     35  CG  PRO R   6      26.092  19.212  -1.498  1.00 32.87      2WRP 137
+ATOM     36  CD  PRO R   6      25.274  20.300  -0.796  1.00 32.94      2WRP 138
+ATOM     37  N   TYR R   7      22.988  17.232  -3.448  1.00 29.81      2WRP 139
+ATOM     38  CA  TYR R   7      22.354  15.898  -3.372  1.00 28.65      2WRP 140
+ATOM     39  C   TYR R   7      23.392  14.933  -2.791  1.00 27.95      2WRP 141
+ATOM     40  O   TYR R   7      24.587  15.083  -3.103  1.00 27.75      2WRP 142
+ATOM     41  CB  TYR R   7      21.943  15.435  -4.768  1.00 28.53      2WRP 143
+ATOM     42  CG  TYR R   7      21.349  14.052  -4.883  1.00 28.38      2WRP 144
+ATOM     43  CD1 TYR R   7      22.137  12.922  -5.143  1.00 28.19      2WRP 145
+ATOM     44  CD2 TYR R   7      19.972  13.890  -4.747  1.00 28.27      2WRP 146
+ATOM     45  CE1 TYR R   7      21.553  11.660  -5.270  1.00 27.99      2WRP 147
+ATOM     46  CE2 TYR R   7      19.383  12.646  -4.871  1.00 28.20      2WRP 148
+ATOM     47  CZ  TYR R   7      20.183  11.531  -5.127  1.00 27.96      2WRP 149
+ATOM     48  OH  TYR R   7      19.534  10.333  -5.255  1.00 28.13      2WRP 150
+ATOM     49  N   SER R   8      22.940  13.981  -2.001  1.00 26.58      2WRP 151
+ATOM     50  CA  SER R   8      23.843  13.002  -1.392  1.00 25.76      2WRP 152
+ATOM     51  C   SER R   8      23.364  11.582  -1.713  1.00 24.84      2WRP 153
+ATOM     52  O   SER R   8      22.223  11.259  -1.380  1.00 24.64      2WRP 154
+ATOM     53  CB  SER R   8      23.914  13.162   0.131  1.00 25.94      2WRP 155
+ATOM     55  N   ALA R   9      24.226  10.814  -2.339  1.00 23.71      2WRP 156
+ATOM     56  CA  ALA R   9      23.955   9.422  -2.702  1.00 22.74      2WRP 157
+ATOM     57  C   ALA R   9      23.738   8.653  -1.400  1.00 21.81      2WRP 158
+ATOM     58  O   ALA R   9      22.989   7.673  -1.354  1.00 20.97      2WRP 159
+ATOM     59  CB  ALA R   9      25.136   8.827  -3.461  1.00 23.19      2WRP 160
+ATOM     60  N   ALA R  10      24.454   9.123  -0.382  1.00 21.35      2WRP 161
+ATOM     61  CA  ALA R  10      24.366   8.480   0.948  1.00 20.42      2WRP 162
+ATOM     62  C   ALA R  10      22.974   8.720   1.524  1.00 19.97      2WRP 163
+ATOM     63  O   ALA R  10      22.386   7.752   2.076  1.00 18.91      2WRP 164
+ATOM     64  CB  ALA R  10      25.547   8.918   1.805  1.00 21.20      2WRP 165
+ATOM     65  N   MET R  11      22.469   9.951   1.368  1.00 18.98      2WRP 166
+ATOM     66  CA  MET R  11      21.110  10.264   1.882  1.00 17.50      2WRP 167
+ATOM     67  C   MET R  11      20.066   9.546   1.004  1.00 16.08      2WRP 168
+ATOM     68  O   MET R  11      19.007   9.125   1.522  1.00 14.67      2WRP 169
+ATOM     69  CB  MET R  11      20.752  11.725   2.012  1.00 17.93      2WRP 170
+ATOM     73  N   ALA R  12      20.378   9.422  -0.276  1.00 14.78      2WRP 171
+ATOM     74  CA  ALA R  12      19.434   8.716  -1.162  1.00 14.60      2WRP 172
+ATOM     75  C   ALA R  12      19.322   7.273  -0.704  1.00 14.06      2WRP 173
+ATOM     76  O   ALA R  12      18.216   6.681  -0.770  1.00 13.98      2WRP 174
+ATOM     77  CB  ALA R  12      19.824   8.775  -2.637  1.00 14.83      2WRP 175
+ATOM     78  N   GLU R  13      20.436   6.692  -0.273  1.00 13.64      2WRP 176
+ATOM     79  CA  GLU R  13      20.427   5.290   0.177  1.00 14.03      2WRP 177
+ATOM     80  C   GLU R  13      19.589   5.121   1.439  1.00 13.20      2WRP 178
+ATOM     81  O   GLU R  13      18.877   4.099   1.581  1.00 12.34      2WRP 179
+ATOM     82  CB  GLU R  13      21.863   4.751   0.340  1.00 16.32      2WRP 180
+ATOM     83  CG  GLU R  13      22.497   4.485  -1.058  1.00 18.23      2WRP 181
+ATOM     84  CD  GLU R  13      23.997   4.374  -1.056  1.00 20.11      2WRP 182
+ATOM     85  OE1 GLU R  13      24.622   4.524  -0.004  1.00 21.19      2WRP 183
+ATOM     86  OE2 GLU R  13      24.515   4.130  -2.176  1.00 20.40      2WRP 184
+ATOM     87  N   GLN R  14      19.672   6.106   2.292  1.00 12.70      2WRP 185
+ATOM     88  CA  GLN R  14      18.872   6.056   3.529  1.00 13.30      2WRP 186
+ATOM     89  C   GLN R  14      17.386   6.125   3.156  1.00 12.06      2WRP 187
+ATOM     90  O   GLN R  14      16.534   5.385   3.661  1.00 10.95      2WRP 188
+ATOM     91  CB  GLN R  14      19.233   7.198   4.478  1.00 15.36      2WRP 189
+ATOM     92  CG  GLN R  14      18.424   7.220   5.762  1.00 19.41      2WRP 190
+ATOM     93  CD  GLN R  14      18.890   8.179   6.826  1.00 21.34      2WRP 191
+ATOM     94  OE1 GLN R  14      20.018   8.674   6.588  1.00 22.42      2WRP 192
+ATOM     95  NE2 GLN R  14      18.158   8.410   7.790  1.00 23.52      2WRP 193
+ATOM     96  N   ARG R  15      17.063   7.067   2.256  1.00 11.06      2WRP 194
+ATOM     97  CA  ARG R  15      15.627   7.203   1.856  1.00 11.04      2WRP 195
+ATOM     98  C   ARG R  15      15.095   5.924   1.221  1.00 10.49      2WRP 196
+ATOM     99  O   ARG R  15      13.951   5.479   1.459  1.00 10.46      2WRP 197
+ATOM    100  CB  ARG R  15      15.346   8.391   0.927  1.00 12.10      2WRP 198
+ATOM    101  CG  ARG R  15      15.450   9.758   1.591  1.00 13.78      2WRP 199
+ATOM    102  CD  ARG R  15      15.169  10.858   0.620  1.00 15.83      2WRP 200
+ATOM    103  NE  ARG R  15      16.117  10.946  -0.492  1.00 17.74      2WRP 201
+ATOM    104  CZ  ARG R  15      17.166  11.795  -0.414  1.00 18.81      2WRP 202
+ATOM    105  NH1 ARG R  15      17.374  12.493   0.697  1.00 19.91      2WRP 203
+ATOM    106  NH2 ARG R  15      17.975  11.991  -1.457  1.00 19.81      2WRP 204
+ATOM    107  N   HIS R  16      15.936   5.299   0.401  1.00  9.99      2WRP 205
+ATOM    108  CA  HIS R  16      15.523   4.076  -0.276  1.00  9.48      2WRP 206
+ATOM    109  C   HIS R  16      15.224   2.947   0.702  1.00  9.26      2WRP 207
+ATOM    110  O   HIS R  16      14.246   2.211   0.555  1.00  9.17      2WRP 208
+ATOM    111  CB  HIS R  16      16.585   3.654  -1.337  1.00  9.58      2WRP 209
+ATOM    112  CG  HIS R  16      16.005   2.507  -2.095  1.00 10.78      2WRP 210
+ATOM    113  ND1 HIS R  16      16.309   1.200  -1.919  1.00 12.54      2WRP 211
+ATOM    114  CD2 HIS R  16      15.042   2.571  -3.057  1.00 11.15      2WRP 212
+ATOM    115  CE1 HIS R  16      15.583   0.466  -2.781  1.00 11.98      2WRP 213
+ATOM    116  NE2 HIS R  16      14.809   1.291  -3.463  1.00 11.87      2WRP 214
+ATOM    117  N   GLN R  17      16.074   2.813   1.713  1.00  9.14      2WRP 215
+ATOM    118  CA  GLN R  17      15.863   1.760   2.745  1.00  9.59      2WRP 216
+ATOM    119  C   GLN R  17      14.580   2.051   3.521  1.00  8.71      2WRP 217
+ATOM    120  O   GLN R  17      13.838   1.106   3.866  1.00  8.97      2WRP 218
+ATOM    121  CB  GLN R  17      17.125   1.665   3.642  1.00 11.27      2WRP 219
+ATOM    122  CG  GLN R  17      17.016   0.666   4.763  1.00 13.10      2WRP 220
+ATOM    123  CD  GLN R  17      18.153   0.701   5.792  1.00 14.33      2WRP 221
+ATOM    124  OE1 GLN R  17      18.696  -0.377   6.067  1.00 16.60      2WRP 222
+ATOM    125  NE2 GLN R  17      18.418   1.843   6.360  1.00 13.77      2WRP 223
+ATOM    126  N   GLU R  18      14.312   3.307   3.836  1.00  8.60      2WRP 224
+ATOM    127  CA  GLU R  18      13.100   3.667   4.585  1.00  9.39      2WRP 225
+ATOM    128  C   GLU R  18      11.849   3.363   3.763  1.00  9.10      2WRP 226
+ATOM    129  O   GLU R  18      10.866   2.880   4.340  1.00  7.72      2WRP 227
+ATOM    130  CB  GLU R  18      13.081   5.151   4.959  1.00 11.45      2WRP 228
+ATOM    131  CG  GLU R  18      14.028   5.467   6.134  1.00 14.40      2WRP 229
+ATOM    132  CD  GLU R  18      14.396   6.881   6.421  1.00 17.10      2WRP 230
+ATOM    133  OE1 GLU R  18      15.299   7.125   7.244  1.00 18.53      2WRP 231
+ATOM    134  OE2 GLU R  18      13.766   7.792   5.810  1.00 19.16      2WRP 232
+ATOM    135  N   TRP R  19      11.929   3.599   2.465  1.00  8.63      2WRP 233
+ATOM    136  CA  TRP R  19      10.764   3.320   1.582  1.00  8.88      2WRP 234
+ATOM    137  C   TRP R  19      10.524   1.829   1.536  1.00  8.54      2WRP 235
+ATOM    138  O   TRP R  19       9.373   1.355   1.701  1.00  7.90      2WRP 236
+ATOM    139  CB  TRP R  19      11.010   3.954   0.206  1.00 10.55      2WRP 237
+ATOM    140  CG  TRP R  19      10.104   3.408  -0.864  1.00 11.16      2WRP 238
+ATOM    141  CD1 TRP R  19      10.460   2.696  -1.973  1.00 12.16      2WRP 239
+ATOM    142  CD2 TRP R  19       8.669   3.531  -0.882  1.00 12.04      2WRP 240
+ATOM    143  NE1 TRP R  19       9.316   2.368  -2.713  1.00 12.55      2WRP 241
+ATOM    144  CE2 TRP R  19       8.240   2.861  -2.051  1.00 12.19      2WRP 242
+ATOM    145  CE3 TRP R  19       7.767   4.115  -0.011  1.00 12.36      2WRP 243
+ATOM    146  CZ2 TRP R  19       6.878   2.782  -2.374  1.00 13.00      2WRP 244
+ATOM    147  CZ3 TRP R  19       6.411   4.023  -0.326  1.00 13.53      2WRP 245
+ATOM    148  CH2 TRP R  19       6.022   3.368  -1.491  1.00 13.05      2WRP 246
+ATOM    149  N   LEU R  20      11.563   1.030   1.321  1.00  8.31      2WRP 247
+ATOM    150  CA  LEU R  20      11.399  -0.416   1.273  1.00  9.39      2WRP 248
+ATOM    151  C   LEU R  20      10.876  -0.921   2.611  1.00  9.21      2WRP 249
+ATOM    152  O   LEU R  20      10.178  -1.922   2.632  1.00  8.90      2WRP 250
+ATOM    153  CB  LEU R  20      12.716  -1.108   0.923  1.00 11.42      2WRP 251
+ATOM    154  CG  LEU R  20      13.111  -1.212  -0.528  1.00 14.06      2WRP 252
+ATOM    155  CD1 LEU R  20      14.436  -1.962  -0.519  1.00 15.19      2WRP 253
+ATOM    156  CD2 LEU R  20      12.030  -1.929  -1.328  1.00 14.82      2WRP 254
+ATOM    157  N   ARG R  21      11.242  -0.257   3.711  1.00  9.21      2WRP 255
+ATOM    158  CA  ARG R  21      10.746  -0.729   5.035  1.00  9.96      2WRP 256
+ATOM    159  C   ARG R  21       9.214  -0.613   5.026  1.00  8.30      2WRP 257
+ATOM    160  O   ARG R  21       8.580  -1.553   5.494  1.00  8.84      2WRP 258
+ATOM    161  CB  ARG R  21      11.369   0.073   6.181  1.00 12.57      2WRP 259
+ATOM    162  CG  ARG R  21      11.039  -0.486   7.566  1.00 16.41      2WRP 260
+ATOM    163  CD  ARG R  21      11.996   0.105   8.573  1.00 19.31      2WRP 261
+ATOM    164  NE  ARG R  21      12.039  -0.884   9.677  1.00 22.28      2WRP 262
+ATOM    165  CZ  ARG R  21      12.106  -0.382  10.914  1.00 23.43      2WRP 263
+ATOM    166  NH1 ARG R  21      12.177   0.941  11.036  1.00 24.34      2WRP 264
+ATOM    167  NH2 ARG R  21      12.040  -1.248  11.928  1.00 24.32      2WRP 265
+ATOM    168  N   PHE R  22       8.675   0.457   4.489  1.00  7.73      2WRP 266
+ATOM    169  CA  PHE R  22       7.203   0.640   4.408  1.00  7.36      2WRP 267
+ATOM    170  C   PHE R  22       6.625  -0.436   3.477  1.00  7.08      2WRP 268
+ATOM    171  O   PHE R  22       5.655  -1.138   3.834  1.00  6.75      2WRP 269
+ATOM    172  CB  PHE R  22       6.846   2.023   3.875  1.00  8.61      2WRP 270
+ATOM    173  CG  PHE R  22       5.373   2.080   3.537  1.00 10.61      2WRP 271
+ATOM    174  CD1 PHE R  22       4.933   1.982   2.216  1.00 11.78      2WRP 272
+ATOM    175  CD2 PHE R  22       4.468   2.237   4.580  1.00 12.13      2WRP 273
+ATOM    176  CE1 PHE R  22       3.570   2.034   1.913  1.00 12.55      2WRP 274
+ATOM    177  CE2 PHE R  22       3.082   2.274   4.306  1.00 12.36      2WRP 275
+ATOM    178  CZ  PHE R  22       2.673   2.188   2.962  1.00 12.53      2WRP 276
+ATOM    179  N   VAL R  23       7.225  -0.589   2.298  1.00  7.36      2WRP 277
+ATOM    180  CA  VAL R  23       6.735  -1.599   1.334  1.00  7.24      2WRP 278
+ATOM    181  C   VAL R  23       6.666  -2.996   1.946  1.00  6.99      2WRP 279
+ATOM    182  O   VAL R  23       5.682  -3.748   1.773  1.00  7.54      2WRP 280
+ATOM    183  CB  VAL R  23       7.544  -1.582   0.016  1.00  7.78      2WRP 281
+ATOM    184  CG1 VAL R  23       7.069  -2.713  -0.931  1.00  8.45      2WRP 282
+ATOM    185  CG2 VAL R  23       7.475  -0.202  -0.596  1.00  7.88      2WRP 283
+ATOM    186  N   ASP R  24       7.694  -3.385   2.670  1.00  6.86      2WRP 284
+ATOM    187  CA  ASP R  24       7.789  -4.716   3.283  1.00  7.50      2WRP 285
+ATOM    188  C   ASP R  24       6.845  -4.847   4.489  1.00  6.36      2WRP 286
+ATOM    189  O   ASP R  24       6.290  -5.932   4.683  1.00  7.48      2WRP 287
+ATOM    190  CB  ASP R  24       9.265  -5.039   3.566  1.00  9.04      2WRP 288
+ATOM    191  CG  ASP R  24      10.027  -5.284   2.264  1.00 10.37      2WRP 289
+ATOM    192  OD1 ASP R  24       9.441  -5.520   1.198  1.00 11.65      2WRP 290
+ATOM    193  OD2 ASP R  24      11.299  -5.215   2.410  1.00 12.91      2WRP 291
+ATOM    194  N   LEU R  25       6.646  -3.759   5.207  1.00  6.23      2WRP 292
+ATOM    195  CA  LEU R  25       5.745  -3.759   6.359  1.00  7.31      2WRP 293
+ATOM    196  C   LEU R  25       4.315  -4.005   5.842  1.00  6.77      2WRP 294
+ATOM    197  O   LEU R  25       3.590  -4.811   6.421  1.00  7.47      2WRP 295
+ATOM    198  CB  LEU R  25       5.861  -2.440   7.110  1.00  7.20      2WRP 296
+ATOM    199  CG  LEU R  25       4.937  -2.403   8.330  1.00  8.90      2WRP 297
+ATOM    200  CD1 LEU R  25       5.485  -3.331   9.415  1.00  9.77      2WRP 298
+ATOM    201  CD2 LEU R  25       5.017  -0.939   8.777  1.00  9.21      2WRP 299
+ATOM    202  N   LEU R  26       3.989  -3.279   4.770  1.00  7.21      2WRP 300
+ATOM    203  CA  LEU R  26       2.618  -3.420   4.211  1.00  7.23      2WRP 301
+ATOM    204  C   LEU R  26       2.412  -4.808   3.659  1.00  6.96      2WRP 302
+ATOM    205  O   LEU R  26       1.335  -5.408   3.765  1.00  6.74      2WRP 303
+ATOM    206  CB  LEU R  26       2.403  -2.269   3.214  1.00  7.41      2WRP 304
+ATOM    207  CG  LEU R  26       1.027  -2.305   2.537  1.00  8.58      2WRP 305
+ATOM    208  CD1 LEU R  26      -0.101  -2.270   3.569  1.00  8.34      2WRP 306
+ATOM    209  CD2 LEU R  26       0.928  -1.127   1.565  1.00  8.85      2WRP 307
+ATOM    210  N   LYS R  27       3.434  -5.367   3.010  1.00  6.84      2WRP 308
+ATOM    211  CA  LYS R  27       3.374  -6.734   2.474  1.00  7.87      2WRP 309
+ATOM    212  C   LYS R  27       2.945  -7.700   3.587  1.00  8.43      2WRP 310
+ATOM    213  O   LYS R  27       2.039  -8.519   3.430  1.00  8.44      2WRP 311
+ATOM    214  CB  LYS R  27       4.756  -7.160   1.937  1.00  8.58      2WRP 312
+ATOM    215  CG  LYS R  27       4.731  -8.560   1.341  1.00 10.22      2WRP 313
+ATOM    216  CD  LYS R  27       6.055  -9.042   0.771  1.00 11.83      2WRP 314
+ATOM    217  CE  LYS R  27       6.822  -8.037  -0.041  1.00 12.97      2WRP 315
+ATOM    218  NZ  LYS R  27       8.215  -8.613  -0.264  1.00 14.02      2WRP 316
+ATOM    219  N   ASN R  28       3.621  -7.578   4.737  1.00  8.64      2WRP 317
+ATOM    220  CA  ASN R  28       3.358  -8.460   5.903  1.00  9.61      2WRP 318
+ATOM    221  C   ASN R  28       1.993  -8.157   6.516  1.00  9.10      2WRP 319
+ATOM    222  O   ASN R  28       1.370  -9.155   6.954  1.00  9.66      2WRP 320
+ATOM    223  CB  ASN R  28       4.532  -8.344   6.867  1.00 12.63      2WRP 321
+ATOM    224  CG  ASN R  28       5.690  -9.081   6.176  1.00 15.95      2WRP 322
+ATOM    225  OD1 ASN R  28       6.808  -8.574   6.060  1.00 18.90      2WRP 323
+ATOM    226  ND2 ASN R  28       5.422 -10.301   5.750  1.00 17.81      2WRP 324
+ATOM    227  N   ALA R  29       1.579  -6.934   6.474  1.00  8.10      2WRP 325
+ATOM    228  CA  ALA R  29       0.250  -6.578   7.014  1.00  7.78      2WRP 326
+ATOM    229  C   ALA R  29      -0.802  -7.324   6.169  1.00  8.41      2WRP 327
+ATOM    230  O   ALA R  29      -1.747  -7.882   6.777  1.00  8.41      2WRP 328
+ATOM    231  CB  ALA R  29       0.080  -5.067   7.009  1.00  7.23      2WRP 329
+ATOM    232  N   TYR R  30      -0.635  -7.306   4.850  1.00  7.86      2WRP 330
+ATOM    233  CA  TYR R  30      -1.643  -8.014   4.022  1.00  9.53      2WRP 331
+ATOM    234  C   TYR R  30      -1.687  -9.501   4.403  1.00 10.92      2WRP 332
+ATOM    235  O   TYR R  30      -2.790 -10.081   4.474  1.00 11.37      2WRP 333
+ATOM    236  CB  TYR R  30      -1.358  -7.860   2.521  1.00  9.45      2WRP 334
+ATOM    237  CG  TYR R  30      -1.951  -6.611   1.890  1.00  9.08      2WRP 335
+ATOM    238  CD1 TYR R  30      -3.324  -6.521   1.575  1.00  9.07      2WRP 336
+ATOM    239  CD2 TYR R  30      -1.149  -5.535   1.516  1.00  9.09      2WRP 337
+ATOM    240  CE1 TYR R  30      -3.830  -5.393   0.947  1.00  8.99      2WRP 338
+ATOM    241  CE2 TYR R  30      -1.659  -4.399   0.914  1.00  9.21      2WRP 339
+ATOM    242  CZ  TYR R  30      -3.029  -4.325   0.629  1.00  9.32      2WRP 340
+ATOM    243  OH  TYR R  30      -3.469  -3.201  -0.003  1.00  9.46      2WRP 341
+ATOM    244  N   GLN R  31      -0.528 -10.084   4.615  1.00 12.02      2WRP 342
+ATOM    245  CA  GLN R  31      -0.433 -11.506   4.981  1.00 14.30      2WRP 343
+ATOM    246  C   GLN R  31      -1.154 -11.794   6.296  1.00 14.40      2WRP 344
+ATOM    247  O   GLN R  31      -1.621 -12.943   6.488  1.00 15.30      2WRP 345
+ATOM    248  CB  GLN R  31       1.054 -11.913   5.063  1.00 16.18      2WRP 346
+ATOM    249  CG  GLN R  31       1.624 -11.867   3.648  1.00 19.24      2WRP 347
+ATOM    250  CD  GLN R  31       3.102 -12.000   3.469  1.00 21.78      2WRP 348
+ATOM    251  OE1 GLN R  31       3.594 -11.951   2.310  1.00 23.95      2WRP 349
+ATOM    252  NE2 GLN R  31       3.839 -12.173   4.543  1.00 22.99      2WRP 350
+ATOM    253  N   ASN R  32      -1.261 -10.827   7.191  1.00 13.11      2WRP 351
+ATOM    254  CA  ASN R  32      -1.906 -11.027   8.491  1.00 13.37      2WRP 352
+ATOM    255  C   ASN R  32      -3.275 -10.386   8.601  1.00 12.89      2WRP 353
+ATOM    256  O   ASN R  32      -3.852 -10.323   9.715  1.00 12.54      2WRP 354
+ATOM    257  CB  ASN R  32      -0.913 -10.525   9.563  1.00 14.83      2WRP 355
+ATOM    258  CG  ASN R  32       0.264 -11.474   9.717  1.00 16.43      2WRP 356
+ATOM    259  OD1 ASN R  32       0.093 -12.630  10.201  1.00 17.75      2WRP 357
+ATOM    260  ND2 ASN R  32       1.442 -11.069   9.239  1.00 17.29      2WRP 358
+ATOM    261  N   ASP R  33      -3.806  -9.889   7.487  1.00 12.04      2WRP 359
+ATOM    262  CA  ASP R  33      -5.123  -9.251   7.496  1.00 12.78      2WRP 360
+ATOM    263  C   ASP R  33      -5.173  -8.008   8.361  1.00 11.56      2WRP 361
+ATOM    264  O   ASP R  33      -6.225  -7.635   8.908  1.00 11.59      2WRP 362
+ATOM    265  CB  ASP R  33      -6.208 -10.288   7.864  1.00 15.37      2WRP 363
+ATOM    266  CG  ASP R  33      -6.892 -10.861   6.649  1.00 18.39      2WRP 364
+ATOM    267  OD1 ASP R  33      -7.955 -11.517   6.815  1.00 20.39      2WRP 365
+ATOM    268  OD2 ASP R  33      -6.447 -10.664   5.483  1.00 19.69      2WRP 366
+ATOM    269  N   LEU R  34      -4.030  -7.336   8.444  1.00  9.22      2WRP 367
+ATOM    270  CA  LEU R  34      -3.964  -6.070   9.180  1.00  9.03      2WRP 368
+ATOM    271  C   LEU R  34      -3.740  -4.914   8.205  1.00  7.90      2WRP 369
+ATOM    272  O   LEU R  34      -3.443  -3.812   8.683  1.00  7.99      2WRP 370
+ATOM    273  CB  LEU R  34      -2.826  -6.137  10.232  1.00  9.16      2WRP 371
+ATOM    274  CG  LEU R  34      -3.126  -7.039  11.416  1.00 10.10      2WRP 372
+ATOM    275  CD1 LEU R  34      -1.867  -7.289  12.247  1.00 10.47      2WRP 373
+ATOM    276  CD2 LEU R  34      -4.164  -6.385  12.342  1.00 10.75      2WRP 374
+ATOM    277  N   HIS R  35      -3.904  -5.150   6.905  1.00  7.87      2WRP 375
+ATOM    278  CA  HIS R  35      -3.689  -4.022   5.956  1.00  7.95      2WRP 376
+ATOM    279  C   HIS R  35      -4.640  -2.861   6.178  1.00  8.64      2WRP 377
+ATOM    280  O   HIS R  35      -4.138  -1.749   6.036  1.00  7.69      2WRP 378
+ATOM    281  CB  HIS R  35      -3.830  -4.547   4.505  1.00  8.45      2WRP 379
+ATOM    282  CG  HIS R  35      -4.979  -5.486   4.333  1.00  8.71      2WRP 380
+ATOM    283  ND1 HIS R  35      -6.095  -5.223   3.558  1.00  9.70      2WRP 381
+ATOM    284  CD2 HIS R  35      -5.143  -6.748   4.788  1.00  7.95      2WRP 382
+ATOM    285  CE1 HIS R  35      -6.910  -6.286   3.600  1.00  8.32      2WRP 383
+ATOM    286  NE2 HIS R  35      -6.332  -7.228   4.311  1.00 10.51      2WRP 384
+ATOM    287  N   LEU R  36      -5.932  -3.048   6.435  1.00  8.83      2WRP 385
+ATOM    288  CA  LEU R  36      -6.838  -1.889   6.606  1.00 10.65      2WRP 386
+ATOM    289  C   LEU R  36      -6.429  -0.998   7.777  1.00  9.71      2WRP 387
+ATOM    290  O   LEU R  36      -6.223   0.200   7.520  1.00  9.45      2WRP 388
+ATOM    291  CB  LEU R  36      -8.303  -2.333   6.617  1.00 13.16      2WRP 389
+ATOM    292  CG  LEU R  36      -9.195  -2.057   5.417  1.00 15.23      2WRP 390
+ATOM    293  CD1 LEU R  36      -9.108  -0.657   4.864  1.00 16.33      2WRP 391
+ATOM    294  CD2 LEU R  36      -8.731  -3.044   4.337  1.00 16.41      2WRP 392
+ATOM    295  N   PRO R  37      -6.234  -1.539   8.977  1.00  9.21      2WRP 393
+ATOM    296  CA  PRO R  37      -5.802  -0.699  10.095  1.00  8.98      2WRP 394
+ATOM    297  C   PRO R  37      -4.446  -0.084   9.807  1.00  8.11      2WRP 395
+ATOM    298  O   PRO R  37      -4.243   1.098  10.158  1.00  8.35      2WRP 396
+ATOM    299  CB  PRO R  37      -5.803  -1.603  11.319  1.00  9.80      2WRP 397
+ATOM    300  CG  PRO R  37      -6.343  -2.904  10.883  1.00 10.62      2WRP 398
+ATOM    301  CD  PRO R  37      -6.480  -2.924   9.360  1.00  9.46      2WRP 399
+ATOM    302  N   LEU R  38      -3.530  -0.830   9.156  1.00  7.53      2WRP 400
+ATOM    303  CA  LEU R  38      -2.225  -0.185   8.885  1.00  7.15      2WRP 401
+ATOM    304  C   LEU R  38      -2.336   1.012   7.960  1.00  7.25      2WRP 402
+ATOM    305  O   LEU R  38      -1.721   2.082   8.150  1.00  6.87      2WRP 403
+ATOM    306  CB  LEU R  38      -1.196  -1.219   8.347  1.00  7.36      2WRP 404
+ATOM    307  CG  LEU R  38       0.174  -0.567   8.138  1.00  8.00      2WRP 405
+ATOM    308  CD1 LEU R  38       0.763  -0.079   9.433  1.00  9.24      2WRP 406
+ATOM    309  CD2 LEU R  38       1.056  -1.641   7.482  1.00  9.75      2WRP 407
+ATOM    310  N   LEU R  39      -3.160   0.851   6.886  1.00  7.09      2WRP 408
+ATOM    311  CA  LEU R  39      -3.334   1.974   5.929  1.00  7.83      2WRP 409
+ATOM    312  C   LEU R  39      -4.063   3.136   6.569  1.00  8.16      2WRP 410
+ATOM    313  O   LEU R  39      -3.808   4.296   6.223  1.00  9.24      2WRP 411
+ATOM    314  CB  LEU R  39      -4.011   1.434   4.658  1.00  7.96      2WRP 412
+ATOM    315  CG  LEU R  39      -3.168   0.488   3.787  1.00  9.11      2WRP 413
+ATOM    316  CD1 LEU R  39      -4.019  -0.192   2.737  1.00 10.88      2WRP 414
+ATOM    317  CD2 LEU R  39      -2.088   1.316   3.097  1.00 10.25      2WRP 415
+ATOM    318  N   ASN R  40      -4.980   2.852   7.525  1.00  9.26      2WRP 416
+ATOM    319  CA  ASN R  40      -5.705   3.934   8.184  1.00  9.94      2WRP 417
+ATOM    320  C   ASN R  40      -4.707   4.688   9.091  1.00 10.05      2WRP 418
+ATOM    321  O   ASN R  40      -4.850   5.920   9.238  1.00 10.00      2WRP 419
+ATOM    322  CB  ASN R  40      -6.930   3.397   8.897  1.00 11.99      2WRP 420
+ATOM    323  CG  ASN R  40      -8.093   3.070   7.957  1.00 14.20      2WRP 421
+ATOM    324  OD1 ASN R  40      -8.914   2.205   8.371  1.00 16.95      2WRP 422
+ATOM    325  ND2 ASN R  40      -8.200   3.673   6.797  1.00 14.23      2WRP 423
+ATOM    326  N   LEU R  41      -3.745   3.938   9.633  1.00  8.64      2WRP 424
+ATOM    327  CA  LEU R  41      -2.751   4.589  10.488  1.00  9.20      2WRP 425
+ATOM    328  C   LEU R  41      -1.774   5.429   9.691  1.00  8.03      2WRP 426
+ATOM    329  O   LEU R  41      -1.465   6.561  10.057  1.00  8.70      2WRP 427
+ATOM    330  CB  LEU R  41      -1.974   3.498  11.260  1.00  9.77      2WRP 428
+ATOM    331  CG  LEU R  41      -0.796   3.965  12.089  1.00 11.08      2WRP 429
+ATOM    332  CD1 LEU R  41      -1.265   4.774  13.300  1.00 12.42      2WRP 430
+ATOM    333  CD2 LEU R  41      -0.098   2.699  12.633  1.00 11.92      2WRP 431
+ATOM    334  N   MET R  42      -1.269   4.859   8.597  1.00  8.31      2WRP 432
+ATOM    335  CA  MET R  42      -0.223   5.457   7.785  1.00 10.08      2WRP 433
+ATOM    336  C   MET R  42      -0.605   6.567   6.832  1.00  9.72      2WRP 434
+ATOM    337  O   MET R  42       0.293   7.360   6.497  1.00 10.30      2WRP 435
+ATOM    338  CB  MET R  42       0.603   4.373   7.062  1.00 11.15      2WRP 436
+ATOM    339  CG  MET R  42       1.231   3.364   7.984  1.00 13.62      2WRP 437
+ATOM    340  SD  MET R  42       2.515   4.134   9.100  1.00 17.40      2WRP 438
+ATOM    341  CE  MET R  42       3.422   4.988   7.849  1.00 17.81      2WRP 439
+ATOM    342  N   LEU R  43      -1.860   6.610   6.384  1.00  9.64      2WRP 440
+ATOM    343  CA  LEU R  43      -2.239   7.679   5.439  1.00  9.19      2WRP 441
+ATOM    344  C   LEU R  43      -3.247   8.644   6.057  1.00  9.58      2WRP 442
+ATOM    345  O   LEU R  43      -3.984   8.278   6.973  1.00  9.95      2WRP 443
+ATOM    346  CB  LEU R  43      -2.931   6.944   4.255  1.00 10.25      2WRP 444
+ATOM    347  CG  LEU R  43      -1.994   6.079   3.393  1.00 10.85      2WRP 445
+ATOM    348  CD1 LEU R  43      -2.837   5.258   2.398  1.00 11.40      2WRP 446
+ATOM    349  CD2 LEU R  43      -1.004   6.985   2.681  1.00 11.67      2WRP 447
+ATOM    350  N   THR R  44      -3.316   9.841   5.510  1.00 10.83      2WRP 448
+ATOM    351  CA  THR R  44      -4.340  10.802   5.999  1.00 11.58      2WRP 449
+ATOM    352  C   THR R  44      -5.615  10.549   5.187  1.00 12.02      2WRP 450
+ATOM    353  O   THR R  44      -5.575   9.942   4.117  1.00 11.73      2WRP 451
+ATOM    354  CB  THR R  44      -3.871  12.273   5.707  1.00 12.29      2WRP 452
+ATOM    355  OG1 THR R  44      -3.768  12.366   4.229  1.00 12.44      2WRP 453
+ATOM    356  CG2 THR R  44      -2.515  12.616   6.302  1.00 12.98      2WRP 454
+ATOM    357  N   PRO R  45      -6.761  11.027   5.669  1.00 12.81      2WRP 455
+ATOM    358  CA  PRO R  45      -8.022  10.880   4.948  1.00 12.77      2WRP 456
+ATOM    359  C   PRO R  45      -7.878  11.443   3.523  1.00 12.39      2WRP 457
+ATOM    360  O   PRO R  45      -8.378  10.816   2.565  1.00 11.99      2WRP 458
+ATOM    361  CB  PRO R  45      -9.023  11.715   5.793  1.00 13.18      2WRP 459
+ATOM    362  CG  PRO R  45      -8.429  11.608   7.159  1.00 13.78      2WRP 460
+ATOM    363  CD  PRO R  45      -6.906  11.731   6.977  1.00 13.21      2WRP 461
+ATOM    364  N   ASP R  46      -7.224  12.594   3.362  1.00 13.11      2WRP 462
+ATOM    365  CA  ASP R  46      -7.055  13.192   2.019  1.00 14.57      2WRP 463
+ATOM    366  C   ASP R  46      -6.222  12.321   1.079  1.00 13.45      2WRP 464
+ATOM    367  O   ASP R  46      -6.479  12.311  -0.139  1.00 12.65      2WRP 465
+ATOM    368  CB  ASP R  46      -6.516  14.618   2.004  1.00 17.30      2WRP 466
+ATOM    369  CG  ASP R  46      -7.488  15.648   2.521  1.00 20.26      2WRP 467
+ATOM    370  OD1 ASP R  46      -8.643  15.414   2.895  1.00 21.86      2WRP 468
+ATOM    371  OD2 ASP R  46      -7.044  16.827   2.546  1.00 22.95      2WRP 469
+ATOM    372  N   GLU R  47      -5.244  11.641   1.633  1.00 11.94      2WRP 470
+ATOM    373  CA  GLU R  47      -4.388  10.764   0.795  1.00 11.16      2WRP 471
+ATOM    374  C   GLU R  47      -5.205   9.567   0.349  1.00 10.73      2WRP 472
+ATOM    375  O   GLU R  47      -5.108   9.075  -0.795  1.00 10.03      2WRP 473
+ATOM    376  CB  GLU R  47      -3.137  10.373   1.557  1.00 11.74      2WRP 474
+ATOM    377  CG  GLU R  47      -2.077  11.494   1.677  1.00 12.02      2WRP 475
+ATOM    378  CD  GLU R  47      -1.112  11.284   2.821  1.00 13.09      2WRP 476
+ATOM    379  OE1 GLU R  47      -1.217  10.311   3.542  1.00 12.99      2WRP 477
+ATOM    380  OE2 GLU R  47      -0.237  12.200   2.934  1.00 14.61      2WRP 478
+ATOM    381  N   ARG R  48      -6.014   9.026   1.269  1.00 10.46      2WRP 479
+ATOM    382  CA  ARG R  48      -6.869   7.866   0.912  1.00 10.35      2WRP 480
+ATOM    383  C   ARG R  48      -7.846   8.272  -0.206  1.00 10.84      2WRP 481
+ATOM    384  O   ARG R  48      -7.995   7.506  -1.179  1.00 10.76      2WRP 482
+ATOM    385  CB  ARG R  48      -7.580   7.251   2.109  1.00 11.58      2WRP 483
+ATOM    386  CG  ARG R  48      -6.591   6.732   3.168  1.00 12.44      2WRP 484
+ATOM    387  CD  ARG R  48      -7.319   5.866   4.160  1.00 13.91      2WRP 485
+ATOM    388  NE  ARG R  48      -8.219   6.649   5.013  1.00 15.22      2WRP 486
+ATOM    389  CZ  ARG R  48      -7.809   7.191   6.166  1.00 16.09      2WRP 487
+ATOM    390  NH1 ARG R  48      -6.537   7.070   6.564  1.00 16.81      2WRP 488
+ATOM    391  NH2 ARG R  48      -8.681   7.808   6.973  1.00 16.13      2WRP 489
+ATOM    392  N   GLU R  49      -8.473   9.426  -0.121  1.00 11.00      2WRP 490
+ATOM    393  CA  GLU R  49      -9.371   9.937  -1.148  1.00 11.47      2WRP 491
+ATOM    394  C   GLU R  49      -8.607  10.093  -2.469  1.00 10.73      2WRP 492
+ATOM    395  O   GLU R  49      -9.132   9.636  -3.524  1.00 10.13      2WRP 493
+ATOM    396  CB  GLU R  49      -9.894  11.325  -0.765  1.00 14.23      2WRP 494
+ATOM    397  CG  GLU R  49     -11.050  11.796  -1.680  1.00 17.75      2WRP 495
+ATOM    398  CD  GLU R  49     -11.847  12.914  -1.037  1.00 20.21      2WRP 496
+ATOM    399  OE1 GLU R  49     -12.063  12.981   0.148  1.00 22.36      2WRP 497
+ATOM    400  OE2 GLU R  49     -12.239  13.713  -1.915  1.00 23.10      2WRP 498
+ATOM    401  N   ALA R  50      -7.418  10.679  -2.411  1.00  9.33      2WRP 499
+ATOM    402  CA  ALA R  50      -6.608  10.861  -3.636  1.00  9.39      2WRP 500
+ATOM    403  C   ALA R  50      -6.316   9.519  -4.294  1.00  9.28      2WRP 501
+ATOM    404  O   ALA R  50      -6.433   9.380  -5.527  1.00  9.83      2WRP 502
+ATOM    405  CB  ALA R  50      -5.273  11.571  -3.351  1.00 10.00      2WRP 503
+ATOM    406  N   LEU R  51      -5.939   8.494  -3.518  1.00  8.33      2WRP 504
+ATOM    407  CA  LEU R  51      -5.641   7.186  -4.122  1.00  8.77      2WRP 505
+ATOM    408  C   LEU R  51      -6.880   6.572  -4.786  1.00  8.74      2WRP 506
+ATOM    409  O   LEU R  51      -6.731   5.960  -5.845  1.00  9.13      2WRP 507
+ATOM    410  CB  LEU R  51      -4.965   6.281  -3.099  1.00 10.03      2WRP 508
+ATOM    411  CG  LEU R  51      -3.532   6.675  -2.750  1.00 11.03      2WRP 509
+ATOM    412  CD1 LEU R  51      -3.116   5.885  -1.492  1.00 11.24      2WRP 510
+ATOM    413  CD2 LEU R  51      -2.572   6.300  -3.892  1.00 11.31      2WRP 511
+ATOM    414  N   GLY R  52      -8.039   6.734  -4.153  1.00  8.82      2WRP 512
+ATOM    415  CA  GLY R  52      -9.264   6.182  -4.769  1.00  9.12      2WRP 513
+ATOM    416  C   GLY R  52      -9.496   6.884  -6.117  1.00  9.44      2WRP 514
+ATOM    417  O   GLY R  52      -9.887   6.201  -7.097  1.00 10.13      2WRP 515
+ATOM    418  N   THR R  53      -9.272   8.180  -6.175  1.00  9.66      2WRP 516
+ATOM    419  CA  THR R  53      -9.466   8.951  -7.435  1.00 10.72      2WRP 517
+ATOM    420  C   THR R  53      -8.466   8.567  -8.505  1.00  9.97      2WRP 518
+ATOM    421  O   THR R  53      -8.792   8.426  -9.699  1.00  9.90      2WRP 519
+ATOM    422  CB  THR R  53      -9.419  10.495  -7.169  1.00 11.83      2WRP 520
+ATOM    423  OG1 THR R  53     -10.566  10.701  -6.271  1.00 13.55      2WRP 521
+ATOM    424  CG2 THR R  53      -9.545  11.313  -8.461  1.00 12.62      2WRP 522
+ATOM    425  N   ARG R  54      -7.219   8.352  -8.047  1.00  8.94      2WRP 523
+ATOM    426  CA  ARG R  54      -6.149   7.957  -9.003  1.00  8.53      2WRP 524
+ATOM    427  C   ARG R  54      -6.476   6.633  -9.664  1.00  8.15      2WRP 525
+ATOM    428  O   ARG R  54      -6.165   6.465 -10.869  1.00  7.75      2WRP 526
+ATOM    429  CB  ARG R  54      -4.752   7.940  -8.350  1.00  8.42      2WRP 527
+ATOM    430  CG  ARG R  54      -4.308   9.379  -7.971  1.00  8.38      2WRP 528
+ATOM    431  CD  ARG R  54      -2.949   9.331  -7.275  1.00  9.23      2WRP 529
+ATOM    432  NE  ARG R  54      -2.622  10.658  -6.722  1.00  9.82      2WRP 530
+ATOM    433  CZ  ARG R  54      -1.689  10.864  -5.793  1.00 10.31      2WRP 531
+ATOM    434  NH1 ARG R  54      -0.918   9.866  -5.337  1.00 10.22      2WRP 532
+ATOM    435  NH2 ARG R  54      -1.520  12.075  -5.223  1.00 11.06      2WRP 533
+ATOM    436  N   VAL R  55      -7.038   5.660  -8.941  1.00  8.57      2WRP 534
+ATOM    437  CA  VAL R  55      -7.392   4.393  -9.589  1.00 10.02      2WRP 535
+ATOM    438  C   VAL R  55      -8.420   4.635 -10.719  1.00  9.81      2WRP 536
+ATOM    439  O   VAL R  55      -8.273   4.036 -11.796  1.00  9.30      2WRP 537
+ATOM    440  CB  VAL R  55      -7.954   3.392  -8.552  1.00 11.14      2WRP 538
+ATOM    441  CG1 VAL R  55      -8.458   2.166  -9.284  1.00 12.38      2WRP 539
+ATOM    442  CG2 VAL R  55      -6.820   3.056  -7.595  1.00 11.77      2WRP 540
+ATOM    443  N   ARG R  56      -9.384   5.486 -10.425  1.00 10.74      2WRP 541
+ATOM    444  CA  ARG R  56     -10.406   5.822 -11.448  1.00 12.90      2WRP 542
+ATOM    445  C   ARG R  56      -9.758   6.450 -12.692  1.00 11.55      2WRP 543
+ATOM    446  O   ARG R  56     -10.079   6.135 -13.843  1.00  9.95      2WRP 544
+ATOM    447  CB  ARG R  56     -11.468   6.740 -10.868  1.00 17.19      2WRP 545
+ATOM    448  CG  ARG R  56     -12.485   6.090  -9.954  1.00 19.96      2WRP 546
+ATOM    449  CD  ARG R  56     -13.564   5.304 -10.599  1.00 22.93      2WRP 547
+ATOM    450  NE  ARG R  56     -14.510   6.009 -11.432  1.00 25.48      2WRP 548
+ATOM    451  CZ  ARG R  56     -15.338   7.022 -11.204  1.00 27.01      2WRP 549
+ATOM    452  NH1 ARG R  56     -15.492   7.694 -10.057  1.00 27.99      2WRP 550
+ATOM    453  NH2 ARG R  56     -16.137   7.441 -12.199  1.00 27.65      2WRP 551
+ATOM    454  N   ILE R  57      -8.847   7.389 -12.453  1.00  9.54      2WRP 552
+ATOM    455  CA  ILE R  57      -8.159   8.030 -13.593  1.00  8.84      2WRP 553
+ATOM    456  C   ILE R  57      -7.427   6.968 -14.395  1.00  8.93      2WRP 554
+ATOM    457  O   ILE R  57      -7.542   6.936 -15.629  1.00  9.14      2WRP 555
+ATOM    458  CB  ILE R  57      -7.220   9.174 -13.071  1.00  8.73      2WRP 556
+ATOM    459  CG1 ILE R  57      -8.061  10.291 -12.399  1.00  9.35      2WRP 557
+ATOM    460  CG2 ILE R  57      -6.259   9.689 -14.191  1.00  9.22      2WRP 558
+ATOM    461  CD1 ILE R  57      -7.208  11.328 -11.577  1.00 10.05      2WRP 559
+ATOM    462  N   VAL R  58      -6.602   6.109 -13.741  1.00  8.58      2WRP 560
+ATOM    463  CA  VAL R  58      -5.877   5.094 -14.499  1.00  9.51      2WRP 561
+ATOM    464  C   VAL R  58      -6.847   4.208 -15.297  1.00  9.29      2WRP 562
+ATOM    465  O   VAL R  58      -6.588   3.862 -16.451  1.00  9.96      2WRP 563
+ATOM    466  CB  VAL R  58      -4.982   4.319 -13.489  1.00  9.90      2WRP 564
+ATOM    467  CG1 VAL R  58      -4.373   3.081 -14.118  1.00 10.63      2WRP 565
+ATOM    468  CG2 VAL R  58      -3.941   5.280 -12.914  1.00 10.72      2WRP 566
+ATOM    469  N   GLU R  59      -7.926   3.773 -14.674  1.00 10.09      2WRP 567
+ATOM    470  CA  GLU R  59      -8.908   2.926 -15.376  1.00 11.74      2WRP 568
+ATOM    471  C   GLU R  59      -9.432   3.625 -16.629  1.00 11.19      2WRP 569
+ATOM    472  O   GLU R  59      -9.432   3.040 -17.723  1.00 10.95      2WRP 570
+ATOM    473  CB  GLU R  59     -10.105   2.698 -14.456  1.00 14.25      2WRP 571
+ATOM    474  CG  GLU R  59     -11.164   1.830 -15.164  1.00 17.85      2WRP 572
+ATOM    475  CD  GLU R  59     -12.216   1.521 -14.121  1.00 20.86      2WRP 573
+ATOM    476  OE1 GLU R  59     -12.172   0.540 -13.430  1.00 23.40      2WRP 574
+ATOM    477  OE2 GLU R  59     -13.050   2.423 -14.065  1.00 23.21      2WRP 575
+ATOM    478  N   GLU R  60      -9.832   4.878 -16.503  1.00 10.99      2WRP 576
+ATOM    479  CA  GLU R  60     -10.371   5.623 -17.682  1.00 11.52      2WRP 577
+ATOM    480  C   GLU R  60      -9.307   5.896 -18.720  1.00 11.96      2WRP 578
+ATOM    481  O   GLU R  60      -9.580   5.928 -19.960  1.00 11.89      2WRP 579
+ATOM    482  CB  GLU R  60     -11.073   6.883 -17.228  1.00 12.11      2WRP 580
+ATOM    483  CG  GLU R  60     -12.340   6.698 -16.373  1.00 12.86      2WRP 581
+ATOM    484  CD  GLU R  60     -13.464   5.950 -17.055  1.00 14.24      2WRP 582
+ATOM    485  OE1 GLU R  60     -13.478   5.774 -18.256  1.00 14.93      2WRP 583
+ATOM    486  OE2 GLU R  60     -14.335   5.534 -16.283  1.00 14.86      2WRP 584
+ATOM    487  N   LEU R  61      -8.076   6.131 -18.313  1.00 11.81      2WRP 585
+ATOM    488  CA  LEU R  61      -6.996   6.337 -19.305  1.00 12.61      2WRP 586
+ATOM    489  C   LEU R  61      -6.756   5.031 -20.060  1.00 13.48      2WRP 587
+ATOM    490  O   LEU R  61      -6.510   5.126 -21.289  1.00 14.01      2WRP 588
+ATOM    491  CB  LEU R  61      -5.711   6.816 -18.596  1.00 12.54      2WRP 589
+ATOM    492  CG  LEU R  61      -5.756   8.238 -18.065  1.00 12.36      2WRP 590
+ATOM    493  CD1 LEU R  61      -4.444   8.515 -17.324  1.00 13.89      2WRP 591
+ATOM    494  CD2 LEU R  61      -5.902   9.265 -19.175  1.00 13.25      2WRP 592
+ATOM    495  N   LEU R  62      -6.798   3.886 -19.401  1.00 13.55      2WRP 593
+ATOM    496  CA  LEU R  62      -6.549   2.608 -20.101  1.00 13.94      2WRP 594
+ATOM    497  C   LEU R  62      -7.686   2.258 -21.058  1.00 15.10      2WRP 595
+ATOM    498  O   LEU R  62      -7.404   1.714 -22.131  1.00 15.61      2WRP 596
+ATOM    499  CB  LEU R  62      -6.357   1.453 -19.088  1.00 14.57      2WRP 597
+ATOM    500  CG  LEU R  62      -5.022   1.568 -18.362  1.00 15.05      2WRP 598
+ATOM    501  CD1 LEU R  62      -4.957   0.545 -17.212  1.00 15.43      2WRP 599
+ATOM    502  CD2 LEU R  62      -3.876   1.291 -19.323  1.00 15.27      2WRP 600
+ATOM    503  N   ARG R  63      -8.856   2.636 -20.599  1.00 15.25      2WRP 601
+ATOM    504  CA  ARG R  63     -10.071   2.357 -21.377  1.00 16.73      2WRP 602
+ATOM    505  C   ARG R  63     -10.084   3.159 -22.678  1.00 16.34      2WRP 603
+ATOM    506  O   ARG R  63     -10.412   2.537 -23.723  1.00 17.69      2WRP 604
+ATOM    507  CB  ARG R  63     -11.325   2.562 -20.527  1.00 16.98      2WRP 605
+ATOM    508  CG  ARG R  63     -12.557   2.439 -21.425  1.00 17.69      2WRP 606
+ATOM    509  CD  ARG R  63     -13.807   2.563 -20.618  1.00 19.03      2WRP 607
+ATOM    510  NE  ARG R  63     -13.924   1.395 -19.740  1.00 19.56      2WRP 608
+ATOM    511  CZ  ARG R  63     -13.862   1.605 -18.413  1.00 19.79      2WRP 609
+ATOM    512  NH1 ARG R  63     -13.695   2.828 -17.955  1.00 20.06      2WRP 610
+ATOM    513  NH2 ARG R  63     -14.006   0.581 -17.585  1.00 20.48      2WRP 611
+ATOM    514  N   GLY R  64      -9.731   4.411 -22.625  1.00 15.48      2WRP 612
+ATOM    515  CA  GLY R  64      -9.709   5.260 -23.824  1.00 15.97      2WRP 613
+ATOM    516  C   GLY R  64     -11.054   5.679 -24.366  1.00 15.84      2WRP 614
+ATOM    517  O   GLY R  64     -11.130   6.037 -25.568  1.00 16.18      2WRP 615
+ATOM    518  N   GLU R  65     -12.118   5.659 -23.591  1.00 15.33      2WRP 616
+ATOM    519  CA  GLU R  65     -13.453   6.083 -24.059  1.00 15.15      2WRP 617
+ATOM    520  C   GLU R  65     -13.589   7.595 -23.930  1.00 15.88      2WRP 618
+ATOM    521  O   GLU R  65     -14.130   8.273 -24.829  1.00 15.84      2WRP 619
+ATOM    522  CB  GLU R  65     -14.568   5.403 -23.284  1.00 15.06      2WRP 620
+ATOM    523  CG  GLU R  65     -15.990   5.956 -23.308  1.00 14.97      2WRP 621
+ATOM    524  CD  GLU R  65     -16.655   6.077 -24.654  1.00 15.13      2WRP 622
+ATOM    525  OE1 GLU R  65     -17.708   6.665 -24.809  1.00 14.62      2WRP 623
+ATOM    526  OE2 GLU R  65     -16.007   5.532 -25.588  1.00 15.56      2WRP 624
+ATOM    527  N   MET R  66     -13.129   8.119 -22.795  1.00 16.25      2WRP 625
+ATOM    528  CA  MET R  66     -13.175   9.534 -22.464  1.00 18.35      2WRP 626
+ATOM    529  C   MET R  66     -11.892  10.290 -22.838  1.00 18.31      2WRP 627
+ATOM    530  O   MET R  66     -10.774   9.758 -22.693  1.00 18.24      2WRP 628
+ATOM    531  CB  MET R  66     -13.391   9.758 -20.961  1.00 20.17      2WRP 629
+ATOM    532  CG  MET R  66     -14.730   9.276 -20.469  1.00 22.95      2WRP 630
+ATOM    533  SD  MET R  66     -14.809   9.717 -18.680  1.00 26.40      2WRP 631
+ATOM    534  CE  MET R  66     -16.093   8.610 -18.124  1.00 26.35      2WRP 632
+ATOM    535  N   SER R  67     -12.120  11.530 -23.270  1.00 18.21      2WRP 633
+ATOM    536  CA  SER R  67     -10.946  12.385 -23.617  1.00 18.20      2WRP 634
+ATOM    537  C   SER R  67     -10.447  12.876 -22.262  1.00 18.03      2WRP 635
+ATOM    538  O   SER R  67     -11.161  12.754 -21.251  1.00 17.41      2WRP 636
+ATOM    539  CB  SER R  67     -11.379  13.518 -24.526  1.00 18.36      2WRP 637
+ATOM    540  OG  SER R  67     -12.154  14.455 -23.802  1.00 17.81      2WRP 638
+ATOM    541  N   GLN R  68      -9.233  13.403 -22.203  1.00 18.85      2WRP 639
+ATOM    542  CA  GLN R  68      -8.693  13.901 -20.925  1.00 19.36      2WRP 640
+ATOM    543  C   GLN R  68      -9.552  15.048 -20.422  1.00 19.74      2WRP 641
+ATOM    544  O   GLN R  68      -9.813  15.187 -19.221  1.00 19.19      2WRP 642
+ATOM    545  CB  GLN R  68      -7.193  14.214 -21.042  1.00 20.10      2WRP 643
+ATOM    546  CG  GLN R  68      -6.400  12.941 -21.235  1.00 21.01      2WRP 644
+ATOM    547  CD  GLN R  68      -4.898  13.037 -21.064  1.00 21.76      2WRP 645
+ATOM    548  OE1 GLN R  68      -4.201  12.044 -21.338  1.00 22.93      2WRP 646
+ATOM    549  NE2 GLN R  68      -4.459  14.206 -20.630  1.00 21.54      2WRP 647
+ATOM    550  N   ARG R  69     -10.057  15.891 -21.332  1.00 20.65      2WRP 648
+ATOM    551  CA  ARG R  69     -10.905  17.022 -20.867  1.00 21.60      2WRP 649
+ATOM    552  C   ARG R  69     -12.242  16.542 -20.332  1.00 21.25      2WRP 650
+ATOM    553  O   ARG R  69     -12.769  17.070 -19.332  1.00 21.29      2WRP 651
+ATOM    554  CB  ARG R  69     -10.983  18.129 -21.883  1.00 22.37      2WRP 652
+ATOM    555  CG  ARG R  69     -11.899  17.926 -23.056  1.00 23.28      2WRP 653
+ATOM    556  CD  ARG R  69     -11.741  19.109 -23.974  1.00 24.12      2WRP 654
+ATOM    557  NE  ARG R  69     -12.319  18.901 -25.276  1.00 24.76      2WRP 655
+ATOM    558  CZ  ARG R  69     -11.938  18.024 -26.202  1.00 25.11      2WRP 656
+ATOM    559  NH1 ARG R  69     -12.585  17.947 -27.356  1.00 25.47      2WRP 657
+ATOM    560  NH2 ARG R  69     -10.915  17.195 -25.976  1.00 25.56      2WRP 658
+ATOM    561  N   GLU R  70     -12.765  15.494 -20.954  1.00 21.86      2WRP 659
+ATOM    562  CA  GLU R  70     -14.024  14.887 -20.487  1.00 21.99      2WRP 660
+ATOM    563  C   GLU R  70     -13.823  14.302 -19.097  1.00 21.24      2WRP 661
+ATOM    564  O   GLU R  70     -14.685  14.352 -18.207  1.00 20.65      2WRP 662
+ATOM    565  CB  GLU R  70     -14.509  13.830 -21.480  1.00 22.99      2WRP 663
+ATOM    566  CG  GLU R  70     -15.679  12.985 -20.972  1.00 25.10      2WRP 664
+ATOM    567  CD  GLU R  70     -16.372  12.190 -22.045  1.00 26.25      2WRP 665
+ATOM    568  OE1 GLU R  70     -17.509  11.755 -21.924  1.00 27.03      2WRP 666
+ATOM    569  OE2 GLU R  70     -15.614  12.058 -23.050  1.00 27.11      2WRP 667
+ATOM    570  N   LEU R  71     -12.649  13.705 -18.848  1.00 20.76      2WRP 668
+ATOM    571  CA  LEU R  71     -12.332  13.124 -17.530  1.00 21.37      2WRP 669
+ATOM    572  C   LEU R  71     -12.306  14.175 -16.433  1.00 21.28      2WRP 670
+ATOM    573  O   LEU R  71     -12.738  13.975 -15.285  1.00 20.69      2WRP 671
+ATOM    574  CB  LEU R  71     -10.983  12.419 -17.659  1.00 21.71      2WRP 672
+ATOM    575  CG  LEU R  71     -10.875  10.922 -17.579  1.00 22.56      2WRP 673
+ATOM    576  CD1 LEU R  71      -9.407  10.577 -17.294  1.00 22.40      2WRP 674
+ATOM    577  CD2 LEU R  71     -11.768  10.401 -16.443  1.00 22.49      2WRP 675
+ATOM    578  N   LYS R  72     -11.747  15.326 -16.778  1.00 22.16      2WRP 676
+ATOM    579  CA  LYS R  72     -11.662  16.441 -15.829  1.00 23.13      2WRP 677
+ATOM    580  C   LYS R  72     -13.089  16.844 -15.446  1.00 24.00      2WRP 678
+ATOM    581  O   LYS R  72     -13.403  17.002 -14.271  1.00 23.63      2WRP 679
+ATOM    582  CB  LYS R  72     -10.934  17.683 -16.336  1.00 24.06      2WRP 680
+ATOM    583  CG  LYS R  72     -11.310  18.944 -15.517  1.00 25.08      2WRP 681
+ATOM    584  CD  LYS R  72     -10.625  20.138 -16.154  1.00 25.74      2WRP 682
+ATOM    585  CE  LYS R  72     -10.945  21.454 -15.484  1.00 26.43      2WRP 683
+ATOM    586  NZ  LYS R  72     -12.140  22.094 -16.081  1.00 26.99      2WRP 684
+ATOM    587  N   ASN R  73     -13.920  16.992 -16.470  1.00 24.79      2WRP 685
+ATOM    588  CA  ASN R  73     -15.332  17.386 -16.236  1.00 26.08      2WRP 686
+ATOM    589  C   ASN R  73     -16.094  16.325 -15.454  1.00 26.03      2WRP 687
+ATOM    590  O   ASN R  73     -16.851  16.671 -14.533  1.00 26.63      2WRP 688
+ATOM    591  CB  ASN R  73     -15.966  17.769 -17.572  1.00 26.94      2WRP 689
+ATOM    592  CG  ASN R  73     -15.448  19.106 -18.083  1.00 27.67      2WRP 690
+ATOM    593  OD1 ASN R  73     -15.491  20.085 -17.308  1.00 29.09      2WRP 691
+ATOM    594  ND2 ASN R  73     -14.993  19.173 -19.333  1.00 27.78      2WRP 692
+ATOM    595  N   GLU R  74     -15.880  15.064 -15.752  1.00 25.78      2WRP 693
+ATOM    596  CA  GLU R  74     -16.547  13.947 -15.091  1.00 26.12      2WRP 694
+ATOM    597  C   GLU R  74     -16.142  13.640 -13.665  1.00 26.37      2WRP 695
+ATOM    598  O   GLU R  74     -17.059  13.416 -12.836  1.00 26.53      2WRP 696
+ATOM    599  CB  GLU R  74     -16.348  12.686 -15.945  1.00 26.03      2WRP 697
+ATOM    604  N   LEU R  75     -14.856  13.582 -13.374  1.00 26.36      2WRP 698
+ATOM    605  CA  LEU R  75     -14.381  13.262 -12.034  1.00 27.07      2WRP 699
+ATOM    606  C   LEU R  75     -14.030  14.415 -11.106  1.00 27.04      2WRP 700
+ATOM    607  O   LEU R  75     -13.705  14.083  -9.948  1.00 27.65      2WRP 701
+ATOM    608  CB  LEU R  75     -13.109  12.391 -12.128  1.00 27.52      2WRP 702
+ATOM    609  CG  LEU R  75     -12.988  11.313 -13.164  1.00 28.21      2WRP 703
+ATOM    610  CD1 LEU R  75     -11.698  10.519 -12.932  1.00 28.38      2WRP 704
+ATOM    611  CD2 LEU R  75     -14.169  10.343 -13.154  1.00 28.50      2WRP 705
+ATOM    612  N   GLY R  76     -13.996  15.623 -11.594  1.00 26.94      2WRP 706
+ATOM    613  CA  GLY R  76     -13.625  16.782 -10.785  1.00 26.64      2WRP 707
+ATOM    614  C   GLY R  76     -12.123  16.978 -10.676  1.00 26.35      2WRP 708
+ATOM    615  O   GLY R  76     -11.700  18.017 -10.125  1.00 27.54      2WRP 709
+ATOM    616  N   ALA R  77     -11.311  16.086 -11.195  1.00 25.21      2WRP 710
+ATOM    617  CA  ALA R  77      -9.846  16.183 -11.134  1.00 24.25      2WRP 711
+ATOM    618  C   ALA R  77      -9.307  17.230 -12.108  1.00 23.43      2WRP 712
+ATOM    619  O   ALA R  77      -9.766  17.288 -13.258  1.00 23.77      2WRP 713
+ATOM    620  CB  ALA R  77      -9.269  14.811 -11.463  1.00 24.19      2WRP 714
+ATOM    621  N   GLY R  78      -8.341  18.026 -11.672  1.00 22.00      2WRP 715
+ATOM    622  CA  GLY R  78      -7.779  19.059 -12.574  1.00 20.11      2WRP 716
+ATOM    623  C   GLY R  78      -6.928  18.387 -13.641  1.00 19.03      2WRP 717
+ATOM    624  O   GLY R  78      -6.462  17.236 -13.525  1.00 18.23      2WRP 718
+ATOM    625  N   ILE R  79      -6.686  19.163 -14.697  1.00 18.22      2WRP 719
+ATOM    626  CA  ILE R  79      -5.867  18.693 -15.818  1.00 17.98      2WRP 720
+ATOM    627  C   ILE R  79      -4.459  18.326 -15.352  1.00 17.29      2WRP 721
+ATOM    628  O   ILE R  79      -3.908  17.338 -15.836  1.00 17.35      2WRP 722
+ATOM    629  CB  ILE R  79      -5.795  19.760 -16.974  1.00 18.85      2WRP 723
+ATOM    630  CG1 ILE R  79      -7.229  19.882 -17.540  1.00 19.50      2WRP 724
+ATOM    631  CG2 ILE R  79      -4.700  19.399 -18.004  1.00 18.82      2WRP 725
+ATOM    632  CD1 ILE R  79      -7.790  18.539 -18.076  1.00 20.11      2WRP 726
+ATOM    633  N   ALA R  80      -3.897  19.112 -14.454  1.00 16.34      2WRP 727
+ATOM    634  CA  ALA R  80      -2.539  18.823 -13.947  1.00 15.79      2WRP 728
+ATOM    635  C   ALA R  80      -2.478  17.406 -13.380  1.00 15.58      2WRP 729
+ATOM    636  O   ALA R  80      -1.515  16.675 -13.614  1.00 15.05      2WRP 730
+ATOM    637  CB  ALA R  80      -2.121  19.885 -12.948  1.00 16.03      2WRP 731
+ATOM    638  N   THR R  81      -3.512  17.027 -12.646  1.00 15.31      2WRP 732
+ATOM    639  CA  THR R  81      -3.601  15.714 -11.994  1.00 15.46      2WRP 733
+ATOM    640  C   THR R  81      -3.681  14.596 -13.033  1.00 15.08      2WRP 734
+ATOM    641  O   THR R  81      -2.975  13.577 -12.941  1.00 14.77      2WRP 735
+ATOM    642  CB  THR R  81      -4.843  15.688 -11.008  1.00 16.08      2WRP 736
+ATOM    643  OG1 THR R  81      -4.510  16.618  -9.923  1.00 18.04      2WRP 737
+ATOM    644  CG2 THR R  81      -5.194  14.278 -10.557  1.00 16.28      2WRP 738
+ATOM    645  N   ILE R  82      -4.564  14.843 -13.997  1.00 14.66      2WRP 739
+ATOM    646  CA  ILE R  82      -4.729  13.844 -15.061  1.00 14.40      2WRP 740
+ATOM    647  C   ILE R  82      -3.459  13.627 -15.869  1.00 14.60      2WRP 741
+ATOM    648  O   ILE R  82      -3.113  12.513 -16.285  1.00 14.53      2WRP 742
+ATOM    649  CB  ILE R  82      -5.990  14.218 -15.927  1.00 15.03      2WRP 743
+ATOM    650  CG1 ILE R  82      -7.250  14.087 -15.029  1.00 15.13      2WRP 744
+ATOM    651  CG2 ILE R  82      -6.101  13.304 -17.163  1.00 15.18      2WRP 745
+ATOM    652  CD1 ILE R  82      -8.477  14.924 -15.458  1.00 15.93      2WRP 746
+ATOM    653  N   THR R  83      -2.740  14.728 -16.107  1.00 14.73      2WRP 747
+ATOM    654  CA  THR R  83      -1.485  14.709 -16.862  1.00 15.70      2WRP 748
+ATOM    655  C   THR R  83      -0.406  13.906 -16.132  1.00 15.18      2WRP 749
+ATOM    656  O   THR R  83       0.284  13.148 -16.828  1.00 15.91      2WRP 750
+ATOM    657  CB  THR R  83      -0.980  16.171 -17.219  1.00 16.25      2WRP 751
+ATOM    658  OG1 THR R  83      -2.070  16.710 -18.036  1.00 17.57      2WRP 752
+ATOM    659  CG2 THR R  83       0.325  16.070 -18.018  1.00 17.31      2WRP 753
+ATOM    660  N   ARG R  84      -0.330  14.099 -14.816  1.00 15.52      2WRP 754
+ATOM    661  CA  ARG R  84       0.647  13.335 -14.018  1.00 16.20      2WRP 755
+ATOM    662  C   ARG R  84       0.354  11.843 -14.194  1.00 15.45      2WRP 756
+ATOM    663  O   ARG R  84       1.238  10.992 -14.400  1.00 15.22      2WRP 757
+ATOM    664  CB  ARG R  84       0.628  13.683 -12.518  1.00 18.50      2WRP 758
+ATOM    665  CG  ARG R  84       1.144  15.086 -12.197  1.00 20.62      2WRP 759
+ATOM    666  CD  ARG R  84       1.246  15.295 -10.707  1.00 22.74      2WRP 760
+ATOM    667  NE  ARG R  84       2.501  14.737 -10.255  1.00 24.55      2WRP 761
+ATOM    668  CZ  ARG R  84       3.247  14.904  -9.176  1.00 25.30      2WRP 762
+ATOM    669  NH1 ARG R  84       2.937  15.711  -8.157  1.00 26.04      2WRP 763
+ATOM    670  NH2 ARG R  84       4.405  14.229  -9.144  1.00 25.16      2WRP 764
+ATOM    671  N   GLY R  85      -0.925  11.497 -14.133  1.00 14.63      2WRP 765
+ATOM    672  CA  GLY R  85      -1.372  10.103 -14.303  1.00 14.02      2WRP 766
+ATOM    673  C   GLY R  85      -0.952   9.526 -15.659  1.00 13.83      2WRP 767
+ATOM    674  O   GLY R  85      -0.431   8.411 -15.773  1.00 13.39      2WRP 768
+ATOM    675  N   SER R  86      -1.274  10.291 -16.693  1.00 14.44      2WRP 769
+ATOM    676  CA  SER R  86      -0.990   9.911 -18.091  1.00 15.43      2WRP 770
+ATOM    677  C   SER R  86       0.507   9.682 -18.300  1.00 15.33      2WRP 771
+ATOM    678  O   SER R  86       0.932   8.661 -18.847  1.00 14.96      2WRP 772
+ATOM    679  CB  SER R  86      -1.645  10.981 -18.987  1.00 16.32      2WRP 773
+ATOM    680  OG  SER R  86      -1.395  10.608 -20.350  1.00 17.15      2WRP 774
+ATOM    681  N   ASN R  87       1.292  10.635 -17.796  1.00 15.78      2WRP 775
+ATOM    682  CA  ASN R  87       2.758  10.559 -17.909  1.00 15.99      2WRP 776
+ATOM    683  C   ASN R  87       3.308   9.373 -17.122  1.00 15.56      2WRP 777
+ATOM    684  O   ASN R  87       4.203   8.684 -17.633  1.00 15.48      2WRP 778
+ATOM    685  CB  ASN R  87       3.406  11.870 -17.494  1.00 17.38      2WRP 779
+ATOM    686  CG  ASN R  87       3.194  12.983 -18.497  1.00 18.65      2WRP 780
+ATOM    687  OD1 ASN R  87       3.386  14.160 -18.187  1.00 20.40      2WRP 781
+ATOM    688  ND2 ASN R  87       2.773  12.662 -19.706  1.00 19.54      2WRP 782
+ATOM    689  N   SER R  88       2.768   9.124 -15.931  1.00 14.61      2WRP 783
+ATOM    690  CA  SER R  88       3.265   7.983 -15.134  1.00 15.07      2WRP 784
+ATOM    691  C   SER R  88       2.888   6.663 -15.780  1.00 14.77      2WRP 785
+ATOM    692  O   SER R  88       3.652   5.677 -15.736  1.00 14.46      2WRP 786
+ATOM    693  CB  SER R  88       2.765   8.058 -13.688  1.00 15.77      2WRP 787
+ATOM    694  OG  SER R  88       3.222   9.295 -13.158  1.00 17.06      2WRP 788
+ATOM    695  N   LEU R  89       1.721   6.599 -16.397  1.00 15.28      2WRP 789
+ATOM    696  CA  LEU R  89       1.258   5.372 -17.070  1.00 16.71      2WRP 790
+ATOM    697  C   LEU R  89       2.178   5.098 -18.264  1.00 17.73      2WRP 791
+ATOM    698  O   LEU R  89       2.633   3.963 -18.437  1.00 17.55      2WRP 792
+ATOM    699  CB  LEU R  89      -0.248   5.488 -17.363  1.00 17.27      2WRP 793
+ATOM    700  CG  LEU R  89      -0.955   4.215 -17.815  1.00 18.42      2WRP 794
+ATOM    701  CD1 LEU R  89      -0.939   3.130 -16.752  1.00 17.72      2WRP 795
+ATOM    702  CD2 LEU R  89      -2.395   4.582 -18.172  1.00 18.18      2WRP 796
+ATOM    703  N   LYS R  90       2.484   6.151 -19.003  1.00 18.96      2WRP 797
+ATOM    704  CA  LYS R  90       3.361   5.982 -20.190  1.00 20.97      2WRP 798
+ATOM    705  C   LYS R  90       4.733   5.491 -19.797  1.00 20.63      2WRP 799
+ATOM    706  O   LYS R  90       5.365   4.752 -20.583  1.00 22.04      2WRP 800
+ATOM    707  CB  LYS R  90       3.402   7.271 -21.015  1.00 22.39      2WRP 801
+ATOM    708  CG  LYS R  90       2.092   7.469 -21.790  1.00 24.50      2WRP 802
+ATOM    709  CD  LYS R  90       2.119   8.746 -22.609  1.00 25.94      2WRP 803
+ATOM    710  CE  LYS R  90       0.748   9.162 -23.116  1.00 27.14      2WRP 804
+ATOM    711  NZ  LYS R  90       0.911  10.158 -24.235  1.00 28.19      2WRP 805
+ATOM    712  N   ALA R  91       5.241   5.843 -18.645  1.00 20.05      2WRP 806
+ATOM    713  CA  ALA R  91       6.534   5.476 -18.094  1.00 19.80      2WRP 807
+ATOM    714  C   ALA R  91       6.580   4.122 -17.412  1.00 19.20      2WRP 808
+ATOM    715  O   ALA R  91       7.665   3.623 -17.049  1.00 19.93      2WRP 809
+ATOM    716  CB  ALA R  91       6.884   6.521 -17.005  1.00 20.51      2WRP 810
+ATOM    717  N   ALA R  92       5.430   3.512 -17.138  1.00 17.56      2WRP 811
+ATOM    718  CA  ALA R  92       5.428   2.236 -16.413  1.00 16.06      2WRP 812
+ATOM    719  C   ALA R  92       5.880   1.046 -17.247  1.00 14.64      2WRP 813
+ATOM    720  O   ALA R  92       5.762   1.109 -18.480  1.00 15.76      2WRP 814
+ATOM    721  CB  ALA R  92       3.978   1.995 -15.919  1.00 16.43      2WRP 815
+ATOM    722  N   PRO R  93       6.329   0.016 -16.575  1.00 13.71      2WRP 816
+ATOM    723  CA  PRO R  93       6.734  -1.224 -17.251  1.00 13.21      2WRP 817
+ATOM    724  C   PRO R  93       5.534  -1.748 -18.032  1.00 13.16      2WRP 818
+ATOM    725  O   PRO R  93       4.375  -1.722 -17.533  1.00 12.98      2WRP 819
+ATOM    726  CB  PRO R  93       7.027  -2.247 -16.139  1.00 13.74      2WRP 820
+ATOM    727  CG  PRO R  93       7.304  -1.386 -14.948  1.00 13.60      2WRP 821
+ATOM    728  CD  PRO R  93       6.503  -0.114 -15.133  1.00 13.18      2WRP 822
+ATOM    729  N   VAL R  94       5.800  -2.238 -19.234  1.00 11.95      2WRP 823
+ATOM    730  CA  VAL R  94       4.698  -2.811 -20.053  1.00 13.49      2WRP 824
+ATOM    731  C   VAL R  94       3.935  -3.891 -19.306  1.00 13.12      2WRP 825
+ATOM    732  O   VAL R  94       2.679  -3.954 -19.402  1.00 13.19      2WRP 826
+ATOM    733  CB  VAL R  94       5.345  -3.293 -21.393  1.00 13.99      2WRP 827
+ATOM    734  CG1 VAL R  94       4.420  -4.268 -22.104  1.00 15.02      2WRP 828
+ATOM    735  CG2 VAL R  94       5.722  -2.074 -22.219  1.00 14.88      2WRP 829
+ATOM    736  N   GLU R  95       4.610  -4.748 -18.570  1.00 12.29      2WRP 830
+ATOM    737  CA  GLU R  95       3.983  -5.839 -17.824  1.00 13.10      2WRP 831
+ATOM    738  C   GLU R  95       2.974  -5.297 -16.786  1.00 12.02      2WRP 832
+ATOM    739  O   GLU R  95       1.990  -6.040 -16.576  1.00 12.75      2WRP 833
+ATOM    740  CB  GLU R  95       4.918  -6.769 -17.086  1.00 15.26      2WRP 834
+ATOM    741  CG  GLU R  95       5.877  -6.181 -16.091  1.00 17.91      2WRP 835
+ATOM    742  CD  GLU R  95       7.197  -5.739 -16.706  1.00 20.26      2WRP 836
+ATOM    743  OE1 GLU R  95       7.353  -5.195 -17.806  1.00 21.38      2WRP 837
+ATOM    744  OE2 GLU R  95       8.106  -6.037 -15.899  1.00 22.15      2WRP 838
+ATOM    745  N   LEU R  96       3.233  -4.135 -16.217  1.00 10.83      2WRP 839
+ATOM    746  CA  LEU R  96       2.291  -3.544 -15.242  1.00  9.85      2WRP 840
+ATOM    747  C   LEU R  96       1.076  -3.049 -16.034  1.00  9.90      2WRP 841
+ATOM    748  O   LEU R  96      -0.063  -3.295 -15.592  1.00 10.18      2WRP 842
+ATOM    749  CB  LEU R  96       2.920  -2.443 -14.371  1.00  9.79      2WRP 843
+ATOM    750  CG  LEU R  96       1.891  -1.725 -13.467  1.00  9.03      2WRP 844
+ATOM    751  CD1 LEU R  96       1.511  -2.680 -12.323  1.00  9.63      2WRP 845
+ATOM    752  CD2 LEU R  96       2.414  -0.388 -12.926  1.00 10.03      2WRP 846
+ATOM    753  N   ARG R  97       1.284  -2.361 -17.148  1.00 10.01      2WRP 847
+ATOM    754  CA  ARG R  97       0.155  -1.850 -17.965  1.00 11.60      2WRP 848
+ATOM    755  C   ARG R  97      -0.719  -3.025 -18.403  1.00 10.58      2WRP 849
+ATOM    756  O   ARG R  97      -1.960  -2.929 -18.357  1.00 10.01      2WRP 850
+ATOM    757  CB  ARG R  97       0.680  -1.096 -19.195  1.00 14.18      2WRP 851
+ATOM    758  CG  ARG R  97      -0.320  -0.162 -19.886  1.00 19.30      2WRP 852
+ATOM    759  CD  ARG R  97       0.290   0.950 -20.695  1.00 22.39      2WRP 853
+ATOM    760  NE  ARG R  97       1.468   1.550 -20.106  1.00 25.55      2WRP 854
+ATOM    761  CZ  ARG R  97       2.723   1.562 -20.579  1.00 26.99      2WRP 855
+ATOM    762  NH1 ARG R  97       3.228   1.179 -21.751  1.00 27.93      2WRP 856
+ATOM    763  NH2 ARG R  97       3.661   1.875 -19.669  1.00 27.72      2WRP 857
+ATOM    764  N   GLN R  98      -0.107  -4.094 -18.878  1.00  9.46      2WRP 858
+ATOM    765  CA  GLN R  98      -0.875  -5.262 -19.343  1.00 10.11      2WRP 859
+ATOM    766  C   GLN R  98      -1.712  -5.843 -18.207  1.00  9.22      2WRP 860
+ATOM    767  O   GLN R  98      -2.886  -6.192 -18.413  1.00  8.60      2WRP 861
+ATOM    768  CB  GLN R  98       0.011  -6.322 -20.001  1.00 11.55      2WRP 862
+ATOM    769  CG  GLN R  98       0.569  -5.737 -21.299  1.00 13.90      2WRP 863
+ATOM    770  CD  GLN R  98       1.661  -6.592 -21.889  1.00 15.63      2WRP 864
+ATOM    771  OE1 GLN R  98       2.142  -6.275 -22.992  1.00 18.79      2WRP 865
+ATOM    772  NE2 GLN R  98       2.114  -7.610 -21.225  1.00 16.47      2WRP 866
+ATOM    773  N   TRP R  99      -1.087  -5.946 -17.028  1.00  8.78      2WRP 867
+ATOM    774  CA  TRP R  99      -1.822  -6.485 -15.857  1.00  9.56      2WRP 868
+ATOM    775  C   TRP R  99      -2.992  -5.557 -15.475  1.00  9.39      2WRP 869
+ATOM    776  O   TRP R  99      -4.104  -6.087 -15.198  1.00  9.07      2WRP 870
+ATOM    777  CB  TRP R  99      -0.856  -6.668 -14.685  1.00 10.00      2WRP 871
+ATOM    778  CG  TRP R  99      -1.497  -7.247 -13.459  1.00 11.11      2WRP 872
+ATOM    779  CD1 TRP R  99      -1.899  -8.528 -13.240  1.00 11.78      2WRP 873
+ATOM    780  CD2 TRP R  99      -1.810  -6.508 -12.259  1.00 11.22      2WRP 874
+ATOM    781  NE1 TRP R  99      -2.439  -8.639 -11.958  1.00 12.14      2WRP 875
+ATOM    782  CE2 TRP R  99      -2.385  -7.420 -11.356  1.00 11.30      2WRP 876
+ATOM    783  CE3 TRP R  99      -1.630  -5.186 -11.901  1.00 11.56      2WRP 877
+ATOM    784  CZ2 TRP R  99      -2.781  -7.010 -10.099  1.00 11.85      2WRP 878
+ATOM    785  CZ3 TRP R  99      -2.023  -4.751 -10.647  1.00 12.42      2WRP 879
+ATOM    786  CH2 TRP R  99      -2.570  -5.682  -9.765  1.00 11.54      2WRP 880
+ATOM    787  N   LEU R 100      -2.756  -4.252 -15.474  1.00  8.99      2WRP 881
+ATOM    788  CA  LEU R 100      -3.842  -3.286 -15.128  1.00  9.13      2WRP 882
+ATOM    789  C   LEU R 100      -4.991  -3.458 -16.134  1.00 10.24      2WRP 883
+ATOM    790  O   LEU R 100      -6.162  -3.467 -15.716  1.00 10.77      2WRP 884
+ATOM    791  CB  LEU R 100      -3.270  -1.862 -15.112  1.00  8.24      2WRP 885
+ATOM    792  CG  LEU R 100      -2.394  -1.549 -13.879  1.00  9.16      2WRP 886
+ATOM    793  CD1 LEU R 100      -1.810  -0.153 -14.044  1.00  9.34      2WRP 887
+ATOM    794  CD2 LEU R 100      -3.185  -1.660 -12.584  1.00 10.83      2WRP 888
+ATOM    795  N   GLU R 101      -4.685  -3.614 -17.420  1.00 11.26      2WRP 889
+ATOM    796  CA  GLU R 101      -5.759  -3.797 -18.413  1.00 13.02      2WRP 890
+ATOM    797  C   GLU R 101      -6.564  -5.049 -18.071  1.00 14.04      2WRP 891
+ATOM    798  O   GLU R 101      -7.824  -5.051 -18.177  1.00 15.15      2WRP 892
+ATOM    799  CB  GLU R 101      -5.212  -3.938 -19.826  1.00 14.65      2WRP 893
+ATOM    800  CG  GLU R 101      -4.539  -2.650 -20.353  1.00 17.16      2WRP 894
+ATOM    801  CD  GLU R 101      -3.885  -2.766 -21.708  1.00 19.59      2WRP 895
+ATOM    802  OE1 GLU R 101      -3.735  -1.766 -22.389  1.00 22.32      2WRP 896
+ATOM    803  OE2 GLU R 101      -3.519  -3.881 -22.105  1.00 20.11      2WRP 897
+ATOM    804  N   GLU R 102      -5.897  -6.105 -17.648  1.00 13.63      2WRP 898
+ATOM    805  CA  GLU R 102      -6.557  -7.367 -17.300  1.00 14.94      2WRP 899
+ATOM    806  C   GLU R 102      -7.468  -7.260 -16.076  1.00 14.77      2WRP 900
+ATOM    807  O   GLU R 102      -8.573  -7.871 -16.054  1.00 15.60      2WRP 901
+ATOM    808  CB  GLU R 102      -5.554  -8.495 -17.044  1.00 16.73      2WRP 902
+ATOM    809  CG  GLU R 102      -4.582  -8.844 -18.179  1.00 19.84      2WRP 903
+ATOM    810  CD  GLU R 102      -3.507  -9.835 -17.817  1.00 21.54      2WRP 904
+ATOM    811  OE1 GLU R 102      -3.172 -10.193 -16.701  1.00 23.08      2WRP 905
+ATOM    812  OE2 GLU R 102      -2.910 -10.306 -18.807  1.00 23.56      2WRP 906
+ATOM    813  N   VAL R 103      -7.011  -6.535 -15.064  1.00 13.59      2WRP 907
+ATOM    814  CA  VAL R 103      -7.822  -6.426 -13.830  1.00 14.14      2WRP 908
+ATOM    815  C   VAL R 103      -8.765  -5.246 -13.806  1.00 14.39      2WRP 909
+ATOM    816  O   VAL R 103      -9.826  -5.426 -13.136  1.00 17.04      2WRP 910
+ATOM    817  CB  VAL R 103      -6.864  -6.492 -12.614  1.00 13.37      2WRP 911
+ATOM    818  CG1 VAL R 103      -5.928  -7.690 -12.718  1.00 13.57      2WRP 912
+ATOM    819  CG2 VAL R 103      -6.083  -5.201 -12.461  1.00 14.63      2WRP 913
+ATOM    820  N   LEU R 104      -8.495  -4.112 -14.365  1.00 14.19      2WRP 914
+ATOM    821  CA  LEU R 104      -9.375  -2.953 -14.307  1.00 15.26      2WRP 915
+ATOM    822  C   LEU R 104     -10.445  -2.878 -15.391  1.00 16.62      2WRP 916
+ATOM    823  O   LEU R 104     -11.459  -2.169 -15.107  1.00 17.65      2WRP 917
+ATOM    824  CB  LEU R 104      -8.525  -1.671 -14.288  1.00 15.24      2WRP 918
+ATOM    825  CG  LEU R 104      -7.625  -1.375 -13.103  1.00 15.20      2WRP 919
+ATOM    826  CD1 LEU R 104      -6.905  -0.043 -13.281  1.00 15.29      2WRP 920
+ATOM    827  CD2 LEU R 104      -8.401  -1.334 -11.788  1.00 15.37      2WRP 921
+ATOM    828  N   LEU R 105     -10.217  -3.497 -16.525  1.00 16.64      2WRP 922
+ATOM    829  CA  LEU R 105     -11.194  -3.450 -17.638  1.00 17.54      2WRP 923
+ATOM    830  C   LEU R 105     -12.015  -4.746 -17.588  1.00 18.80      2WRP 924
+ATOM    831  O   LEU R 105     -11.531  -5.812 -17.213  1.00 18.27      2WRP 925
+ATOM    832  CB  LEU R 105     -10.460  -3.247 -18.949  1.00 17.15      2WRP 926
+ATOM    833  CG  LEU R 105      -9.543  -2.024 -19.039  1.00 17.26      2WRP 927
+ATOM    834  CD1 LEU R 105      -8.994  -1.929 -20.451  1.00 17.61      2WRP 928
+ATOM    835  CD2 LEU R 105     -10.308  -0.763 -18.642  1.00 17.68      2WRP 929
+ATOM    836  N   LYS R 106     -13.282  -4.589 -17.978  1.00 20.11      2WRP 930
+ATOM    837  CA  LYS R 106     -14.192  -5.754 -17.966  1.00 22.72      2WRP 931
+ATOM    838  C   LYS R 106     -13.944  -6.531 -19.243  1.00 24.17      2WRP 932
+ATOM    839  O   LYS R 106     -13.604  -5.970 -20.299  1.00 24.17      2WRP 933
+ATOM    840  CB  LYS R 106     -15.638  -5.304 -17.813  1.00 23.60      2WRP 934
+ATOM    841  CG  LYS R 106     -15.802  -4.366 -16.591  1.00 25.26      2WRP 935
+ATOM    842  CD  LYS R 106     -15.835  -5.174 -15.297  1.00 26.24      2WRP 936
+ATOM    843  CE  LYS R 106     -16.522  -4.339 -14.223  1.00 27.34      2WRP 937
+ATOM    844  NZ  LYS R 106     -17.427  -5.172 -13.387  1.00 28.53      2WRP 938
+ATOM    845  N   SER R 107     -14.115  -7.825 -19.121  1.00 26.30      2WRP 939
+ATOM    846  CA  SER R 107     -13.896  -8.757 -20.242  1.00 28.61      2WRP 940
+ATOM    847  C   SER R 107     -14.796  -8.362 -21.402  1.00 29.66      2WRP 941
+ATOM    848  O   SER R 107     -15.964  -8.056 -21.076  1.00 30.35      2WRP 942
+ATOM    849  CB  SER R 107     -14.217 -10.148 -19.692  1.00 29.05      2WRP 943
+ATOM    850  OG  SER R 107     -14.100 -11.133 -20.691  1.00 29.99      2WRP 944
+ATOM    851  N   ASP R 108     -14.349  -8.322 -22.647  1.00 30.77      2WRP 945
+ATOM    852  CA  ASP R 108     -15.332  -7.968 -23.711  1.00 32.02      2WRP 946
+ATOM    853  C   ASP R 108     -14.764  -8.118 -25.123  1.00 32.39      2WRP 947
+ATOM    854  O   ASP R 108     -15.116  -7.219 -25.908  1.00 32.95      2WRP 948
+ATOM    855  CB  ASP R 108     -16.105  -6.682 -23.527  1.00 32.34      2WRP 949
+ATOM    856  CG  ASP R 108     -15.469  -5.476 -22.917  1.00 32.57      2WRP 950
+ATOM    857  OD1 ASP R 108     -14.417  -5.014 -23.420  1.00 33.06      2WRP 951
+ATOM    858  OD2 ASP R 108     -16.101  -5.026 -21.913  1.00 32.72      2WRP 952
+ATOM    859  OXT ASP R 108     -14.084  -9.125 -25.350  1.00 33.10      2WRP 953
+TER     860      ASP R 108                                              2WRP 954
+ATOM    861  N   TRP W   1       3.427   8.592  -9.864  1.00 11.13      2WRP 955
+ATOM    862  CA  TRP W   1       2.560   9.784 -10.038  1.00 12.92      2WRP 956
+ATOM    863  C   TRP W   1       3.411  11.061 -10.061  1.00 14.69      2WRP 957
+ATOM    864  O   TRP W   1       4.538  11.029  -9.527  1.00 15.97      2WRP 958
+ATOM    865  CB  TRP W   1       1.486   9.890  -8.946  1.00 12.35      2WRP 959
+ATOM    866  CG  TRP W   1       0.228  10.552  -9.411  1.00 12.75      2WRP 960
+ATOM    867  CD1 TRP W   1      -0.143  11.856  -9.221  1.00 12.94      2WRP 961
+ATOM    868  CD2 TRP W   1      -0.846   9.931 -10.143  1.00 11.81      2WRP 962
+ATOM    869  NE1 TRP W   1      -1.366  12.102  -9.797  1.00 12.87      2WRP 963
+ATOM    870  CE2 TRP W   1      -1.822  10.955 -10.376  1.00 12.35      2WRP 964
+ATOM    871  CE3 TRP W   1      -1.044   8.657 -10.630  1.00 11.61      2WRP 965
+ATOM    872  CZ2 TRP W   1      -3.001  10.672 -11.060  1.00 11.96      2WRP 966
+ATOM    873  CZ3 TRP W   1      -2.230   8.375 -11.314  1.00 11.87      2WRP 967
+ATOM    874  CH2 TRP W   1      -3.163   9.397 -11.526  1.00 11.17      2WRP 968
+ATOM    875  OXT TRP W   1       2.930  12.023 -10.656  1.00 16.83      2WRP 969
+TER     876      TRP W   1                                              2WRP 970
+HETATM  877 NA    NA   601     -12.209   6.238 -20.648  1.00 19.37      2WRP 971
+HETATM  878  S   SO4   602     -14.407  -1.983 -20.565  1.00 20.64      2WRP 972
+HETATM  879  O1  SO4   602     -13.580  -3.160 -21.000  1.00 20.50      2WRP 973
+HETATM  880  O2  SO4   602     -14.387  -1.902 -19.043  1.00 19.21      2WRP 974
+HETATM  881  O3  SO4   602     -15.835  -2.235 -21.063  1.00 21.14      2WRP 975
+HETATM  882  O4  SO4   602     -13.899  -0.746 -21.253  1.00 20.39      2WRP 976
+HETATM  883  O   HOH   201      -4.760 -11.044 -11.042  1.00 30.87      2WRP 977
+HETATM  884  O   HOH   202     -11.850   7.233  -1.833  1.00 20.16      2WRP 978
+HETATM  885  O   HOH   203      -8.088  13.847  -4.558  1.00 35.08      2WRP 979
+HETATM  886  O   HOH   204       1.564  -1.090 -22.591  1.00 53.17      2WRP 980
+HETATM  887  O   HOH   205      -7.714 -10.930 -14.441  1.00 19.63      2WRP 981
+HETATM  888  O   HOH   206      12.317  -7.817   0.909  1.00 23.74      2WRP 982
+HETATM  889  O   HOH   207      -7.888   1.663   5.012  1.00 46.31      2WRP 983
+HETATM  890  O   HOH   208      -7.476  -5.504   7.222  1.00 14.26      2WRP 984
+HETATM  891  O   HOH   209      -6.324  14.781   5.402  1.00 29.24      2WRP 985
+HETATM  892  O   HOH   210      19.800  14.487  -1.007  1.00 18.38      2WRP 986
+HETATM  893  O   HOH   211      18.379  16.554  -2.640  1.00 15.96      2WRP 987
+HETATM  894  O   HOH   212      15.701   9.805  -2.945  1.00 31.61      2WRP 988
+HETATM  895  O   HOH   213      14.502  -1.697   4.120  1.00 21.39      2WRP 989
+HETATM  896  O   HOH   214      12.746  -3.852   4.155  1.00 24.28      2WRP 990
+HETATM  897  O   HOH   215       9.492  -3.692   7.318  1.00 21.88      2WRP 991
+HETATM  898  O   HOH   216      11.031   3.531   7.093  1.00 17.21      2WRP 992
+HETATM  899  O   HOH   217      -1.293  -9.704  -0.808  1.00 21.87      2WRP 993
+HETATM  900  O   HOH   218      -3.300 -11.176   0.573  1.00 27.79      2WRP 994
+HETATM  901  O   HOH   219      -4.853  -9.914   2.600  1.00 23.01      2WRP 995
+HETATM  902  O   HOH   220      -5.544   2.181  12.474  1.00 16.44      2WRP 996
+HETATM  903  O   HOH   221      -5.251   4.782  13.340  1.00 19.89      2WRP 997
+HETATM  904  O   HOH   222      -8.444   1.297  11.914  1.00 21.73      2WRP 998
+HETATM  905  O   HOH   223      -5.539   7.839  11.909  1.00 32.55      2WRP 999
+HETATM  906  O   HOH   224      -6.734   8.621   9.354  1.00 22.10      2WRP1000
+HETATM  907  O   HOH   225     -11.996   8.764  -3.960  1.00 21.29      2WRP1001
+HETATM  908  O   HOH   226     -15.846   5.400 -19.589  1.00 26.76      2WRP1002
+HETATM  909  O   HOH   227      -7.058  17.968  -9.092  1.00 39.28      2WRP1003
+HETATM  910  O   HOH   228      -4.712  19.232 -10.879  1.00 37.79      2WRP1004
+HETATM  911  O   HOH   229      -4.921  21.850 -13.897  1.00 25.27      2WRP1005
+HETATM  912  O   HOH   230     -14.133  -1.720 -14.740  1.00 34.38      2WRP1006
+HETATM  913  O   HOH   231      -7.091  20.576  -8.687  1.00 42.78      2WRP1007
+HETATM  914  O   HOH   232     -10.620 -10.800 -18.796  1.00 49.98      2WRP1008
+HETATM  915  O   HOH   233     -10.464  -7.627 -18.301  1.00 35.72      2WRP1009
+HETATM  916  O   HOH   234      12.974   2.644   8.833  1.00 24.53      2WRP1010
+HETATM  917  O   HOH   235      17.555  -0.294   0.509  1.00 30.70      2WRP1011
+HETATM  918  O   HOH   236      -7.792  -5.156  13.516  1.00 41.59      2WRP1012
+HETATM  919  O   HOH   237      -8.323  -6.108  10.903  1.00 47.55      2WRP1013
+HETATM  920  O   HOH   238      -9.867  -4.829   9.473  1.00 27.11      2WRP1014
+HETATM  921  O   HOH   239      -9.141   8.029 -21.630  1.00 36.32      2WRP1015
+HETATM  922  O   HOH   240      -7.625  13.600 -24.822  1.00 27.32      2WRP1016
+HETATM  923  O   HOH   241     -16.315   9.821 -25.141  1.00 29.21      2WRP1017
+HETATM  924  O   HOH   242      19.574   1.597   0.638  1.00 27.59      2WRP1018
+HETATM  925  O   HOH   243      -4.028  13.240  -7.217  1.00 23.09      2WRP1019
+HETATM  926  O   HOH   244      -7.558  14.392  -1.721  1.00 26.56      2WRP1020
+HETATM  927  O   HOH   245     -11.516  14.832   1.869  1.00 53.17      2WRP1021
+HETATM  928  O   HOH   246     -15.462   2.730  -9.001  1.00 43.91      2WRP1022
+HETATM  929  O   HOH   247     -17.415   4.146  -6.806  1.00 32.62      2WRP1023
+HETATM  930  O   HOH   248     -15.488   1.191 -12.664  1.00 36.23      2WRP1024
+HETATM  931  O   HOH   249      -4.724   9.650 -22.628  1.00 48.44      2WRP1025
+HETATM  932  O   HOH   250      -8.007   1.766 -25.407  1.00 43.59      2WRP1026
+HETATM  933  O   HOH   251      -7.223  -2.403 -24.152  1.00 37.53      2WRP1027
+HETATM  934  O   HOH   252      -6.803   7.381 -22.670  1.00 30.33      2WRP1028
+HETATM  935  O   HOH   253       1.621  -8.766 -16.984  1.00 31.35      2WRP1029
+HETATM  936  O   HOH   254     -11.482  -7.606 -15.230  1.00 33.65      2WRP1030
+HETATM  937  O   HOH   255       3.027 -14.874   6.461  1.00 41.30      2WRP1031
+HETATM  938  O   HOH   256      -8.931  -9.126   3.776  1.00 36.41      2WRP1032
+HETATM  939  O   HOH   257      -9.181  -7.267   6.283  1.00 28.37      2WRP1033
+HETATM  940  O   HOH   258      -7.262 -10.806   2.157  1.00 36.80      2WRP1034
+HETATM  941  O   HOH   259       9.894  -8.896   2.346  1.00 33.05      2WRP1035
+HETATM  942  O   HOH   260       8.121  -6.282   7.628  1.00 34.59      2WRP1036
+HETATM  943  O   HOH   261      12.105  -4.474   6.640  1.00 42.13      2WRP1037
+HETATM  944  O   HOH   262      -7.097  -4.613 -23.213  1.00 31.62      2WRP1038
+HETATM  945  O   HOH   263      -9.138  -5.482 -22.180  1.00 44.79      2WRP1039
+HETATM  946  O   HOH   264     -13.007  -6.517 -23.850  1.00 48.93      2WRP1040
+HETATM  947  O   HOH   265      22.274   8.776   6.029  1.00 33.03      2WRP1041
+HETATM  948  O   HOH   266      10.180   0.822 -16.631  1.00 49.43      2WRP1042
+HETATM  949  O   HOH   267       9.191   3.189 -20.576  1.00 48.86      2WRP1043
+HETATM  950  O   HOH   268       9.739   2.153 -24.200  1.00 42.33      2WRP1044
+HETATM  951  O   HOH   269      -6.461  12.234  -7.272  1.00 34.29      2WRP1045
+HETATM  952  O   HOH   270      26.141  12.154   2.620  1.00 33.25      2WRP1046
+HETATM  953  O   HOH   271      19.723   7.720  -5.749  1.00 36.36      2WRP1047
+HETATM  954  O   HOH   272     -13.120  16.349   1.673  1.00 42.70      2WRP1048
+HETATM  955  O   HOH   273      -2.401  10.026  -1.777  1.00 34.36      2WRP1049
+HETATM  956  O   HOH   274     -14.276  15.152 -25.781  1.00 44.69      2WRP1050
+HETATM  957  O   HOH   275      -8.597   8.676 -25.967  1.00 35.44      2WRP1051
+HETATM  958  O   HOH   276      17.320  10.950  -3.407  1.00 40.55      2WRP1052
+HETATM  959  O   HOH   277      -9.878  12.662  -4.698  1.00 39.73      2WRP1053
+HETATM  960  O   HOH   278       6.237   9.928 -18.883  1.00 35.97      2WRP1054
+HETATM  961  O   HOH   401       3.300  16.937 -19.770  1.00 48.04      2WRP1055
+HETATM  962  O   HOH   402      -2.115  14.884  -8.284  1.00 23.35      2WRP1056
+HETATM  963  O   HOH   403      -3.087  14.710  -6.552  1.00 40.77      2WRP1057
+HETATM  964  O   HOH   404      -2.806  14.891   3.387  1.00 30.60      2WRP1058
+HETATM  965  O   HOH   405      -2.377  12.679  -1.773  1.00 35.02      2WRP1059
+HETATM  966  O   HOH   406      -1.448  17.818  -9.781  1.00 36.71      2WRP1060
+HETATM  967  O   HOH   407      13.534  -6.712   0.931  1.00 33.49      2WRP1061
+MASTER       83    0    2    6    0    0    6    6  934    2    0   10  2WRPB  9
+END                                                                     2WRP1063
+.

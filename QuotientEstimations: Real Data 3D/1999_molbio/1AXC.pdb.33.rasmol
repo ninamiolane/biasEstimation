@@ -1,0 +1,92 @@
+#!rasmol -script
+# File: 1AXC.pdb.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1AXC.pdb"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ALA157A
+color atoms [0,255,255]
+select VAL158A
+color atoms [0,255,255]
+select VAL159A
+color atoms [0,255,255]
+select ILE160A
+color atoms [0,255,255]
+select LYS168A
+color atoms [0,255,255]
+select PHE169A
+color atoms [0,255,255]
+select SER170A
+color atoms [0,255,255]
+select ILE87E
+color atoms [0,255,255]
+select ILE88E
+color atoms [0,255,255]
+select THR89E
+color atoms [0,255,255]
+select LEU90E
+color atoms [0,255,255]
+select ARG91E
+color atoms [0,255,255]
+select LEU6E
+color atoms [0,255,255]
+select LEU99E
+color atoms [0,255,255]
+select ALA100E
+color atoms [0,255,255]
+select LEU101E
+color atoms [0,255,255]
+select VAL102E
+color atoms [0,255,255]
+select PHE103E
+color atoms [0,255,255]
+select GLU104E
+color atoms [0,255,255]
+select VAL111E
+color atoms [0,255,255]
+select SER112E
+color atoms [0,255,255]
+select ASP113E
+color atoms [0,255,255]
+select TYR114E
+color atoms [0,255,255]
+select GLU115E
+color atoms [0,255,255]
+select ASN177A
+color atoms [0,255,255]
+select GLY178A
+color atoms [0,255,255]
+select ASN179A
+color atoms [0,255,255]
+select ILE180A
+color atoms [0,255,255]
+select LYS181A
+color atoms [0,255,255]
+select all

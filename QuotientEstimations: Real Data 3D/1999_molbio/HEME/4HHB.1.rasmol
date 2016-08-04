@@ -1,0 +1,72 @@
+#!rasmol -script
+# File: 4HHB.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "4HHB"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select TYR42C
+color atoms [0,255,255]
+select PHE43C
+color atoms [0,255,255]
+select HIS45C
+color atoms [0,255,255]
+select PHE46C
+color atoms [0,255,255]
+select HIS58C
+color atoms [0,255,255]
+select LYS61C
+color atoms [0,255,255]
+select VAL62C
+color atoms [0,255,255]
+select ALA65C
+color atoms [0,255,255]
+select LEU66C
+color atoms [0,255,255]
+select LEU83C
+color atoms [0,255,255]
+select LEU86C
+color atoms [0,255,255]
+select HIS87C
+color atoms [0,255,255]
+select LEU91C
+color atoms [0,255,255]
+select VAL93C
+color atoms [0,255,255]
+select ASN97C
+color atoms [0,255,255]
+select PHE98C
+color atoms [0,255,255]
+select LEU101C
+color atoms [0,255,255]
+select VAL132C
+color atoms [0,255,255]
+select LEU136C
+color atoms [0,255,255]
+select all

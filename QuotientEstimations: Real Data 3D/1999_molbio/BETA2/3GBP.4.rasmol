@@ -1,0 +1,66 @@
+#!rasmol -script
+# File: 3GBP.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "3GBP"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ALA62 
+color atoms [0,255,255]
+select LEU63 
+color atoms [0,255,255]
+select ALA64 
+color atoms [0,255,255]
+select ILE65 
+color atoms [0,255,255]
+select VAL34 
+color atoms [0,255,255]
+select GLN35 
+color atoms [0,255,255]
+select LEU36 
+color atoms [0,255,255]
+select LEU37 
+color atoms [0,255,255]
+select MET38 
+color atoms [0,255,255]
+select ILE290 
+color atoms [0,255,255]
+select VAL291 
+color atoms [0,255,255]
+select ARG292 
+color atoms [0,255,255]
+select VAL87 
+color atoms [0,255,255]
+select VAL88 
+color atoms [0,255,255]
+select PHE89 
+color atoms [0,255,255]
+select PHE90 
+color atoms [0,255,255]
+select all

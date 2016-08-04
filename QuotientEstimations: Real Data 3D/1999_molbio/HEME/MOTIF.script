@@ -1,0 +1,67 @@
+#!rasmol -script
+# File: MOTIF.script
+# Creator: RasMol Version 2.5
+
+background [0,0,0]
+load pdb "MOTIF"
+set ambient 60
+set specular off
+
+reset
+slab off
+rotate z 39
+rotate y 3
+
+set axes off
+set boundingbox off
+set unitcell off
+set hbond sidechain
+set bondmode and
+dots off
+
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+colour white
+
+# Atoms
+select (atomno>=307) and (atomno<=329)
+colour atoms [0,0,255]
+select (atomno>=434) and (atomno<=465)
+colour atoms [0,255,219]
+select (atomno>=466) and (atomno<=490)
+colour atoms [0,255,146]
+select (atomno>=491) and (atomno<=498)
+colour atoms [0,255,73]
+select (atomno>=611) and (atomno<=618)
+colour atoms [218,255,0]
+select (atomno>=633) and (atomno<=650)
+colour atoms [255,219,0]
+select (atomno>=675) and (atomno<=700)
+colour atoms [255,146,0]
+select (atomno>=723) and (atomno<=730)
+colour atoms [255,73,0]
+select (atomno>=731) and (atomno<=766)
+colour atoms [255,0,0]
+select all
+spacefill off
+
+# Bonds
+wireframe 40
+
+# Ribbons
+ribbons off
+
+# Backbone
+backbone off
+
+# Labels
+labels off
+
+ssbonds off
+hbonds off

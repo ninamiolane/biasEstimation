@@ -1,0 +1,194 @@
+#!rasmol -script
+# File: Match.1boy.4kbp.7.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "Match.1boy.4kbp.7"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select ALA8 
+color atoms [255,165,0]
+select ALA26D
+color atoms [0,255,255]
+select ALA9 
+color atoms [255,165,0]
+select PRO27D
+color atoms [0,255,255]
+select TYR10 
+color atoms [255,165,0]
+select GLN28D
+color atoms [0,255,255]
+select THR13 
+color atoms [255,165,0]
+select HIS31D
+color atoms [0,255,255]
+select TRP14 
+color atoms [255,165,0]
+select ILE32D
+color atoms [0,255,255]
+select LYS15 
+color atoms [255,165,0]
+select THR33D
+color atoms [0,255,255]
+select ILE22 
+color atoms [255,165,0]
+select ILE43D
+color atoms [0,255,255]
+select LEU23 
+color atoms [255,165,0]
+select ILE44D
+color atoms [0,255,255]
+select GLU24 
+color atoms [255,165,0]
+select SER45D
+color atoms [0,255,255]
+select TRP25 
+color atoms [255,165,0]
+select TRP46D
+color atoms [0,255,255]
+select GLU26 
+color atoms [255,165,0]
+select VAL47D
+color atoms [0,255,255]
+select VAL36 
+color atoms [255,165,0]
+select VAL57D
+color atoms [0,255,255]
+select GLN37 
+color atoms [255,165,0]
+select ARG58D
+color atoms [0,255,255]
+select ILE38 
+color atoms [255,165,0]
+select TYR59D
+color atoms [0,255,255]
+select SER39 
+color atoms [255,165,0]
+select TRP60D
+color atoms [0,255,255]
+select TRP45 
+color atoms [255,165,0]
+select LYS67D
+color atoms [0,255,255]
+select LYS46 
+color atoms [255,165,0]
+select ARG68D
+color atoms [0,255,255]
+select SER47 
+color atoms [255,165,0]
+select ILE69D
+color atoms [0,255,255]
+select LYS48 
+color atoms [255,165,0]
+select ALA70D
+color atoms [0,255,255]
+select GLU56 
+color atoms [255,165,0]
+select HIS89D
+color atoms [0,255,255]
+select CYS57 
+color atoms [255,165,0]
+select THR90D
+color atoms [0,255,255]
+select ASP58 
+color atoms [255,165,0]
+select THR91D
+color atoms [0,255,255]
+select LEU59 
+color atoms [255,165,0]
+select ILE92D
+color atoms [0,255,255]
+select ASP66 
+color atoms [255,165,0]
+select LYS96D
+color atoms [0,255,255]
+select VAL67 
+color atoms [255,165,0]
+select TYR97D
+color atoms [0,255,255]
+select LYS68 
+color atoms [255,165,0]
+select ASN98D
+color atoms [0,255,255]
+select GLN69 
+color atoms [255,165,0]
+select THR99D
+color atoms [0,255,255]
+select THR70 
+color atoms [255,165,0]
+select LYS100D
+color atoms [0,255,255]
+select TYR71 
+color atoms [255,165,0]
+select TYR101D
+color atoms [0,255,255]
+select LEU72 
+color atoms [255,165,0]
+select TYR102D
+color atoms [0,255,255]
+select ALA73 
+color atoms [255,165,0]
+select TYR103D
+color atoms [0,255,255]
+select ARG74 
+color atoms [255,165,0]
+select GLU104D
+color atoms [0,255,255]
+select VAL75 
+color atoms [255,165,0]
+select VAL105D
+color atoms [0,255,255]
+select TYR94 
+color atoms [255,165,0]
+select THR111D
+color atoms [0,255,255]
+select GLU95 
+color atoms [255,165,0]
+select ARG112D
+color atoms [0,255,255]
+select ASN96 
+color atoms [255,165,0]
+select ARG113D
+color atoms [0,255,255]
+select GLU99 
+color atoms [255,165,0]
+select SER115D
+color atoms [0,255,255]
+select PHE100 
+color atoms [255,165,0]
+select PHE116D
+color atoms [0,255,255]
+select THR101 
+color atoms [255,165,0]
+select ILE117D
+color atoms [0,255,255]
+select PRO102 
+color atoms [255,165,0]
+select THR118D
+color atoms [0,255,255]
+select all

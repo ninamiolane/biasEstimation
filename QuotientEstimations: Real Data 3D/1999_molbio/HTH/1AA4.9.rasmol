@@ -1,0 +1,62 @@
+#!rasmol -script
+# File: 1AA4.rasmol
+# Creator: prospect 1.0 (c) X. Pennec / INRIA 1997
+
+background [255,255,255]
+load pdb "1AA4"
+set ambient 60
+set specular on
+set specpower 8
+reset
+slab off
+set axes off
+set boundingbox off
+set unitcell off
+set bondmode and
+dots off
+
+# Avoid Colour Problems!
+select all
+colour bonds none
+colour backbone none
+colour hbonds none
+colour ssbonds none
+colour ribbons none
+
+select all
+colour cpk
+
+spacefill 50
+set shadow on
+wireframe on
+backbone 50
+
+select PHE91 
+color atoms [0,255,255]
+select LEU92 
+color atoms [0,255,255]
+select GLU93 
+color atoms [0,255,255]
+select PRO94 
+color atoms [0,255,255]
+select ILE95 
+color atoms [0,255,255]
+select HIS96 
+color atoms [0,255,255]
+select ILE26 
+color atoms [0,255,255]
+select ALA27 
+color atoms [0,255,255]
+select LEU28 
+color atoms [0,255,255]
+select LYS29 
+color atoms [0,255,255]
+select LEU30 
+color atoms [0,255,255]
+select ARG31 
+color atoms [0,255,255]
+select GLU32 
+color atoms [0,255,255]
+select ASP33 
+color atoms [0,255,255]
+select all

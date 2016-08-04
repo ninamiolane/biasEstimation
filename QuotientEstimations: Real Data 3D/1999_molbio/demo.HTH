@@ -1,0 +1,25 @@
+#!/bin/tcsh
+
+## set RASMOLPROG="rasmol"
+
+cd /u/knock/0/xpennec/molbio/HTH
+
+
+echo "TRP REPRESSOR (ESCHERICHIA COLI)"
+$RASMOLPROG 2WRP &
+
+echo "Phage 434 CRO PROTEIN"
+$RASMOLPROG 2CRO
+
+xv /u/knock/0/xpennec/text/Articles/These/These/figures/RepereAAVertical.gif
+
+echo "Phage 434 CRO PROTEIN"
+$RASMOLPROG -script 2CRO.script &
+
+echo "TRP REPRESSOR (ESCHERICHIA COLI)"
+$RASMOLPROG -script 2WRP.script 
+
+
+echo "HTH motif"
+$RASMOLPROG -script HTH.script
+
